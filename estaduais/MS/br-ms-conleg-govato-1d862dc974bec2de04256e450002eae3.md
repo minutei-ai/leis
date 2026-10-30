@@ -2,143 +2,51 @@
 id: "br-ms-conleg-govato-1d862dc974bec2de04256e450002eae3"
 titulo: "LEI Nº 1.461, DE 20 DE DEZEMBRO DE 1993."
 data: "1993-12-20"
-fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1d862dc974bec2de04256e450002eae3?OpenDocument"
-versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul"
-dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%20Estadual?OpenView&Start=30&Count=150&Expand=34"
-sha256_dados: "668edbefa9b5b9b185712aaf66a4c79e09875a9717e68463d14214c843ffb9b7"
-coletado_em: "2026-10-22T15:16:45.000Z"
-sha256_fonte: "058ceb332c582149373d44d169e92bc3d339f15a27a540f37c831ee5a079a6e7"
-sha256_markdown: "82f3d35727cf3d554e81658285779913f2a2ba65d4c8dd82a5eb6caaa4afaee8"
+fonte: "https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=19278"
+versao: "versão original republicada no Diário Oficial do Estado de Mato Grosso do Sul nº 3.692, de 22 de dezembro de 1993, páginas 16 a 18 (fac-símile integral da lei e dos Anexos I, II e III); não é o texto compilado disponibilizado pela Consultoria Legislativa"
+sha256_pdf: "612939b6aa6fa115b0fa744843e35e232c96f9fd2a911c37f3e4657cdd399cc8"
+sha256_markdown: "d9bb6acca10e46ca46ad793b05ff784f74843de4f6e1e5f7c09f04fc64e6b77a"
 ---
 
 # LEI Nº 1.461, DE 20 DE DEZEMBRO DE 1993.
 
-ESTADO DE MATO GROSSO DO SUL
+Versão original da lei, republicada em íntegra, com os Anexos I, II e III, no Diário Oficial do Estado de Mato Grosso do Sul nº 3.692, de 22 de dezembro de 1993, páginas 16 a 18. As páginas são reproduzidas em fac-símile ao final e são a representação integral e autoritativa do ato; a lei não foi transcrita nem reconstruída por OCR.
 
 LEI Nº 1.461, DE 20 DE DEZEMBRO DE 1993.
 
 Autoriza o Poder Executivo a instituir a Fundação Universidade Estadual de Mato Grosso do Sul.
 
-Publicada no Diário Oficial nº 3.691, de 21 de dezembro de 1993, páginas 1 a 3.
+Republicada no Diário Oficial nº 3.692, de 22 de dezembro de 1993, páginas 16 a 18 (a edição nº 3.691, de 21 de dezembro de 1993, páginas 1 e 2, a trouxe incompleta).
 
-**O** **Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica o Poder Executivo autorizado a instituir e implantar, sob a forma de Fundação, a Universidade Estadual de Mato Grosso do Sul, criada nos termos do disposto no art. 48 do Ato das Disposições Constitucionais Gerais e Transitórias da Constituição Estadual.<br>
-<br>
-Parágrafo único. A Fundação Universidade Estadual de Mato Grosso do Sul reger-se-á por Estatuto aprovado na forma da legislação em vigor.<br>
-<br>
-Art. 2º A Fundação Universidade Estadual de Mato Grosso do Sul, vinculada à Secretaria de Estado de Educação do Estado de Mato Grosso do Sul, com sede e foro na cidade de Dourados, goza de autonomia administrativa, financeira, patrimonial, didática e disciplinar.<br>
-<br>
-Art. 3º A Fundação Universidade Estadual de Mato Grosso do Sul terá por objetivo ministrar o ensino superior de graduação e pós-graduação, promover a extensão universitária e desenvolver a pesquisa, as ciências, as letras e as artes.<br>
-<br>
-Art. 4º Os Estatutos da Fundação Universidade Estadual de Mato Grosso do Sul serão aprovados por Decreto do Governador do Estado, ouvido o Conselho Estadual de Educação.<br>
-<br>
-Art. 5º O Governador do Estado designará Reitor e Vice-Reitor "Pró-Tempore", com a incumbência de adotar as medidas cabíveis para instituir a implantação da Fundação Universidade Estadual de Mato Grosso do Sul e seus órgãos colegiados.<br>
-<br>
-Art. 6º Constituem atos de instituição, entre outros, os que se fizerem necessários à integração do patrimônio, dos bens e direitos referidos nesta Lei.<br>
-<br>
-Parágrafo único. A Fundação adquirirá personalidade jurídica própria a partir da inscrição de seu ato constitutivo no registro civil das pessoas jurídicas, do qual serão partes integrantes os Estatutos e o Decreto que o aprovar.<br>
-<br>
-Art. 7º O patrimônio da Fundação será constituído por todos os bens, móveis e imóveis, direitos e recursos que lhe pertencerem por transferência, doação, aquisição e outros.<br>
-<br>
-Parágrafo único. Os bens e direitos da Fundação serão utilizados ou aplicados exclusivamente para a consecução de seus objetivos.<br>
-<br>
-Art. 8º Os recursos financeiros da Fundação serão provenientes de:<br>
-<br>
-I- dotação consignada, anualmente, no Orçamento do Estado de Mato Grosso do Sul;<br>
-<br>
-II - auxílios, doações e subvenções federais, estaduais, municipais, de pessoas físicas e jurídicas;<br>
-<br>
-III - rendas provenientes da aplicação de bens e valores;<br>
-<br>
-IV - remuneração por serviços prestados a entidades públicas ou particulares, mediante convênio ou contratos específicos;<br>
-<br>
-V- taxas e emolumentos que forem cobrados pela prestação de serviços educacionais, observadas as normas legais vigentes;<br>
-<br>
-VI - resultado de operação de crédito e juros bancários;<br>
-<br>
-VII - receitas eventuais.<br>
-<br>
-Art. 9º A administração superior da Fundação Universidade Estadual de Mato Grosso do Sul será exercida pelo Reitor e pelo Conselho Universitário, no âmbito de suas respectivas competências, na forma definida nos Estatutos.<br>
-<br>
-Parágrafo único. O Conselho Universitário será constituído na forma disposta nos Estatutos.<br>
-<br>
-Art. 10. O Reitor da Fundação Universidade Estadual de Mato Grosso do Sul, nomeado na forma prevista na legislação em vigor e nos Estatutos, dirigirá e coordenará todas as atividades da Instituição.<br>
-<br>
-Art. 11. O pessoal da Fundação Universidade Estadual de Mato Grosso do Sul será regido pela Lei nº 1.102, de 10 de outubro de 1990 (Estatuto dos Funcionários Públicos Civis do Poder Executivo).<br>
-<br>
-<del>§ 1º A Fundação Universidade Estadual de Mato Grosso do Sul terá Quadro de Pessoal conforme discriminado no anexo I.</del> [(revogada pela Lei nº 2.230, de 2 de maio de 1981, art. 84.)](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/3ad4e4c5a06a684a04256bfd006717c9?OpenDocument)<br>
-<br>
-§ 2º Serão contratados, na forma prevista na CLT, para atender às necessidades temporárias e por tempo determinado, os professores substitutos e visitantes.<br>
-<br>
-Art. 12. A Fundação Universidade Estadual de Mato Grosso do Sul poderá contratar pessoal docente e técnico-administrativo regidos pela legislação trabalhista, por prazo de até 2 (dois) anos, prorrogável por igual período, a contar da vigência desta Lei.<br>
-<br>
-Parágrafo único. A Fundação poderá, mediante convênio, receber pessoal integrante do serviço público federal, estadual e municipal, para atendimento de suas necessidades de serviço.<br>
-<br>
-<del>Art. 13. Os professores da rede pública estadual com curso de Pós-Graduação que tiverem concorrido com seu nome no quadro deprofessores e aceitos para o fim específico da autorização doscursos da Fundação Universidade Estadual de Mato Grosso do Sulpoderão ser enquadrados automaticamente no Quadro de Pessoal doMagistério Superior.</del><br>
-<br>
-<i>Art. 13. Nos dois primeiros anos de funcionamento da Fundação Universidade Estadual de Mato Grosso do Sul poderá ser enquadrado automaticamente, no seu quadro de docentes, o integrante do quadro permanente do grupo magistério que, aceito pela instância competente da Instituição, apresente a documentação exigida pela legislação do ensino superior que será submetida à apreciação do Conselho Estadual de Educação.</i> [(redação dada pela Lei nº 1.498, de 20 de maio de 1994)](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/31a042563eeeb2bf04256e450002eb07?OpenDocument)<br>
-<br>
-Parágrafo único. Poderão ser nomeados candidatos habilitados em concurso público de provas e títulos, realizado pela administração direta do Poder Executivo, de acordo com o estabelecido no Plano de Cargos e Carreiras.<br>
-<br>
-Art. 14. Para atender aos encargos decorrentes da aplicação desta Lei, fica o Poder Executivo autorizado a abrir um crédito especial no valor de CR$ 86.000.000,00 (oitenta e seis milhões de cruzeiros reais) para a Fundação Universidade Estadual de Mato Grosso do Sul, no orçamento do exercício de 1994.<br>
-<br>
-Art. 15. Fica aprovado o Orçamento da Fundação Universidade Estadual de Mato Grosso do Sul, para o exercício de 1994, conforme discriminado nos anexos II e III.<br>
-<br>
-Art. 16. Fica o Poder Executivo autorizado a editar os atos que se fizerem necessários à implantação da Fundação a que se refere esta Lei.<br>
-<br>
-Art. 17. Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 20 de dezembro de 1993.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-ANEXO I A LEI Nº 1.461, DE 20 DE DEZEMBRO DE 1993.<br>
-<br>
-[OBS: Ver Lei nº 1.514, de 5 de julho de 1994](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d279e3f84ad8293404256e450002eb14?OpenDocument)
+## Lei e Anexos I, II e III em fac-símile (páginas originais)
 
-CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS DA FUNDAÇÃO UNIVERSIDADE ESTADUAL DE MATO GROSSO DO SUL - UEMS<br>
-<br>
-TABELA A - CARGOS EM COMISSÃO<br>
-<br>
-\------------------------------------------------------------------<br>
-DENOMINAÇÃO DO CARGO SÍMBOLO QUANTIDADE<br>
-\------------------------------------------------------------------<br>
-<br>
-REITOR DAS-1 01<br>
-ESPECIAL<br>
-<br>
-VICE-REITOR DAS-1 01<br>
-<br>
-PRÓ-REITOR DAS-2 03<br>
-<br>
-DIRETOR DAS-3 03<br>
-<br>
-PROCURADOR JURÍDICO DAS-3 01<br>
-<br>
-GERENTE DAS-4 07<br>
-<br>
-ASSESSOR I DAS-4 03<br>
-\------------------------------------------------------------------<br>
-<br>
-TABELA B - FUNÇÕES GRATIFICADAS<br>
-<br>
-\------------------------------------------------------------------<br>
-DENOMINAÇÃO DA FUNÇÃO SÍMBOLO QUANTIDADE<br>
-\------------------------------------------------------------------<br>
-<br>
-SUPERVISOR TÉCNICO I OU ADMINISTRATIVO I DAI-1 08<br>
-<br>
-CHEFE DE DEPARTAMENTO DE ENSINO DAI-1 18<br>
-<br>
-ASSISTENTE DE PRÓ-REITOR DAI-1 03<br>
-<br>
-ASSISTENTE II DAI-2 04<br>
-<br>
-GERENTE DE UNIDADE DAI-2 12<br>
-<br>
-SECRETÁRIO DE ENSINO UNIVERSITÁRIO DAI-3 30<br>
-<br>
-ASSISTENTE IV DAI-4 08<br>
-\------------------------------------------------------------------
+**Como ler esta seção.** As imagens abaixo reproduzem, sem alteração, as páginas digitalizadas do Diário Oficial; não são transcrição nem texto pesquisável, e nenhuma célula, número ou desenho foi reconstruído ou corrigido. Para conferir uma imagem, compare seu SHA-256 com o registrado abaixo.
+
+**Fonte:** Diário Oficial do Estado de Mato Grosso do Sul nº 3.692, de 22 de dezembro de 1993, páginas 16 a 18, exemplar digitalizado do Tribunal de Contas do Estado de Mato Grosso do Sul — <https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=19278> (HTTP 200, 5.723.072 bytes, PDF completo).
+
+**Arquivo oficial de origem:** PDF integral da edição, SHA-256 `612939b6aa6fa115b0fa744843e35e232c96f9fd2a911c37f3e4657cdd399cc8`; páginas do PDF e páginas impressas coincidem.
+
+**Limites das peças:**
+
+- **Lei nº 1.461:** começa na coluna direita da página 16, logo abaixo da nota de republicação (título, ementa, preâmbulo e arts. 1º a 6º), continua na página 17 e termina com a assinatura do Governador na coluna direita dessa página (arts. 7º a 17).
+- **Anexo I** (“Cargos em comissão e funções gratificadas da Fundação Universidade Estadual de Mato Grosso do Sul – UEMS”, Tabelas A e B): abaixo da assinatura, no pé da coluna direita da página 17, e topo da coluna esquerda da página 18.
+- **Anexo II** (“Quadro geral da receita”, Fundação Universidade Estadual de Mato Grosso do Sul, exercício de 1994): coluna esquerda da página 18, abaixo do Anexo I; termina na linha “TOTAL”.
+- **Anexo III** (“Orçamento anual – 1994”, despesa da Fundação): coluna esquerda da página 18, abaixo do Anexo II, com continuação no topo da coluna direita até o bloco “TOTAL”.
+- Na página 16, o que precede a nota de republicação (o anexo orçamentário da Lei nº 1.465, o fim do texto dessa lei e a Lei nº 1.466) e, na página 18, os Decretos nºs 7.576 e 7.577 (coluna direita) não fazem parte desta lei.
+
+**Páginas reproduzidas:**
+
+- Página 16 (título, ementa e arts. 1º a 6º) — `doe3692-p16.png` (3040×4123 px, 300 ppi, SHA-256 `65fc15090e11ad2778bd3e8b34ea7bfd33fdf25e089a2cebf70afb51d64ca2a4`)
+- Página 17 (arts. 7º a 17, assinatura e início do Anexo I) — `doe3692-p17.png` (3040×4092 px, 300 ppi, SHA-256 `d91312517b260045cba2372bea809251f71ce01e9925364bf219e21735005e14`)
+- Página 18 (fim do Anexo I, Anexos II e III) — `doe3692-p18.png` (3040×4076 px, 300 ppi, SHA-256 `07e421b88104d4408b1e1fb52adbad6f8eaa3ea208846b56458bf016b7f689a2`)
+
+![Diário Oficial nº 3.692, de 22/12/1993, página 16: Lei nº 1.461 e seus anexos](assets/br-ms-conleg-govato-1d862dc974bec2de04256e450002eae3/doe3692-p16.png)
+
+![Diário Oficial nº 3.692, de 22/12/1993, página 17: Lei nº 1.461 e seus anexos](assets/br-ms-conleg-govato-1d862dc974bec2de04256e450002eae3/doe3692-p17.png)
+
+![Diário Oficial nº 3.692, de 22/12/1993, página 18: Lei nº 1.461 e seus anexos](assets/br-ms-conleg-govato-1d862dc974bec2de04256e450002eae3/doe3692-p18.png)
+
+**Observações:**
+
+- A nota impressa acima do título diz: “Republica-se por ter constado incompleto. Publicado no Diário Oficial nº 3691 de 21 de dezembro de 1993, páginas 01 e 02.” A edição nº 3.691 (pp. 1–2), que a trouxe incompleta, não é reproduzida aqui; a republicação da edição nº 3.692 é a versão íntegra, com os três anexos (leitura visual da página 18).
+- O texto compilado disponibilizado pela Consultoria Legislativa (com marcas de alterações posteriores, como as Leis nºs 1.498/1994 e 2.230/2001) não é reproduzido, para não misturar a versão original com redação posterior. O texto da lei não foi transcrito.

@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "9cc4d1fe0fe85385de527da12a5cb79c3ad9db1b7a8c7979020efb488f8d7bdd"
 coletado_em: "2026-10-22T15:22:12.000Z"
 sha256_fonte: "524a6ad66c358f7b0ae01f9e79e0780a637e4c4debbf84652116a85c59f179f8"
-sha256_markdown: "209b55b1f9b2bd9dad6c280f2308d2ac81a59eef7241d6b28e6fc8e1f0be2e97"
+sha256_markdown: "85643bbc9cb2579912bbb1524c0847fd3ed32de283832f4dc270adbce37c344a"
 ---
 
 # LEI Nº 1.206, DE 7 DE OUTUBRO DE 1991.
@@ -33,6 +33,8 @@ Campo Grande, 07 de outubro de 1991.<br>
 <br>
 PEDRO PEDROSSIAN<br>
 Governador
+
+**Conferência da versão do texto.** Os arts. 1º a 3º do texto acima (Consultoria Legislativa) foram comparados, em leitura visual, com a página 1 do Diário Oficial nº 3.153 e coincidem no conteúdo (diferenças de grafia do texto: “cinqoenta” no art. 1º e “revagadas” no art. 3º, onde o impresso traz “cinquenta” e “revogadas”); o texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
 ## Anexos em fac-símile do Diário Oficial
 

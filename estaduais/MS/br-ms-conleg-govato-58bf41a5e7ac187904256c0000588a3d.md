@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "c380ad23ef2952f4496ff87696f63f0d319d9006ce757f9bae4a020e6efaa4f9"
 coletado_em: "2026-10-22T13:39:04.000Z"
 sha256_fonte: "52e21076007f989b84f6ae3f443462b8b8f7f8681c9f6218d148753d00305f4d"
-sha256_markdown: "c1e2d3e0cfb9a88f83320f7f15cb46b8324145e90d2268973a30c96dd537ac5d"
+sha256_markdown: "08616351d6d66b067140c519206fae0e273ef86375a943a04b476b6fe0ddc895"
 ---
 
 # LEI Nº 1.843, DE 6 DE ABRIL DE 1998.
@@ -46,6 +46,8 @@ Campo Grande, 6 de abril de 1998.<br>
 <br>
 **WILSON BARBOSA MARTINS**<br>
 **Governador**
+
+**Conferência da versão do texto.** Os arts. 1º a 8º do texto acima (Consultoria Legislativa) foram comparados, em leitura visual, com a página 4 do Diário Oficial nº 4.748 e coincidem no conteúdo (diferença de grafia: o texto traz “Justiças” no art. 2º, onde o impresso traz “Justiça”); o texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
 ## Anexos em fac-símile do Diário Oficial
 

@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "beeb405240df8958f81259b98a7699a2c9d5dcc249a137618ba87dff7ef7f109"
 coletado_em: "2026-10-22T15:39:14.000Z"
 sha256_fonte: "8df05f7b4e43da9ca2b2c5081b285c8a57d1fe6086871551644290ef111a0219"
-sha256_markdown: "358147ac0d4cedab1897205b55fe14736759f8c4435ca49b7eb751f28f80ac13"
+sha256_markdown: "ac1ac7ea52cfee1e8cd5b98ffdb6046d2c7eb8c9bd671e633475852f4ba76a16"
 ---
 
 # LEI Nº 362, DE 16 DE DEZEMBRO DE 1982.
@@ -227,6 +227,8 @@ Secretário de Estado de Planejamento e Coordenação Geral<br>
 <br>
 GENTIL ZOCCANTE<br>
 Secretário de Estado de Fazenda
+
+**Conferência da versão do texto.** O art. 1º do texto acima (Consultoria Legislativa) coincide com o do suplemento (“quadros de I a XV que integram esta lei”, com os quadros “de XVI a XX” acompanhando a lei), e a estrutura do articulado é a mesma; a comparação artigo a artigo completa não foi feita (cobertura lexical do OCR de cerca de 0,89). O texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
 ## Anexos em fac-símile do Diário Oficial
 

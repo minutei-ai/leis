@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "835a22f67b61fc057178a80a17f8d2a1832493b6009d74a3569fc988e446a9ed"
 coletado_em: "2026-10-22T15:33:08.000Z"
 sha256_fonte: "eb7bcce226cc589eaf4362e817dcedc8c1b78be89c349d9b9d9805c636188118"
-sha256_markdown: "b5b91903312afbd0c0c40978f9dab0652fed2f7437982a693cd6062cbf66a3ee"
+sha256_markdown: "083b24ef67e468e8b095980a97ea9b01b91b440209a358acbd00b46a901e8e75"
 ---
 
 # LEI Nº 664, DE 18 DE SETEMBRO DE 1986.
@@ -2490,28 +2490,61 @@ e regulamentação específica.<br>
 Art. 28 - as disposições deste anexo de lei aplicam-se, no que<br>
 couber, aos servidores aposentados do Poder Judiciário.
 
-## Conferência com o Diário Oficial (fac-símile)
+**Conferência da versão do texto.** O texto acima (Consultoria Legislativa) não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Os rótulos e a sequência dos anexos do texto (I, II, V a XII) coincidem com os impressos nas páginas reproduzidas, e a ausência de “Anexo III” e “Anexo IV” é a mesma nas duas fontes. O conteúdo dos artigos e das tabelas foi comparado com a edição apenas por OCR (cobertura lexical de cerca de 0,91), sem leitura integral. Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
-O texto acima reproduz a lei e seus anexos tal como disponibilizados pela Consultoria Legislativa. Para conferência dos rótulos dos anexos, duas páginas do Diário Oficial em que a lei foi publicada são reproduzidas em fac-símile.
+## Lei e anexos em fac-símile (páginas originais)
 
-**Como ler esta seção.** O texto acima é o disponibilizado pela Consultoria Legislativa e não foi alterado. As imagens abaixo são reproduções fac-similares, sem alteração, das páginas digitalizadas do Diário Oficial em que a lei foi publicada; servem apenas de conferência. Não são transcrição nem texto pesquisável, e nada foi reconstruído a partir delas. Para conferir uma imagem, compare seu SHA-256 com o registrado abaixo.
+**Como ler esta seção.** As imagens abaixo reproduzem, sem alteração, as páginas digitalizadas do Diário Oficial; não são transcrição nem texto pesquisável, e nenhuma célula, número ou desenho foi reconstruído ou corrigido. Para conferir uma imagem, compare seu SHA-256 com o registrado abaixo.
 
-**Fonte:** Diário Oficial do Estado de Mato Grosso do Sul nº 1.905, de 19 de setembro de 1986, páginas 8 e 9, exemplar digitalizado do Tribunal de Contas do Estado de Mato Grosso do Sul — <https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=17392> (HTTP 200, 6.425.408 bytes, PDF completo).
+**Fonte:** Diário Oficial do Estado de Mato Grosso do Sul nº 1.905, de 19 de setembro de 1986, páginas 5 a 16, exemplar digitalizado do Tribunal de Contas do Estado de Mato Grosso do Sul — <https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=17392> (HTTP 200, 6.425.408 bytes, PDF completo ; o catálogo do Tribunal de Contas rotula o registro como “nº 19058”).
 
 **Arquivo oficial de origem:** PDF integral da edição, SHA-256 `0be1955cd1846eb64afebe9c53e7c17e312635dc48245ac1ad143a4e8b3e5c0a`; páginas do PDF e páginas impressas coincidem.
 
 **Limites das peças:**
 
-- Reproduzidas apenas as páginas 8 e 9 do exemplar; a lei ocupa as páginas 5 a 16 e as demais páginas não são reproduzidas.
-- **Anexo I** (relação de comarcas, municípios e distritos): termina na página 8. **Anexo II** (“Quadro permanente dos ofícios de justiça do foro judicial”): coluna direita da página 8, terminando no topo da página 9. **Anexo V** (“Plano de classificação de cargos e empregos – foro judicial”): começa logo em seguida, na página 9.
-- Nessas duas páginas, ao Anexo II segue imediatamente o Anexo V; não há peça rotulada “Anexo III” ou “Anexo IV” entre eles. O texto acima menciona, em dispositivo que altera a Lei nº 39/1979, os “anexos I, II, III, V, VII e VIII” dessa lei; a localização de um “Anexo III” desta lei nas demais páginas (10 a 16) não foi verificada aqui.
-- O exemplar é o do registro de catálogo 17392 do Tribunal de Contas, rotulado “nº 19058” no catálogo e “nº 1905” na própria edição impressa; vale o número impresso. Não foi usada a edição de rótulo “19058”.
+- **Lei nº 664:** começa no pé da coluna esquerda da página 5 (título e ementa) e ocupa as páginas 5 a 16; termina na coluna esquerda da página 16, imediatamente antes do início da Lei nº 665.
+- Rótulos de anexo impressos nestas páginas, na ordem: **Anexo I** (relação de comarcas, municípios e distritos), **Anexo II** (“Quadro permanente dos ofícios de justiça do foro judicial”) e, na sequência imediata, **Anexo V** (“Plano de classificação de cargos e empregos – foro judicial”), **VI**, **VII**, **VIII**, **IX**, **X**, **XI** e **XII**. Não há peça rotulada “Anexo III” ou “Anexo IV” entre o II e o V em nenhuma das páginas 5 a 16. O art. de abertura menciona, ao alterar a Lei nº 39/1979, “anexos I, II, III, V, VII e VIII” dessa lei; essa menção não foi convertida em um “Anexo III” desta lei e nenhum anexo foi inferido ou renumerado.
+- A metade superior esquerda da página 5 contém tabelas de ato anterior, e a página 16 contém também as Leis nºs 665 a 668, de 18/09/1986; esses atos não fazem parte desta lei.
 
 **Páginas reproduzidas:**
 
-- Página 8 (fim do Anexo I e Anexo II) — `doe1905-p08.png` (3232×4107 px, 300 ppi, SHA-256 `1c90457459b0914a5e9249bcdc2fb7ebaf057d769aff2cbb8521cb2674a6c32f`)
-- Página 9 (fim do Anexo II e início do Anexo V) — `doe1905-p09.png` (3232×4098 px, 300 ppi, SHA-256 `5e70fd05d520706f48aad0f4e51bfc536bacd3e508059270ff40d9adae232a1b`)
+- Página 5 — `doe1905-p05.png` (3232×4104 px, 300 ppi, SHA-256 `88ddda1106f08b168e10680ce68ed389c03916c91e578d54d4a0e25ac205b51c`)
+- Página 6 — `doe1905-p06.png` (3232×4098 px, 300 ppi, SHA-256 `6c687b56c7d779d027ba7b398bccbd1b68b47e73d4ec2c81ae402a6c9d5b3519`)
+- Página 7 — `doe1905-p07.png` (3232×4116 px, 300 ppi, SHA-256 `2cf113ba612e6a6db4437eb2fe8498032bf982b6f3b2eb03ed80fa0abdfad697`)
+- Página 8 — `doe1905-p08.png` (3232×4107 px, 300 ppi, SHA-256 `1c90457459b0914a5e9249bcdc2fb7ebaf057d769aff2cbb8521cb2674a6c32f`)
+- Página 9 — `doe1905-p09.png` (3232×4098 px, 300 ppi, SHA-256 `5e70fd05d520706f48aad0f4e51bfc536bacd3e508059270ff40d9adae232a1b`)
+- Página 10 — `doe1905-p10.png` (3232×4089 px, 300 ppi, SHA-256 `3b03bd901967db9aab51f4d663bf8ef48343f6c4c48f97a5472f2e1631699f51`)
+- Página 11 — `doe1905-p11.png` (3232×4080 px, 300 ppi, SHA-256 `529f1600f82148e98ffa5d1205577201d7feb92da1309dd89fb3a852121d2e6d`)
+- Página 12 — `doe1905-p12.png` (3232×4078 px, 300 ppi, SHA-256 `5b79e7f4fc98225882d13743c0f698da9798001949a46aae3be5dd4b32c4bb8a`)
+- Página 13 — `doe1905-p13.png` (3248×4088 px, 300 ppi, SHA-256 `b6b859bcf37b4171dd074b005b4bdea5c297c1f63af7aad81df14acaaa5f5386`)
+- Página 14 — `doe1905-p14.png` (3232×4086 px, 300 ppi, SHA-256 `afcf4b3f0842752f2eaa5b97899c1ad2149dbc7abb98ca486dca49fd393c1b69`)
+- Página 15 — `doe1905-p15.png` (3232×4089 px, 300 ppi, SHA-256 `ec41c558285e6c6652cf77bc05881e9ac0cd26985ad8319b8ce44c1334478c09`)
+- Página 16 — `doe1905-p16.png` (3232×4088 px, 300 ppi, SHA-256 `5fbc984387c615917aaaea568ac189f4216eb33c8c1547268d22f105430c3a07`)
 
-![Diário Oficial nº 1.905, de 19/09/1986, página 8: anexos da Lei nº 664](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p08.png)
+![Diário Oficial nº 1.905, de 19/09/1986, página 5: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p05.png)
 
-![Diário Oficial nº 1.905, de 19/09/1986, página 9: anexos da Lei nº 664](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p09.png)
+![Diário Oficial nº 1.905, de 19/09/1986, página 6: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p06.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 7: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p07.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 8: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p08.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 9: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p09.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 10: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p10.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 11: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p11.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 12: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p12.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 13: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p13.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 14: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p14.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 15: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p15.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 16: Lei nº 664 e seus anexos](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p16.png)
+
+**Observações:**
+
+- O número da edição é o impresso (1.905), e não o rótulo de catálogo “19058”.

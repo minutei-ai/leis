@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "31e97bd9e7f47298532f1ea04b0ff53b95c3feec23d47c88c3acb1adae5eaf8b"
 coletado_em: "2026-10-22T15:14:42.000Z"
 sha256_fonte: "ee125fe160fb2335fb5d33f8d29d1ec225a755150269a21db76ce8ce003f4c81"
-sha256_markdown: "ce0061728dfd1b5f6ac3a05b7799b8ecc103e28d365f6d9b5f7e60d3083a29a3"
+sha256_markdown: "0a008d7fe29bdc7d4a79540352b36fb5d7c54b8c59d6ecc8b0661c11980fcc05"
 ---
 
 # LEI Nº 1.554, DE 19 DE DEZEMBRO DE 1994.
@@ -121,6 +121,8 @@ Governador<br>
                                                                      
  TCSA-830       Motorista                                 07         
  ------------------------------------------------------------------  </pre>
+
+**Conferência da versão do texto.** O texto acima (Consultoria Legislativa) não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Os rótulos e a sequência dos anexos, inclusive o segundo “ANEXO I” impresso no original, coincidem com os impressos; o conteúdo dos artigos foi comparado apenas por OCR (cobertura lexical de cerca de 0,91), sem leitura integral. Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
 ## Conferência com o Diário Oficial (fac-símile)
 

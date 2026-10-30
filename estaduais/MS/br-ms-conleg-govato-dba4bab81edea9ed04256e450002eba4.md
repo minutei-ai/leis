@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "e913feefc84e7d4dbd0f520736e52910a9828c4a936e848219e10ad28eddefa1"
 coletado_em: "2026-10-22T15:23:21.000Z"
 sha256_fonte: "fa2b9f9409318eab1dc9e614f900fd10d382b7bad6ff57e74120c1622fad8f75"
-sha256_markdown: "baad07aaa03c4cfb7741dce29aa218a1cc7560b9f0c092c4f964517f835f91bf"
+sha256_markdown: "ce6668ba466de4e566f36a223784bae58bb645190f814a8ed76c64688b92caf2"
 ---
 
 # LEI Nº 1.148, DE 13 DE JUNHO DE 1991.
@@ -31,6 +31,8 @@ Campo Grande, 13 de junho de 1.991.<br>
 <br>
 PEDRO PEDROSSIAN<br>
 Governador
+
+**Conferência da versão do texto.** Os arts. 1º e 2º do texto acima (Consultoria Legislativa), o valor (Cr$ 694.459.000,00) e a remissão à Lei Estadual nº 1.136/1991 foram comparados, em leitura visual, com a página 1 do Diário Oficial nº 3.072 e coincidem; o texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
 ## Anexos em fac-símile do Diário Oficial
 

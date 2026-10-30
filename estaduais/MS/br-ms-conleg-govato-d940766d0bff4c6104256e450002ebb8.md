@@ -8,7 +8,7 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "944a9472f432f115bc08d200a577b07a7777d0ef5b8fd95e09aad9963baef9bd"
 coletado_em: "2026-10-22T15:22:54.000Z"
 sha256_fonte: "8634be5c4c76cc183881b09f13c75bfbf1d96cd434e46aaa05010a8b9f10e4d2"
-sha256_markdown: "799158db7e43c5054bc1b22d0b18baa0e774b9e3aa36fff3fd570a42167ad653"
+sha256_markdown: "70088c58de75d295c5a171bdb5120ab45a2842b240b90b56aabbfe49c97b8041"
 ---
 
 # LEI Nº 1.171, DE 1 DE JULHO DE 1991.
@@ -33,6 +33,8 @@ Campo Grande, 1º de julho de 1991.<br>
 <br>
 PEDRO PEDROSSIAN<br>
 Governador
+
+**Conferência da versão do texto.** Os arts. 1º a 3º do texto acima (Consultoria Legislativa) e o valor (Cr$ 348.101.000,00) foram comparados, em leitura visual, com a página 1 do Diário Oficial nº 3.085, que republica a lei “por ter veiculada incompleta” na edição nº 3.084, página 1; coincidem no conteúdo. A edição 3.084 não é reproduzida. O texto não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.
 
 ## Anexos em fac-símile do Diário Oficial
 
