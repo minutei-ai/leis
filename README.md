@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**219.662 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**219.764 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -19,18 +19,18 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Federal | [Brasil](federal/) | 87.022 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
-| Estadual | [Amapá](estaduais/AP/) | 7 |
+| Estadual | [Amapá](estaduais/AP/) | 24 |
 | Estadual | [Amazonas](estaduais/AM/) | 8 |
 | Estadual | [Bahia](estaduais/BA/) | 14.377 |
 | Estadual | [Ceará](estaduais/CE/) | 110 |
 | Distrital | [Distrito Federal](estaduais/DF/) | 8 |
 | Estadual | [Espírito Santo](estaduais/ES/) | 20 |
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
-| Estadual | [Maranhão](estaduais/MA/) | 1 |
+| Estadual | [Maranhão](estaduais/MA/) | 6 |
 | Estadual | [Mato Grosso](estaduais/MT/) | 336 |
 | Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.285 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
-| Estadual | [Pará](estaduais/PA/) | 10 |
+| Estadual | [Pará](estaduais/PA/) | 85 |
 | Estadual | [Paraíba](estaduais/PB/) | 2 |
 | Estadual | [Paraná](estaduais/PR/) | 60 |
 | Estadual | [Pernambuco](estaduais/PE/) | 2.346 |
@@ -51,8 +51,10 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Municipal | [Craíbas · AL](municipais/2702355/) | 2 |
 | Municipal | [Japaratinga · AL](municipais/2703601/) | 2 |
 | Municipal | [Marechal Deodoro · AL](municipais/2704708/) | 7 |
+| Municipal | [Parauapebas · PA](municipais/1505536/) | 4 |
 | Municipal | [Rio Largo · AL](municipais/2707701/) | 2 |
 | Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
+| Municipal | [Tomé-Açu · PA](municipais/1508001/) | 1 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
 
@@ -64,7 +66,7 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro e de Rio Largo, do Diário Oficial de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
