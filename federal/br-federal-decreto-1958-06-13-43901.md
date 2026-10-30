@@ -19,3 +19,17 @@ Rio de Janeiro, 13 de junho de 1958; 137º da Independência e 70º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 14 de junho de 1958: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 43.901 DESTA DATA», até «N.º 20.364 — 14-6-1958»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 14 de junho de 1958, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1958/DO_1_19580614_133-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580614_133.PDF` (SHA-256 `4b4be1f64762cad77064c439f41a9bfc2ef503bc286ad88d56043b73529a300d`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `228e23a2961e08be1ff8b1e1c5a17e853af291656a457b018964cebc8751b726`.
+
+<!-- fac-simile-oficial:fim -->

@@ -21,3 +21,17 @@ Rio de Janeiro, 28 de setembro de 1958; 137º da Independência e 70º da Repúb
 Lú
 
 cio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 28 de maio de 1958: página 9 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 43.808 DESTA DATA», até «N.º 18.535 — 28-5-58 — Cr$ 1.020,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 28 de maio de 1958, página 9 do PDF: fac-símile da página inteira](../assets/dou/1958/DO_1_19580528_119-p09.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580528_119.PDF` (SHA-256 `00e9c02fa0f3d89af248303a8de53ef284dfe593861453387153d6cd9c339918`), páginas 9 do PDF. SHA-256 das imagens, na ordem: `597f7ccd3f1eb3abb64022192b67c53ffd73ba1db6ca4877bef5ecdc1f94c4e3`.
+
+<!-- fac-simile-oficial:fim -->

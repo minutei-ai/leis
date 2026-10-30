@@ -19,3 +19,17 @@ Rio de Janeiro, em 4 de dezembro de 1957; 136º da Independência e 69º da Rep�
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 5 de março de 1958: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 42.739, DESTA DATA», até «N.º 5.985 — 3-3-1958 — Cr$ 918,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 5 de março de 1958, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1958/DO_1_19580305_052-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580305_052.PDF` (SHA-256 `6f4e8250ee74dd51e1bdd6a5d81e74e559375c233a74d3e828a186cdb5ac61b4`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `97dc2fd708e5da45b73dd0261949a2f3c4397b54a976c0acf7e1e0fd097b5d46`.
+
+<!-- fac-simile-oficial:fim -->

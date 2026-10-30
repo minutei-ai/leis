@@ -19,3 +19,19 @@ Rio de Janeiro, 14 de janeiro de 1958; 137º da Independência e 70º da Repúbl
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 22 de janeiro de 1958: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 43.032, DESTA DATA»); página 2 do PDF (até «N.º 1.655 — 20-1-58 — Cr$ 1.020,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 22 de janeiro de 1958, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1958/DO_1_19580122_018-p01.png)
+
+![Diário Oficial da União, Seção I, 22 de janeiro de 1958, página 2 do PDF: fac-símile da página inteira](../assets/dou/1958/DO_1_19580122_018-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580122_018.PDF` (SHA-256 `d5799c65ef40008d985dbdccf448631996062e898e2af126ba761fbff57ceee7`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `8953223e905cee07220cd960e15f327d07a5ceccdf9927b1f742ebea3d3fa8c6`, `b968e4f897f1eef0f938985ff0342660b2363745743722faa365958f3e5d3c77`.
+
+<!-- fac-simile-oficial:fim -->

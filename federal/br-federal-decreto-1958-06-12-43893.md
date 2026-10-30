@@ -19,3 +19,17 @@ Rio de Janeiro 12 de junho de 1958; 137º da Independência e 70º da República
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 20 de setembro de 1958: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 43.893-58 DESTA DATA», até «N.º 28.886 — 18-9-58»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 20 de setembro de 1958, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1958/DO_1_19580920_215-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580920_215.PDF` (SHA-256 `fc57838da86335556fe9d88b800771f3294c6f598dea4eb5b6b53bb2c34054f4`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `74dffbcc21b1224cac8784d38cd8b253f663eaeb304a350f63372bca228970db`.
+
+<!-- fac-simile-oficial:fim -->

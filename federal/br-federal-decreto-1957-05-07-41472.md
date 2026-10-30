@@ -19,3 +19,19 @@ Rio de Janeiro, 7 de maio de 1957; 136º de Independência e 69º da República.
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de junho de 1957: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 41.472 DESTA DATA»); página 2 do PDF (até «N.º 19.094 — Cr$ 969,00 — 4-6-57»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 6 de junho de 1957, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1957/DO_1_19570606_129-p01.png)
+
+![Diário Oficial da União, Seção I, 6 de junho de 1957, página 2 do PDF: fac-símile da página inteira](../assets/dou/1957/DO_1_19570606_129-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19570606_129.PDF` (SHA-256 `8eddcfbff92a23b84464a08b9b37582971ea6d928d72dbf97f128b2d1ad0ffb7`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `21b5d8e9792e3e4edd598e71e04f0f014ce8f23061c03bdbd1d6ed5cbeec6a27`, `39d23490b9d60ab09fe19dd3a5aa88f8280c5b93c9f1dab2241486b12762a610`.
+
+<!-- fac-simile-oficial:fim -->
