@@ -6,7 +6,6 @@ import subprocess
 import tempfile
 import time
 import urllib.parse
-import urllib.request
 
 
 def sha(path):
@@ -28,15 +27,23 @@ try:
         assert Path(name).name == name
         with tempfile.TemporaryDirectory() as folder:
             pdf = Path(folder) / name
-            request = urllib.request.Request(url, headers={'User-Agent': 'minutei-ai-leis-source-review/1.0'})
-            with urllib.request.urlopen(request, timeout=120) as response, pdf.open('wb') as stream:
-                assert urllib.parse.urlparse(response.url).hostname == 'biblioteca.in.gov.br'
-                size = 0
-                while chunk := response.read(1024 * 1024):
-                    size += len(chunk)
-                    if size > 256 * 1024 * 1024:
-                        raise ValueError('PDF excede limite de 256 MiB')
-                    stream.write(chunk)
+            # curl uses the runner's native TLS stack. Keep certificate verification
+            # enabled; a source access failure must remain a failed check.
+            transfer = subprocess.run([
+                'curl', '--fail', '--show-error', '--silent', '--location',
+                '--proto', '=https', '--proto-redir', '=https',
+                '--connect-timeout', '30', '--max-time', '240',
+                '--max-filesize', str(256 * 1024 * 1024),
+                '--user-agent', 'minutei-ai-leis-source-review/1.0',
+                '--output', str(pdf), url,
+            ], capture_output=True, text=True)
+            if transfer.returncode:
+                results.append({'pdf': name, 'state': 'falha-de-download',
+                                'exit_code': transfer.returncode,
+                                'error': transfer.stderr[-2000:]})
+                print(f'{name}: download falhou ({transfer.returncode})', flush=True)
+                time.sleep(2)
+                continue
             if sha(pdf) != document['sha256']:
                 raise ValueError(f'Hash PDF divergente: {name}')
             for page, expected in document['pages'].items():
@@ -57,3 +64,6 @@ try:
             time.sleep(2)
 finally:
     (output / 'results.json').write_text(json.dumps(results, ensure_ascii=False, indent=2) + '\n')
+
+if any(row['state'] == 'falha-de-download' for row in results):
+    raise SystemExit('Há PDFs não obtidos; ver results.json no artefato.')
