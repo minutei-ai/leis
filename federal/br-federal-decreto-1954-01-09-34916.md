@@ -19,3 +19,17 @@ Rio de Janeiro, 9 de janeiro de 1954; 133º da Independência e 66º da Repúbli
 Renato de Almeida Guillobel
 
 Ciro do Espírito Santo Cardoso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 12 de janeiro de 1954: página 5 do PDF (decreto, com o traço musical impresso logo abaixo das assinaturas, sob a legenda «C.I.O.R.M»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 12 de janeiro de 1954, página 5 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540112_009-p05.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540112_009.PDF` (SHA-256 `607e8a91b131051a0c2d2540ee7c8c4947db2c6aabafeea6133a55320d30346f`), páginas 5 do PDF. SHA-256 das imagens, na ordem: `f6ef34ec092588c43f09cfb60245040dd9ce84b3e57f4f0b47bfee86d9426807`.
+
+<!-- fac-simile-oficial:fim -->

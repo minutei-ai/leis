@@ -29,3 +29,17 @@ Rio de janeiro, 1 de dezembro de 1954; 133º da independente e 66º da republica
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Henrique Lott
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 11 de dezembro de 1954: página 4 do PDF (decreto e, abaixo do texto, o desenho do estandarte com «DIMENSÕES: 0,80 X 1,10 M»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 11 de dezembro de 1954, página 4 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19541211_284-p04.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19541211_284.PDF` (SHA-256 `ef9aac884517f942305d38e0d71d3e6a17b63b322f6b64ad454916c47e688146`), páginas 4 do PDF. SHA-256 das imagens, na ordem: `fa4ca071beaeae5023609989a51716f550a449f2ff0d503a5dd1031eefb792e1`.
+
+<!-- fac-simile-oficial:fim -->

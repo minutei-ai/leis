@@ -25,3 +25,19 @@ Rio de Janeiro, 2 de setembro de 1954; 133º da Independência e 66º da Repúbl
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Henrique Lott
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 10 de setembro de 1954: página 2 do PDF (a partir de «DECRETO N.º 36.131 — DE 2 DE SETEMBRO DE 1954»); página 3 do PDF (continuação, com o primeiro desenho de estandarte da página, o do 4.º Regimento de Cavalaria «Regimento Sá Britto»), e o segundo desenho da página pertence a outro decreto, o de n.º 36.150).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 10 de setembro de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540910_207-p02.png)
+
+![Diário Oficial da União, Seção I, 10 de setembro de 1954, página 3 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540910_207-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540910_207.PDF` (SHA-256 `31680a0464935967be3eb92a4d37ee45b778e037b754f75b20c373c31b4aa135`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `aa121cab6f3f6019c3e0c9f8745adc2ecf260c8c353b2a409d0881b382c99ca4`, `26fea5f2c0c669171abd794717f0d45c93f02d5bf77106acac597c9a48047a21`.
+
+<!-- fac-simile-oficial:fim -->

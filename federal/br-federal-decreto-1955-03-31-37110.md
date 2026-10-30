@@ -15,3 +15,21 @@ Rio de Janeiro, 31 de março de 1955; 134º da Independência e 67º da Repúbli
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Napoleão de Alencastro Guimarães
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 9 de maio de 1955: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º , DESTA DATA»); página 2 do PDF (continuação); página 3 do PDF (até «(N.º 13.748 — 3-5-55 — Cr$ 1.938,00)»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 9 de maio de 1955, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1955/DO_1_19550509_106-p01.png)
+
+![Diário Oficial da União, Seção I, 9 de maio de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550509_106-p02.png)
+
+![Diário Oficial da União, Seção I, 9 de maio de 1955, página 3 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550509_106-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550509_106.PDF` (SHA-256 `628409c66f36936557198c37d7841b53cea1e78b6fc7e07fadddbd5bf4aab9e1`), páginas 1, 2, 3 do PDF. SHA-256 das imagens, na ordem: `9d46ea55190158fa075a119c9e17a91625cc3f06c9ef18353a39cb9a9bf39051`, `59781589e2ce830562b4b3731c77730779fe6cc5472a8fd73f91ea1b4b6de76a`, `2627139737ee8b2deedc7a102379e317738ae2297ec801108003b558d911162e`.
+
+<!-- fac-simile-oficial:fim -->
