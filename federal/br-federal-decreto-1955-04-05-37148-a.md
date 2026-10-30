@@ -21,3 +21,19 @@ Rio de Janeiro, 5 de abril de 1955; 134º da Independência e 67º da República
 Henrique Lott
 
 Rodrigo Octávio Jordão Ramos
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: instrumento
+
+O texto acima não inclui o instrumento a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 12 de abril de 1955: página 8 do PDF (a partir de «Convênio entre o Ministério da Guerra e o Ministério da Viação e Obras Públicas, para a execução, no Nordeste, por Comissões e Unidades Militares, obras rodo-ferroviárias e contra as sêcas», no pé da coluna 3, com as cláusulas primeira a sexta, e a mesma página traz, na coluna 4, a assinatura do convênio e, logo a seguir, um «Termo aditivo ao Convênio» de 5 de abril de 1955 com a relação das obras); página 9 do PDF (continuação do termo aditivo, até «Rio de Janeiro, 5 de abril de 1955. — Henrique Lott. Rodrigo Octávio Jordão Ramos»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 12 de abril de 1955, página 8 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550412_084-p08.png)
+
+![Diário Oficial da União, Seção I, 12 de abril de 1955, página 9 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550412_084-p09.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550412_084.PDF` (SHA-256 `5983002f81d31623b9db7147840655710204d13ee8d0cfc34e741111aa40e192`), páginas 8, 9 do PDF. SHA-256 das imagens, na ordem: `666fd97cad439ba28aae4f8b420a30bf4466814c22bd5814195a4c801b008ee6`, `19d480d2e3ab41d6b5388de24733159500b0d78599f501b1d9ca5048a9072048`.
+
+<!-- fac-simile-oficial:fim -->
