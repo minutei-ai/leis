@@ -3,12 +3,12 @@ id: "br-ms-conleg-govato-a957a4be544b5cd004256e450002ea04"
 titulo: "LEI Nº 1.554, DE 19 DE DEZEMBRO DE 1994."
 data: "1994-12-19"
 fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a957a4be544b5cd004256e450002ea04?OpenDocument"
-versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul"
+versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul; acompanhado de fac-símile de páginas do Diário Oficial (ver seção final)"
 dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%20Estadual?OpenView&Start=30&Count=150&Expand=33"
 sha256_dados: "31e97bd9e7f47298532f1ea04b0ff53b95c3feec23d47c88c3acb1adae5eaf8b"
 coletado_em: "2026-10-22T15:14:42.000Z"
 sha256_fonte: "ee125fe160fb2335fb5d33f8d29d1ec225a755150269a21db76ce8ce003f4c81"
-sha256_markdown: "527e34a85818ea95f0330e57255393328b3d818b819561ef80def76ebc65f0f2"
+sha256_markdown: "ce0061728dfd1b5f6ac3a05b7799b8ecc103e28d365f6d9b5f7e60d3083a29a3"
 ---
 
 # LEI Nº 1.554, DE 19 DE DEZEMBRO DE 1994.
@@ -121,3 +121,30 @@ Governador<br>
                                                                      
  TCSA-830       Motorista                                 07         
  ------------------------------------------------------------------  </pre>
+
+## Conferência com o Diário Oficial (fac-símile)
+
+O texto acima reproduz a lei e seus anexos tal como disponibilizados pela Consultoria Legislativa. Para conferência, as páginas do Diário Oficial em que a lei e seus anexos foram publicados são reproduzidas em fac-símile.
+
+**Como ler esta seção.** O texto acima é o disponibilizado pela Consultoria Legislativa e não foi alterado. As imagens abaixo são reproduções fac-similares, sem alteração, das páginas digitalizadas do Diário Oficial em que a lei foi publicada; servem apenas de conferência. Não são transcrição nem texto pesquisável, e nada foi reconstruído a partir delas. Para conferir uma imagem, compare seu SHA-256 com o registrado abaixo.
+
+**Fonte:** Diário Oficial do Estado de Mato Grosso do Sul nº 3.934, de 20 de dezembro de 1994, páginas 3 e 4, exemplar digitalizado do Tribunal de Contas do Estado de Mato Grosso do Sul — <https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=19523> (HTTP 200, 6.484.992 bytes, PDF completo).
+
+**Arquivo oficial de origem:** PDF integral da edição, SHA-256 `fb1807ebcf6ca74cc63ee8104deb2f7423c0adeae6e4ad621bf597b4e5786468`; páginas do PDF e páginas impressas coincidem.
+
+**Limites das peças:**
+
+- **Lei nº 1.554:** da coluna direita da página 3 (título, ementa, arts. 1º e 2º) ao topo da página 4 (art. 3º, data e assinatura).
+- **Anexo I – Quadro I** (Grupo Ocupacional I, Direção Superior) e **Quadro II** (Grupo Ocupacional III, Assessoramento Direto): coluna esquerda da página 4.
+- Em seguida, na mesma coluna, o Diário Oficial imprime novamente o rótulo “ANEXO I” sobre o **Quadro III** (Grupo Ocupacional V, Auditoria e Controle) e o **Quadro IV** (Grupo Ocupacional VII). Esse segundo rótulo “Anexo I” é impresso assim no original e foi preservado, sem renumeração, no texto acima.
+- **Anexo II** (“Plano de cargos – quantitativo de cargos criados”, Auditor de Controle Externo por especialização) e **Anexo III** (“Cargos extintos”): coluna direita da página 4.
+- A página 3 contém também mensagens de veto e a página 4 a Lei nº 1.555, de 19/12/1994; esses atos não fazem parte desta lei.
+
+**Páginas reproduzidas:**
+
+- Página 3 (lei, arts. 1º e 2º) — `doe3934-p03.png` (3104×4072 px, 300 ppi, SHA-256 `f2776c660d341850f0090e62c3b9f9a6558e16cde9d9622d3923dd3d1aa477a9`)
+- Página 4 (art. 3º, assinatura e anexos) — `doe3934-p04.png` (3104×4070 px, 300 ppi, SHA-256 `2023d1b4e6573399f1e057777a4430ad63f2fe4e59be2f9be8cc21e9f4589abb`)
+
+![Diário Oficial nº 3.934, de 20/12/1994, página 3: Lei nº 1.554 e seus anexos](assets/br-ms-conleg-govato-a957a4be544b5cd004256e450002ea04/doe3934-p03.png)
+
+![Diário Oficial nº 3.934, de 20/12/1994, página 4: Lei nº 1.554 e seus anexos](assets/br-ms-conleg-govato-a957a4be544b5cd004256e450002ea04/doe3934-p04.png)

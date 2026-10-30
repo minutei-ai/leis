@@ -3,12 +3,12 @@ id: "br-ms-conleg-govato-fb26418e63efccef04256e450002e857"
 titulo: "LEI Nº 664, DE 18 DE SETEMBRO DE 1986."
 data: "1986-09-18"
 fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/fb26418e63efccef04256e450002e857?OpenDocument"
-versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul"
+versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul; acompanhado de fac-símile de páginas do Diário Oficial (ver seção final)"
 dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%20Estadual?OpenView&Start=30&Count=150&Expand=41"
 sha256_dados: "835a22f67b61fc057178a80a17f8d2a1832493b6009d74a3569fc988e446a9ed"
 coletado_em: "2026-10-22T15:33:08.000Z"
 sha256_fonte: "eb7bcce226cc589eaf4362e817dcedc8c1b78be89c349d9b9d9805c636188118"
-sha256_markdown: "3e031a4ff9f4b4982140e76ea2660e2dfe6f2e2e724f12264e3a76d3ce5c0d13"
+sha256_markdown: "b5b91903312afbd0c0c40978f9dab0652fed2f7437982a693cd6062cbf66a3ee"
 ---
 
 # LEI Nº 664, DE 18 DE SETEMBRO DE 1986.
@@ -2489,3 +2489,29 @@ e regulamentação específica.<br>
 <br>
 Art. 28 - as disposições deste anexo de lei aplicam-se, no que<br>
 couber, aos servidores aposentados do Poder Judiciário.
+
+## Conferência com o Diário Oficial (fac-símile)
+
+O texto acima reproduz a lei e seus anexos tal como disponibilizados pela Consultoria Legislativa. Para conferência dos rótulos dos anexos, duas páginas do Diário Oficial em que a lei foi publicada são reproduzidas em fac-símile.
+
+**Como ler esta seção.** O texto acima é o disponibilizado pela Consultoria Legislativa e não foi alterado. As imagens abaixo são reproduções fac-similares, sem alteração, das páginas digitalizadas do Diário Oficial em que a lei foi publicada; servem apenas de conferência. Não são transcrição nem texto pesquisável, e nada foi reconstruído a partir delas. Para conferir uma imagem, compare seu SHA-256 com o registrado abaixo.
+
+**Fonte:** Diário Oficial do Estado de Mato Grosso do Sul nº 1.905, de 19 de setembro de 1986, páginas 8 e 9, exemplar digitalizado do Tribunal de Contas do Estado de Mato Grosso do Sul — <https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=17392> (HTTP 200, 6.425.408 bytes, PDF completo).
+
+**Arquivo oficial de origem:** PDF integral da edição, SHA-256 `0be1955cd1846eb64afebe9c53e7c17e312635dc48245ac1ad143a4e8b3e5c0a`; páginas do PDF e páginas impressas coincidem.
+
+**Limites das peças:**
+
+- Reproduzidas apenas as páginas 8 e 9 do exemplar; a lei ocupa as páginas 5 a 16 e as demais páginas não são reproduzidas.
+- **Anexo I** (relação de comarcas, municípios e distritos): termina na página 8. **Anexo II** (“Quadro permanente dos ofícios de justiça do foro judicial”): coluna direita da página 8, terminando no topo da página 9. **Anexo V** (“Plano de classificação de cargos e empregos – foro judicial”): começa logo em seguida, na página 9.
+- Nessas duas páginas, ao Anexo II segue imediatamente o Anexo V; não há peça rotulada “Anexo III” ou “Anexo IV” entre eles. O texto acima menciona, em dispositivo que altera a Lei nº 39/1979, os “anexos I, II, III, V, VII e VIII” dessa lei; a localização de um “Anexo III” desta lei nas demais páginas (10 a 16) não foi verificada aqui.
+- O exemplar é o do registro de catálogo 17392 do Tribunal de Contas, rotulado “nº 19058” no catálogo e “nº 1905” na própria edição impressa; vale o número impresso. Não foi usada a edição de rótulo “19058”.
+
+**Páginas reproduzidas:**
+
+- Página 8 (fim do Anexo I e Anexo II) — `doe1905-p08.png` (3232×4107 px, 300 ppi, SHA-256 `1c90457459b0914a5e9249bcdc2fb7ebaf057d769aff2cbb8521cb2674a6c32f`)
+- Página 9 (fim do Anexo II e início do Anexo V) — `doe1905-p09.png` (3232×4098 px, 300 ppi, SHA-256 `5e70fd05d520706f48aad0f4e51bfc536bacd3e508059270ff40d9adae232a1b`)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 8: anexos da Lei nº 664](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p08.png)
+
+![Diário Oficial nº 1.905, de 19/09/1986, página 9: anexos da Lei nº 664](assets/br-ms-conleg-govato-fb26418e63efccef04256e450002e857/doe1905-p09.png)

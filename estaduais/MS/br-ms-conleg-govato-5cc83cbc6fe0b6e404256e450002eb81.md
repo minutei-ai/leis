@@ -3,12 +3,12 @@ id: "br-ms-conleg-govato-5cc83cbc6fe0b6e404256e450002eb81"
 titulo: "LEI Nº 1.101, DE 5 DE OUTUBRO DE 1990."
 data: "1990-10-05"
 fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5cc83cbc6fe0b6e404256e450002eb81?OpenDocument"
-versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul"
+versao: "texto disponibilizado pela Consultoria Legislativa de Mato Grosso do Sul; acompanhado de fac-símile de páginas do Diário Oficial (ver seção final)"
 dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%20Estadual?OpenView&Start=30&Count=150&Expand=37"
 sha256_dados: "8a2f97b053ff54ef025223f6964d4f47643ea4967acf1e7c80a6fd8dafaafceb"
 coletado_em: "2026-10-22T15:24:19.000Z"
 sha256_fonte: "c55f34114d03d440361786c21b8cbcec52804b0df334033e6733d40be364b705"
-sha256_markdown: "eb39f58fc84f6e581db712409fba1a594c800328a4d3d39670f1454bda12ae8b"
+sha256_markdown: "d8e545e2ca272ecfaaf8dac1b4c9ba6b0fb0372bf036e8df93601974e74de1f5"
 ---
 
 # LEI Nº 1.101, DE 5 DE OUTUBRO DE 1990.
@@ -207,3 +207,30 @@ GRUPO VI - ASSISTÊNCIA DIRETA - PLAD - 150
 GRUPO VII - ASSISTÊNCIA INTERMEDIÁRIA - PLIN - 210
 
 <table><tbody><tr><td>SÍMBOLO</td><td>VENCIMENTO</td></tr><tr><td>PLIN - 210.1</td><td>12.137,72</td></tr></tbody></table>
+
+## Conferência com o Diário Oficial (fac-símile)
+
+O texto acima reproduz a lei e seus anexos tal como disponibilizados pela Consultoria Legislativa. Para conferência, as páginas do Diário Oficial em que os anexos foram publicados são reproduzidas em fac-símile.
+
+**Como ler esta seção.** O texto acima é o disponibilizado pela Consultoria Legislativa e não foi alterado. As imagens abaixo são reproduções fac-similares, sem alteração, das páginas digitalizadas do Diário Oficial em que a lei foi publicada; servem apenas de conferência. Não são transcrição nem texto pesquisável, e nada foi reconstruído a partir delas. Para conferir uma imagem, compare seu SHA-256 com o registrado abaixo.
+
+**Fonte:** Diário Oficial do Estado de Mato Grosso do Sul nº 2.907, de 9 de outubro de 1990, páginas 3 e 4, exemplar digitalizado do Tribunal de Contas do Estado de Mato Grosso do Sul — <https://portal-services.tce.ms.gov.br/portal-services/diario-oficiais/download?id=18823> (HTTP 200, 6.776.576 bytes, PDF completo).
+
+**Arquivo oficial de origem:** PDF integral da edição, SHA-256 `cef4e19f3d988dadfc024aaba8817a3eb90b4a5b1ef98ade39f4f5364c5e7aa8`; páginas do PDF e páginas impressas coincidem.
+
+**Limites das peças:**
+
+- **Anexo I** (“Plano de classificação de cargos”, Tabelas A a E): página 3, abaixo da assinatura do Presidente da Assembleia.
+- **Anexo II** (“Relação de cargos transformados”): fim da página 3.
+- **Anexo III** (“Escala de referências salariais”): topo da página 4. Na imagem o rótulo impresso é “Anexo III”; o texto acima, disponibilizado pela Consultoria Legislativa, traz o rótulo “ANEXO II” sobre essa escala, repetindo o rótulo do anexo anterior. Os dois rótulos do texto foram preservados.
+- **Anexo IV** (tabelas de vencimentos dos Grupos I a VII): página 4.
+- As páginas incluem também o fim do texto da lei e, na página 4, os Decretos nºs 5.655 e 5.656; esses atos não fazem parte desta lei. O início da lei (página 2) não é reproduzido.
+
+**Páginas reproduzidas:**
+
+- Página 3 (arts. finais, Anexos I e II) — `doe2907-p03.png` (3232×4009 px, 300 ppi, SHA-256 `97cb5664256888b91baccd73e4633d313353e739fd7cd9e01ff37dd8ea727ceb`)
+- Página 4 (Anexos III e IV) — `doe2907-p04.png` (3248×4004 px, 300 ppi, SHA-256 `1cd74d7a25569b98bf7b37ff946e073fc9745bf6fc4d5b7b85a8e371727b8d35`)
+
+![Diário Oficial nº 2.907, de 09/10/1990, página 3: Lei nº 1.101 e seus anexos](assets/br-ms-conleg-govato-5cc83cbc6fe0b6e404256e450002eb81/doe2907-p03.png)
+
+![Diário Oficial nº 2.907, de 09/10/1990, página 4: Lei nº 1.101 e seus anexos](assets/br-ms-conleg-govato-5cc83cbc6fe0b6e404256e450002eb81/doe2907-p04.png)
