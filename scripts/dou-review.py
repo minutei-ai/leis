@@ -35,6 +35,7 @@ try:
                 '--connect-timeout', '30', '--max-time', '240',
                 '--max-filesize', str(256 * 1024 * 1024),
                 '--user-agent', 'minutei-ai-leis-source-review/1.0',
+                '--write-out', '%{http_code} %{content_type} %{url_effective}',
                 '--output', str(pdf), url,
             ], capture_output=True, text=True)
             if transfer.returncode:
@@ -44,8 +45,17 @@ try:
                 print(f'{name}: download falhou ({transfer.returncode})', flush=True)
                 time.sleep(2)
                 continue
-            if sha(pdf) != document['sha256']:
-                raise ValueError(f'Hash PDF divergente: {name}')
+            actual_pdf_sha = sha(pdf)
+            if actual_pdf_sha != document['sha256']:
+                with pdf.open('rb') as stream:
+                    prefix = stream.read(64)
+                results.append({'pdf': name, 'state': 'hash-pdf-divergente',
+                                'expected': document['sha256'], 'actual': actual_pdf_sha,
+                                'bytes': pdf.stat().st_size, 'response': transfer.stdout,
+                                'prefix_hex': prefix.hex()})
+                print(f'{name}: hash PDF divergente; resposta {transfer.stdout}', flush=True)
+                time.sleep(2)
+                continue
             for page, expected in document['pages'].items():
                 page_number = int(page)
                 assert page_number > 0
@@ -65,5 +75,5 @@ try:
 finally:
     (output / 'results.json').write_text(json.dumps(results, ensure_ascii=False, indent=2) + '\n')
 
-if any(row['state'] == 'falha-de-download' for row in results):
-    raise SystemExit('Há PDFs não obtidos; ver results.json no artefato.')
+if any(row['state'] in {'falha-de-download', 'hash-pdf-divergente'} for row in results):
+    raise SystemExit('Há fontes não obtidas ou divergentes; ver results.json no artefato.')
