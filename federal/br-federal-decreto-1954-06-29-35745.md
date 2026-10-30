@@ -25,3 +25,19 @@ Rio de Janeiro, 29 de julho de 1954; 133º da independência e 66º da Repúblic
 <strong>GETÚLIO VAGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 10 de julho de 1954: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de CLÁUSULA A QUE SE REFERE O DECRETO N.º 35.745); p. 12114 (até N. 18.271).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 10 de julho de 1954, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1954/DO_1_19540710_156-p01.png)
+
+![Diário Oficial da União, Seção I, 10 de julho de 1954, p. 12114: fac-símile da página inteira](../assets/dou/1954/DO_1_19540710_156-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540710_156.PDF` (SHA-256 `8bf83ea06b81d6545b5132cef40861e09d66207ae89395cae0d0ab5740a79d01`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `640338ece9426698c4e0b38fdacca8bc15d0e931e1a9a83b6f70a9036c78f32e`, `570250a54a052f812f3ad8d5ab2782b2cecf16031c183936f6f5d9c37c60b5f2`.
+
+<!-- fac-simile-oficial:fim -->

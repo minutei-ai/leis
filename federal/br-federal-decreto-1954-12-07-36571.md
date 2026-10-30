@@ -19,3 +19,17 @@ Rio de janeiro, 7 de dezembro de 1954; 133º da Independência e 66º da Repúbl
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Lucas Lopes
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 13 de dezembro de 1954: p. 19723 (a partir de Cláusulas a que se refere o Decreto n.º 36.571, até N. 28.462).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 13 de dezembro de 1954, p. 19723: fac-símile da página inteira](../assets/dou/1954/DO_1_19541213_285-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19541213_285.PDF` (SHA-256 `684329a27a9f4737969a1670b3fac49b410e57cf6d06e2b0e9f83591ad3ffc8b`), páginas 3 do PDF. SHA-256 das imagens, na ordem: `0e278710a69e5babdcc67212c878cf69fbe56ed571622825c8c9292eb64df810`.
+
+<!-- fac-simile-oficial:fim -->

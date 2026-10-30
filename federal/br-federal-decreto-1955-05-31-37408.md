@@ -19,3 +19,19 @@ Rio de Janeiro, em 31 de maio de 1955; 134º da Independência e 67º da Repúbl
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Octavio Marcondes Ferruz
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 4 de junho de 1955: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 37.408, DESTA DATA»); página 2 do PDF (numeração impressa ilegível na imagem) (até «N.º 17.237 — 2-6-55 — Cr$ 918,60»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 4 de junho de 1955, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19550604_128-p01.png)
+
+![Diário Oficial da União, Seção I, 4 de junho de 1955, página 2 do PDF (numeração impressa ilegível na imagem): fac-símile da página inteira](../assets/dou/1955/DO_1_19550604_128-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550604_128.PDF` (SHA-256 `aae74a61e4600f43753c5bd2c5fefb7ecc2ca0b300c4fd9cbe2a75f089084364`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `99397ceb4d57d0b0b72546a942555d27f251ca7cff28f271f28f092bacd149d1`, `196520dd7bf594ee4ce0c1c57b874e594a3e67b85a0a0f8f0834b68ca8413944`.
+
+<!-- fac-simile-oficial:fim -->

@@ -19,3 +19,19 @@ Rio de Janeiro, 27 de julho de 1954; 133º da Independência e 66º da Repúblic
 <strong>GETÚLIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 10 de agosto de 1954: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de CLÁUSULAS A QUE SE REFEREM O DECRETO N.º 35.904); p. 13826 (até N. 20.536).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 10 de agosto de 1954, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1954/DO_1_19540810_182-p01.png)
+
+![Diário Oficial da União, Seção I, 10 de agosto de 1954, p. 13826: fac-símile da página inteira](../assets/dou/1954/DO_1_19540810_182-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540810_182.PDF` (SHA-256 `85553dafb7882762a724f5330795f973c2ec21966a2f8688c267b7975c88ee2e`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `1ff5a14c1f6f978facae43843b348adec8f87e63eb4e1e1f9ba6f1e3fd15e616`, `801aeaf545de74e868243651122380d69a45d6362ed1b8091aa0d698f3580aa3`.
+
+<!-- fac-simile-oficial:fim -->

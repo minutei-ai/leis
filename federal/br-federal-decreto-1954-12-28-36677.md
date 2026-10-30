@@ -19,3 +19,19 @@ Rio de Janeiro, 20 de dezembro de 1954; 133º da Independência e 66º da Repúb
 <strong>JOÃO CAFÉ FILHO.</strong>
 
 Lucas Lopes.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 11 de janeiro de 1955: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «Cláusulas a que se refere o Decreto n.º 36.677, desta data»); página 2 do PDF (numeração impressa ilegível na imagem) (até «N.º 640 — 8-1-55 — Cr$ 765,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 11 de janeiro de 1955, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19550111_008-p01.png)
+
+![Diário Oficial da União, Seção I, 11 de janeiro de 1955, página 2 do PDF (numeração impressa ilegível na imagem): fac-símile da página inteira](../assets/dou/1955/DO_1_19550111_008-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550111_008.PDF` (SHA-256 `52c960cb4ae1fda1e36bf856e3791b82f3db171ec2b86a00920df957d3251823`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `35bc897140fed75c17259fb00498afbdae6a7827a666f0110eae3ee6ac375871`, `4f9cdcc0c62c42069ae780c117df26f283b52e51b6b236c86238858c91ea8d89`.
+
+<!-- fac-simile-oficial:fim -->

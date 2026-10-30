@@ -19,3 +19,19 @@ Rio de Janeiro, 11 de agôsto de 1954; 133º da Independência e 66º da Repúbl
 <strong>GETÚLIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 10 de setembro de 1954: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de CLÁUSULA A QUE SE REFERE O DECRETO N.º 36.019); p. 5258 (até N. 22.365).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 10 de setembro de 1954, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1954/DO_1_19540910_207-p01.png)
+
+![Diário Oficial da União, Seção I, 10 de setembro de 1954, p. 5258: fac-símile da página inteira](../assets/dou/1954/DO_1_19540910_207-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540910_207.PDF` (SHA-256 `31680a0464935967be3eb92a4d37ee45b778e037b754f75b20c373c31b4aa135`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `00f3ea0622c0596c8dab352f36bbfdf23ddd372b4dbc90ad5d85bd93c96d9374`, `aa121cab6f3f6019c3e0c9f8745adc2ecf260c8c353b2a409d0881b382c99ca4`.
+
+<!-- fac-simile-oficial:fim -->

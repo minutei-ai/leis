@@ -19,3 +19,17 @@ Rio de Janeiro, 11 de agôsto de 1954; 133º da Independência e 66º da Repúbl
 <strong>GETÚLIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 28 de agosto de 1954: p. 14779 (a partir de CLÁUSULAS A QUE SE REFERE O DECRETO N.º 36.017, até N. 21.546).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 28 de agosto de 1954, p. 14779: fac-símile da página inteira](../assets/dou/1954/DO_1_19540828_197-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540828_197.PDF` (SHA-256 `dc3f8fb31eeb70f676440df97bf553e76937bc0ad0f253ea3004139c78e70a70`), páginas 3 do PDF. SHA-256 das imagens, na ordem: `8ad2946490966fe85edf9bcab8628a93f33d7bff08ee5a091b0e025ecf6358de`.
+
+<!-- fac-simile-oficial:fim -->

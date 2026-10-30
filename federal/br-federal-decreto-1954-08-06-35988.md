@@ -19,3 +19,19 @@ Rio de Janeiro, 6 de agôsto de 1954; 133º da Independência e 66º da Repúbli
 <strong>GETÚLIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 11 de agosto de 1954: p. 13916 (a partir de CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.988); p. 13917 (até N. 20.566).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 11 de agosto de 1954, p. 13916: fac-símile da página inteira](../assets/dou/1954/DO_1_19540811_183-p12.png)
+
+![Diário Oficial da União, Seção I, 11 de agosto de 1954, p. 13917: fac-símile da página inteira](../assets/dou/1954/DO_1_19540811_183-p13.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540811_183.PDF` (SHA-256 `72b00280ad462e78540f9714fdf0750de5e455f6fb1b0b4939225626bebf6fce`), páginas 12, 13 do PDF. SHA-256 das imagens, na ordem: `434d4a7aa6e248e87152c06cc174c1d6f31d809c9314b7c9d877dc4518cb45be`, `9d3d336cb20b0551eaf70cff7458971cc6005854d7298cfdd158b764a4541142`.
+
+<!-- fac-simile-oficial:fim -->
