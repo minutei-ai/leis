@@ -19,3 +19,19 @@ Rio de Janeiro, 13 de janeiro de 1956; 135º da Independência e 68º da Repúbl
 <strong>NEREU RAMOS</strong>
 
 Lucas Lopes
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 21 de janeiro de 1956: p. 1187 (a partir de «Cláusulas a que se refere o Decreto n.º 38.563, desta data»); p. 1188 (até «N.º 1.522 — 18-1-956 — Cr$ 714,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 21 de janeiro de 1956, p. 1187: fac-símile da página inteira](../assets/dou/1956/DO_1_19560121_018-p03.png)
+
+![Diário Oficial da União, Seção I, 21 de janeiro de 1956, p. 1188: fac-símile da página inteira](../assets/dou/1956/DO_1_19560121_018-p04.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560121_018.PDF` (SHA-256 `36b27f4d8439990e0e2d8e49f8a3a509d09b04c3d8931c9846051b462971203b`), páginas 3, 4 do PDF. SHA-256 das imagens, na ordem: `68a0530c8138fffffdcdb014507e9baa00647fae7bde1ad40f7f4c5f17c5f141`, `9bbd1e646b186300b4440a491e49c1e154749c87aae761cdc31faa1c6f47d83e`.
+
+<!-- fac-simile-oficial:fim -->

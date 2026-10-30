@@ -49,3 +49,17 @@ a) se, em todo o tempo, for verificada inobservância das disposições contidas
 <u><strong>LEIA-SE</strong></u>:
 
 a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>e</em>, <em>(in fine</em>), j, <em>l</em> e <em>m</em> da clausula III.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 28 de março de 1956: p. 5969 (a partir de «Cláusulas a que se refere o Decreto n.º 38.084 desta data», até «N.º 9.634 — 26-3-956 — Cr$ 816,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 28 de março de 1956, p. 5969: fac-símile da página inteira](../assets/dou/1956/DO_1_19560328_074-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560328_074.PDF` (SHA-256 `62b8611cc4ad944d6a0bfea92a36bbfde935ba50ecdf7bacf06b262ee3450cfd`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `be7fe956d38ff8fad2d45fe348e85535163ab387c9902c4d8f7892fa561ec11b`.
+
+<!-- fac-simile-oficial:fim -->

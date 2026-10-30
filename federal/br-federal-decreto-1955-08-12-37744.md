@@ -19,3 +19,19 @@ Rio de Janeiro, 12 de agôsto de 1955; 134º da Independência e 57º da Repúbl
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Octavio Marcondes Ferraz
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 18 de agosto de 1955: p. 15830 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 37.744, DESTA DATA»); p. 15831 (até «N.º 22.839 — 16-8-55 — Cr$ 765,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 18 de agosto de 1955, p. 15830: fac-símile da página inteira](../assets/dou/1955/DO_1_19550818_188-p06.png)
+
+![Diário Oficial da União, Seção I, 18 de agosto de 1955, p. 15831: fac-símile da página inteira](../assets/dou/1955/DO_1_19550818_188-p07.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550818_188.PDF` (SHA-256 `865c6d10cd1463b51ed2d3c923cbca49c712fa5102d60888a967d2c7e5635433`), páginas 6, 7 do PDF. SHA-256 das imagens, na ordem: `ff5a5d5d69b5d8ba85859fc4bbde188a4ec0139ad8ceef3e8b03c896008d4c96`, `93238b6c0350029ead23e5eb0e920390a4e5387c514f141c6567d1fb01cb3eb7`.
+
+<!-- fac-simile-oficial:fim -->

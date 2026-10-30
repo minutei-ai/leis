@@ -19,3 +19,19 @@ Rio de Janeiro, em 8 de agôsto de 1955; 134º da Independência e 67º da Repú
 <strong>JOÃO CAFÉ FILHO</strong>
 
 bMunhoz da Rocha
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 11 de agosto de 1955: p. 15445 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 37.717, DESTA DATA»); p. 15446 (até «N. 22.571 — 10-8-55 — Cr$ 765,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 11 de agosto de 1955, p. 15445: fac-símile da página inteira](../assets/dou/1955/DO_1_19550811_183-p05.png)
+
+![Diário Oficial da União, Seção I, 11 de agosto de 1955, p. 15446: fac-símile da página inteira](../assets/dou/1955/DO_1_19550811_183-p06.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550811_183.PDF` (SHA-256 `a82e13eaa5bbaaf86146b7da5bcc0f6359d37f2a1644a38d3c7b63392d9bfad2`), páginas 5, 6 do PDF. SHA-256 das imagens, na ordem: `fdcd824f777e048bd728ea9adf317fe0eac25cde96bbf443086058c0a2995cab`, `353e8b24568c0155d5e1780333bc83e3443763a9a78053e6550514b53f9b84f8`.
+
+<!-- fac-simile-oficial:fim -->

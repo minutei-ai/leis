@@ -19,3 +19,19 @@ Rio de Janeiro, 21 de outubro de 1955; 134º da Independência e 67º da Repúbl
 <strong>JOSÉ CAFÉ FILHO</strong>
 
 Octavio Marcondes Ferraz
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 24 de outubro de 1955: p. 19778 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO NÚMERO 38.127, DESTA DATA»); p. 19779 (até «N.º 27.063 — Cr$ 816,00 — 21-10-55»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 24 de outubro de 1955, p. 19778: fac-símile da página inteira](../assets/dou/1955/DO_1_19551024_243-p10.png)
+
+![Diário Oficial da União, Seção I, 24 de outubro de 1955, p. 19779: fac-símile da página inteira](../assets/dou/1955/DO_1_19551024_243-p11.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19551024_243.PDF` (SHA-256 `589b6c9db9eca0b820901b7c235302f29d1ef013dad940b35185d6afdd034052`), páginas 10, 11 do PDF. SHA-256 das imagens, na ordem: `20018295f3876508c532bbce499f64983df8f4396a4a4e6d708349bf26e3c43a`, `0aa9ddee5eec30807ced25b8f7f6ad38aec5405c2aa4e1537a14b1d3fe938ef3`.
+
+<!-- fac-simile-oficial:fim -->

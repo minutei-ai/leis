@@ -19,3 +19,19 @@ Rio de Janeiro, 24 de janeiro de 1956; 135º da Independência e 68º da Repúbl
 <strong>NEREU RAMOS</strong>
 
 Lucas Lopes
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 4 de fevereiro de 1956: p. 2090 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.646, DESTA DATA», no pé da metade direita da página); p. 2091 (até «N.º 2.350 — 26-1-56 — Cr$ 612,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 4 de fevereiro de 1956, p. 2090: fac-símile da página inteira](../assets/dou/1956/DO_1_19560204_030-p02.png)
+
+![Diário Oficial da União, Seção I, 4 de fevereiro de 1956, p. 2091: fac-símile da página inteira](../assets/dou/1956/DO_1_19560204_030-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560204_030.PDF` (SHA-256 `8e1892bca01082877c3d5081a9dbbd05433456d99da705c26d36d1904cacd419`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `bb6f21832dc3b1008c3d382b931a2571c7ba8e3e93a4dca77f8ec90e57a88733`, `5f22baefa35e76f614f5ff63342af195665097c1698739eb892c510a50b8fb94`.
+
+<!-- fac-simile-oficial:fim -->
