@@ -15,3 +15,19 @@ Rio de Janeiro, 28 de fevereiro de 1955; 134º da Independência e 67º da Repú
 <strong>JOAO CAFÉ FILHO</strong>
 
 Napoleão de Alencastro Guimarães
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 7 de março de 1955: página 4 do PDF (a partir de «CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 36.960, DESTA DATA»); página 5 do PDF (continuação, até «(N.º 5.227. 2 de março de 1955. — Cr$ 969,00)»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 7 de março de 1955, página 4 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550307_054-p04.png)
+
+![Diário Oficial da União, Seção I, 7 de março de 1955, página 5 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550307_054-p05.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550307_054.PDF` (SHA-256 `b5142c5c6c75b90c25be6d07af3307f114cef77fa6a50268cf01f725359abc65`), páginas 4, 5 do PDF. SHA-256 das imagens, na ordem: `cebeb980254dddf9d064a1614ccc490f766781cdd5a0744db6d5c2321eeea4d4`, `fe9ef5e8130546fbc41cef50f8e362c25e38c092427f2c8e2ee5786bd18e6303`.
+
+<!-- fac-simile-oficial:fim -->
