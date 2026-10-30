@@ -19,3 +19,17 @@ Brasília, 22 de maio de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 24 de maio de 1968: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO Nº 62.754, DE 22 DE MAIO DE 1968», até «Nº 20.401 — 15-5-68 — NCr$ 103,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 24 de maio de 1968, página 2 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19680524_099-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19680524_099.PDF` (SHA-256 `bffe44749e8abc85c71186d302b55f176a8a3c6b7397a113a326406cecf7fd7b`), páginas 2 do PDF. SHA-256 das imagens, na ordem: `d493c73a200edd775e61591d812ee50f4e731a0cac78bc234907383e649b7817`.
+
+<!-- fac-simile-oficial:fim -->

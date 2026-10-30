@@ -19,3 +19,17 @@ Brasília, 10 de dezembro de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 13 de dezembro de 1968: página 3 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 63.759, DE 10 DE DEZEMBRO DE 1968», até «Nº 46.316 — 3.12.68 — NCr$ 88,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 13 de dezembro de 1968, página 3 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681213_241-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19681213_241.PDF` (SHA-256 `b575816d1d1b5f142def16e348921589aaa4aad06aa1cbb188efae22ec96702d`), páginas 3 do PDF. SHA-256 das imagens, na ordem: `fd02acab6c9c2fbbca337435dfff0b3a251d7bc79689d928a0a4e9d9093f2449`.
+
+<!-- fac-simile-oficial:fim -->

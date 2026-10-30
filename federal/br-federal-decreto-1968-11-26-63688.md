@@ -19,3 +19,19 @@ Brasília, 26 de novembro de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 29 de novembro de 1968: página 4 do PDF (a partir de «Cláusulas a que se refere o Decreto nº 63.688, de 26 de novembro de 1968»); página 5 do PDF (até «Nº 44.767 — 21-11-68 — NCr$ 97,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 29 de novembro de 1968, página 4 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681129_231-p04.png)
+
+![Diário Oficial da União, Seção I, 29 de novembro de 1968, página 5 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681129_231-p05.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19681129_231.PDF` (SHA-256 `1d574a3f40cc8573061dc1e08f0e4c052b0db13a064d11e33a08fd5b64e4769d`), páginas 4, 5 do PDF. SHA-256 das imagens, na ordem: `ada70e1397ecff34a3dce87170512ac8ebf81891ecd0f7bcc8d3f5ef310cb142`, `a2f761c62bb40420eadd4684bc278d1297cb3eda071acfde9cbe2daae5bfd2fc`.
+
+<!-- fac-simile-oficial:fim -->

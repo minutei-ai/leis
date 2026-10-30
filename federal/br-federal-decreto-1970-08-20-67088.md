@@ -19,3 +19,19 @@ Brasília, 20 de agôsto de 1970; 149º da Independência e 82º da República.
 <strong>EMÍLIO G MÉDICI</strong>
 
 Hygino C Corsetti
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 21 de agosto de 1970: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO Nº 67.088 — DE 20 DE AGOSTO DE 1970»); página 3 do PDF (até «Nº 3.053-B — 18.8.70 — Cr$ 93,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 21 de agosto de 1970, página 2 do PDF: fac-símile da página inteira](../assets/dou/1970/DO_1_19700821_157-p02.png)
+
+![Diário Oficial da União, Seção I, 21 de agosto de 1970, página 3 do PDF: fac-símile da página inteira](../assets/dou/1970/DO_1_19700821_157-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19700821_157.PDF` (SHA-256 `ff4cd713b948dc1991852b71c14f5ff01ee8d8599ddfe0c5c504b10194427ab9`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `96acf75a6856d5cd2f2566ad14bb7c8d3fd884064aebc5efb079bffff5e2ec92`, `76fdff5953e66269952fc2d354655a09ed82bdd84044faf3eb9fea8ced34ade8`.
+
+<!-- fac-simile-oficial:fim -->

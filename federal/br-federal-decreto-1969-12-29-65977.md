@@ -19,3 +19,17 @@ Brasília, 29 de dezembro de 1969; 148º da Independência e 81º da República.
 <strong>EMÍLIO G. MÉDICI</strong>
 
 Hygino C. Corsetti
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 30 de dezembro de 1969: página 2 do PDF (a partir de «Cláusulas a que se refere o Decreto nº 65.977 de 29 de dezembro de 1969», até «Nº 4.266-B — 24-12-69 — NCr$ 87,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 30 de dezembro de 1969, página 2 do PDF: fac-símile da página inteira](../assets/dou/1969/DO_1_19691230_249-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19691230_249.PDF` (SHA-256 `089d950d914eeb1227c55947b9bd5fe6694f59bb06fcf083067e6ef8ebbce66f`), páginas 2 do PDF. SHA-256 das imagens, na ordem: `257c3f31d40cdafca3d387e70fc7cf6f4b1a5e391fcfd23c3b7b8482e8767ccf`.
+
+<!-- fac-simile-oficial:fim -->

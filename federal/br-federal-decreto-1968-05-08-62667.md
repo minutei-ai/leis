@@ -19,3 +19,17 @@ Brasília, 8 de maio de 1968;147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 13 de maio de 1968: página 1 do PDF (capa do caderno) (a partir de «Cláusulas a que se refere o Decreto nº 62.667 de 8 de maio de 1968», até «Nº 1.684 — 7.5.68 — NCr$ 97,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 13 de maio de 1968, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1968/DO_1_19680513_090-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19680513_090.PDF` (SHA-256 `5f34ea74cd3f37799bd3b28654e0fba54f68156c92544f46aabee52a07b80a66`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `f5630864fb1c55a2c8d3e99641b6388b76d4943f0aed307cc4308e4bac892024`.
+
+<!-- fac-simile-oficial:fim -->

@@ -19,3 +19,17 @@ Brasília, 19 de novembro de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 25 de novembro de 1968: página 1 do PDF (capa do caderno) (a partir de «Cláusula a que se refere o Decreto Nº 63.633 de 19 de novembro de 1968», até «Nº 3.464-B — 14-11-68 — NCr$ 75,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 25 de novembro de 1968, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1968/DO_1_19681125_227-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19681125_227.PDF` (SHA-256 `3121cae460ae99c2716b5d207b482a0add127e3633df081051e453da89f3f957`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `b88a12d14ec8a58aa74ed53e3cfcdc1b841b4d832313b87993079b3c43ae4886`.
+
+<!-- fac-simile-oficial:fim -->

@@ -19,3 +19,19 @@ Brasília, 5 de novembro de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 7 de novembro de 1968: página 2 do PDF (a partir de «Cláusulas a que se refere o Decreto nº 63.547, de 5 de novembro de 1968», e a margem direita desta página está cortada na própria digitalização e as linhas da quarta coluna perdem os últimos caracteres); página 3 do PDF (até «Nº 42.000 — 29-10-68 — NCr$ 94,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 7 de novembro de 1968, página 2 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681107_216-p02.png)
+
+![Diário Oficial da União, Seção I, 7 de novembro de 1968, página 3 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681107_216-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19681107_216.PDF` (SHA-256 `c2a595c6e44d443b988df243d85e6973b5d6528de1651b55dd50466c21946be6`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `080f56c2bedad3622d39a75ad33466c508b960e84d036913674d4c8c7c7a25eb`, `e8a89d543579e6c8811452929fb5ec45f95416844209aea23281963bb9ea41e7`.
+
+<!-- fac-simile-oficial:fim -->
