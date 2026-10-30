@@ -1,0 +1,22 @@
+name: Extrair páginas oficiais para revisão
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/dou-review.yml'
+      - 'scripts/dou-review*'
+permissions:
+  contents: read
+jobs:
+  extract:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y poppler-utils
+      - run: python3 scripts/dou-review.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: dou-paginas-para-revisao
+          path: dou-review-output/
+          retention-days: 14
