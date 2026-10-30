@@ -21,3 +21,19 @@ Rio de Janeiro, em 19 de julho de 1956; 135º da Independência e 68º da Repúb
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 23 de julho de 1956: página 9 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 39.630 DESTA DATA»); página 10 do PDF (até «N.º 22.817 — 21-7-56 — Cr$ 663,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 23 de julho de 1956, página 9 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560723_169-p09.png)
+
+![Diário Oficial da União, Seção I, 23 de julho de 1956, página 10 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560723_169-p10.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560723_169.PDF` (SHA-256 `acdcb4156923d9a32be8b1dd94f6ee6a005106e8c2fb342a297a3f579c7987ee`), páginas 9, 10 do PDF. SHA-256 das imagens, na ordem: `4c4ef5991e37c02896929d461d15eda0dee185d905f990eb7a75ecd4ef64f843`, `1aa52537ef1a4f0add779b82710f9e4005a449a166edfcb5c9bb40774bb45d2e`.
+
+<!-- fac-simile-oficial:fim -->

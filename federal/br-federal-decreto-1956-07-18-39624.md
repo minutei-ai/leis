@@ -19,3 +19,19 @@ Rio de Janeiro, em 18 de julho de 1956; 135º da Independência e 68º da Repúb
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 19 de julho de 1956: página 8 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 39.624, DESTA DATA»); página 9 do PDF (até «N.º 22.683 — Cr$ 816,00 — 19-7-56»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 19 de julho de 1956, página 8 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560719_166-p08.png)
+
+![Diário Oficial da União, Seção I, 19 de julho de 1956, página 9 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560719_166-p09.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560719_166.PDF` (SHA-256 `f802220b7ae45edb9d463e2cd38981bcffb0fd524628f9ce9cf9b70c5c437932`), páginas 8, 9 do PDF. SHA-256 das imagens, na ordem: `0131f650f0838b808472e253ccb526d53dd50bb315b6b4ac32223910a22abf4b`, `1ccbed008845d33ea806e4c8f79ad5ef6da2e7d1c08dc6dd96254095af12829e`.
+
+<!-- fac-simile-oficial:fim -->

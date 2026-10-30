@@ -19,3 +19,17 @@ Rio de Janeiro, 30 de janeiro de 1956; 135º da Independência e 68º da Repúbl
 <strong>NEREU RAMOS</strong>
 
 Lucas Lopes
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 7 de fevereiro de 1956: página 6 do PDF (a partir de «Cláusulas a que se refere o Decreto n.º 38.718, desta data», até «N.º 2.719 — 1-2-56 — Cr$ 816,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 7 de fevereiro de 1956, página 6 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560207_032-p06.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560207_032.PDF` (SHA-256 `bc431d40dc43802c0d55110dab859a612efad32bb8f5a5d2c275a9292a200fd6`), páginas 6 do PDF. SHA-256 das imagens, na ordem: `8b4c622a0810a8583df4624952258fc48659fa52fb2e7335171014bdd85c611b`.
+
+<!-- fac-simile-oficial:fim -->

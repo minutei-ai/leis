@@ -24,13 +24,13 @@ Octávio Marcondes Ferraz
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 14 de junho de 1955: p. 11635 (a partir de «CLÁUSULAS A QUE SE REFEREM O DECRETO N.º 37.369 DESTA DATA»); p. 11636 (até «N.º 17.706 — 8-6-55 — Cr$ 1.122,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 14 de junho de 1955: página 3 do PDF (a partir de «CLÁUSULAS A QUE SE REFEREM O DECRETO N.º 37.369 DESTA DATA»); página 4 do PDF (até «N.º 17.706 — 8-6-55 — Cr$ 1.122,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 14 de junho de 1955, p. 11635: fac-símile da página inteira](../assets/dou/1955/DO_1_19550614_135-p03.png)
+![Diário Oficial da União, Seção I, 14 de junho de 1955, página 3 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550614_135-p03.png)
 
-![Diário Oficial da União, Seção I, 14 de junho de 1955, p. 11636: fac-símile da página inteira](../assets/dou/1955/DO_1_19550614_135-p04.png)
+![Diário Oficial da União, Seção I, 14 de junho de 1955, página 4 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550614_135-p04.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550614_135.PDF` (SHA-256 `69dfffc9df246c3cf27264ea15114803265aa1e91610363f12951c6d565f0705`), páginas 3, 4 do PDF. SHA-256 das imagens, na ordem: `44dee6e3f8dd9974e103bc61a1430806b6d80b6d38a9f0002b0b76f3c5cdaca7`, `a4d58c92f753f4dd51f204b56c58b29963e4ea08d8d60da2b7fad5a31f1074ed`.
 

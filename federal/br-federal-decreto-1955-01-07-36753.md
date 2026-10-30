@@ -24,13 +24,13 @@ Lucas Lopes
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 3 de fevereiro de 1955: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «Cláusulas a que se refere o Decreto n. 36.753 desta data»); p. 1706 (até «N.º 2.433 — Cr$ 765,00 — 31-1-55»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 3 de fevereiro de 1955: página 1 do PDF (capa do caderno) (a partir de «Cláusulas a que se refere o Decreto n. 36.753 desta data»); página 2 do PDF (até «N.º 2.433 — Cr$ 765,00 — 31-1-55»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 3 de fevereiro de 1955, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19550203_028-p01.png)
+![Diário Oficial da União, Seção I, 3 de fevereiro de 1955, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1955/DO_1_19550203_028-p01.png)
 
-![Diário Oficial da União, Seção I, 3 de fevereiro de 1955, p. 1706: fac-símile da página inteira](../assets/dou/1955/DO_1_19550203_028-p02.png)
+![Diário Oficial da União, Seção I, 3 de fevereiro de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550203_028-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550203_028.PDF` (SHA-256 `d45a7010523fa8b4f9adb3ed26521d80038522deb47f192e030e9a67dc2662e0`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `a125144e087067e1c2de7812d12e7c4d386cc0844a8302c8df9f031d6ef48285`, `5a1ef9fbc1d2937ea683d4e59be08c8dcb00ffbdc20b55239f14b2132e1dc243`.
 

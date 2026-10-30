@@ -21,3 +21,19 @@ Rio de Janeiro, 7 de junho de 1956; 135º da Independência e 68º da República
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 11 de junho de 1956: página 5 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 39.326, DESTA DATA»); página 6 do PDF (até «N.º 18.763 — 8-6-56 — Cr$ 765,00», com a margem direita da página, cortada na própria digitalização, fora das colunas desta peça).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 11 de junho de 1956, página 5 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560611_133-p05.png)
+
+![Diário Oficial da União, Seção I, 11 de junho de 1956, página 6 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560611_133-p06.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560611_133.PDF` (SHA-256 `1d6f3798a609b261c5c7df2a58be8a2158c6c0f2f4caaf675aea6a11875716d9`), páginas 5, 6 do PDF. SHA-256 das imagens, na ordem: `0cbfe492d076640b8939d6ad64786f3c78db9867038bf9367de20d583812029e`, `74d94cbdd6d18d90b556164756711c58d765e6ae8080e17c21ca9898a0026d98`.
+
+<!-- fac-simile-oficial:fim -->

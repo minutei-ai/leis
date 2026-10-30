@@ -19,3 +19,17 @@ Rio de Janeiro, em 16 de novembro de 1956; 135º da Independência e 68º da Rep
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 1 de dezembro de 1956: página 3 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 40.356, DESTA DATA», até «N. 34.154 — 28-11-56 — Cr$ 816,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 1 de dezembro de 1956, página 3 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561201_276-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19561201_276.PDF` (SHA-256 `e842f5bc06b1b4bce345a36889d3f347bcc692349f8820920b8ec746d41eac9b`), páginas 3 do PDF. SHA-256 das imagens, na ordem: `98f4a7d4b80cf1dc9c915cb4a7ee6a1332096170d3e1c972874d8ff481bf4ca2`.
+
+<!-- fac-simile-oficial:fim -->

@@ -24,13 +24,13 @@ Octávio Marcondes Ferraz
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 25 de agosto de 1955: p. 16298 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 37.777, DESTA DATA»); p. 16299 (até «N.º 23.239 — 18-8-55 — Cr$ 744,60»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 25 de agosto de 1955: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 37.777, DESTA DATA»); página 3 do PDF (até «N.º 23.239 — 18-8-55 — Cr$ 744,60»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 25 de agosto de 1955, p. 16298: fac-símile da página inteira](../assets/dou/1955/DO_1_19550825_194-p02.png)
+![Diário Oficial da União, Seção I, 25 de agosto de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550825_194-p02.png)
 
-![Diário Oficial da União, Seção I, 25 de agosto de 1955, p. 16299: fac-símile da página inteira](../assets/dou/1955/DO_1_19550825_194-p03.png)
+![Diário Oficial da União, Seção I, 25 de agosto de 1955, página 3 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550825_194-p03.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550825_194.PDF` (SHA-256 `83f164aabaac1920d8c419dc7b860757174a9a05657d5c161b8f6dbda9461abb`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `4aa19c9350a7c5bb012c1492e0af58ed244224b4c1adc0acfcc0417f685c22ef`, `ce9984d14b296515cc1dad3506af2100e8c260040ff23695d55607d6688b7060`.
 

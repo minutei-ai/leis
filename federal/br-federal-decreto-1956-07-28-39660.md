@@ -19,3 +19,19 @@ Rio de Janeiro, 28 de julho de 1956; 135º da Independência e 68º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 3 de setembro de 1956: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULA A QUE SE REFERE O DECRETO N.º 39.660 DESTA DATA»); página 2 do PDF (até «N.º 26.027 — 31-8-56 — Cr$ 765,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 3 de setembro de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560903_204-p01.png)
+
+![Diário Oficial da União, Seção I, 3 de setembro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560903_204-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560903_204.PDF` (SHA-256 `32b2511339badd95e3622493f4e7b9abd9a452079cd92029bbe667f05eaa2f3c`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `98652646b1b8b712c269e532475d4db402abe6aba9dd143bdef565795c5444cf`, `66a86f47ce0ec2f48022a2f13cddbc31ed7c1fc4db09a7b38b40cb80d660dbf1`.
+
+<!-- fac-simile-oficial:fim -->

@@ -24,13 +24,13 @@ Lucas Lopes
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 9 de fevereiro de 1956: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.590 DESTA DATA»); p. 2394 (até «N.º 3.191 — 7-2-956 — Cr$ 612,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 9 de fevereiro de 1956: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.590 DESTA DATA»); página 2 do PDF (até «N.º 3.191 — 7-2-956 — Cr$ 612,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 9 de fevereiro de 1956, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1956/DO_1_19560209_034-p01.png)
+![Diário Oficial da União, Seção I, 9 de fevereiro de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560209_034-p01.png)
 
-![Diário Oficial da União, Seção I, 9 de fevereiro de 1956, p. 2394: fac-símile da página inteira](../assets/dou/1956/DO_1_19560209_034-p02.png)
+![Diário Oficial da União, Seção I, 9 de fevereiro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560209_034-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560209_034.PDF` (SHA-256 `00b248d204925c42d2f05969bd6bc02811d5d655d325e72d04c0d9448a00f329`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `6d7ec23eda132f98d402e1ac029bc477f1aae0f2f19d6d573d523668426a26d2`, `36440f1c0e3c4b5d7b7f2f2fb397caab3e963de838efb1e10923f52e5e21e707`.
 

@@ -19,3 +19,19 @@ Rio de Janeiro, em 16 de novembro de 1956; 135º da Independência e 68º da Rep
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 21 de novembro de 1956: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 40.355, DESTA DATA»); página 2 do PDF (até «N.º 33.159 — 19-11-56 — Cr$ 816,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 21 de novembro de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19561121_267-p01.png)
+
+![Diário Oficial da União, Seção I, 21 de novembro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561121_267-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19561121_267.PDF` (SHA-256 `759c3ee8be9c8fa23f6dce179eea4ee92af053b64af9a838b10d132dd24d28af`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `66f171f70925773e2c6131b8bbcf57f6c2930c7fae925fb86d4d2beb4a7056ba`, `a10ed580ce907bc8726322ee1637ace139bf07aecc2e7c2ba66501ffd67f3fb2`.
+
+<!-- fac-simile-oficial:fim -->

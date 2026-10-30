@@ -24,13 +24,13 @@ José Américo
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 1 de julho de 1954: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.655); p. 11642 (até N. 17.676).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 1 de julho de 1954: página 1 do PDF (capa do caderno) (a partir de CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.655); página 2 do PDF (até N. 17.676).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 1 de julho de 1954, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1954/DO_1_19540701_148-p01.png)
+![Diário Oficial da União, Seção I, 1 de julho de 1954, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1954/DO_1_19540701_148-p01.png)
 
-![Diário Oficial da União, Seção I, 1 de julho de 1954, p. 11642: fac-símile da página inteira](../assets/dou/1954/DO_1_19540701_148-p02.png)
+![Diário Oficial da União, Seção I, 1 de julho de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540701_148-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540701_148.PDF` (SHA-256 `f1b905c23c4acf58fe507f9492348bab25d92fd7929b98930b8fe72f1710c0a9`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `a0ac29b5b1f33c467e23d42ec6b5cacb442489ae94e9d8aedd2f495d9482f98a`, `eb80f6cf4ae71b1b56da4328b5ed6cbb0b304866a1fa85b1f82174831e7bcaaa`.
 

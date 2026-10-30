@@ -21,3 +21,19 @@ Rio de Janeiro, 25 de janeiro de 1956; 135º da Independência e 68º da Repúbl
 <strong>NEREU RAMOS</strong>
 
 Lucas Lopes
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 10 de abril de 1956: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.651, DESTA DATA»); página 2 do PDF (até «N.º 11.113 — 6-4-56 — Cr$ 612,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 10 de abril de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560410_083-p01.png)
+
+![Diário Oficial da União, Seção I, 10 de abril de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560410_083-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560410_083.PDF` (SHA-256 `dc7ba21970578229382575d6f213c40056e48356c372372a5bcddd2faf14bd7d`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `24bfd04806ab2b82fa13caa10ed9e58f17ba071fd110c32bd65c3e43b705c4d3`, `5f65fb187575f6b69bb9685b056b365ffe895755e0e3cb2f807234ba73d9071c`.
+
+<!-- fac-simile-oficial:fim -->

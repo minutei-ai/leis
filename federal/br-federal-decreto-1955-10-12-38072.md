@@ -24,13 +24,13 @@ Octávio Marcondes Ferraz
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 23 de dezembro de 1955: p. 23402 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.072, DESTA DATA»); p. 23403 (até «N.º 31.854 — 21-12-55 — Cr$ 867,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 23 de dezembro de 1955: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.072, DESTA DATA»); página 3 do PDF (até «N.º 31.854 — 21-12-55 — Cr$ 867,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 23 de dezembro de 1955, p. 23402: fac-símile da página inteira](../assets/dou/1955/DO_1_19551223_292-p02.png)
+![Diário Oficial da União, Seção I, 23 de dezembro de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19551223_292-p02.png)
 
-![Diário Oficial da União, Seção I, 23 de dezembro de 1955, p. 23403: fac-símile da página inteira](../assets/dou/1955/DO_1_19551223_292-p03.png)
+![Diário Oficial da União, Seção I, 23 de dezembro de 1955, página 3 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19551223_292-p03.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19551223_292.PDF` (SHA-256 `db10b3823d81cce62eb57c631e02d54c9e0b747342081b94a71b6037b8e79519`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `6ab580b1b18bed5a5ff81300eabb5d84126ebf2f5050263afe09dea7edca8819`, `ed8019421d9d3613eca5e24dbd56d1d9d3bee3174f2221cb77305b9dc1f48d10`.
 

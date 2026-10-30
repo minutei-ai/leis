@@ -19,3 +19,19 @@ Rio de Janeiro, de 31 de outubro de 1956; 135º da Independência e 68º da Rep�
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 5 de dezembro de 1956: página 4 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 40.254, DESTA DATA»); página 5 do PDF (até «N. 34.433 — 1-12-56 — Cr$ 714,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 5 de dezembro de 1956, página 4 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561205_279-p04.png)
+
+![Diário Oficial da União, Seção I, 5 de dezembro de 1956, página 5 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561205_279-p05.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19561205_279.PDF` (SHA-256 `17c4f48a2022e2d5bd60f369b01f3c4bfd58b7c1275d1b2ed0da4f3d52b3728d`), páginas 4, 5 do PDF. SHA-256 das imagens, na ordem: `c0b8f9f74163ac3ab3787992ff4f6dd44fbbefbeb9ac1f2cacee8df5d6e8897a`, `7d1dd54ea87e64b283563455264ad4da30f2998b7f37a368eaeacb066ea727d5`.
+
+<!-- fac-simile-oficial:fim -->

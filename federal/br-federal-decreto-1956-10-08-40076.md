@@ -19,3 +19,17 @@ Rio de Janeiro, 8 de outubro de 1956; 135º da Independência e 68º da Repúbli
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 15 de outubro de 1956: página 9 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 40.076, DESTA DATA», até «N.º 29.882 — 11-10-56 — Cr$ 918,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 15 de outubro de 1956, página 9 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561015_238-p09.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19561015_238.PDF` (SHA-256 `c6607f1ea2e8173db32996c6cffb68a559b1eb51c3b0f3ee016ae094292295da`), páginas 9 do PDF. SHA-256 das imagens, na ordem: `47c8debc358d261a9f5ddb2f2d7f5f804f8336a41f68b8488ceccf8d67d0f52d`.
+
+<!-- fac-simile-oficial:fim -->

@@ -24,13 +24,13 @@ José Américo
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 15 de julho de 1954: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.744); p. 12378 (até N. 18.270).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 15 de julho de 1954: página 1 do PDF (capa do caderno) (a partir de CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.744); página 2 do PDF (até N. 18.270).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 15 de julho de 1954, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1954/DO_1_19540715_160-p01.png)
+![Diário Oficial da União, Seção I, 15 de julho de 1954, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1954/DO_1_19540715_160-p01.png)
 
-![Diário Oficial da União, Seção I, 15 de julho de 1954, p. 12378: fac-símile da página inteira](../assets/dou/1954/DO_1_19540715_160-p02.png)
+![Diário Oficial da União, Seção I, 15 de julho de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540715_160-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540715_160.PDF` (SHA-256 `7faffc83de5a11c3371ff25f91b090363902177fecc651ca3325d37d50246011`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `2d1708a44e6799ed0de1ddc7fb3b8065f4d5d332e121b29427e197e181143019`, `ca7dd9aee35067a9ee5914e2c12401d7c4e96a90e324ae71f4102e1511595379`.
 

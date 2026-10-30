@@ -26,13 +26,13 @@ Lucas Lopes
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 7 de fevereiro de 1956: página 2 do PDF (numeração impressa ilegível na imagem) (a partir de «Cláusula a que se refere o Decreto n.º 38.611, desta data»); p. 2227 (até «N.º 2.230 — 25-1-56 — Cr$ 612,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 7 de fevereiro de 1956: página 2 do PDF (a partir de «Cláusula a que se refere o Decreto n.º 38.611, desta data»); página 3 do PDF (até «N.º 2.230 — 25-1-56 — Cr$ 612,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 7 de fevereiro de 1956, página 2 do PDF (numeração impressa ilegível na imagem): fac-símile da página inteira](../assets/dou/1956/DO_1_19560207_032-p02.png)
+![Diário Oficial da União, Seção I, 7 de fevereiro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560207_032-p02.png)
 
-![Diário Oficial da União, Seção I, 7 de fevereiro de 1956, p. 2227: fac-símile da página inteira](../assets/dou/1956/DO_1_19560207_032-p03.png)
+![Diário Oficial da União, Seção I, 7 de fevereiro de 1956, página 3 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560207_032-p03.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560207_032.PDF` (SHA-256 `bc431d40dc43802c0d55110dab859a612efad32bb8f5a5d2c275a9292a200fd6`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `56e15c5be35f2ff7e64117f50086fe95daed68dded53ce0f624c160ac6db0712`, `c705e5a082d814b9f8129f676d4b16b42e047b93781ee66b2f66ff3bef4a870b`.
 

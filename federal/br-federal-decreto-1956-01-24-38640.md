@@ -24,13 +24,13 @@ Lucas Lopes
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de fevereiro de 1956: p. 2146 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.640, DESTA DATA»); p. 2147 (até «N.º 2.198 — 25-1-56 — Cr$ 969,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de fevereiro de 1956: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.640, DESTA DATA»); página 3 do PDF (até «N.º 2.198 — 25-1-56 — Cr$ 969,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 6 de fevereiro de 1956, p. 2146: fac-símile da página inteira](../assets/dou/1956/DO_1_19560206_031-p02.png)
+![Diário Oficial da União, Seção I, 6 de fevereiro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560206_031-p02.png)
 
-![Diário Oficial da União, Seção I, 6 de fevereiro de 1956, p. 2147: fac-símile da página inteira](../assets/dou/1956/DO_1_19560206_031-p03.png)
+![Diário Oficial da União, Seção I, 6 de fevereiro de 1956, página 3 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560206_031-p03.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560206_031.PDF` (SHA-256 `c709a7d307c0cc6541f1a4c49c8f953c86a383d64dfeb37ba19200f975166a63`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `cc712d48869da7c32a5206252af9b87feafca66dd8002ad47ff20f0c9f2cb59a`, `ac996a1dc3ebe45e6b5077479efc7193f47a9331920a3b407471ef33431062ab`.
 

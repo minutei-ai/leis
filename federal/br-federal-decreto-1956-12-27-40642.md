@@ -19,3 +19,17 @@ Rio de Janeiro, 27 de dezembro de 1956; 135º da Independência e 68º da Repúb
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 5 de janeiro de 1957: página 6 do PDF (a partir de «Cláusulas a que se refere o Decreto n.º 40.642, desta data», até «N.º 465 — Em 4-1-57 — Cr$ 867,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 5 de janeiro de 1957, página 6 do PDF: fac-símile da página inteira](../assets/dou/1957/DO_1_19570105_004-p06.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19570105_004.PDF` (SHA-256 `e2fb27ec7cb4240470b78bc52094ff17fac1431b0507f502462654a2ec20e7a7`), páginas 6 do PDF. SHA-256 das imagens, na ordem: `81b5887d52425690470dcd327d18333da62833dc54e86b861330ba3e9617bfd5`.
+
+<!-- fac-simile-oficial:fim -->

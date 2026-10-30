@@ -19,3 +19,19 @@ Rio de Janeiro, 20 de novembro de 1956; 135º da Independência e 68º da Repúb
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 27 de novembro de 1956: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 40.391, DESTA DATA»); página 3 do PDF (até «N.º 33.615 — 23-11-56 — Cr$ 816,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 27 de novembro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561127_272-p02.png)
+
+![Diário Oficial da União, Seção I, 27 de novembro de 1956, página 3 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19561127_272-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19561127_272.PDF` (SHA-256 `a9f092ff30a5a9886bf230f723bc7aa40df9d0580bdd98d53bfa000b63c4c982`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `35f0e6ace1aebb6dc7bd0552cdf39df06ece783e87966bea0095ad5690efc236`, `be116541ef086bb71826a30a2981af9f1d1efc6f44492dc7a5e584b65e2e68e6`.
+
+<!-- fac-simile-oficial:fim -->

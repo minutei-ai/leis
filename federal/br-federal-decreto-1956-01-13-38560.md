@@ -24,13 +24,13 @@ Lucas Lopes
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de abril de 1956: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «Cláusula a que se refere o Decreto n.º 38.560 desta data»); p. 6562 (até «N.º 10.449 — 3-4-56 — Cr$ …612,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de abril de 1956: página 1 do PDF (capa do caderno) (a partir de «Cláusula a que se refere o Decreto n.º 38.560 desta data»); página 2 do PDF (até «N.º 10.449 — 3-4-56 — Cr$ …612,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 6 de abril de 1956, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1956/DO_1_19560406_080-p01.png)
+![Diário Oficial da União, Seção I, 6 de abril de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560406_080-p01.png)
 
-![Diário Oficial da União, Seção I, 6 de abril de 1956, p. 6562: fac-símile da página inteira](../assets/dou/1956/DO_1_19560406_080-p02.png)
+![Diário Oficial da União, Seção I, 6 de abril de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560406_080-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560406_080.PDF` (SHA-256 `a90540d5e35bac63fea65781e88d8c3ea864293bc5ba75f7c8def8079d050d83`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `cd99691158466b226e7fc198b86f9a5c1a2e38331404d77ff85368b167b2595e`, `35d1aedd5a90c97af3408a7e0d3a465fdb09f6dbc5aeadaec72595154401dc75`.
 

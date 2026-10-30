@@ -22,13 +22,13 @@ José Américo
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 31 de maio de 1954: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de CLÁUSULA A QUE SE REFERE O DECRETO N.º 35.496); p. 9770 (até N. 14.987).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 31 de maio de 1954: página 1 do PDF (capa do caderno) (a partir de CLÁUSULA A QUE SE REFERE O DECRETO N.º 35.496); página 2 do PDF (até N. 14.987).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 31 de maio de 1954, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1954/DO_1_19540531_122-p01.png)
+![Diário Oficial da União, Seção I, 31 de maio de 1954, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1954/DO_1_19540531_122-p01.png)
 
-![Diário Oficial da União, Seção I, 31 de maio de 1954, p. 9770: fac-símile da página inteira](../assets/dou/1954/DO_1_19540531_122-p02.png)
+![Diário Oficial da União, Seção I, 31 de maio de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540531_122-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540531_122.PDF` (SHA-256 `20de310de4a08155d97b82032b9c175c636c46892305471863db8ff9a8495570`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `d7beea5c0237c59c77eba132ca9b46dd497dfca757943906dfa1e5cb60800e33`, `a9b2a31faa722fa0fa879edf2d3a2d1d007b32179f6ff194e8186562b236d9ae`.
 

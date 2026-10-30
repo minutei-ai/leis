@@ -49,3 +49,19 @@ b) não forem pagas,...
 <u><strong>LEIA-SE:</strong></u>
 
 b) se não forem pagas,...
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 25 de setembro de 1956: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 39.999, DESTA DATA»); página 2 do PDF (até «N.º 27.731 — 21-9-56 — Cr$ 918,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 25 de setembro de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560925_221-p01.png)
+
+![Diário Oficial da União, Seção I, 25 de setembro de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560925_221-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560925_221.PDF` (SHA-256 `b6b5d9486a673ab9ae75c003cc6dd180b7f892dd44773f86cba0e23e463d68f8`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `7141c0c9499b1f2e7ca64660c3f826e0cf09ccd4faa111be0777315fe2a361a4`, `7d5c11625db5dea2b4d6510b3093357d23cdda07791a07b3a2254ea416cc0b93`.
+
+<!-- fac-simile-oficial:fim -->

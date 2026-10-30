@@ -24,13 +24,13 @@ Octávio Marcondes Ferraz
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 15 de dezembro de 1955: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.067, DESTA DATA»); p. 22834 (até «N.º 31.155 — 13-12-55 — Cr$ 816,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 15 de dezembro de 1955: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.067, DESTA DATA»); página 2 do PDF (até «N.º 31.155 — 13-12-55 — Cr$ 816,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 15 de dezembro de 1955, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19551215_285-p01.png)
+![Diário Oficial da União, Seção I, 15 de dezembro de 1955, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1955/DO_1_19551215_285-p01.png)
 
-![Diário Oficial da União, Seção I, 15 de dezembro de 1955, p. 22834: fac-símile da página inteira](../assets/dou/1955/DO_1_19551215_285-p02.png)
+![Diário Oficial da União, Seção I, 15 de dezembro de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19551215_285-p02.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19551215_285.PDF` (SHA-256 `5aa5c74a1d0679ef15318753985450e4ce5d696ce6b371d7bfdd943e69020d0d`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `2560813dfbcda6d588eb345f9d83f9c3065e129cb4df317c4f5d593b031dc983`, `ffbc2edcd5bde0c1efc48df6d593ccee0f9c80f8f6a5ba38c7e483212f47f48d`.
 

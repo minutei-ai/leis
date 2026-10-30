@@ -24,11 +24,11 @@ Octavio Marcondes Ferraz
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 18 de abril de 1956: p. 7612 (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.074 DESTA DATA», até «N.º 12.360 — 14-4-56 — Cr$ 867,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 18 de abril de 1956: página 4 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.074 DESTA DATA», até «N.º 12.360 — 14-4-56 — Cr$ 867,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 18 de abril de 1956, p. 7612: fac-símile da página inteira](../assets/dou/1956/DO_1_19560418_090-p04.png)
+![Diário Oficial da União, Seção I, 18 de abril de 1956, página 4 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560418_090-p04.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560418_090.PDF` (SHA-256 `00980fede310d11ddab71efed4aedc29ed72055ec1d3003c6676642e4e3c9b65`), páginas 4 do PDF. SHA-256 das imagens, na ordem: `a9b789f4df0e3acc049f66f8f4755850b1af7e5472c30a64d160cdb79b2b40db`.
 

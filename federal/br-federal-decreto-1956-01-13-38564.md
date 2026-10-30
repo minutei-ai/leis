@@ -24,11 +24,11 @@ Lucas Lopes
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de fevereiro de 1956: capa (1ª página do caderno, sem numeração impressa; página 1 do PDF) (a partir de «Cláusulas a que se refere o Decreto n.º 38.564, desta data», até «N.º 2.069 — 24-1-956 — Cr$ 867,00»).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 6 de fevereiro de 1956: página 1 do PDF (capa do caderno) (a partir de «Cláusulas a que se refere o Decreto n.º 38.564, desta data», até «N.º 2.069 — 24-1-956 — Cr$ 867,00»).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 6 de fevereiro de 1956, capa (1ª página do caderno, sem numeração impressa; página 1 do PDF): fac-símile da página inteira](../assets/dou/1956/DO_1_19560206_031-p01.png)
+![Diário Oficial da União, Seção I, 6 de fevereiro de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560206_031-p01.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560206_031.PDF` (SHA-256 `c709a7d307c0cc6541f1a4c49c8f953c86a383d64dfeb37ba19200f975166a63`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `5c643c70586516c71714fe96e182c6611429589ed6159af3d980cb163db0d7e5`.
 

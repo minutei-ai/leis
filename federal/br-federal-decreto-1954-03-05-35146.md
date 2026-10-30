@@ -24,13 +24,13 @@ José Américo
 
 ## Fac-símile oficial: cláusulas
 
-O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 12 de março de 1954: p. 3946 (a partir de CLÁUSULA A QUE SE REFERE O DECRETO N. 35.146); p. 3947 (até N. 5.616).
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 12 de março de 1954: página 2 do PDF (a partir de CLÁUSULA A QUE SE REFERE O DECRETO N. 35.146); página 3 do PDF (até N. 5.616).
 
-As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas nas colunas indicadas, e o texto do anexo só existe na imagem. Não há OCR validado.
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
 
-![Diário Oficial da União, Seção I, 12 de março de 1954, p. 3946: fac-símile da página inteira](../assets/dou/1954/DO_1_19540312_058-p02.png)
+![Diário Oficial da União, Seção I, 12 de março de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540312_058-p02.png)
 
-![Diário Oficial da União, Seção I, 12 de março de 1954, p. 3947: fac-símile da página inteira](../assets/dou/1954/DO_1_19540312_058-p03.png)
+![Diário Oficial da União, Seção I, 12 de março de 1954, página 3 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540312_058-p03.png)
 
 Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540312_058.PDF` (SHA-256 `2f7517ba7bd78701146160695cb4d7407f8479c62d87cc913943fbfee400c0cf`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `5bd1910add193972dd7951dd3cfa5a59180c7a57284d4b83ad1f667b05058c05`, `fa7ddcdb0f1e385d322c5714d7e5c2360b861cd222d833c587c2ecdecf51f0f8`.
 

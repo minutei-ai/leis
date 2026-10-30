@@ -19,3 +19,17 @@ Rio de Janeiro, 28 de maio de 1956; 135º da Independência e 68º da República
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 13 de junho de 1956: página 5 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 39.259, DESTA DATA», até «N.º 18.647 — 6-6-56 — Cr$ 918,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 13 de junho de 1956, página 5 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560613_135-p05.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560613_135.PDF` (SHA-256 `a4667f21cfa887b787034eddf23ae3a8ab737b8a8bd27801b941c327542a53aa`), páginas 5 do PDF. SHA-256 das imagens, na ordem: `e86f7cb5cc5be4a010231839771a110bf00f6fe295bd1d4de0ca2cff9c40d5da`.
+
+<!-- fac-simile-oficial:fim -->
