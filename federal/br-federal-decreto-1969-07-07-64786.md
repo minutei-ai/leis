@@ -19,3 +19,17 @@ Brasília, 7 de julho de 1969; 148º da Independência e 81º da República.
 <strong>A. COSTA E SILVA</strong>
 
 João Aristides Wittgem
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 10 de julho de 1969: página 2 do PDF (a partir de «Cláusulas a que se refere o Decreto nº 64.786, de 7 de julho de 1969», até «Nº 2.162-B — 1-7-69 — NCr$ 75,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 10 de julho de 1969, página 2 do PDF: fac-símile da página inteira](../assets/dou/1969/DO_1_19690710_129-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19690710_129.PDF` (SHA-256 `d1ed85908e79e640265759695a025a95b4bb228bf81941688b4109c20ef09605`), páginas 2 do PDF. SHA-256 das imagens, na ordem: `929a9d8371f02e0fbe24c9c1a918b55bf99affcef426a235a20fdd40f4be9ba3`.
+
+<!-- fac-simile-oficial:fim -->

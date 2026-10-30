@@ -19,3 +19,17 @@ Rio de Janeiro, 28 de junho de 1957; 136º da Independência e 69º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 4 de julho de 1957: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 41.734, DESTA DATA», até «N. 21.714 — 2-7-57 — Cr$ 969,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 4 de julho de 1957, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1957/DO_1_19570704_151-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19570704_151.PDF` (SHA-256 `75cb3a8873aeabfd0e3f4ad8f8329a4e40a504fdbdb0a6e8adeb514baf301e9a`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `361694c5946925cec85032a1d8f46c6f0bed674d3e596d42926e16ab563dcfa2`.
+
+<!-- fac-simile-oficial:fim -->

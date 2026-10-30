@@ -19,3 +19,19 @@ Rio de Janeiro, 23 de julho de 1958; 137º da Independência e 70º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 30 de julho de 1958: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 44.062 DESTA DATA»); página 3 do PDF (até «N. 24.172 — 24-7-58 — Cr$ 1.122,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 30 de julho de 1958, página 2 do PDF: fac-símile da página inteira](../assets/dou/1958/DO_1_19580730_171-p02.png)
+
+![Diário Oficial da União, Seção I, 30 de julho de 1958, página 3 do PDF: fac-símile da página inteira](../assets/dou/1958/DO_1_19580730_171-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580730_171.PDF` (SHA-256 `0dac60133d931564c5500369eda0417dfbcff450e159ea9dc933bee8db783fb2`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `0040e24ee5eea8d811b778a82c2a8065d57466204966188c4a17176593af6537`, `222e474295dc85a732b8ffd998d1b5ff218be625943d0f6fa643b69420cbe480`.
+
+<!-- fac-simile-oficial:fim -->

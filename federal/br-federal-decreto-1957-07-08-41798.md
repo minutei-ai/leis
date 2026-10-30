@@ -19,3 +19,19 @@ Rio de Janeiro, 8 de julho de 1957; 136º da Independência e 69º da República
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 26 de novembro de 1957: página 1 do PDF (capa do caderno) (a partir de «Cláusulas a que se refere o Decreto n. 41.798, desta data»); página 2 do PDF (até «N. 23.082 — 20-11-57 — Cr$ 969,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 26 de novembro de 1957, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1957/DO_1_19571126_271-p01.png)
+
+![Diário Oficial da União, Seção I, 26 de novembro de 1957, página 2 do PDF: fac-símile da página inteira](../assets/dou/1957/DO_1_19571126_271-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19571126_271.PDF` (SHA-256 `1507f0af7bd5ea413cfb9b094fa511511f550930f5fd6b55ed6425927c50f1ab`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `d44a67a5b322b8e3bdc196653d0f090b053795e770076b76f272649784611628`, `f6f8e82dfac20a4db35b1529a622bc8a77776c82e0ed2a4a684bab82b54f1dc9`.
+
+<!-- fac-simile-oficial:fim -->

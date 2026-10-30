@@ -19,3 +19,19 @@ Rio de Janeiro, 19 de maio de 1954; 133º da Independência e 66º da República
 <strong>GETÚLIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 12 de junho de 1954: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.535, DESTA DATA»); página 2 do PDF (até «Rio de Janeiro, 19 de maio de 1954. — José Américo.»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 12 de junho de 1954, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1954/DO_1_19540612_133-p01.png)
+
+![Diário Oficial da União, Seção I, 12 de junho de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540612_133-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540612_133.PDF` (SHA-256 `518c39ce23a19a48966ef073cacc8f4b4e4e64669da3b7fb929e62d2bab7024f`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `c8a3e3526f3cb25f826ba34796f414fa34c83dfa9a40f4e3d379767f1f615643`, `12e47610b206c0803003cda92205fe10aea5c8a492b829fabbe1bf9030ae7124`.
+
+<!-- fac-simile-oficial:fim -->

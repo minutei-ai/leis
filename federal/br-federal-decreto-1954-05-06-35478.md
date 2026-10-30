@@ -19,3 +19,17 @@ Rio de Janeiro, 6 de maio de 1954; 133º da Independência e 66º da República.
 <strong>GETULIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 18 de maio de 1954: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 35.478, DESTA DATA», até «N. 13.943 — 14-5-54 — Cr$ 663,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 18 de maio de 1954, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1954/DO_1_19540518_111-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540518_111.PDF` (SHA-256 `79f4014427cee4f0ae05385829d1604c08743a914b1b98b561d0a5ee148370da`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `6bc5570d8f3616dde8ccf73b4e5ecc82575ad8620de91112c93ded25e156e04e`.
+
+<!-- fac-simile-oficial:fim -->

@@ -21,3 +21,19 @@ Brasília, 11 de novembro de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F. de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 14 de novembro de 1968: página 9 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 63.581, DE 11 DE NOVEMBRO DE 1968»); página 10 do PDF (até «Nº 3.393-B — 8.11.68 — NCr$ 95,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 14 de novembro de 1968, página 9 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681114_221-p09.png)
+
+![Diário Oficial da União, Seção I, 14 de novembro de 1968, página 10 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19681114_221-p10.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19681114_221.PDF` (SHA-256 `8c285943a7a3ba9569ddb5af31ff5f160754e13191acb5790ab21647dc5aa8b9`), páginas 9, 10 do PDF. SHA-256 das imagens, na ordem: `a16b401fd7026d4926fbafc34462a4e390927470cccbe95c7078d6b68257a53d`, `2c8f72493160c14d40c2d8cfaedf5c669a5903d01956e9e10f96042cb331298b`.
+
+<!-- fac-simile-oficial:fim -->

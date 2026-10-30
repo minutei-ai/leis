@@ -21,3 +21,19 @@ Rio de Janeiro, 24 de abril de 1957; 136º da Independência e 69º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 5 de fevereiro de 1959: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 41.416, DESTA DATA»); página 2 do PDF (até «(3.276 — 30-1-59 — Cr$ 1.020,00)»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 5 de fevereiro de 1959, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1959/DO_1_19590205_030-p01.png)
+
+![Diário Oficial da União, Seção I, 5 de fevereiro de 1959, página 2 do PDF: fac-símile da página inteira](../assets/dou/1959/DO_1_19590205_030-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19590205_030.PDF` (SHA-256 `06f4b5864b1cf364dd07bc5f1e426b74dd5f170d09326a0a8fddea6b76b45c17`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `f08e8c146d41868aa8982574b63f6f41b3bcec95eaffc622fb6c540fad4f6f31`, `45e4401a085d04f90863a3c97f029b16cd7517adb257055930df2975392dc0de`.
+
+<!-- fac-simile-oficial:fim -->

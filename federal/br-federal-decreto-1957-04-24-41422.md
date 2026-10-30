@@ -19,3 +19,17 @@ Rio de Janeiro, 24 de abril de 1957; 136º da Independência e 69º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 13 de maio de 1957: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 41.422, DESTA DATA», até «N.º 16.195 — 10-5-57 — Cr$ 1.020,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 13 de maio de 1957, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1957/DO_1_19570513_108-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19570513_108.PDF` (SHA-256 `0873985f2e979c9761d2927b7b1adfb6eeabcbb7e5d0c9624e0649a24ed135eb`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `fb813b4ddcb0fbaf21ce41a37a8cf2a710cc298ba3a1d45081e2cb5467a7d506`.
+
+<!-- fac-simile-oficial:fim -->

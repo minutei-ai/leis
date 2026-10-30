@@ -19,3 +19,19 @@ Brasília, 21 de junho de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Carlos F de Simas
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 25 de junho de 1968: página 11 do PDF (a partir de «Cláusula a que se refere o Decreto nº 62.872 de 21 de junho de 1968», cabeçalho impresso com o número «62.872», que difere do número «62.882» do decreto impresso na mesma página, e a cláusula I trata da mesma concessão ao Governo do Estado do Rio Grande do Sul); página 12 do PDF (até «Nº 3.747-B — 19-6-68 — NCr$ 87,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 25 de junho de 1968, página 11 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19680625_120-p11.png)
+
+![Diário Oficial da União, Seção I, 25 de junho de 1968, página 12 do PDF: fac-símile da página inteira](../assets/dou/1968/DO_1_19680625_120-p12.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19680625_120.PDF` (SHA-256 `b895c63eee11627afcb96e00d8c4b8715630d8fd604bb58ad31e39728901e5f9`), páginas 11, 12 do PDF. SHA-256 das imagens, na ordem: `f74ef9bec11a39da9ff85d349af715e44c5561c31ed59888c528ba982934c476`, `3a3d6897204866c8d25eb92c0529030da99ac1e29f7e52b970e11b5f08376f13`.
+
+<!-- fac-simile-oficial:fim -->

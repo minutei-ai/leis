@@ -19,3 +19,19 @@ Rio de Janeiro, 24 de dezembro de 1954; 133º da Independência e 66º da Repúb
 <strong>JOÃO CAFÉ FILHO.</strong>
 
 Lucas Lopes.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 15 de janeiro de 1955: página 1 do PDF (capa do caderno) (a partir de «O DECRETO N.º 36.659, DESTA DATA», início da cláusula I); página 2 do PDF (até «N.º 1.059 — 13-1-55 — Cr$ 714,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 15 de janeiro de 1955, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1955/DO_1_19550115_012-p01.png)
+
+![Diário Oficial da União, Seção I, 15 de janeiro de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550115_012-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550115_012.PDF` (SHA-256 `8228b54ad757b1f80465bdec6ad19a987ab349f0e81ec0a164119f36e58736b8`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `4ba429ef6f2f4c3304cfa6a7fcfc5eeda88443a511e3cee5b20a4762291ee8f7`, `4d30ee85c8b7ecf73a28e9462d6b5e87a502b8ed34e20f8648a978f072b41ba5`.
+
+<!-- fac-simile-oficial:fim -->

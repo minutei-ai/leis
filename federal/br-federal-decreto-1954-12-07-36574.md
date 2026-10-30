@@ -19,3 +19,19 @@ Rio de Janeiro, 7 de dezembro de 1954; 133º da Independência e 66º da Repúbl
 <strong>JOÃO CAFÉ FILHO.</strong>
 
  Lucas Lopes.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 18 de fevereiro de 1955: página 1 do PDF (capa do caderno) (a partir de «Cláusulas a que se refere o decreto n.º 36.574, desta data»); página 2 do PDF (até «N.º 4.078 — 16-2-55 — Cr$ 663,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 18 de fevereiro de 1955, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1955/DO_1_19550218_041-p01.png)
+
+![Diário Oficial da União, Seção I, 18 de fevereiro de 1955, página 2 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19550218_041-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19550218_041.PDF` (SHA-256 `45e82debaf98a1bbe3b600ace18b5bb98933796f44e9f1849f3db1e4546511be`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `273e0f13ae9d4af8925c8f000c6a842b641e4fd348bd41122a9d31f4dba20f75`, `85ebc6cd67a70776e5ee4364c30f0411538b93cc812a855b891675f11215a7ed`.
+
+<!-- fac-simile-oficial:fim -->

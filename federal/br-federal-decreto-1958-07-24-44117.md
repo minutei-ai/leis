@@ -19,3 +19,17 @@ Rio de Janeiro, 24 de julho de 1958; 137º da Independência e 70º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 23 de abril de 1959: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO Nº 44.117, DESTA DATA», até «N.º 14.340 — 14-4-59 — Cr$ 969,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 23 de abril de 1959, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1959/DO_1_19590423_091-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19590423_091.PDF` (SHA-256 `e72d3533847aaa9517f04c4e5a2930974c0c56c9d3053fa25fcedd9544d34089`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `c8241587336d2dfb60ff7abe74ef2d5b60f5d029602a2a3e89856d7604021197`.
+
+<!-- fac-simile-oficial:fim -->

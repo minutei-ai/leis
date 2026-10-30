@@ -19,3 +19,19 @@ Rio de Janeiro, em 28 de junho de 1956; 135º de Independência e 68º da Repúb
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lucio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 1 de agosto de 1956: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 39.480, DESTA DATA»); página 2 do PDF (até «N. 23.482 — 30-7-56 — Cr$ 714,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 1 de agosto de 1956, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1956/DO_1_19560801_177-p01.png)
+
+![Diário Oficial da União, Seção I, 1 de agosto de 1956, página 2 do PDF: fac-símile da página inteira](../assets/dou/1956/DO_1_19560801_177-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19560801_177.PDF` (SHA-256 `e41eec593e47f06af65d1710184972881e886d8bb1e6290396c0a9529e6ef526`), páginas 1, 2 do PDF. SHA-256 das imagens, na ordem: `005e9c0560ddc4c9010f1ffdbeaf268fbbb03516a58a9bd5bb4296db0e5da29f`, `5492a365b3be6024e6e582b70ce046a49a748643a6e11042747b0b1d8d658adc`.
+
+<!-- fac-simile-oficial:fim -->

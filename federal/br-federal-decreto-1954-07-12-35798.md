@@ -19,3 +19,19 @@ Rio de Janeiro, 12 de julho de 1954; 133º da Independência e 66º da Repúblic
 <strong>GETÚLIO VARGAS</strong>
 
 José Américo
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 29 de julho de 1954: página 2 do PDF (a partir de «CLÁUSULAS A QUE SE REFEREM O DECRETO N.º 35.798, DESTA DATA»); página 3 do PDF (até «(19.920 — 27-7-1954 — Cr$ 663,00)»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 29 de julho de 1954, página 2 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540729_172-p02.png)
+
+![Diário Oficial da União, Seção I, 29 de julho de 1954, página 3 do PDF: fac-símile da página inteira](../assets/dou/1954/DO_1_19540729_172-p03.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19540729_172.PDF` (SHA-256 `1576e4faa4c75c171c8c675baac9f2dd6ddaf13c87abd45ba92710b22712603c`), páginas 2, 3 do PDF. SHA-256 das imagens, na ordem: `86ce3479be6c3e08c880255482e477af23fd1ea8d85f9fdb3ec4a9d5c24d0808`, `f663edcdb8e51fcfa0ed60933d4886887f9ed3a322f25b352ba311eb0efb187e`.
+
+<!-- fac-simile-oficial:fim -->

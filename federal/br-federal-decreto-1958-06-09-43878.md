@@ -19,3 +19,17 @@ Rio de Janeiro, 9 de junho de 1958; 137º da Independência e 70º da República
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Lúcio Meira
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 4 de agosto de 1958: página 1 do PDF (capa do caderno) (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 43.878 DESTA DATA», até «N.º 24.808 — 31-7-58 — Cr$ 969,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 4 de agosto de 1958, página 1 do PDF (capa do caderno): fac-símile da página inteira](../assets/dou/1958/DO_1_19580804_175-p01.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19580804_175.PDF` (SHA-256 `0f0add2b0b63a2dc5cdcea4a17d81037c6d541941022dd31ca42d4ffee74f4d7`), páginas 1 do PDF. SHA-256 das imagens, na ordem: `f3816b9cbbf9ec6568571dcf7e7246f714cad3b90c41236655c07e1c785cfb83`.
+
+<!-- fac-simile-oficial:fim -->

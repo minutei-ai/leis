@@ -19,3 +19,17 @@ Rio de Janeiro, 12 de outubro de 1955; 134º da Independência e 67º da Repúbl
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Octávio Marcondes Ferraz
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 14 de dezembro de 1955: página 14 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N. 38.087, DESTA DATA», até «N.º 30.925 — 9-12-1955 — Cr$ 816,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 14 de dezembro de 1955, página 14 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19551214_284-p14.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19551214_284.PDF` (SHA-256 `6cb41b8b2befda714764d8cbefa4f5333baafad34a1a8f96c3448f58ef0e3369`), páginas 14 do PDF. SHA-256 das imagens, na ordem: `9ffc9a23e220e19a80acba07cc25e1effe3b2f421aac0d5b5e7c8033bfe5a453`.
+
+<!-- fac-simile-oficial:fim -->
