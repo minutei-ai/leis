@@ -1,21 +1,23 @@
 ###DEC-038088-0-000-12-10-1955@@@
 
-<strong>DECRETO Nº 38.088, DE 12 DE OUTRUBRO DE 1955.</strong>
+<strong>DECRETO Nº 38.088, DE 12 DE OUTUBRO DE 1955.</strong>
 
-<em><strong>Outorga concessão à Rádio Cultura de Campos Ltda. para instalar uma estação radiodifusora de ondas intermediárias (frequência tropical).</strong></em>
+<!-- fac-simile-oficial:inicio -->
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura de Campos Ltda. e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
+## Fac-símile oficial: decreto e cláusulas
 
-<strong>DECRETA:</strong>
+O decreto e as cláusulas são reproduzidos integralmente nas páginas abaixo da edição indicada do Diário Oficial da União. A primeira publicação não foi verificada. As páginas inteiras também contêm matérias vizinhas, que não são atribuídas a este ato. Não há transcrição por OCR.
 
-<strong>Art</strong>. 1º Fica outorgada concessão à Rádio Cultura de Campos Ltda., nos têrmos do artigo 11, do Decreto nº 24.655, de 11 de julho de 1934, e art. 16, do Decreto número 21.111, de 1º de março de 1932, para estabelecer a título precário na cidade de Campos, Estado do Rio de Janeiro, sem direito de exclusividade, uma estação radiodifusora de ondas intermediárias (frequência tropical) destinada a executar o serviço de radiodifusão.
+![Página 3 do PDF (página impressa 22915)](../assets/dou/1955/DO_1_19551216_286-p03.png)
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 dias, a contar da data da publicação dêste decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser considerada nula a concessão.
+SHA-256 da imagem: `5487c993749c7ce418174b475a4db2ae9e7fd2e8ec9dedaa2a64d68897d5c1f9`.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+Fonte: [DO_1_19551216_286.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551216_286.PDF/24769303-3233-b1aa-4c07-da5ea3f446e8?t=1574964393827&download=true), edição 1955-12-16; SHA-256 do PDF: `dc0f4a9cccce4d2e98caa07cd842e16cd5a26cc6ca8b29da5587261ebdc344e1`.
 
-Rio de Janeiro, 12 de outubro de 1955; 134º da Independência e 67º da República.
+![Página 4 do PDF (página impressa 22916)](../assets/dou/1955/DO_1_19551216_286-p04.png)
 
-<strong>JOÃO CAFÉ FILHO</strong>
+SHA-256 da imagem: `b091ee33081f5ee5f5b4d3b5f02afc7677f9f70372fb086f74ad0e629162bbae`.
 
-Octávio Marcondes Ferraz
+Fonte: [DO_1_19551216_286.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551216_286.PDF/24769303-3233-b1aa-4c07-da5ea3f446e8?t=1574964393827&download=true), edição 1955-12-16; SHA-256 do PDF: `dc0f4a9cccce4d2e98caa07cd842e16cd5a26cc6ca8b29da5587261ebdc344e1`.
+
+<!-- fac-simile-oficial:fim -->

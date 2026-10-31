@@ -15,3 +15,21 @@ Rio de Janeiro, 8 de janeiro de 1957; 136º da Independência e 69º da Repúbli
 <strong>JUSCELINO KUBITSCHEK.</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 40.711 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 1273 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1957/DO_1_19570118_015-p01.png)
+
+SHA-256 desta imagem: `610510ba0b6d4d877cf90f3820dba0fbec0731d19e1a410c9293ade7c13e3522`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19570118_015.PDF](https://biblioteca.in.gov.br/documents/271518/581394/DO_1_19570118_015.PDF/275ef1db-217c-0ca5-e7b1-9f624c9ee1ea?t=1574964804807&download=true) — SHA-256 do PDF: `496798e6a781ba1aa50d0e0bc4df1d84c51d4f31b6e62966d391a79193a0a443`.
+
+<!-- fac-simile-oficial:fim -->

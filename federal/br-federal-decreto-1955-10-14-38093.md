@@ -15,3 +15,21 @@ Rio de Janeiro, em 14 de outubro de 1955; 134º da Independência e 67º da rep�
 <strong>JOAO CAFÉ FILHO</strong>
 
 Napoleão de Alencastro Guimarães
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 38.093 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 20089 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19551028_247-p01.png)
+
+SHA-256 desta imagem: `a739adb913b1a72ec4e4e4cf17299c2c801659dc929f60f217723a2bff2777f9`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19551028_247.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551028_247.PDF/cf6ea7a4-a87a-f78e-60bc-8fc589de2743?t=1574964049787&download=true) — SHA-256 do PDF: `cbb8e013150e1aff6c8d3f06ffd6e96889c17a2ce7f93a7ae25ac4cc85922670`.
+
+<!-- fac-simile-oficial:fim -->

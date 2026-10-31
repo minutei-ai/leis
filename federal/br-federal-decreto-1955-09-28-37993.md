@@ -17,3 +17,21 @@ Rio de Janeiro, 28 de setembro de 1955; 134º da Independência e 67º da Repúb
 <strong>JOÃO CAFÉ FILHO.</strong>
 
 Eduardo Gomes.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 37.993 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 20145 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19551029_248-p01.png)
+
+SHA-256 desta imagem: `211ee0002115860c4a461f51af197a1cd05859afc647d6a82f8fc32e84817e75`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19551029_248.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551029_248.PDF/de25fb6a-5f36-1113-5ff7-3c0d1acc6037?t=1574964057077&download=true) — SHA-256 do PDF: `f0120ac3946a4194e05e5c73e3322fc5ca358fa1ca5a96e0457712480e8670e4`.
+
+<!-- fac-simile-oficial:fim -->

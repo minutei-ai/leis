@@ -15,3 +15,21 @@ Rio de Janeiro, 22 de Junho de 1957: 136º da Independência e 69º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 41.668 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 16485 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1957/DO_1_19570701_148-p01.png)
+
+SHA-256 desta imagem: `eb4551b691abbac6e208dee2ee358299b9281c38ac3811a6bd31ca4aaeefc6e5`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19570701_148.PDF](https://biblioteca.in.gov.br/documents/271518/581394/DO_1_19570701_148.PDF/5f018e74-162a-1bcf-1b16-c01166c38d59?t=1574963443687&download=true) — SHA-256 do PDF: `f9ee0b4f880e5164b424ba377ff36b6cb33f0da65d13691c12392b9109c5689b`.
+
+<!-- fac-simile-oficial:fim -->

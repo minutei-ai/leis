@@ -15,3 +15,21 @@ Rio de Janeiro, 28 de julho de 1958; 137º da Independência e 70º da Repúblic
 <strong>JUSCELINO KUBITSCHEK.</strong>
 
 Fernando Nóbrega.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 44.174 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 3 do PDF (página impressa 17235): fac-símile da página inteira](../assets/dou/1958/DO_1_19580801_173-p03.png)
+
+SHA-256 desta imagem: `2aaf4b22a175ea4c849e040eaa3333abe3c76ef7b41602d56e8624bdc2ce20a5`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19580801_173.PDF](https://biblioteca.in.gov.br/documents/271518/581421/DO_1_19580801_173.PDF/92626f0a-72d7-c65d-e9b7-198f7f9a5a01?t=1574963468960&download=true) — SHA-256 do PDF: `230f1d9ac6b5531cc4c1d6f81a7f19bfbda5eb3f386e4abea40d087e1e8fcf04`.
+
+<!-- fac-simile-oficial:fim -->

@@ -17,3 +17,21 @@ Rio de Janeiro, em 17 de maio de 1955; 134º da Independência e 67º da Repúbl
 <strong>JOÃO CAFÉ FILHO.</strong>
 
 Waldir Niemeyer.
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 37.342 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 3 do PDF (página impressa 10091): fac-símile da página inteira](../assets/dou/1955/DO_1_19550523_117-p03.png)
+
+SHA-256 desta imagem: `d01173b15b34740d36311b3bd051c248a0e0b7d66c071c295d331afb35a3bd2f`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19550523_117.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19550523_117.PDF/cf7f4504-be2c-2a9d-73d8-553711537d0f?t=1574962659280&download=true) — SHA-256 do PDF: `585a07471049691d5c32cf3e1a6198874995497e15114d7ce6a1a520561eccb9`.
+
+<!-- fac-simile-oficial:fim -->

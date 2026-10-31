@@ -2,20 +2,22 @@
 
 <strong>DECRETO Nº 38.070, DE 12 DE OUTUBRO DE 1955.</strong>
 
-<em><strong>Outorga concessão à Rádio Cultura de Maringá Ltda. para estabelecer uma estação radiodifusora de ondas médias.</strong></em>
+<!-- fac-simile-oficial:inicio -->
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura de Maringá Limitada., com sede na cidade de Maringá, no Estado do Paraná, e tendo em vista o disposto no art. 5º nº XII, da mesma Constituição,
+## Fac-símile oficial: decreto e cláusulas
 
-<strong>DECRETA:</strong>
+O decreto e as cláusulas são reproduzidos integralmente nas páginas abaixo da edição indicada do Diário Oficial da União. A primeira publicação não foi verificada. As páginas inteiras também contêm matérias vizinhas, que não são atribuídas a este ato. Não há transcrição por OCR.
 
-<strong>Art</strong>. 1º Fica outorgada a concessão à Rádio Cultura de Maringá Ltda., nos têrmos dos arts. 11 do Decreto nº  24.655, de 11 de julho de 1934, e 16 do Decreto número 21.111, de 1º de março de 1932, para estabelecer, na cidade de Maringá, Estado do Paraná, uma estação radiodifusora de ondas médias, destinada a executar o serviço de radiodifusão.
+![Página 1 do PDF (referência inferida 21585)](../assets/dou/1955/DO_1_19551125_269-p01.png)
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser considerada nula a concessão.
+SHA-256 da imagem: `b2f49ad5c2bc936106bae64238c66292d66e57b8469f799a2dffe23bbdf178b1`.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+Fonte: [DO_1_19551125_269.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551125_269.PDF/19d939fe-4cc4-175f-2b87-61a59a683ae5?t=1574964251493&download=true), edição 1955-11-25; SHA-256 do PDF: `33a936629672da3c421948fbcabd413daea8bc56de531970a8d512d46667f17e`.
 
-Rio de Janeiro, 12 de outubro de 1955; 134º da Independência e 67º da República.
+![Página 2 do PDF (página impressa 21586)](../assets/dou/1955/DO_1_19551125_269-p02.png)
 
-<strong>JOÃO CAFÉ FILHO</strong>
+SHA-256 da imagem: `fe48628aba1c0506b328123da93c9640d8042151c513e8e5b35a4f9ba06ca960`.
 
-Octávio Marcondes Ferraz
+Fonte: [DO_1_19551125_269.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551125_269.PDF/19d939fe-4cc4-175f-2b87-61a59a683ae5?t=1574964251493&download=true), edição 1955-11-25; SHA-256 do PDF: `33a936629672da3c421948fbcabd413daea8bc56de531970a8d512d46667f17e`.
+
+<!-- fac-simile-oficial:fim -->

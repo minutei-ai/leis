@@ -2,20 +2,16 @@
 
 <strong>DECRETO Nº 40.252, DE 31 DE OUTUBRO DE 1956.</strong>
 
-<em><strong>Outorga concessão à Rádio Bragança Limitada para instalar uma estação radiodifusora de ondas tropicais.</strong></em>
+<!-- fac-simile-oficial:inicio -->
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Bragança Limitada e tendo em vista o disposto no artigo 5º, nº XII, da mesma Constituição,
+## Fac-símile oficial: decreto e cláusulas
 
-<strong>DECRETA:</strong>
+O decreto e as cláusulas são reproduzidos integralmente nas páginas abaixo da edição indicada do Diário Oficial da União. A primeira publicação não foi verificada. As páginas inteiras também contêm matérias vizinhas, que não são atribuídas a este ato. Não há transcrição por OCR.
 
-<strong>Art</strong>. 1º Fica outorgada concessão à Rádio Bragança Limitada, nos têrmos do artigo 11 do Decreto número 24.655, de 11 de julho de 1934, para estabelecer a título precário, na cidade de Bragança Paulista, Estado de São Paulo, sem direito de exclusividade, uma estação radiodifusora de ondas tropicais, destinada a executar o serviço de radiodifusão.
+![Página 1 do PDF (referência inferida 23793)](../assets/dou/1958/DO_1_19581106_253-p01.png)
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser considerada nula a concessão.
+SHA-256 da imagem: `db6d3f9cd054be27cb0334ec16e84cc7454a5379e71ee6fd34b248e0f1f21d80`.
 
-<strong>Art</strong>. 2º Fica revogado o Decreto nº 39.507, de 4 de julho de 1956.
+Fonte: [DO_1_19581106_253.PDF](https://biblioteca.in.gov.br/documents/271518/581421/DO_1_19581106_253.PDF/3e42128f-7d9c-4e83-3d79-123d174d6cca?t=1574964198857&download=true), edição 1958-11-06; SHA-256 do PDF: `08c316c21e0235f674f29ccb8bced28bc8e741633af83d038a9df8210640958c`.
 
-Rio de Janeiro, 31 de outubro de 1956; 135º da Independência e 68º da República.
-
-<strong>JUSCELINO KUBITSCHEK</strong>
-
-Lúcio Meira
+<!-- fac-simile-oficial:fim -->

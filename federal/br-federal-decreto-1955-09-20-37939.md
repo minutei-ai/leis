@@ -15,3 +15,21 @@ Rio de Janeiro, 20 de setembro de 1955; 134º da Independência e 67º da Repúb
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Napoleão de Alencastro Guimarães
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 37.939 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 18913 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19551010_231-p01.png)
+
+SHA-256 desta imagem: `9c5ee8fcac365f0e986d1231257d73713420da0e296021a463923d807a5cc7e1`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19551010_231.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19551010_231.PDF/64a894c9-6a93-7e5c-d002-6c761b77d43e?t=1574963895083&download=true) — SHA-256 do PDF: `3cf072e23c7278fc3b5285706945572698e772ded8a818a444a865cb0f70a3dc`.
+
+<!-- fac-simile-oficial:fim -->

@@ -15,3 +15,21 @@ Rio de Janeiro, 23 de abril de 1957; 136º da Independência e 69º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 41.360 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 4 do PDF (página impressa 12204): fac-símile da página inteira](../assets/dou/1957/DO_1_19570516_111-p04.png)
+
+SHA-256 desta imagem: `bf9c75128899d9cb361a51227821fa961247368691e64a77cd410f1c3d73f6cc`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19570516_111.PDF](https://biblioteca.in.gov.br/documents/271518/581394/DO_1_19570516_111.PDF/beb3fce2-ed21-6a61-4f9a-51a05398fa29?t=1574962995940&download=true) — SHA-256 do PDF: `c7c6c2b06f44efd64aa05b440d3c2b9f21f46295972221aae2ae341de4be18c1`.
+
+<!-- fac-simile-oficial:fim -->

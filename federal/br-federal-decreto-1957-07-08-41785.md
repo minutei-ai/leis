@@ -2,20 +2,22 @@
 
 <strong>DECRETO Nº 41.785, DE 08 DE JULHO DE 1957.</strong>
 
-<em><strong>Outorga concessão à Rádio Cultura de Cuiabá Limitada para instalar uma estação radiodifusora de ondas tropicais.</strong></em>
+<!-- fac-simile-oficial:inicio -->
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº 1, da Constituição, atendendo ao que requereu a Rádio Cultura de Cuiabá Limitada e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
+## Fac-símile oficial: decreto e cláusulas
 
-<strong>DECRETA:</strong>
+O decreto e as cláusulas são reproduzidos integralmente nas páginas abaixo da edição indicada do Diário Oficial da União. A primeira publicação não foi verificada. As páginas inteiras também contêm matérias vizinhas, que não são atribuídas a este ato. Não há transcrição por OCR.
 
-<strong>Art</strong>. 1º Fica outorgada concessão à Rádio Cultura de Cuiabá Limitada, nos têrmos do art. 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, a título precário, na cidade de Cuiabá, Estado de Mato Grosso, sem direito de exclusividade, uma estação de ondas tropicais, destinada a executar serviço de radiodifusão.
+![Página 1 do PDF (referência inferida 20689)](../assets/dou/1959/DO_1_19590926_220-p01.png)
 
-Parágrafo único. o contrato decorrente desta concessão obedecerá às clausulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser considerada nula a concessão.
+SHA-256 da imagem: `0e54c050f0d18992ff752c5e0017f4ab14041aa9628d81e2375aaeb168e41791`.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+Fonte: [DO_1_19590926_220.PDF](https://biblioteca.in.gov.br/documents/271518/581456/DO_1_19590926_220.PDF/efaccdf3-f8ef-41e9-52e9-9f593b4f9a65?t=1574964305010&download=true), edição 1959-09-26; SHA-256 do PDF: `86a40d1ee43b6d27c074e422978c8cea2450d2a6a03c3c9306c656061947e427`.
 
-Rio de Janeiro, 8 de julho de 1957; 136º da Independência e 69º da República.
+![Página 2 do PDF (página impressa 20690)](../assets/dou/1959/DO_1_19590926_220-p02.png)
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+SHA-256 da imagem: `de19d68ea9958f8f89bada316f53a46ecb7797d737f7a3592c2069665cb02262`.
 
-Lúcio Meira
+Fonte: [DO_1_19590926_220.PDF](https://biblioteca.in.gov.br/documents/271518/581456/DO_1_19590926_220.PDF/efaccdf3-f8ef-41e9-52e9-9f593b4f9a65?t=1574964305010&download=true), edição 1959-09-26; SHA-256 do PDF: `86a40d1ee43b6d27c074e422978c8cea2450d2a6a03c3c9306c656061947e427`.
+
+<!-- fac-simile-oficial:fim -->

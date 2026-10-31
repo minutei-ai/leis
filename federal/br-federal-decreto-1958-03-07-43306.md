@@ -15,3 +15,21 @@ Rio de Janeiro, 7 de março de 1958; 137º da Independência e 70º da Repúblic
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 43.306 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 2 do PDF (número impresso ilegível; 6450 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1958/DO_1_19580327_071-p02.png)
+
+SHA-256 desta imagem: `b0cd390855606dcf875d0ed0ba0934e666d4d61b2227fad7e4ac7bb50847ae75`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19580327_071.PDF](https://biblioteca.in.gov.br/documents/271518/581421/DO_1_19580327_071.PDF/5aaa701e-a8bf-4918-4fa2-408c97ab0292?t=1574962355467&download=true) — SHA-256 do PDF: `4f5c1b29170780e4f469cc52d28dd2c75a76ad23eabfc1b62b96783c3212c502`.
+
+<!-- fac-simile-oficial:fim -->

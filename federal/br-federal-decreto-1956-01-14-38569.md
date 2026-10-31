@@ -19,3 +19,21 @@ Rio de Janeiro, 14 de janeiro de 1956; 135º da Independência e 68º da Repúbl
 <strong>NEREU RAMOS</strong>
 
 Lucas Lopes
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 38.569 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 4 do PDF (página impressa 1188): fac-símile da página inteira](../assets/dou/1956/DO_1_19560121_018-p04.png)
+
+SHA-256 desta imagem: `9bbd1e646b186300b4440a491e49c1e154749c87aae761cdc31faa1c6f47d83e`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19560121_018.PDF](https://biblioteca.in.gov.br/documents/271518/581375/DO_1_19560121_018.PDF/2ae1dbd5-373c-2a07-07af-aed9b9579588?t=1574964990250&download=true) — SHA-256 do PDF: `36b27f4d8439990e0e2d8e49f8a3a509d09b04c3d8931c9846051b462971203b`.
+
+<!-- fac-simile-oficial:fim -->

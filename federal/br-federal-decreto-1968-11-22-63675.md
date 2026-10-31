@@ -15,3 +15,21 @@ Brasília, 22 de novembro de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Edmundo de Macedo Soares
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 63.675 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 14 do PDF (página impressa 10342): fac-símile da página inteira](../assets/dou/1968/DO_1_19681128_230-p14.png)
+
+SHA-256 desta imagem: `00ab52d97f982454fa8c6d18721ab302b1384060f750dc62266ecfaf5a5bf199`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19681128_230.PDF](https://biblioteca.in.gov.br/documents/271518/541144/DO_1_19681128_230.PDF/fdd38ab3-4978-91d0-42d3-54f3f68c72e3?t=1574886478720&download=true) — SHA-256 do PDF: `634f80195bcd6078564c316b548ab81051a57c3f87aa46837654360a44302284`.
+
+<!-- fac-simile-oficial:fim -->

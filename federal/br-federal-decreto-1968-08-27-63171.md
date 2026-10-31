@@ -15,3 +15,21 @@ Brasília, 27 de agôsto de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Edmundo de Macedo Soares
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 63.171 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 7769 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1968/DO_1_19680830_168-p01.png)
+
+SHA-256 desta imagem: `0926c7a85aab77479e9d8280cf1be0b4f72aabb2153abe4a1747035253584205`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19680830_168.PDF](https://biblioteca.in.gov.br/documents/271518/541144/DO_1_19680830_168.PDF/8f63035c-6ef6-1ce4-1f83-09b0aec4668e?t=1574885916590&download=true) — SHA-256 do PDF: `f5d8296982bf516f8d1d9ea7b869b690e1f19801810566716a2197dc3f6c0d0a`.
+
+<!-- fac-simile-oficial:fim -->

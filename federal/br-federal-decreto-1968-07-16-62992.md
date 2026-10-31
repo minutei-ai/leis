@@ -17,3 +17,23 @@ Brasília, 16 de julho de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA E SILVA</strong>
 
 Edmundo de Macedo Soares e Silva
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 62.992 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+Reprodução das cláusulas I–VII, completas na coluna 2 da página 3 do PDF (6123 por inferência), até a assinatura de Edmundo de Macedo Soares e Silva. O memorando e os artigos de associação publicados nas páginas seguintes não são apresentados como parte dessas cláusulas.
+
+![Diário Oficial da União, página 3 do PDF (número impresso truncado na margem; 6123 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1968/DO_1_19680719_138-p03.png)
+
+SHA-256 desta imagem: `67806fa55bc6350bd360f67a549a469f901113ecf13d9a973aa220ee9e13c6cf`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19680719_138.PDF](https://biblioteca.in.gov.br/documents/271518/541144/DO_1_19680719_138.PDF/fae84fd4-50a1-93f2-ad62-0434464f9583?t=1574885523563&download=true) — SHA-256 do PDF: `69e451464eafd9b50f85f77b5f2a2ed6b6373d2578e0aa36ec466bf2dc1e6b2a`.
+
+<!-- fac-simile-oficial:fim -->

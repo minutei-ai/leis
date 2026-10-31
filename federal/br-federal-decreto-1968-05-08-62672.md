@@ -15,3 +15,21 @@ Brasília, 8 de maio de 1968; 147º da Independência e 80º da República.
 <strong>A. COSTA SILVA</strong>
 
 Edmundo de Macedo Soares
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 62.672 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 15 do PDF (página impressa 3863): fac-símile da página inteira](../assets/dou/1968/DO_1_19680514_091-p15.png)
+
+SHA-256 desta imagem: `6c760d731ada6b1d392908921df57175ec1a404effb8f51b4b1e4dce37cc8eaf`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19680514_091.PDF](https://biblioteca.in.gov.br/documents/271518/541144/DO_1_19680514_091.PDF/96ee459d-87fd-c03d-9ea9-ee6495e141d9?t=1574885060733&download=true) — SHA-256 do PDF: `86f02a28169dd4da085b983143840200cf67f7c3b2f884a2ef0688aa3b279072`.
+
+<!-- fac-simile-oficial:fim -->

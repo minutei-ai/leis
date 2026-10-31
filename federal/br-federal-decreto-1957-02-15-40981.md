@@ -15,3 +15,21 @@ Rio de Janeiro, 15 de fevereiro de 1957; 136º da Independência e 69º da Repú
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 40.981 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 4825 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1957/DO_1_19570301_051-p01.png)
+
+SHA-256 desta imagem: `14e2e4fc991ffe623c4d7e73fb7090e7910182fb950f4dbbe1883ea4493bf7d2`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19570301_051.PDF](https://biblioteca.in.gov.br/documents/271518/581394/DO_1_19570301_051.PDF/68d7db6c-6bdc-de4a-c9b4-a9bcdffab392?t=1574962185860&download=true) — SHA-256 do PDF: `b16df59551042b70c67c82131339c13ba361f92f6126e95317518afa1382244c`.
+
+<!-- fac-simile-oficial:fim -->

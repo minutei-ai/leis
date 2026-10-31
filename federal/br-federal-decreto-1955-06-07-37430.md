@@ -15,3 +15,21 @@ Rio de Janeiro, em 7 de junho de 1955; 134º da Independência e 67º da Repúbl
 <strong>JOÃO CAFÉ FILHO</strong>
 
 Waldyr Niemeyer
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 37.430 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 12265 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1955/DO_1_19550623_143-p01.png)
+
+SHA-256 desta imagem: `f5bb570df1590bbaeb54442bd6c1d56a6849d00180eb0448d1821fba055d8ad2`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19550623_143.PDF](https://biblioteca.in.gov.br/documents/271518/581356/DO_1_19550623_143.PDF/8889f81d-b5ac-0ee3-c5f4-c762602165ae?t=1574963064733&download=true) — SHA-256 do PDF: `a9279b487e09e3949540f76ad05a380d84bcf1d0a5d337b72f9628e0cfbebc40`.
+
+<!-- fac-simile-oficial:fim -->

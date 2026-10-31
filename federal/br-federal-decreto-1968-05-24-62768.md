@@ -15,3 +15,21 @@ Brasília, 24 de maio de 1968; 147º da Independência e 80ºa República.
 <strong>A. COSTA E SILVA</strong>
 
 Edmundo de Macedo Soares
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 62.768 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 3 do PDF (página impressa 4315): fac-símile da página inteira](../assets/dou/1968/DO_1_19680528_101-p03.png)
+
+SHA-256 desta imagem: `7bd613751da25a2a745777fe8dab79699b8ca7a30010337caf172e16aa2e122c`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19680528_101.PDF](https://biblioteca.in.gov.br/documents/271518/541144/DO_1_19680528_101.PDF/edd7e45a-d47d-7c54-644d-12bb2581b137?t=1574885159237&download=true) — SHA-256 do PDF: `a2d15c7219369d990742915151b122f06b084ec58f57cf51a85b84499d01738d`.
+
+<!-- fac-simile-oficial:fim -->

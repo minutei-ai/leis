@@ -19,3 +19,21 @@ Aurélio de Lyra Tavares
 Márcio de Souza e Mello
 
 Edmundo de Macedo Soares
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 65.682 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 43 do PDF (página impressa 9371): fac-símile da página inteira](../assets/dou/1969/DO_1_19691030_208-p43.png)
+
+SHA-256 desta imagem: `c208633b0e937509e3f59d77dca33a19d6b793e1628afc4f473ce37628497c3d`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19691030_208.PDF](https://biblioteca.in.gov.br/documents/271518/541092/DO_1_19691030_208.PDF/c6da4dd5-dca5-5251-6a42-c80ae03f46c4?t=1574886520607&download=true) — SHA-256 do PDF: `d07925840d5470e3e7f546083bc7bd6da7c7dee27666aa0f48f055ef7f25af0b`.
+
+<!-- fac-simile-oficial:fim -->

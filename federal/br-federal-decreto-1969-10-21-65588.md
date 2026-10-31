@@ -19,3 +19,21 @@ Aurélio de Lyra Tavares
 Márcio de Souza e Mello
 
 Edmundo de Macedo Soares
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 65.588 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 5 do PDF (página impressa 9237): fac-símile da página inteira](../assets/dou/1969/DO_1_19691029_207-p05.png)
+
+SHA-256 desta imagem: `a4e970aa3eafd7662c751234256543608b1bff64f92c34087b7daada9cacf679`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19691029_207.PDF](https://biblioteca.in.gov.br/documents/271518/541092/DO_1_19691029_207.PDF/d12bef01-7d99-9d88-dbda-2fde7c2f8009?t=1574886502187&download=true) — SHA-256 do PDF: `4ec3d4e9c80803102068388b934b91edb32239397acda6b443453f00ab6da53b`.
+
+<!-- fac-simile-oficial:fim -->

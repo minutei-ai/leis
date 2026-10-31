@@ -15,3 +15,21 @@ Rio de Janeiro, 27 de dezembro de 1956; 135º da Independência e 68º da Repúb
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 40.607 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 4 do PDF (página impressa 284): fac-símile da página inteira](../assets/dou/1957/DO_1_19570105_004-p04.png)
+
+SHA-256 desta imagem: `e71456a9e27e8230666f2fdf8d5bc95bc3d5db75de6c690950c6db3e49a56ab3`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19570105_004.PDF](https://biblioteca.in.gov.br/documents/271518/581394/DO_1_19570105_004.PDF/5ca76aaf-da15-cc4d-d00d-fefa7ffa52ab?t=1574964718157&download=true) — SHA-256 do PDF: `e2fb27ec7cb4240470b78bc52094ff17fac1431b0507f502462654a2ec20e7a7`.
+
+<!-- fac-simile-oficial:fim -->

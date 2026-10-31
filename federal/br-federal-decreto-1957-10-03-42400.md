@@ -15,3 +15,21 @@ Rio de Janeiro, 3 de outubro de 1957; 136º da Independência e 69º da Repúbli
 <strong>JUSCELINO KUBITSCHEK</strong>
 
 Parsifal Barroso
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: clausulas
+
+A peça vinculada ao Decreto nº 42.400 é reproduzida nas imagens abaixo, a partir da publicação oficial da Imprensa Nacional. A reprodução é em fac-símile, sem transcrição por OCR nem reconstrução do conteúdo.
+
+As imagens mostram páginas inteiras do Diário Oficial da União e podem conter outras matérias. Essas matérias vizinhas não são atribuídas a este decreto. A peça é identificada pelo seu título e pela referência ao ato nas páginas indicadas.
+
+![Diário Oficial da União, página 1 do PDF (capa sem número impresso; 23397 inferido pela sequência do PDF): fac-símile da página inteira](../assets/dou/1957/DO_1_19571008_231-p01.png)
+
+SHA-256 desta imagem: `660ec44db158d44293e45c77038496e4cb957cf532d557db45f0a3405f588767`.
+
+Fontes oficiais da publicação:
+
+- [DO_1_19571008_231.PDF](https://biblioteca.in.gov.br/documents/271518/581394/DO_1_19571008_231.PDF/3824a8de-0e26-3c59-b269-7ca8ba2a2e0f?t=1574964015503&download=true) — SHA-256 do PDF: `d1cefa0036495c1645e39ffad83ffa34e5f6fc0948933edfa1d15a3e98e06d35`.
+
+<!-- fac-simile-oficial:fim -->
