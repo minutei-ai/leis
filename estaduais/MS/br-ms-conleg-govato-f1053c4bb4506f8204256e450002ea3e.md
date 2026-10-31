@@ -8,10 +8,17 @@ dados: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/Lei%
 sha256_dados: "6c1c08e8bc7ddf9ff244d158f0149017276e35b6ac28b1f60126626e7573af30"
 coletado_em: "2026-10-22T16:18:22.000Z"
 sha256_fonte: "b40d6d935af7f4a1133b92e0a39b554c5f52d21c356e02491316a32c3e4d2943"
-sha256_markdown: "d4d1174da979f907b8a1bfea7f838636e2ccafb8f7e67988d9499234a4342cf0"
+sha256_markdown: "19af552fdbd871ded8fc232d15d14967894bbed2a7ecefeff465aada7d97207c"
+reproducao_incompleta: true
 ---
 
 # LEI Nº 27, DE 19 DE NOVEMBRO DE 1979.
+
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** o Anexo I (relação descritiva do Sistema Rodoviário do Estado) e a carta geográfica referidos nos arts. 1º e 2º ainda não foram recuperados. O texto disponível abaixo não representa o ato integral com seus anexos. A busca pelo suplemento do Diário Oficial nº 221, de 19/11/1979, permanece no [backlog](../../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
 
 ESTADO DE MATO GROSSO DO SUL
 

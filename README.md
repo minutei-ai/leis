@@ -64,6 +64,10 @@ As pastas municipais usam o código IBGE do município. As contagens da tabela r
 
 Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu editor, estudar, citar trechos ou usar como contexto em ferramentas de IA. O conteúdo está em Markdown: títulos, artigos, parágrafos, listas e tabelas conforme a conversão do documento oficial.
 
+## Registros com peças pendentes
+
+Há **1 reprodução incompleta identificada neste lote**, a Lei 27/1979 de Mato Grosso do Sul. Das 183 normas acrescentadas de MS, 182 não têm pendência de peça acompanhante aberta nesta revisão e uma permanece incompleta. Isso não equivale a uma certificação de integralidade do restante do acervo. Os avisos nos arquivos e o [backlog de peças](PENDENCIAS.md) distinguem as lacunas conhecidas e preservam a recuperação futura.
+
 ## Fontes e cobertura
 
 Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
