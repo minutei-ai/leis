@@ -2,20 +2,26 @@
 
 <strong>DECRETO Nº 43.729, DE 21 DE MAIO DE 1958.</strong>
 
-<em><strong>Outorga concessão à Emissora de Educação Rural Ltda, para instalar uma estação radiodifusora.</strong></em>
+<!-- fac-simile-oficial:inicio -->
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Emissora de Educação Rural Ltda., e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
+## Fac-símile oficial do ato inteiro: cláusulas
 
-<strong>DECRETA:</strong>
+Esta norma é reproduzida apenas em imagem. As páginas inteiras do _Diário Oficial da União_ (Seção I) de 9 de junho de 1958 trazem o decreto e o instrumento que o acompanha: PDF `DO_1_19580609_128.PDF`, p.1 do PDF (impressa 13065, inferida: capa sem folio visível), p.2 do PDF (impressa 13066).
 
-<strong>Art</strong>. 1º Fica outorgada concessão à Emissora de Educação Rural Ltda., nos têrmos do art. 11 do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Natal, Estado do Rio Grande do Norte, sem direito de exclusividade, uma estação de ondas médias, destinada a executar serviço de radiodifusão.
+O texto do Senado que antes constava aqui foi retirado para manter uma só versão do ato: não foi colacionado palavra a palavra com o impresso.
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êsse baixam, rubricadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ficar sem efeito, desde logo, o mesmo decreto.
+**Limites lidos nas imagens:** p.13065 (PDF 1): decreto col.1 base–col.2 (JUSCELINO KUBITSCHEK / Lúcio Meira); «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 43.729» col.2 base–col.4 (I–VI cortada). p.13066 (PDF 2): col.1 conclui VI–VIII, «Rio de Janeiro, 21 de maio de 1958. — Lúcio Meira. (N.º 11.545 — 7-6-58 — Cr$ 918,00)», antes do Expediente. Impressão da col.1 da p.13066 muito degradada (partes ilegíveis no impresso).
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Assinatura(s):** Lúcio Meira
 
-Rio de Janeiro, 21 de maio de 1958; 137º da Independência e 70º da República.
+As imagens são as páginas inteiras, extraídas do PDF com `pdfimages -png` (imagem JBIG2 embutida, uma por página, sem reduzir), sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça está apenas no trecho indicado. O texto do ato só existe na imagem. Não há OCR validado.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+![DOU 9 de junho de 1958, PDF p.1 (impressa 13065): fac-símile da página inteira](../assets/dou/1958/DO_1_19580609_128-p01.png)
 
-Lúcio Meira
+![DOU 9 de junho de 1958, PDF p.2 (impressa 13066): fac-símile da página inteira](../assets/dou/1958/DO_1_19580609_128-p02.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, `DO_1_19580609_128.PDF` (SHA-256 `871c67268958a48a1773662d009fd58e790dca149d6136896f1464bd19dea05b`). SHA-256 das imagens, na ordem: `2dac8765c01c0ce7b094593cc71ac9de8f3e7d9a4ac208039a384d5fa66850bb`, `77a1ab763e2b41b907a38b39dcd947b12002f88367c95aa0cc23e31124bb263c`.
+
+[PDF da edição oficial](https://biblioteca.in.gov.br/documents/271518/581421/DO_1_19580609_128.PDF/cbb34132-5c54-69d2-025f-9e6f45ead6eb?t=1574963225677&download=true).
+
+<!-- fac-simile-oficial:fim -->
