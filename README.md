@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**219.581 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**219.764 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -28,7 +28,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
 | Estadual | [Maranhão](estaduais/MA/) | 6 |
 | Estadual | [Mato Grosso](estaduais/MT/) | 336 |
-| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.102 |
+| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.285 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
 | Estadual | [Pará](estaduais/PA/) | 85 |
 | Estadual | [Paraíba](estaduais/PB/) | 2 |
@@ -63,6 +63,10 @@ As pastas municipais usam o código IBGE do município. As contagens da tabela r
 ## Abra, leia, use
 
 Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu editor, estudar, citar trechos ou usar como contexto em ferramentas de IA. O conteúdo está em Markdown: títulos, artigos, parágrafos, listas e tabelas conforme a conversão do documento oficial.
+
+## Registros com peças pendentes
+
+Há **1 reprodução incompleta identificada neste lote**, a Lei 27/1979 de Mato Grosso do Sul. Das 183 normas acrescentadas de MS, 182 não têm pendência de peça acompanhante aberta nesta revisão e uma permanece incompleta. Isso não equivale a uma certificação de integralidade do restante do acervo. Os avisos nos arquivos e o [backlog de peças](PENDENCIAS.md) distinguem as lacunas conhecidas e preservam a recuperação futura.
 
 ## Fontes e cobertura
 
