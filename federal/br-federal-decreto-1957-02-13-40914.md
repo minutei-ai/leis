@@ -1,0 +1,21 @@
+###DEC-040914-0-000-13-02-1957@@@
+
+<strong>DECRETO Nº 40.914, DE 13 DE FEVEREIRO DE 1957.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Vitorio Bertin a pesquisar água mineral no município de São Fidelis, Estado do Rio de Janeiro.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro Vitorio Bertin a pesquisar água mineral em terrenos de propriedade de Matilde Reis e outros, no lugar denominado Santa Helena, distrito de Pureza, município de São Fidelis, Estado do Rio de Janeiro, numa área de um hectare (1 ha), delimitada por um retângulo que tem um vértice a cento e trinta e sete metros (137m), no rumo magnético vinte e nove graus e quinze minutos sudoeste (29º15’ SW) da confluência do valão Timbó no córrego Gruta d’Água e os lados, divergentes dêsse vértice, os seguintes comprimentos e rumos magnéticos: duzentos metros (200m), sessenta e seis graus e trinta minutos sudoeste (66º30’ SW); cinqüenta metros (50m), vinte e três graus e trinta minutos sudeste (23º30’ SE).
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 13 de fevereiro de 1957; 136º da Independência e 69º da República.
+
+<strong>JUSCELINO KUBITSCHEK</strong>
+
+Mário Meneghetti

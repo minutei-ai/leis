@@ -1,0 +1,21 @@
+###DEC-036049-0-000-12-08-1954@@@
+
+<strong>DECRETO Nº 36.049, DE 12 DE AGÔSTO DE 1954.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro Francisco de Paula Velloso Leite a pesquisar água mineral no município de Pelotas, Estado do Rio Grande do Sul</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas)
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizada o cidadão brasileiro Francisco de Paula Velloso Leite a pesquisar água mineral em terrenos de sua propriedade no lugar denominado Água Santa, distrito de Capão do Leão, município de Pelotas, Estado do Rio Grande do Sul, numa área de quatorze hectares setenta e dois ares e vinte e três centiares (14,7223 ha), delimitada por um polígono irregular que tem um vértice a setenta e dois metros (72 m), no rumo magnético de quarenta e quatro graus e seis minutos noroeste (44º 06’ NW) da extremidade noroeste (NW) do pontilhão da Estrada de Rodagem Passo da Cascata-Pelotas, sôbre o arroio da Cascata, e os lado a partir dêsse vértice, os seguintes comprimentos e rumos magnético: cento cinqüenta e sete metros e quarenta centímetros (157,40m) cinqüenta graus e quinze minutos noroeste (50º 15’ NW); cento e vinte e um metros e setenta centímetros (121,70 m), um graus e vinte e seis minutos nordeste (1º 26’ NE); duzentos e setenta e quatro metros e quarenta centímetros (274,40 m), quarenta e nove graus e nove minutos noroeste (49º 09’ NW); cinqüenta e cinco metros e vinte centímetros (55,20 m), quarenta e sete graus e cinqüenta e nove minutos noroeste (47º 59’ NW); cinqüenta metros e dez centímetros (50,10 m) quarenta e seis graus e quarenta e um minutos noroeste (46º 41’ NW); cinqüenta metros e noventa centímetros (50,90 m), trinta e nove graus e vinte minutos noroeste (39º 20’ NW); setenta e cinco metros e noventa centímetros (75, 90 m), setenta e nove graus e trinta e três minutos sudoeste (79º 33’ SW); trinta e cinco metros (35 m), setenta e um graus e vinte e sete minutos noroeste (71º 27’ NW), cento e onze metros (111 m), setenta graus e seis minutos sudoeste (70º 06’ SW); sessenta e seis metros (66 m), quarenta e um graus e nove minutos sudeste (41º 09’ SE), sessenta e sete meros e vinte e cinco centímetros (67,25m), quarenta e dois graus e quatro minutos sudeste (42º 04’ SE); vinte e quatro metros e trinta centímetros (24,30 m), trinta e seis graus e quarenta e três minutos sudeste (36º 43’ SE); quarenta metros e setenta e cinco centímetros (40, 75m), trinta e cinco graus e trinta e seis minutos sudeste (35º 36’ SE); trinta e nove metros e setenta e cinco centímetros (39,75 m), trinta e seis graus e quarenta e cinco minutos sudeste (36º 45’ SE); vinte e cinco metros (25 m), trinta e três graus e oito minutos sudeste (33º 03’ SE); cento e  sessenta e três metros e quarenta e cinco centímetros (163, 45m), trinta e cinco graus e cinqüenta e oito minutos sudeste (35º 58’ SE); quatorze  metros e vinte e cinco centímetros (14,25 m), vinte e um graus e quarenta e cinco minutos sudeste (21º 45’ SE); quarenta e dois metros e oitenta centímetros (42,80 m), quarenta graus e cinqüenta e três minutos sudeste (40º 53’ SE); doze metros e vinte e cinco centímetros (12,25 m), quarenta e nove graus e quarenta e sete minutos sudoeste (48º 47’ SW); cento e oitenta cinco metros e vinte centímetros (185, 20 m), trinta e oito graus e trinta e nove minutos sudeste (28º 39’ SE), noventa e um metros e dez centímetros (91,10 m), sessenta e oito graus e trinta e quatro minutos nordeste (68º 34’ NE); o último lado é o seguimento retilíneo que une a extremidade do vigésimo primeiro  (21º) lado descrito ao vértice de partida.
+
+<strong>Art</strong>. 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto, pagará a taxa de trezentos cruzeiros (Cr$300,00) e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 12 de agôsto de 1954; 133º da Independência e 66º da República.
+
+<strong>GETÚLIO VARGAS</strong>
+
+Apolônio Sales

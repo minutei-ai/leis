@@ -1,0 +1,35 @@
+###DEC-038082-0-000-12-10-1955@@@
+
+<strong>DECRETO Nº 38.082, DE 12 DE OUTUBRO DE 1955.</strong>
+
+<em><strong>Outorga concessão à Rádio Cultura de Cuiabá Ltda. para instalar uma estação radiodifusora de ondas médias.</strong></em>
+
+<strong>O PRESIDENTE A REPUBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura de Cuiabá Ltda., com sede na cidade de Cuiabá, Estado de Mato Grosso, e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição,
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica outorgada concessão à Rádio Cultura de Cuiabá Ltda., nos têrmos do art. 11, do Decreto nº 24.655, de 11 de julho de 1934, e art. 16, do Decreto nº 21.111 de 1º de março de 1932, para estabelecer na cidade de Cuiabá, Estado do Mato Grosso, sem direito de exclusividade, um estação radiodifusora de ondas médias destinada a executar o serviço de radiodifusão.
+
+Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios Da Viação de Obras Públicas, e deverá ser assinado dentro de 60 dias, a contar da data da publicação dêste decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser considerada nula a concessão.
+
+<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, em 12 de outubro de 1955; 134º da Independência e 67º da República.
+
+<strong>JOÃO CAFÉ FILHO</strong>
+
+Octávio Marcondes Ferraz
+
+<!-- fac-simile-oficial:inicio -->
+
+## Fac-símile oficial: cláusulas
+
+O texto acima não inclui as cláusulas a que se refere este decreto. A publicação oficial do anexo está em imagem, nas páginas do _Diário Oficial da União_ (Seção I) de 18 de outubro de 1955: página 15 do PDF (a partir de «CLÁUSULAS A QUE SE REFERE O DECRETO N.º 38.082, DESTA DATA», até «N.º 26.949 — 15-10-55 — Cr$ 867,00»).
+
+As imagens são as páginas inteiras, tal como digitalizadas pela Imprensa Nacional, sem recorte, sem redesenho e sem transcrição. Cada página traz também outros atos do mesmo dia; a peça deste decreto está apenas no trecho indicado, e o texto do anexo só existe na imagem. Não há OCR validado.
+
+![Diário Oficial da União, Seção I, 18 de outubro de 1955, página 15 do PDF: fac-símile da página inteira](../assets/dou/1955/DO_1_19551018_238-p15.png)
+
+Fonte: Imprensa Nacional, Biblioteca Machado de Assis, arquivo `DO_1_19551018_238.PDF` (SHA-256 `996e7040912f0f3cbdb953c68b02e641b5e1e31e300ef7c550d5cbfbe2eb8212`), páginas 15 do PDF. SHA-256 das imagens, na ordem: `1a66e0773a14480b78c8268fab839a9ce2a4aa49bb6acf2f891c00e9e8287dea`.
+
+<!-- fac-simile-oficial:fim -->

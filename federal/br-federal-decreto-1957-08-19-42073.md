@@ -1,0 +1,21 @@
+###DEC-042073-0-000-19-08-1957@@@
+
+<strong>DECRETO Nº 42.073, DE 19 DE AGÔSTO DE 1957.</strong>
+
+<em><strong>Autoriza o cidadão brasileiro, José Dotta a pesquisar água mineral no Município de Ribeirão Pires, Estado de São Paulo.</strong></em>
+
+<strong>O PRESIDENTE DA REPÚBLICA</strong> usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos termos do Decreto-lei nº 1.985, de 29 de janeiro de 1940(Código de Minas),
+
+<strong>DECRETA:</strong>
+
+<strong>Art</strong>. 1º Fica autorizado o cidadão brasileiro José Dotta a pesquisar água mineral em terrenos de sua propriedade no lugar denominado Sítio de Monteiros, distrito de Rio Grande, Município de Ribeirão Pires, Estado de são Paulo, em duas áreas destintas, num total de dois hectares e três ares (2,03ha), assim definidas: a primeira área com um hectares e oito ares e oitenta centiares(1,0880 há), delimitada por um polígono irregular que tem um vértice a mil quatrocentos e noventa e seis metros e trinta e nove centímetros (1.496,39m) no rumo verdadeiro de dezoito graus trinta e cinco minutos noroeste (18º35’ NW) do marco do quilômetro quarenta e um mais cento e nove metros (Km 41+109) da Estrada de Ferro Santos a Jundiaí, trecho Santos São Paulo, e os lados a partir desse vértice os seguintes comprimentos e rumo verdadeiros: setenta e quatro metros (74m), seis graus trinta e dois minutos noroeste (6º32, NW); setenta e quatro metros e noventa centímetros (74,90m),sessenta e oito graus e cinco minutos noroeste (68º05’ NE); noventa e dois metros e oitenta centímetros (92,80m), setenta e três graus e quatro minutos sudeste(73º04’ SE); sessenta e cinco metros e sessenta e cinco centímetros (65,65m), vinte oito graus e um minuto sudoeste (28º 01’ SW) ; trinta e nove metros e dezessete centímetros (39,17m), oitenta e três graus e sete minutos sudoeste (83º07’SW), quarenta metros e  vinte e cinco centímetros (40,25m),oitenta e nove graus e treze minutos sudoeste(89º13’ SW);vinte e sete metros e setenta e cinco centímetros (27,75m),sessenta e oito graus e onze minutos sudoeste (68º11’ SW); quatorze metros e trinta e cinco centímetros (14,35m), oitenta e seis graus e três minutos sudoeste (86º 03 SW); a segunda área com noventa e quatro ares e vinte e um centímetros (09421 há) delimitada por um poligono irregular que tem um vértice no fim da poligonal que partindo do marco quilométrico quarenta e um cento e nove metros (Km 41+109) da Estrada de Ferro Santos a Jundiaí trecho Santos São Paulo, tem os seguintes comprimentos e rumos: Mil quatrocentos e nove e seis metros e trinta e nove centímetros (1.496,39m), dezoito graus trinta e cinco minutos noroeste (18º 35’ NW); setenta e quatro metros (74m), seis graus e trinta e dois minutos noroeste (6º32’ NW); quinhentos e trinta e dois metros e vinte e um centímetros (532,21m) vinte e cinco graus e vinte e oito minutos nordeste (25º28’ NE); e os lados do polígono a partir do vértice considerado, têm os seguintes comprimentos e rumos verdadeiros: trinta metros (30m), trinta e nove graus e sete minutos noroeste (39º07’NW);cinqüenta e oito metros e quarenta e cinco centímetros (58,45m),vinte e quatro graus e trinta e um minutos noroeste (24º31’ NW); setenta e sete metros e vinte centímetros (77,20m), setenta e sete graus e vinte e um minutos sudoeste (77º 21’ SE); cento e dezessete metros (117m), oitenta e dois graus e quarenta e cinco minutos nordeste (82º45’ NE); oitenta cinco metros e quarenta centímetros (85,40m), vinte e seis graus e treze minutos sudoeste (26º13’ SW); sessenta e sete metros e dez centímetros (67,10), setenta e dois graus e seis minutos noroeste (72º06’ NW);vinte e sete metros e dez centímetros (24,10m), trinta e cinco graus e cinquenta e nove minutos sudoeste (35º 59’ SW); trinta e dois metros e trinta centímetros (32,30m), oitenta e oito graus e um minuto noroeste (88º 01’ NW).
+
+<strong>Art</strong> 2º O título da autorização de pesquisa, que será uma via autêntica dêste Decreto pagará a taxa de trezentos cruzeiros (Cr$300,00) e será transcrito no livro próprio Divisão de fomento da Produção Mineral do Ministério da Agricultura.
+
+<strong>Art</strong> 3º Revogam-se as disposições em contrário.
+
+Rio de Janeiro, 19 de agosto de 1657, 139º da Independência e 69ºda República.
+
+<strong>JUCELINO KUBITSCHEK</strong>
+
+Mário Meneghetti

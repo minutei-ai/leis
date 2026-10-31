@@ -1,0 +1,18 @@
+name: Integridade dos fac-símiles publicados
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/dou-review.yml'
+      - 'scripts/dou-review*'
+      - 'scripts/verify-dou-assets.py'
+      - 'assets/dou/**'
+      - 'federal/**'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/verify-dou-assets.py
