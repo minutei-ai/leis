@@ -1,5 +1,11 @@
 ###DEC-043480-0-000-28-03-1958@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 43.480, DE 28 DE MARÇO DE 1958.</strong>
 
 <em><strong>Cria o Estandarte-Distintivo para o Batalhão D. Pedro II.</strong></em>

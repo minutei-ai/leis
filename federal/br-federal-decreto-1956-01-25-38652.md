@@ -1,5 +1,11 @@
 ###DEC-038652-0-000-25-01-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 38.652, DE 25 DE JANEIRO DE 1956.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Rede Mineira de Viação, áreas de terrenos e respectivas benfeitorias, necessárias à construção da nova estação, de Marilândia e da nova linha ligando Divinópolis e Itapecerica, no Estado de Minas Gerais.</strong></em>

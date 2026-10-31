@@ -1,5 +1,11 @@
 ###DEC-040893-0-000-12-02-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 40.893, DE 12 DE FEVEREIRO DE 1957.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Companhia Mogiana de Estradas de Ferro, área de terreno situada no Estado de São Paulo.</strong></em>

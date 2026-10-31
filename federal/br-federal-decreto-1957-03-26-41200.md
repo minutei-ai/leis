@@ -1,5 +1,11 @@
 ###DEC-041200-0-000-26-03-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 41.200, DE 26 DE MARÇO DE 1957.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, áreas de terreno situado no Município de Maranguape, Estado do Ceará.</strong></em>

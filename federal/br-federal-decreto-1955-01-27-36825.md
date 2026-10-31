@@ -1,5 +1,11 @@
 ###DEC-036825-0-000-27-01-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.825, DE 27 DE JANEIRO DE 1955.</strong>
 
 <em><strong>Cria o Estandarte-Distintivo para os Centros e Núcleos de Preparação de Oficiais da Reserva.</strong></em>

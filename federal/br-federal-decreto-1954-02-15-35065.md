@@ -1,5 +1,11 @@
 ###DEC-035065-0-000-15-02-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 35.065, DE 15 DE FEVEREIRO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Rede Ferroviária do Nordeste, área de terreno necessária à construção de um novo depósito de propriedade da referida Rêde, em Ribeirão, na linha Sul.</strong></em>

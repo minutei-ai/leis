@@ -1,5 +1,11 @@
 ###DEC-062701-0-000-15-05-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 62.701, DE 15 DE MAIO DE 1968.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pela Superintendência do Desenvolvimento do Nordeste (SUDENE), áreas de terreno situadas na propriedade nº 22, no Projeto de Irrigação de Jaguaruana, no Município de Jaguaruana, Estado do Ceará.</strong></em>

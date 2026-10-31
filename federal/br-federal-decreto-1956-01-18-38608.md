@@ -1,5 +1,11 @@
 ###DEC-038608-0-000-18-01-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 38.608, DE 18 DE JANEIRO DE 1956.</strong>
 
 <em><strong>Cria o Estandarte-Distintivo para Batalhão de Guardas.</strong></em>

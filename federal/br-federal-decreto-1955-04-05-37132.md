@@ -1,5 +1,11 @@
 ###DEC-037132-0-000-05-04-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 37.132, DE 5 DE ABRIL DE 1955.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Portos, Rios e Canais, área de terrenos e benfeitorias necessárias à construção da estrada de acesso ao Pôrto Mucuripe, Estado do Ceará.</strong></em>

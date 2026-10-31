@@ -1,5 +1,11 @@
 ###DEC-034891-0-000-04-01-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 34.891, DE 4 DE JANEIRO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública para fins de desapropriação, quatro glebas com a área total de 78,0812 ha, destinadas à ampliação das terras da Subestação Experimental de Lavras, Estado de Minas Gerais.</strong></em>

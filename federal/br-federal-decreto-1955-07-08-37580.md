@@ -1,5 +1,11 @@
 ###DEC-037580-0-000-08-07-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 37.580, DE 8 DE JULHO DE 1955.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Estrada de Ferro Central do Brasil, área de terrenos pertencentes a Zacarias Gonçalves Guimarães, necessária ao alargamento de bitola e eletrificação do trecho Pavuna Belford Roxo, Município de São João de Meriti, Estado do Rio de Janeiro.</strong></em>

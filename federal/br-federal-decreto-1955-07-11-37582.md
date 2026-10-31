@@ -1,5 +1,11 @@
 ###DEC-037582-0-000-11-07-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 37.582, DE 11 DE JULHO DE 1955.</strong>
 
 <em><strong>Cria o Capacete de palha verde oliva, com aba, para uso das Unidades destacadas na fronteira e do 1º Grupamento de Engenharia.</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-036671-0-000-28-12-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.671, DE 28 DE DEZEMBRO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Secas, a área de terreno necessária à construção do açúde público “Terra Nova”, no município de Parnamirim, Estado de Pernambuco.</strong></em>

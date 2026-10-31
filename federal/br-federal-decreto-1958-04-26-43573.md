@@ -1,5 +1,11 @@
 ###DEC-043573-0-000-26-04-1958@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 43.573, DE 26 DE ABRIL DE 1958.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, áreas de terreno situadas na localidade denominada “Muinho”, Município de Jabaeté, Comarca do mesmo nome, Estado do Espírito Santo.</strong></em>

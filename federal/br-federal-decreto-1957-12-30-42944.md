@@ -1,5 +1,11 @@
 ###DEC-042944-0-000-30-12-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 42.944, DE 30 DE DEZEMBRO DE 1957.</strong>
 
 <em><strong>Outorga concessão à Rádio Eldorado S.A. para instalar uma estação de radiodifusora de ondas médias na cidade de São Paulo Estado do mesmo nome.</strong></em>

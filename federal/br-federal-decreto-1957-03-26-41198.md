@@ -1,5 +1,11 @@
 ###DEC-041198-0-000-26-03-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 41.198, DE 26 DE MARÇO DE 1957.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pela Estrada de Ferro Santos a Jundiaí, área de terrenos situada entre a Refinaria Presidente Bernardes, em Cubatão, e as Indústrias Químicas Eletro-Cloro S.A., no Estado de São Paulo.</strong></em>

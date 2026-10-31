@@ -1,5 +1,11 @@
 ###DEC-039776-0-000-13-08-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 39.776, DE 13 DE AGÔSTO DE 1956.</strong>
 
 <em><strong>Cria o estandarte-distintivo para o 9º Batalhão de Engenharia de Combate “Batalhão Carlos Camisão”.</strong></em>

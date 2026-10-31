@@ -1,5 +1,11 @@
 ###DEC-036365-0-000-21-10-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.365, DE 21 DE OUTUBRO DE 1954.</strong>
 
 <em><strong>Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Pelotas, Estado do Rio Grande do Sul.</strong></em>

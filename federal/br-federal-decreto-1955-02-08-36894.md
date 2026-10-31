@@ -1,5 +1,11 @@
 ###DEC-036894-0-000-08-02-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.894, DE 08 DE FEVEREIRO DE 1955.</strong>
 
 <em><strong>Declara de utilidade pública, para desapropriação pela Estrada de Ferro Santos a Jundiaí, imóveis imprescindíveis à construção do Sistema de Oleodutos Santos - São Paulo, de concessão do Conselho Nacional de Petróleo àquela Estrada.</strong></em>

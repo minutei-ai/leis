@@ -1,5 +1,11 @@
 ###DEC-038967-0-000-03-04-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 38.967, DE 3 DE ABRIL DE 1956.</strong>
 
 <em><strong>Declara de utilidade pública para efeito de desapropriação pela Estrada de Ferro Santos a Jundiaí, duas áreas de terreno que necessárias à uma construção de uma variante do Sistema de Oleodutos Santos-São Paulo, da concessão do Conselho Nacional de Petróleo àquela Estrada.</strong></em>

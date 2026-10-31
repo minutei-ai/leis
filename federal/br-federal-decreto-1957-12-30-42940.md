@@ -1,5 +1,11 @@
 ###DEC-042940-0-000-30-12-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO N° 42.940, DE 30 DE DEZEMBRO DE 1957.</strong>
 
 <em><strong>Outorga concessão à Rádio Globo S.A. para estabelecer uma estação de radiotelevisão nesta Capital.</strong></em>

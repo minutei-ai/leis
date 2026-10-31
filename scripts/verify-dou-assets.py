@@ -19,8 +19,14 @@ for entry in entries:
     assert re.fullmatch(r'[0-9a-f]{64}', entry['pdf_sha256']), relative
 
 references = 0
+incomplete = set()
 for md in (root / 'federal').glob('*.md'):
     text = md.read_text()
+    if '<!-- reproducao-incompleta:inicio -->' in text:
+        assert text.count('<!-- reproducao-incompleta:inicio -->') == 1, md.name
+        assert text.count('<!-- reproducao-incompleta:fim -->') == 1, md.name
+        assert 'Reprodução incompleta' in text and '../PENDENCIAS.md' in text, md.name
+        incomplete.add(str(md.relative_to(root)))
     if '<!-- fac-simile-oficial:inicio -->' not in text:
         continue
     assert text.count('<!-- fac-simile-oficial:inicio -->') == 1, md.name
@@ -32,4 +38,26 @@ for md in (root / 'federal').glob('*.md'):
         if path.is_relative_to(root / 'assets/dou'):
             assert str(path.relative_to(root)) in seen, (md.name, relative)
             references += 1
-print(f'{len(entries)} imagens com hashes íntegros; {references} referências verificadas. A completude documental exige revisão separada.')
+for md in (root / 'estaduais/MS').glob('*.md'):
+    text = md.read_text()
+    if '<!-- reproducao-incompleta:inicio -->' in text:
+        assert text.count('<!-- reproducao-incompleta:inicio -->') == 1, md.name
+        assert text.count('<!-- reproducao-incompleta:fim -->') == 1, md.name
+        assert 'Reprodução incompleta' in text and '../../PENDENCIAS.md' in text, md.name
+        incomplete.add(str(md.relative_to(root)))
+backlog = (root / 'PENDENCIAS.md').read_text()
+listed = set(re.findall(r'\]\(((?:federal|estaduais/MS)/[^)]+\.md)\)', backlog))
+assert incomplete == listed, (sorted(incomplete - listed), sorted(listed - incomplete))
+assert len(incomplete) == 185, len(incomplete)
+readme = (root / 'README.md').read_text()
+total = 0
+for relative, number in re.findall(r'^\| [^|]+ \| \[[^\]]+\]\(([^)]+/)\) \| ([\d.]+) \|$', readme, re.M):
+    actual = len(list((root / relative).glob('*.md')))
+    assert actual == int(number.replace('.', '')), (relative, actual, number)
+    total += actual
+expected = int(re.search(r'\*\*([\d.]+) normas', readme)[1].replace('.', ''))
+assert total == expected, (total, expected)
+assert len(list(root.glob('estaduais/*/anexos/*.md'))) == 2
+assert '**185 reproduções incompletas' in readme
+print(f'{len(entries)} imagens com hashes íntegros; {references} referências verificadas; {len(incomplete)} registros incompletos identificados no backlog. Isso não certifica integralidade do acervo.')
+print(f'{total} normas; 2 anexos em arquivos próprios. Contagens do README conferidas.')

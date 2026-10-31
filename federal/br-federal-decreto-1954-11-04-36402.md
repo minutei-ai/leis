@@ -1,5 +1,11 @@
 ###DEC-036402-0-000-04-11-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.402, DE 4 DE NOVEMBRO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação, áreas de terreno necessárias à construção do subtrecho do trecho Rio Pelotas - Rio Saltinho, do Tronco Ferroviário Principal Sul, a cargo do 3º Batalhão Rodoviário.</strong></em>

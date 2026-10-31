@@ -1,5 +1,11 @@
 ###DEC-038410-0-000-26-12-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 38.410, DE 26 DE DEZEMBRO DE 1955.</strong>
 
 <em><strong>Cria o Brasão de Armas para a Escola de Comando e Estado Maior do Exercito.</strong></em>

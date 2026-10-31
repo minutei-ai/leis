@@ -1,5 +1,11 @@
 ###DEC-063711-0-000-02-12-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 63.711, DE 2 DE DEZEMBRO DE 1968.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, a área de terreno que forma a bacia hidráulica e a faixa sêca do Açude Público Maravilha, no município de Santana do Ipanema, Estado de Alagoas.</strong></em>

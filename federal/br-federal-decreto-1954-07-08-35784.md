@@ -1,5 +1,11 @@
 ###DEC-035784-0-000-08-07-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 35.784, DE 8 DE JULHO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública da desaprovação dos imóveis que menciona, necessários a instalações industriais a cargo da Petróleo Brasileiro S. A. - Petrobrás.</strong></em>

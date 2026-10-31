@@ -1,5 +1,11 @@
 ###DEC-042396-0-000-03-10-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 42.396, DE 3 DE OUTUBRO DE 1957.</strong>
 
 <em><strong>Declara de utilidade pública, para efeitos de desapropriação, imóvel situado em Inhoá, na Enseada de Vila Velha, município de Espírito Santo, Estado do Espírito Santo.</strong></em>

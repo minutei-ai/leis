@@ -1,5 +1,11 @@
 ###DEC-040436-0-000-27-11-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº40.436, DE 27 DE NOVEMBRO DE 1956.</strong>
 
 <em><strong>Revigora a concessão outorgada pelo Decreto nº 38.088, de 12 de outubro de 1955, alterado pelo de nº.38.243, de 10 de novembro seguinte.</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-042675-0-000-20-11-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO N. 42.675 – DE 20 DE NOVEMBRO DE 1957</strong>
 
 <em><strong>Outorga concessão à Ceará Rádio Clube S.A. para instalar uma estação radiodifusora de ondas médias.</strong></em>

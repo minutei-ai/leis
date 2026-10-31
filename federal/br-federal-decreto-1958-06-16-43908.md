@@ -1,5 +1,11 @@
 ###DEC-043908-0-000-16-06-1958@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 43.908, DE 16 DE JUNHO DE 1958.</strong>
 
 <em><strong>Renova o Decreto nº 30.089, de 23 de outubro de 1951, que declarou utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no Município de Condeúba, Estado da Bahia.</strong></em>

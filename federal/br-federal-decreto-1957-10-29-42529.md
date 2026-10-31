@@ -1,5 +1,11 @@
 ###DEC-042529-0-000-29-10-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 42.529, DE 29 DE OUTUBRO DE 1957.</strong>
 
 <em><strong>Renova o Decreto nº 28.570, de 29 de agôsto de 1950, que declarou de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no município de Jacobina, Estado da Bahia.</strong></em>

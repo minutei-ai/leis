@@ -1,5 +1,11 @@
 ###DEC-043712-0-000-17-05-1958@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 43.712, DE 17 DE MAIO DE 1958.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação, faixa de terreno necessária à construção de trecho ferroviário localizado em Vacaria, Estado do Rio Grande do Sul.</strong></em>

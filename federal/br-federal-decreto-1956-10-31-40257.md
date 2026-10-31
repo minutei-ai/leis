@@ -1,5 +1,11 @@
 ###DEC-040257-0-000-31-10-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 40.257, DE 31 DE OUTUBRO DE 1956.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Rêde Mineira de Viação, área de terreno necessária à construção de um Pôsto Telegráfico, casa de guardachaves e alojamentos, no quilometro 591.0255, da linha de Angra dos Reis a Goiandira.</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-063046-0-000-29-07-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 63.046, DE 29 DE JULHO DE 1968.</strong>
 
 <em><strong>Renova a declaração de utilidade pública a que se refere o Decreto número 50.068, de 25 de janeiro de 1961, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, necessaria à construção do açude público Poço de Pedras, no Município de Campos Sales, Estado do Ceará.</strong></em>

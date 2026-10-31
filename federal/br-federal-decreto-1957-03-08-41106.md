@@ -1,5 +1,11 @@
 ###DEC-041106-0-000-08-03-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 41.106, DE 8 DE MARÇO DE 1957.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Secas, áreas de terreno necessário à construção do açude público “Palmeira dos Índios”, no Município de Palmeira dos Índios, Estado de Alagoas.</strong></em>

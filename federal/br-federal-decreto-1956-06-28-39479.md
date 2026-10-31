@@ -1,5 +1,11 @@
 ###DEC-039479-0-000-28-06-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 39.479, DE 28 DE JUNHO DE 1956.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Rêde Mineira de Viação, área de terreno necessária à ampliação do pátio da Estação de Barra Mansa, Estado do Rio de Janeiro.</strong></em>

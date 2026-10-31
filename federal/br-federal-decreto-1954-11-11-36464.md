@@ -1,5 +1,11 @@
 ###DEC-036464-0-000-11-11-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.464, DE 11 DE NOVEMBRO DE 1954.</strong>
 
 <em><strong>Declara de utilidades pública, para efeito de desapropriação pela Rêde ferroviária do Nordeste, área de terreno situada em Utinga, município de Rio Largo, Estado de Alagoas.</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-035797-0-000-12-07-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 35.797, DE 12 DE JULHO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras contra as Sêcas, área de terreno necessária à construção do açude público Escondido, no município de Brejo da Cruz, Estado da Paraíba.</strong></em>

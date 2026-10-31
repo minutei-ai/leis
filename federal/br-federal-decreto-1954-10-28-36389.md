@@ -1,5 +1,11 @@
 ###DEC-036389-0-000-28-10-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.389, DE 28 DE OUTUBRO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas área de terreno necessária à construção do açude pública Rio do Salto, no Município de Caculé, Estado da Bahia.</strong></em>

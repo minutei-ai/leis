@@ -1,5 +1,11 @@
 ###DEC-038726-0-000-30-01-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 38.726, DE 30 DE JANEIRO DE 1956.</strong>
 
 <em><strong>Declara de utilidades Publica , para efeito de desapropriação pelo Departamento Nacional de Estradas de Ferro, áreas de terreno e respectivos benfeitorias, necessárias aos serviços da ligação ferroviária Itanguá - Engenheiro Bley, no Estado do Paraná.</strong></em>

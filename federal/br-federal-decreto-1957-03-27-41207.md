@@ -1,5 +1,11 @@
 ###DEC-041207-0-000-27-03-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO N. 41.207 – DE 27 DE MARÇO DE 1957</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pela Estrada de Ferro Central do Brasil, áreas de terreno situadas em Carandaí, Estado de Minas Gerais.</strong></em>

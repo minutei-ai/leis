@@ -1,5 +1,11 @@
 ###DEC-040876-0-000-08-01-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO N. 40.876 – DE 8 DE JANEIRO DE 1957</strong>
 
 <em><strong>Declara de utilidade pública para efeito de desapropriação pela Rêde Mineira de Viação, aguada, áreas de terrenos e respectivas benfeitorias, situadas no Estado de Minas Gerais.</strong></em>

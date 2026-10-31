@@ -1,5 +1,11 @@
 ###DEC-037317-0-000-10-05-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 37.317, DE 10 DE MAIO DE 1955.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Rêde Mineira de Viação, área de terrenos necessária a instalação de uma caixa de água para abastecimento de suas locomotivas, no município de Monte Carmelo, Estado de Minas Gerais.</strong></em>

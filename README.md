@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**219.764 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**229.957 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,7 +16,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 87.022 |
+| Federal | [Brasil](federal/) | 97.215 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 24 |
@@ -66,7 +66,14 @@ Leia os arquivos aqui no GitHub ou baixe o repositório para consultar no seu ed
 
 ## Registros com peças pendentes
 
-Há **1 reprodução incompleta identificada neste lote**, a Lei 27/1979 de Mato Grosso do Sul. Das 183 normas acrescentadas de MS, 182 não têm pendência de peça acompanhante aberta nesta revisão e uma permanece incompleta. Isso não equivale a uma certificação de integralidade do restante do acervo. Os avisos nos arquivos e o [backlog de peças](PENDENCIAS.md) distinguem as lacunas conhecidas e preservam a recuperação futura.
+Há **185 reproduções incompletas identificadas nestes lotes**: 184 federais e a Lei 27/1979 de Mato Grosso do Sul. Todos esses arquivos têm um aviso editorial destacado e permanecem no [backlog de recuperação](PENDENCIAS.md).
+
+| Lote | Registros publicados | Sem pendência de peça acompanhante aberta nesta revisão | Reprodução incompleta |
+| --- | ---: | ---: | ---: |
+| Federal | 10.193 | 10.009 | 184 |
+| Mato Grosso do Sul | 183 | 182 | 1 |
+
+As contagens acima distinguem as lacunas conhecidas; não certificam a integralidade dos demais registros nem constituem um censo de omissões do acervo. Algumas peças recuperadas são fac-símiles identificados no Markdown, com imagens e fonte oficial, sem transcrição por OCR.
 
 ## Fontes e cobertura
 

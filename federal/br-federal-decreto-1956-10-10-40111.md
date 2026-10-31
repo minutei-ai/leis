@@ -1,5 +1,11 @@
 ###DEC-040111-0-000-10-10-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 40.111, DE 10 DE OUTUBRO DE 1956</strong>
 
 <em><strong>Declara de utilidade pública, para efeitos de desapropriação, uma área de 885,5 ha, aproximadamente, situada no município de Cabo Frio Estado do Rio de Janeiro.</strong></em>

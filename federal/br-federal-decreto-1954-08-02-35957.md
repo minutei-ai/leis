@@ -1,5 +1,11 @@
 ###DEC-035957-0-000-02-08-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (projeto-orcamento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO N. 35.957 – DE 2 DE AGÔSTO DE 1954</strong>
 
 <em><strong>Aprovação do novo projeto e orçamento para a execução de obras destinadas a aumentar a capacidade de linha de transmissão de energia elétrica entre Santos e Itatinga, da Companhia Docas de Santos.</strong></em>

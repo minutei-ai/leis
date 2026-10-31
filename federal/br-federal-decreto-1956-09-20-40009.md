@@ -1,5 +1,11 @@
 ###DEC-040009-0-000-20-09-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 40.009, DE 20 DE SETEMBRO DE 1956.</strong>
 
 <em><strong>Concede à sociedade anônima Cory Brothers and Company Limited, autorização para continuar a funcionar na República.</strong></em>

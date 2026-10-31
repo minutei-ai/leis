@@ -1,5 +1,11 @@
 ###DEC-035696-0-000-21-06-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 35.696, DE 21 DE JUNHO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Estradas de Ferro, área de terreno de propriedade de Pedro Isse e Irmão, situada no município de Monte Negro, Estado do Rio Grande do Sul.</strong></em>

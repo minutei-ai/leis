@@ -1,5 +1,11 @@
 ###DEC-063776-0-000-11-12-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 63.776, DE 11 DE DEZEMBRO DE 1968.</strong>
 
 <em><strong>Renova a declaração de utilidade pública a que se refere o Decreto número 51.077, de 31 de julho de 1961, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude Público Várzea Alegre, no Município do mesmo nome, Estado do Ceará.</strong></em>

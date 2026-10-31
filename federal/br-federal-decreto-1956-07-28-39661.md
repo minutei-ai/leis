@@ -1,5 +1,11 @@
 ###DEC-039661-0-000-28-07-1956@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 39.661, DE 28 DE JULHO DE 1956.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Rêde Mineira de Viação, área de terreno necessária à construção do pôsto telegráfico entre os quilômetros 555,390 e 555,410, da Linha de Angra dos Reis a Goiandira.</strong></em>

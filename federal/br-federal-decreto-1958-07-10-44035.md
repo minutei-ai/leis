@@ -1,5 +1,11 @@
 ###DEC-044035-0-000-10-07-1958@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 44.035, DE 10 DE JULHO DE 1958.</strong>
 
 <em><strong>Outorga concessão à Rádio Operária de Araxá Limitada para instalar uma estação radiodifusora.</strong></em>

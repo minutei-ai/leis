@@ -1,5 +1,11 @@
 ###DEC-042283-0-000-19-09-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 42.283, DE 19 DE SETEMBRO DE 1957.</strong>
 
 <em><strong>Concede à sociedade anônima Automatic Telephones Limited of Brasil autorização para continuar a funcionar na República sob a denominação de Automatic Eletric do Brasil S.A.</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-055063-0-000-24-11-1964@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (tabela) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 55.063, DE 24 DE NOVEMBRO DE 1964.</strong>
 
 <em><strong>Dispõe sobre funções gratificadas do Colégio Pedro II, do Ministério da Educação e da Cultura.</strong></em>

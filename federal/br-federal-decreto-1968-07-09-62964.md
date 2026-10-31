@@ -1,5 +1,11 @@
 ###DEC-062964-0-000-09-07-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (instrumento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 62.964, DE 9 DE JULHO DE 1968.</strong>
 
 <em><strong>Aprova o Regulamento do Estado-Maior do Exército (R-173).</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-062815-0-000-04-06-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 62.815, DE 4 DE JUNHO DE 1968.</strong>
 
 <em><strong>Concede à sociedade Dorothy Gray Inc. autorização para funcionar na República do Brasil.</strong></em>

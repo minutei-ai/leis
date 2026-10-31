@@ -1,5 +1,11 @@
 ###DEC-066013-0-000-30-12-1969@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 66.013, DE 30 DE DEZEMBRO DE 1969.</strong>
 
 <em><strong>Declara de utilidade pública, para fins de desapropriação pelo Departamento, Nacional de Obras de Saneamento - DNOS, as áreas de terras que menciona, no Município de Canôas, no Estado do Rio Grande do Sul.</strong></em>

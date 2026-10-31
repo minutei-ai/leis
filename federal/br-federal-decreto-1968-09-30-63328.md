@@ -1,5 +1,11 @@
 ###DEC-063328-0-000-30-09-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 63.328, DE 30 DE SETEMBRO DE 1968.</strong>
 
 <em><strong>Concede à sociedade anônima Sociéte de Sucreries Brésiliennes autorização para continuar a funcionar na República Federativa do Brasil.</strong></em>

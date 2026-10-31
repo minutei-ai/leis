@@ -1,5 +1,11 @@
 ###DEC-036718-0-000-03-01-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (projeto-orcamento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.718, DE 3 DE JANEIRO DE 1955.</strong>
 
 <em><strong>Aprova projeto e orçamento relativos à construção de uma ponte rodo-ferroviaria sôbre o rio de Contas, em Itajuru, na linha Ubaitaba - Jequie, no Estado da Bahia.</strong></em>

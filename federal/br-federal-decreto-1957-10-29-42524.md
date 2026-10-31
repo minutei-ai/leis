@@ -1,5 +1,11 @@
 ###DEC-042524-0-000-29-10-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (instrumento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 42.524, DE 29 DE OUTUBRO DE 1957.</strong>
 
 <em><strong>Autoriza a concessão de prêmios a construção de silos e armazéns em território do Estado de Pernambuco.</strong></em>

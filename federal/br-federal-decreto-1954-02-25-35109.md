@@ -1,5 +1,11 @@
 ###DEC-035109-0-000-25-02-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 35.109, DE 25 DE FEVEREIRO DE 1954.</strong>
 
 <em><strong>Declara de utilidade Pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público Poço das Trincheiras no município de Santana do Ipanema, Estado de Alagôas.</strong></em>

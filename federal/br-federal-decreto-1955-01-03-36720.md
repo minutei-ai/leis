@@ -1,5 +1,11 @@
 ###DEC-036720-0-000-03-01-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.720, DE 3 DE JANEIRO DE 1955.</strong>
 
 <em><strong>Autoriza a cessão gratuita de terreno pela Rede Ferroviária do Nordeste à Paroquia de Santo Amaro do Jabotão, Estado de Pernambuco.</strong></em>

@@ -1,5 +1,11 @@
 ###DEC-042551-0-000-30-10-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (instrumento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 42.551, DE 30 DE OUTUBRO DE 1957.</strong>
 
 <em><strong>Autoriza a concessão de prêmio para a construção de silos armazéns em território do Estado da Bahia.</strong></em>

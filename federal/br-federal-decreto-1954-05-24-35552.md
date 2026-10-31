@@ -1,5 +1,11 @@
 ###DEC-035552-0-000-24-05-1954@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 35.552, DE 24 DE MAIO DE 1954.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pela Estrada de Ferro Central do Brasil terrenos da Fazenda de Capitão Eduardo, necessários à construção da variante de General Carneiro à Ponte de Bicas, no Estado de Minas Gerais.</strong></em>

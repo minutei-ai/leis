@@ -1,5 +1,11 @@
 ###DEC-063189-0-000-28-08-1968@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 63.189, DE 28 DE AGÔSTO DE 1968.</strong>
 
 <em><strong>Renova a declaração de utilidade pública a que se refere o Decreto número 48.704, de 4 de agôsto de 1960, para fim de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do Açude Público Poço do Barro, no município de Morada Nova, Estado do Ceará.</strong></em>

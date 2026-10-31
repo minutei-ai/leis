@@ -1,5 +1,11 @@
 ###DEC-043809-0-000-28-05-1958@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (clausulas) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 43.809, DE 25 DE MAIO DE 1958.</strong>
 
 <em><strong>Outorga concessão à Rádio Clube de Tupã Sociedade Anônima para instalar uma estação radiodifusora.</strong></em>

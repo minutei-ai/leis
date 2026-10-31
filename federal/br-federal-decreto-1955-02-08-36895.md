@@ -1,5 +1,11 @@
 ###DEC-036895-0-000-08-02-1955@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (planta) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 36.895, DE 8 DE FEVEREIRO DE 1955.</strong>
 
 <em><strong>Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Estradas de Ferro, áreas de terrenos e respectivas benfeitorias, no município de Bagé e Pinheiro Machado, Estado do Rio Grande do Sul.</strong></em>

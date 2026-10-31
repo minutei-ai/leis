@@ -1,5 +1,11 @@
 ###DEC-041581-0-000-29-05-1957@@@
 
+<!-- reproducao-incompleta:inicio -->
+
+> **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (projeto-orcamento) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
+
+<!-- reproducao-incompleta:fim -->
+
 <strong>DECRETO Nº 41.581, DE 29 DE MAIO DE 1957.</strong>
 
 <em><strong>Aprova novo orçamento relativo aos serviços de instalação de aparelhos seletivos entre Passo Fundo e Giruã, na Viação Férrea do Rio Grande do Sul.</strong></em>
