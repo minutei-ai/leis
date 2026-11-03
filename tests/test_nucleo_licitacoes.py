@@ -615,6 +615,178 @@ class TestTravaGeracaoLC123(unittest.TestCase):
         self.assertRegex(message, r'diverge da revisão|não explicadas|não é o tipográfico')
 
 
+class TestEvidenciaEfeitosUnitario(unittest.TestCase):
+    """Gate unitário: ausência/vazio/data alterada sem chamar compute() completo."""
+
+    LC238_LITERAL = [
+        'Art. 10. Esta Lei Complementar entra em vigor na data de sua publicação e produz efeitos a partir de:',
+        'I - 1º de janeiro de 2028, quanto às alterações promovidas no art. 18-A, §§ 1º e 2º, da Lei Complementar nº 123, de 14 de dezembro de 2006 (Lei do Simples Nacional); e',
+        'II - 1º de janeiro de 2027, quanto aos demais dispositivos.',
+    ]
+    LC198_ART3 = [
+        'Art. 3º O inciso II do caput do art. 193 da Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), passa a vigorar com a seguinte redação:',
+        'II - em 30 de dezembro de 2023:',
+        'a) a Lei nº 8.666, de 21 de junho de 1993;',
+        'b) a Lei nº 10.520, de 17 de julho de 2002; e',
+    ]
+    LC198_ART4 = ['Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação.']
+    LC227_ART181 = [
+        'Art. 181. Revogam-se:',
+        'a) o art. 87-B, na redação dada pelo art. 517 da Lei Complementar nº 214, de 16 de janeiro de 2025;',
+        'IV - os seguintes dispositivos da Lei Complementar nº 123, de 14 de dezembro de 2006:',
+        'V - os seguintes dispositivos da Lei Complementar nº 214, de 16 de janeiro de 2025:',
+    ]
+    LC227_ART182 = [
+        'Art. 182. Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos:',
+        'I - a partir de 1º de janeiro de 2027, em relação:',
+        'III - a partir da sua publicação, em relação aos demais dispositivos.',
+    ]
+
+    def test_recusa_lista_vazia_por_dispositivo(self):
+        for spec_id in nl.EFFECT_EVIDENCE:
+            spec = nl.EFFECT_EVIDENCE[spec_id]
+            with self.assertRaises(SystemExit) as ctx:
+                nl.require_effect_evidence(spec['label'], [], spec['required_fragments'])
+            message = str(ctx.exception)
+            self.assertIn('ausente', message)
+            self.assertIn(spec['label'], message)
+
+    def test_recusa_fonte_vazia_apos_extracao(self):
+        spec = nl.EFFECT_EVIDENCE['lc238-art-10']
+        with self.assertRaises(SystemExit) as ctx:
+            nl.require_effect_evidence(spec['label'], ['   ', ''], spec['required_fragments'])
+        self.assertIn('vazia', str(ctx.exception))
+
+    def test_recusa_bytes_vazios_no_consumer(self):
+        # extract_required_effect_text não trata fonte vazia / None como sucesso.
+        for empty in (b'', None):
+            with self.assertRaises(SystemExit) as ctx:
+                nl.extract_required_effect_text({'planalto-lc238': empty}, 'lc238-art-10')
+            self.assertIn('ausente', str(ctx.exception))
+
+    def test_recusa_data_alterada_em_cada_dispositivo(self):
+        cases = (
+            ('lc238-art-10', [self.LC238_LITERAL[0], self.LC238_LITERAL[1].replace('2028', '2029'), self.LC238_LITERAL[2]]),
+            ('lc227-art-182', [line.replace('2027', '2028') for line in self.LC227_ART182]),
+            ('lc198-art-3', [line.replace('2023', '2024') for line in self.LC198_ART3]),
+            ('lc198-art-4', [self.LC198_ART4[0].replace('entra em vigor na data de sua publicação',
+                                                         'entra em vigor em 1º de janeiro de 2025')]),
+        )
+        for spec_id, texts in cases:
+            spec = nl.EFFECT_EVIDENCE[spec_id]
+            with self.assertRaises(SystemExit) as ctx:
+                nl.require_effect_evidence(spec['label'], texts, spec['required_fragments'])
+            message = str(ctx.exception)
+            self.assertIn('truncada ou alterada', message)
+            self.assertIn(spec['label'], message)
+
+    def test_recusa_literal_truncado(self):
+        spec = nl.EFFECT_EVIDENCE['lc238-art-10']
+        with self.assertRaises(SystemExit) as ctx:
+            nl.require_effect_evidence(
+                spec['label'],
+                ['Art. 10. Esta Lei Complementar entra em vigor na data de sua publicação.'],
+                spec['required_fragments'])
+        self.assertIn('truncada ou alterada', str(ctx.exception))
+
+    def test_aceita_literal_revisado_e_devolve_o_mesmo(self):
+        for spec in nl.EFFECT_EVIDENCE.values():
+            texts = nl.extract_effect_text(nl.read_snapshot(spec['source_key']), spec['article_pattern'])
+            out = nl.require_effect_evidence(spec['label'], texts, spec['required_fragments'],
+                                             spec['sha256_literal_revisado'])
+            self.assertIs(out, texts)
+
+    def test_recusa_troca_das_datas_com_todos_os_fragmentos_presentes(self):
+        key = 'planalto-lc238'
+        text = nl.read_snapshot(key).decode('cp1252')
+        changed = text.replace('2028', 'SWAP_YEAR').replace('2027', '2028').replace('SWAP_YEAR', '2027')
+        source = changed.encode('cp1252')
+        spec = nl.EFFECT_EVIDENCE['lc238-art-10']
+        extracted = nl.extract_effect_text(source, spec['article_pattern'])
+        self.assertTrue(all(fragment in ' '.join(extracted) for fragment in spec['required_fragments']))
+        with self.assertRaises(SystemExit) as ctx:
+            nl.extract_required_effect_text({key: source}, 'lc238-art-10')
+        self.assertIn('literal completo diverge', str(ctx.exception))
+
+
+class TestTravaEvidenciaEfeitos(unittest.TestCase):
+    """Reprodução de integração: mutate em memória; snapshots oficiais intactos."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())
+        cls.base_sources = {
+            key: nl.read_snapshot(key) if cls.fontes[key].get('utilizavel') else None
+            for key in nl.SOURCES
+        }
+        cls.snapshot_digests = {
+            key: hashlib.sha256(nl.snapshot_path(key).read_bytes()).hexdigest()
+            for key in ('planalto-lc238', 'planalto-lc227', 'planalto-lc198')
+        }
+
+    def tearDown(self):
+        for key, digest in self.snapshot_digests.items():
+            self.assertEqual(
+                hashlib.sha256(nl.snapshot_path(key).read_bytes()).hexdigest(),
+                digest,
+                f'snapshot em disco alterado: {key}')
+
+    def _compute_with(self, mutate):
+        sources = dict(self.base_sources)
+        fontes = json.loads(json.dumps(self.fontes))
+        mutate(sources, fontes)
+        return nl.compute(sources, fontes)
+
+    def test_recusa_art10_lc238_ausente_na_fonte(self):
+        def mutate(sources, fontes):
+            key = 'planalto-lc238'
+            text = sources[key].decode('cp1252')
+            self.assertIn('Art. 10.', text)
+            # Remove o bloco do art. 10 sem gravar no disco.
+            sources[key] = text.replace('Art. 10.', 'Art. 10-X.', 1).encode('cp1252')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('LC 238 art. 10', message)
+        self.assertIn('ausente', message)
+
+    def test_recusa_data_alterada_no_art10_antes_de_publicar_leitura(self):
+        def mutate(sources, fontes):
+            key = 'planalto-lc238'
+            text = sources[key].decode('cp1252')
+            # No HTML oficial a data aparece quebrada em linhas ("janeiro \\r\\n\\tde 2028").
+            self.assertRegex(text, r'janeiro\s+de 2028')
+            sources[key] = re.sub(r'(janeiro\s+de )2028', r'\g<1>2029', text, count=1).encode('cp1252')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+            # Confirma que a evidência já sairia alterada antes do compute.
+            altered = nl.extract_effect_text(sources[key], r'^Art\. 10\.')
+            self.assertNotIn('1º de janeiro de 2028', ' '.join(altered))
+            self.assertIn('1º de janeiro de 2029', ' '.join(altered))
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('LC 238 art. 10', message)
+        self.assertIn('truncada ou alterada', message)
+
+    def test_recusa_art3_lc198_ausente_na_fonte(self):
+        def mutate(sources, fontes):
+            key = 'planalto-lc198'
+            text = sources[key].decode('cp1252')
+            self.assertRegex(text, r'Art\.\s*3º')
+            sources[key] = re.sub(r'Art\.\s*3º', 'Art. 3-Xº', text, count=1).encode('cp1252')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('LC 198 art. 3º', message)
+        self.assertIn('ausente', message)
+        # Preservação de disco: tearDown confere sha256 dos snapshots oficiais.
+
+
 class TestRevogadas(unittest.TestCase):
     def test_8666_e_10520_incluidas_com_procedencia_e_revogacao(self):
         for rel, number, url in ((L8666, '8666', 'https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm'),
