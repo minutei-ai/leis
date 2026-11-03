@@ -1754,7 +1754,7 @@ def compute(sources, fontes, baseline_texts=None):
         new_with = lc123_arts
         old_with = [k for k, bs in old_arts.items() if any(lc238_marker in md_plain(b, True) for b in bs)]
         proofs[LC123_PROOF_NAME] = dict(
-            descricao='Edição anterior auditada (baseline vendido, autenticado por SHA-256 e commit de procedência; '
+            descricao='Edição anterior auditada (baseline versionado, autenticado por SHA-256 e commit de procedência; '
                       'não é fonte de captura) contra a edição atual da Câmara capturada nesta entrega. '
                       'A comparação não depende da quantidade de normas do núcleo.',
             anterior_sha256=BASELINE_SHA256[LC123_PATH],
@@ -1844,7 +1844,7 @@ def proof_field_errors(name, published, expected):
         return [f'provas/{name}: formato inválido']
     errors = []
     for key in sorted(set(published) | set(expected)):
-        if published.get(key) != expected.get(key):
+        if key not in published or key not in expected or published[key] != expected[key]:
             errors.append(f'provas/{name}: campo {key} diverge do recálculo')
     return errors
 

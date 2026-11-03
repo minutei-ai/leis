@@ -21,7 +21,7 @@ python3 -m unittest discover -s tests
 ```
 
 Dependências: `beautifulsoup4==4.15.0`, `lxml==6.1.3` e `poppler-utils` (`pdftotext`); as versões usadas estão em `ferramentas.json`. O `verify` reconverte os snapshots, confere
-byte a byte os Markdown e as provas publicados (incluindo **todos** os campos de `lc123-anterior-vs-nova.json`, recalculados a partir do baseline vendido) e valida o contrato de metadados. O baseline vive em `baselines/` e dispensa histórico Git completo em checkout raso.
+byte a byte os Markdown e as provas publicados (incluindo **todos** os campos de `lc123-anterior-vs-nova.json`, recalculados a partir do baseline versionado) e valida o contrato de metadados. O baseline vive em `baselines/` e dispensa histórico Git completo em checkout raso.
 
 ## Refazer a captura
 

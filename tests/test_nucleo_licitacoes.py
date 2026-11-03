@@ -665,7 +665,7 @@ class TestContratoDeMetadados(unittest.TestCase):
         for key, rec in fontes.items():
             if not rec.get('utilizavel'):
                 self.assertIn(key, nl.SOURCES, key)
-                self.assertTrue(nl.SOURCES[key].get('opcional') or rec.get('motivo'), key)
+                self.assertTrue(nl.SOURCES[key].get('opcional'), key)
                 self.assertTrue(rec.get('motivo'), key)
                 continue
             self.assertEqual(hashlib.sha256(nl.read_snapshot(key)).hexdigest(), rec['sha256'], key)
@@ -772,6 +772,11 @@ class TestVerifyLc123AnteriorNegativos(unittest.TestCase):
             published[field] = value
             errors = nl.proof_field_errors(nl.LC123_PROOF_NAME, published, expected)
             self.assertTrue(any(f'campo {field}' in e for e in errors), (field, errors))
+
+    def test_proof_field_errors_recusa_chave_extra_ou_ausente_com_valor_nulo(self):
+        self.assertTrue(nl.proof_field_errors('prova', {'extra': None}, {}))
+        self.assertTrue(nl.proof_field_errors('prova', {}, {'obrigatorio': None}))
+        self.assertEqual(nl.proof_field_errors('prova', {'campo': None}, {'campo': None}), [])
 
     def test_verify_falha_quando_campo_nao_hash_da_prova_diverge(self):
         path = nl.PROVAS / nl.LC123_PROOF_NAME
