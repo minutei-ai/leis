@@ -64,6 +64,9 @@ SOURCES = {
     'camara-13303': dict(
         url='https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html',
         file='camara-lei-13303-normaatualizada.html', orgao=CAMARA, formato='html', charset='utf-8'),
+    'planalto-13303': dict(
+        url='https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm',
+        file='planalto-l13303.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
     'planalto-8666': dict(
         url='https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm',
         file='planalto-l8666cons.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
@@ -159,7 +162,7 @@ DOCS = [
          edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
     dict(slug='br-federal-lei-2016-06-30-13303',
          arquivo='federal/br-federal-lei-2016-06-30-13303.md', modo='conferida',
-         fonte='camara-13303', base_url=SOURCES['camara-13303']['url'],
+         fonte='camara-13303', conferencia=['planalto-13303'], base_url=SOURCES['camara-13303']['url'],
          norma=dict(tipo='lei', numero='13303', data='2016-06-30',
                     titulo='LEI Nº 13.303, DE 30 DE JUNHO DE 2016',
                     ementa='Estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias.'),
@@ -842,6 +845,11 @@ def validate_meta(meta, name='documento'):
         errors.append(f'{name}: situacao revogada exige situacao_fundamento')
     if meta.get('edicao_tipo') == 'historica' and meta.get('edicao_integral') is True:
         errors.append(f'{name}: edição histórica não pode declarar integralidade consolidada')
+    fonte_url = meta.get('fonte_url')
+    conferencia = meta.get('fonte_conferencia')
+    if isinstance(conferencia, list) and fonte_url and fonte_url != UNKNOWN:
+        if fonte_url in conferencia:
+            errors.append(f'{name}: fonte_conferencia não pode repetir a URL de fonte_url')
     return errors
 
 
@@ -927,6 +935,12 @@ KNOWN_DIVERGENCES = {
         },
     },
 }
+# Lei 13.303: divergências de forma revisadas entre o corpo preservado (Câmara) e o Planalto.
+# São diferenças tipográficas/editoriais de um caractere após normalização; a auditoria não
+# encontrou divergência de conteúdo. Qualquer divergência nova ou substancial bloqueia.
+L13303_SLUG = 'br-federal-lei-2016-06-30-13303'
+L13303_FORM_DIVERGENCES = ('9', '18', '24', '88')
+
 # Impressões digitais do texto vigente (strip_fold + current_text_of) da diferença revisada do art. 121.
 # Qualquer outra alteração nesse artigo invalida a exceção; não basta o número do artigo.
 KNOWN_DIVERGENCE_FINGERPRINTS = {
@@ -1079,6 +1093,56 @@ def read_baseline(path_in_repo):
     if text.startswith('---\n'):
         _, text = parse_frontmatter(text)
     return strip_note(text)
+
+
+def preserved_blocks(markdown):
+    """Blocos do corpo preservado, sem imagens embutidas em data-URI."""
+    return [b for b in re.split(r'\n\s*\n', markdown) if b.strip() and not b.startswith('![](data:')]
+
+
+def measure_preserved_structure(markdown):
+    """Contagens estruturais medidas no corpo preservado (não constantes fixas)."""
+    blocks = preserved_blocks(markdown)
+    anexos = sum(1 for b in blocks if re.match(r'^ANEXO\b', md_plain(b, True).strip(), re.I))
+    tabelas = 0
+    for block in blocks:
+        stripped = block.strip()
+        if stripped.startswith('<table'):
+            tabelas += 1
+        elif stripped.startswith('|') and re.search(r'^\|\s*---', block, re.M):
+            tabelas += 1
+    imagens = len(re.findall(r'!\[[^\]]*\]\(data:', markdown))
+    return dict(
+        texto_riscado='~~' in markdown,
+        anexos_no_corpo=anexos,
+        tabelas=tabelas,
+        imagens_embutidas=imagens,
+        titulos_e_capitulos=len(headings(main_body_blocks(blocks))),
+        blocos=len(blocks),
+    )
+
+
+def non_article_blocks(blocks):
+    """Blocos do corpo principal que não iniciam artigo (títulos, ementa estrutural, notas soltas)."""
+    out = []
+    for block in main_body_blocks(blocks):
+        plain = re.sub(r'\s+', ' ', md_plain(block, True)).strip()
+        if article_key(plain) is not None:
+            continue
+        out.append(strip_fold(strip_notes(plain)))
+    return out
+
+
+def full_body_coverage(preserved_md, source_blocks_list):
+    """Cobertura integral: texto normalizado do corpo preservado == conversão da captura atual."""
+    left = strip_fold(md_text_all(preserved_md))
+    right = strip_fold(''.join(md_plain(b, True) for b in source_blocks_list))
+    return dict(
+        descricao=('texto integral do corpo preservado == texto convertido da captura atual usada para '
+                   'conferir (inclui títulos, notas e blocos fora de artigos), após normalização'),
+        equivalente=left == right,
+        caracteres_normalizados=len(left),
+    )
 
 
 def classify(result):
@@ -1789,33 +1853,132 @@ def compute(sources, fontes, baseline_texts=None):
         elif doc['modo'] == 'conferida':
             pristine = read_baseline(rel)
             assert sha256(pristine.encode()) == BASELINE_SHA256[rel], f'corpo de {rel} foi alterado'
-            ckey = doc['fonte']
-            blocks, _ = source_blocks(ckey, sources[ckey])
-            old_blocks = [b for b in re.split(r'\n\s*\n', pristine) if b.strip() and not b.startswith('![](data:')]
-            art_result, _, _ = article_proof(blocks, old_blocks)
-            proof = dict(documento=slug, fonte_conferencia=ckey, url=SOURCES[ckey]['url'], sha256_fonte=fontes[ckey]['sha256'],
-                         capturado_em=fontes[ckey]['capturado_em'], artigos=art_result)
-            ap = proof['artigos']
-            if ap['divergentes'] or ap['apenas_na_principal'] or ap['apenas_na_conferencia']:
-                raise SystemExit(f'{slug}: o arquivo do acervo divergiu da fonte atual da Câmara: {ap}')
+            ckey = doc['fonte']  # captura atual do órgão da edição (Câmara); NÃO é a captura original
+            conf_keys = doc.get('conferencia') or []
+            camara_blocks, camara_conv = source_blocks(ckey, sources[ckey])
+            old_blocks = preserved_blocks(pristine)
+            measured = measure_preserved_structure(pristine)
+            # Integridade do corpo preservado contra a captura atual da Câmara (mesma URL alegada;
+            # hash/data desta captura NÃO se atribuem à procedência original desconhecida).
+            art_camara, _, _ = article_proof(camara_blocks, old_blocks)
+            cobertura = full_body_coverage(pristine, camara_blocks)
+            titulos_camara = dict(
+                iguais=headings(main_body_blocks(old_blocks)) == headings(main_body_blocks(camara_blocks)),
+                preservado=len(headings(main_body_blocks(old_blocks))),
+                captura_atual=len(headings(main_body_blocks(camara_blocks))))
+            fora_artigos = dict(
+                iguais=non_article_blocks(old_blocks) == non_article_blocks(camara_blocks),
+                preservado=len(non_article_blocks(old_blocks)),
+                captura_atual=len(non_article_blocks(camara_blocks)))
+            if (art_camara['divergentes'] or art_camara['apenas_na_principal'] or art_camara['apenas_na_conferencia']
+                    or not cobertura['equivalente'] or not titulos_camara['iguais'] or not fora_artigos['iguais']):
+                raise SystemExit(
+                    f'{slug}: corpo preservado divergiu da captura atual da Câmara '
+                    f'(artigos/cobertura/títulos/blocos fora de artigos): artigos={art_camara} '
+                    f'cobertura={cobertura} titulos={titulos_camara} fora_artigos={fora_artigos}')
+            # Conferência independente (segunda fonte oficial), se houver.
+            fontes_conf = []
+            article_splits = {}
+            for indep in conf_keys:
+                if sources.get(indep) is None:
+                    continue
+                indep_blocks, _ = source_blocks(indep, sources[indep])
+                art_indep, prim, sec = article_proof(old_blocks, indep_blocks)
+                entry_conf = dict(
+                    fonte=indep, url=SOURCES[indep]['url'], sha256=fontes[indep]['sha256'],
+                    capturado_em=fontes[indep]['capturado_em'], artigos=art_indep,
+                    titulos_e_capitulos=dict(
+                        iguais=headings(main_body_blocks(old_blocks)) == headings(main_body_blocks(indep_blocks)),
+                        principal=len(headings(main_body_blocks(old_blocks))),
+                        conferencia=len(headings(main_body_blocks(indep_blocks)))))
+                fontes_conf.append(entry_conf)
+                article_splits[indep] = (prim, sec, art_indep, entry_conf)
+            # Gate da conferência independente (Planalto) da Lei 13.303.
+            if slug == L13303_SLUG:
+                if 'planalto-13303' not in article_splits:
+                    raise SystemExit(f'{slug}: captura do Planalto ausente para conferência independente')
+                _, _, art_pl, entry_pl = article_splits['planalto-13303']
+                form_set = set(art_pl.get('divergencias_de_forma') or [])
+                major = art_pl.get('divergencias_substanciais') or []
+                expected_form = set(L13303_FORM_DIVERGENCES)
+                if major:
+                    raise SystemExit(f'{slug}: divergências substanciais com o Planalto: {major}')
+                if form_set != expected_form:
+                    raise SystemExit(
+                        f'{slug}: divergências de forma com o Planalto divergem do revisado '
+                        f'(esperadas {sorted(expected_form, key=lambda x: (len(x), x))}, '
+                        f'obtidas {sorted(form_set, key=lambda x: (len(x), x))})')
+                if art_pl['apenas_na_principal'] or art_pl['apenas_na_conferencia']:
+                    raise SystemExit(
+                        f'{slug}: artigos exclusivos entre corpo preservado e Planalto: '
+                        f'{art_pl["apenas_na_principal"]} / {art_pl["apenas_na_conferencia"]}')
+                if not entry_pl['titulos_e_capitulos']['iguais']:
+                    raise SystemExit(f'{slug}: sequência de títulos/capítulos difere do Planalto')
+                art_pl['divergencias_explicadas'] = {
+                    k: ('Diferença tipográfica/editorial de forma após normalização entre a edição '
+                        'preservada da Câmara e a página do Planalto; a auditoria não encontrou '
+                        'divergência de conteúdo. O texto publicado permanece o corpo preservado.')
+                    for k in L13303_FORM_DIVERGENCES
+                }
+            proof = dict(
+                documento=slug,
+                # Procedência original desconhecida (corpo histórico) vs captura atual usada só para conferir.
+                procedencia_original=dict(
+                    descricao=('Corpo preservado byte a byte; captura original (data/hash) não registrada. '
+                               'fonte_url aponta o órgão/URL alegados da edição, sem atribuir a captura atual.'),
+                    fonte_url_alegada=SOURCES[ckey]['url'],
+                    capturado_em=UNKNOWN,
+                    sha256_fonte=UNKNOWN,
+                    sha256_corpo_preservado=BASELINE_SHA256[rel]),
+                captura_atual_para_conferir=dict(
+                    descricao=('Captura contemporânea da Câmara usada para conferir o corpo preservado. '
+                               'Não é a captura original; hash e data abaixo referem-se só a esta captura.'),
+                    chave=ckey,
+                    url=SOURCES[ckey]['url'],
+                    sha256=fontes[ckey]['sha256'],
+                    capturado_em=fontes[ckey]['capturado_em'],
+                    snapshot=str(snapshot_path(ckey).relative_to(ROOT))),
+                cobertura_texto=cobertura,
+                titulos_e_capitulos=titulos_camara,
+                blocos_fora_de_artigos=fora_artigos,
+                estrutura_medida=measured,
+                artigos_vs_captura_atual=art_camara,
+                fontes_conferencia=fontes_conf,
+            )
             reconciliation[slug] = proof
-            imgs = len(re.findall(r'!\[[^\]]*\]\(data:', pristine))
             norma = doc['norma']
+            conf_urls = [SOURCES[k]['url'] for k in conf_keys] or 'nenhuma'
+            # fonte_conferencia = segunda fonte oficial independente; nunca a mesma URL de fonte_url.
+            if conf_urls != 'nenhuma' and SOURCES[ckey]['url'] in conf_urls:
+                raise SystemExit(f'{slug}: fonte_conferencia não pode repetir a URL de fonte_url')
             meta.update(norma_id=slug, norma_tipo=norma['tipo'], norma_numero=norma['numero'], norma_data=norma['data'],
                         titulo=norma['titulo'], edicao_id=slug + '@consolidada-camara', edicao_tipo='consolidada',
                         edicao_integral=True, fonte_orgao=CAMARA, fonte_url=SOURCES[ckey]['url'], fonte_formato='html',
-                        fonte_conferencia=[SOURCES[ckey]['url']], capturado_em=UNKNOWN, sha256_fonte=UNKNOWN,
-                        situacao='nao-informada', situacao_fundamento=UNKNOWN, texto_riscado=False,
-                        anexos_no_corpo=0, tabelas=0, imagens_omitidas=0,
+                        fonte_conferencia=conf_urls, capturado_em=UNKNOWN, sha256_fonte=UNKNOWN,
+                        situacao='nao-informada', situacao_fundamento=UNKNOWN,
+                        texto_riscado=measured['texto_riscado'],
+                        anexos_no_corpo=measured['anexos_no_corpo'],
+                        tabelas=measured['tabelas'],
+                        imagens_omitidas=0,  # imagens embutidas permanecem no corpo preservado
                         efeitos_diferidos='preservados-nas-notas-do-texto',
                         sha256_corpo_preservado=BASELINE_SHA256[rel])
             body = pristine
-            entry['proveniencia'] = ('Corpo preservado byte a byte do commit auditado; a data e o hash da captura original não foram '
-                                     'registrados. A conferência artigo a artigo contra a edição atual da Câmara está em '
-                                     f'{proof_name(slug)}.')
-            entry['blocos_nao_textuais'] = [dict(tipo='imagem-embutida', quantidade=imgs,
-                                                 tratamento='mantida no corpo preservado (brasão/logotipo institucional)')]
-            meta['imagens_omitidas'] = 0
+            entry['proveniencia'] = (
+                'Corpo preservado byte a byte do commit auditado; a data e o hash da captura original não foram '
+                'registrados (capturado_em/sha256_fonte = desconhecido). A captura atual da Câmara usada para '
+                f'conferir o corpo está em `{proof_name(slug)}` (campo captura_atual_para_conferir), com hash e '
+                'data próprios — não atribuídos retroativamente à procedência original. '
+                + ('Conferência independente com o Planalto no mesmo arquivo de provas.'
+                   if conf_keys else 'Nenhuma segunda fonte oficial independente foi obtida.'))
+            entry['estrutura_medida'] = measured
+            entry['blocos_nao_textuais'] = [dict(
+                tipo='imagem-embutida', quantidade=measured['imagens_embutidas'],
+                tratamento='mantida no corpo preservado (brasão/logotipo institucional)')]
+            entry['fontes'] = dict(
+                captura_atual_camara=dict(chave=ckey, **public_source(fontes[ckey], ckey)),
+                conferencia=[dict(chave=k, **public_source(fontes[k], k)) for k in conf_keys
+                             if sources.get(k) is not None])
+            entry['divergencias_conhecidas'] = {}
         else:
             item = converted[slug]
             rec = item['rec']
