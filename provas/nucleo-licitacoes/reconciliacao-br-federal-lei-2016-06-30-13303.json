@@ -1,0 +1,17 @@
+{
+  "documento": "br-federal-lei-2016-06-30-13303",
+  "fonte_conferencia": "camara-13303",
+  "url": "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html",
+  "sha256_fonte": "20ce9846d05220bdb1896f41399dcc78e68573a8fde4c5a09f9b1861a6db3c09",
+  "capturado_em": "2026-11-03T16:31:15Z",
+  "artigos": {
+    "artigos_fonte_principal": 98,
+    "artigos_fonte_conferencia": 98,
+    "apenas_na_principal": [],
+    "apenas_na_conferencia": [],
+    "identicos": 98,
+    "divergentes": [],
+    "divergencias_de_forma": [],
+    "divergencias_substanciais": []
+  }
+}

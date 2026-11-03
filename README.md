@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**229.957 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**229.959 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,7 +16,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 97.215 |
+| Federal | [Brasil](federal/) | 97.217 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 24 |
@@ -75,9 +75,13 @@ Há **185 reproduções incompletas identificadas nestes lotes**: 184 federais e
 
 As contagens acima distinguem as lacunas conhecidas; não certificam a integralidade dos demais registros nem constituem um censo de omissões do acervo. Algumas peças recuperadas são fac-símiles identificados no Markdown, com imagens e fonte oficial, sem transcrição por OCR.
 
+## Núcleo de legislação de licitações
+
+Para consulta automatizada, seis arquivos de `federal/` (um deles em `federal/edicoes/`, pasta de edições alternativas de uma mesma norma, fora da contagem de normas) têm cabeçalho de metadados (norma, edição, fonte, captura e situação informada pela fonte; o que não se sabe aparece como `desconhecido`): a [Lei 14.133/2021 em edição consolidada](federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md) e em [edição histórica preservada](federal/br-federal-lei-2021-04-01-14133.md), a [Lei 13.303/2016](federal/br-federal-lei-2016-06-30-13303.md), a [Lei Complementar 123/2006](federal/br-federal-lei-complementar-2006-12-14-123.md) e as Leis [8.666/1993](federal/br-federal-lei-1993-06-21-8666.md) e [10.520/2002](federal/br-federal-lei-2002-07-17-10520.md), que a fonte apresenta como revogadas e que ficam para consulta histórica e hipóteses de transição, não como fundamento atual. O [contrato de metadados](metadados/CONTRATO.md), o [manifesto](metadados/nucleo-licitacoes.json) e as [provas de conversão e conferência](provas/nucleo-licitacoes/README.md) descrevem fontes, hashes e o tratamento de anexos, imagens e texto riscado. A edição histórica da Lei 14.133 não tem fonte registrada e não incorpora alterações posteriores; para o texto atualizado use a consolidada. Nenhum desses arquivos certifica vigência.
+
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, da Presidência da República (Planalto), das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
