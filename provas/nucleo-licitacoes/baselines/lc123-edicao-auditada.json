@@ -1,0 +1,9 @@
+{
+  "papel": "baseline-texto-auditado",
+  "nao_e_fonte_de_captura": true,
+  "arquivo": "provas/nucleo-licitacoes/baselines/lc123-edicao-auditada.md",
+  "caminho_no_commit": "federal/br-federal-lei-complementar-2006-12-14-123.md",
+  "commit": "0638c91461ea0a3f8bbae9cb88ddfdebe38a67e9",
+  "sha256": "b31d0e6a2e50918a661db65da1c79886d8a40d848aa7e3c8ff6698bfa7ea8fb7",
+  "nota": "Bytes do arquivo no commit auditado. A reconciliação offline lê este arquivo e confere o SHA-256; não usa git show nem o histórico completo. Não é snapshot nem fonte de captura."
+}

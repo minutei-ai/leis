@@ -93,10 +93,15 @@ HISTORIC_14133 = 'federal/br-federal-lei-2021-04-01-14133.md'
 HISTORIC_14133_SHA256 = 'a8549ba1e3d54fd562afb29cb102bb97f1fb61c8bb4283e3eb4aab629fc193e1'
 BASELINE_COMMIT = '0638c91461ea0a3f8bbae9cb88ddfdebe38a67e9'
 # SHA-256 dos arquivos no commit auditado (BASELINE_COMMIT), antes desta alteração.
+LC123_PATH = 'federal/br-federal-lei-complementar-2006-12-14-123.md'
+LC123_PROOF_NAME = 'lc123-anterior-vs-nova.json'
+LC123_BASELINE_REL = 'provas/nucleo-licitacoes/baselines/lc123-edicao-auditada.md'
+LC123_BASELINE_META_REL = 'provas/nucleo-licitacoes/baselines/lc123-edicao-auditada.json'
+LC123_BASELINE_PAPEL = 'baseline-texto-auditado'
 BASELINE_SHA256 = {
     'federal/br-federal-lei-2021-04-01-14133.md': HISTORIC_14133_SHA256,
     'federal/br-federal-lei-2016-06-30-13303.md': '8dfe72c14107eed49d27ed6ace922ec19b63879bb2e133147c1155eeac845875',
-    'federal/br-federal-lei-complementar-2006-12-14-123.md': 'b31d0e6a2e50918a661db65da1c79886d8a40d848aa7e3c8ff6698bfa7ea8fb7',
+    LC123_PATH: 'b31d0e6a2e50918a661db65da1c79886d8a40d848aa7e3c8ff6698bfa7ea8fb7',
 }
 
 DOCS = [
@@ -1910,9 +1915,14 @@ def compute(sources, fontes, baseline_texts=None):
         old_arts, _ = split_articles(main_body_blocks(old_blocks))
         new_with = lc123_arts
         old_with = [k for k, bs in old_arts.items() if any(lc238_marker in md_plain(b, True) for b in bs)]
-        proofs['lc123-anterior-vs-nova.json'] = dict(
-            descricao='Edição anterior do acervo (commit auditado) contra a edição atual da Câmara capturada nesta entrega.',
-            anterior_sha256=BASELINE_SHA256['federal/br-federal-lei-complementar-2006-12-14-123.md'],
+        proofs[LC123_PROOF_NAME] = dict(
+            descricao='Edição anterior auditada (baseline versionado, autenticado por SHA-256 e commit de procedência; '
+                      'não é fonte de captura) contra a edição atual da Câmara capturada nesta entrega. '
+                      'A comparação não depende da quantidade de normas do núcleo.',
+            anterior_sha256=BASELINE_SHA256[LC123_PATH],
+            baseline_arquivo=LC123_BASELINE_REL,
+            baseline_commit=BASELINE_COMMIT,
+            baseline_papel=LC123_BASELINE_PAPEL,
             artigos_identicos_no_texto=cmp['identicos'], artigos_com_texto_diferente=[d['artigo'] for d in cmp['divergentes']],
             artigos_apenas_na_nova=cmp['apenas_na_principal'], artigos_apenas_na_anterior=cmp['apenas_na_conferencia'],
             artigos_com_remissao_lc238_antes=old_with, artigos_com_remissao_lc238_agora=new_with,
@@ -1956,9 +1966,49 @@ def source_text_chars_from_html(data, charset):
 # --------------------------------------------------------------------------
 
 
-def git_blob(path):
-    return subprocess.run(['git', '-C', str(ROOT), 'show', f'{BASELINE_COMMIT}:{path}'], capture_output=True,
-                          check=True).stdout.decode('utf-8')
+def load_lc123_baseline():
+    """Texto anterior auditado da LC 123, conferido por hash e procedência.
+
+    O arquivo vive no repositório. Não consulta o Git: um checkout raso, sem o
+    commit auditado, continua podendo reconciliar. Não é snapshot de captura.
+    Devolve (texto ou None, erros).
+    """
+    path = ROOT / LC123_BASELINE_REL
+    meta_path = ROOT / LC123_BASELINE_META_REL
+    expected = BASELINE_SHA256[LC123_PATH]
+    if not path.is_file() or not meta_path.is_file():
+        return None, ['baseline da LC 123 ausente (texto auditado ou procedência)']
+    try:
+        meta = json.loads(meta_path.read_text(encoding='utf-8'))
+    except json.JSONDecodeError:
+        return None, ['baseline da LC 123: procedência ilegível']
+    if not isinstance(meta, dict):
+        return None, ['baseline da LC 123: procedência ilegível']
+    text = path.read_text(encoding='utf-8')
+    digest = sha256(text.encode('utf-8'))
+    errors = []
+    if digest != expected or meta.get('sha256') != expected:
+        errors.append('baseline da LC 123: hash não confere com a procedência auditada')
+    if meta.get('commit') != BASELINE_COMMIT or meta.get('caminho_no_commit') != LC123_PATH:
+        errors.append('baseline da LC 123: procedência (commit ou caminho) diverge')
+    if meta.get('papel') != LC123_BASELINE_PAPEL or meta.get('nao_e_fonte_de_captura') is not True:
+        errors.append('baseline da LC 123: papel não distingue o texto auditado da fonte de captura')
+    if meta.get('arquivo') != LC123_BASELINE_REL:
+        errors.append('baseline da LC 123: caminho do arquivo de baseline diverge')
+    if errors:
+        return None, errors
+    return text, []
+
+
+def proof_field_errors(name, published, expected):
+    """Compara cada campo. Não exige quantidade fixa de artigos ou de normas."""
+    if not isinstance(published, dict) or not isinstance(expected, dict):
+        return [f'provas/{name}: formato inválido']
+    errors = []
+    for key in sorted(set(published) | set(expected)):
+        if key not in published or key not in expected or published[key] != expected[key]:
+            errors.append(f'provas/{name}: campo {key} diverge do recálculo')
+    return errors
 
 
 def tool_versions():
@@ -2000,9 +2050,9 @@ def build(dest):
             sources[key] = None
         else:
             raise SystemExit(f'{key}: fonte indispensável não obtida: {rec.get("motivo")}')
-    lc123_old = git_blob('federal/br-federal-lei-complementar-2006-12-14-123.md')
-    if sha256(lc123_old.encode()) != BASELINE_SHA256['federal/br-federal-lei-complementar-2006-12-14-123.md']:
-        raise SystemExit('baseline da LC 123 não confere')
+    lc123_old, baseline_errors = load_lc123_baseline()
+    if baseline_errors:
+        raise SystemExit('\n'.join(baseline_errors))
     docs, proofs, manifest = compute(sources, fetched, {'lc123': lc123_old})
     write_outputs(docs, proofs, manifest)
     print(f'{len(docs)} documentos, {len(proofs)} provas, manifesto em {MANIFESTO.relative_to(ROOT)}')
@@ -2029,7 +2079,12 @@ def verify():
         sources[key] = data
     if errors:
         return errors
-    docs, proofs, manifest = compute(sources, fontes, None)
+    baseline, baseline_errors = load_lc123_baseline()
+    errors.extend(baseline_errors)
+    if baseline is None:
+        errors.append(f'provas/{LC123_PROOF_NAME}: recálculo integral não executado sem baseline íntegro')
+        return errors
+    docs, proofs, manifest = compute(sources, fontes, {'lc123': baseline})
     for rel, expected in docs.items():
         actual = (ROOT / rel).read_text(encoding='utf-8')
         if actual != expected:
@@ -2040,13 +2095,19 @@ def verify():
             errors.append(f'{rel}: sha256_markdown não confere com o corpo')
     for name, expected in proofs.items():
         path = PROVAS / name
+        if name == LC123_PROOF_NAME:
+            if not path.exists():
+                errors.append(f'provas/{name} ausente')
+            else:
+                try:
+                    published = json.loads(path.read_text(encoding='utf-8'))
+                except json.JSONDecodeError:
+                    errors.append(f'provas/{name}: formato inválido')
+                    continue
+                errors.extend(proof_field_errors(name, published, json.loads(json.dumps(expected, ensure_ascii=False))))
+            continue
         if not path.exists() or json.loads(path.read_text()) != json.loads(json.dumps(expected, ensure_ascii=False)):
             errors.append(f'provas/{name}: ausente ou diverge do recálculo')
-    old = PROVAS / 'lc123-anterior-vs-nova.json'
-    if not old.exists():
-        errors.append('provas/lc123-anterior-vs-nova.json ausente')
-    elif json.loads(old.read_text())['anterior_sha256'] != BASELINE_SHA256['federal/br-federal-lei-complementar-2006-12-14-123.md']:
-        errors.append('lc123-anterior-vs-nova.json: hash da edição anterior diverge do baseline')
     stored = json.loads(MANIFESTO.read_text())
     if stored != json.loads(json.dumps(manifest, ensure_ascii=False)):
         errors.append('metadados/nucleo-licitacoes.json diverge do recálculo')

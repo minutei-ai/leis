@@ -733,7 +733,10 @@ class TestContratoDeMetadados(unittest.TestCase):
 
     def test_manifesto_coincide_com_cabecalhos(self):
         manifest = json.loads(nl.MANIFESTO.read_text())
-        self.assertEqual(sorted(d['arquivo'] for d in manifest['documentos']), sorted(ALL))
+        arquivos = [d['arquivo'] for d in manifest['documentos']]
+        # O núcleo pode crescer (ex.: LC 227, edição Planalto da LC 123); a base auditada
+        # continua coberta, sem travar a quantidade fixa de documentos.
+        self.assertTrue(set(ALL) <= set(arquivos), sorted(set(ALL) - set(arquivos)))
         for entry in manifest['documentos']:
             meta, _ = load(entry['arquivo'])
             for key, value in meta.items():
@@ -770,8 +773,9 @@ class TestContratoDeMetadados(unittest.TestCase):
         fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())
         for key, rec in fontes.items():
             if not rec.get('utilizavel'):
-                self.assertIn(key, ('camara-14133-html',), 'só a página HTML da Câmara da Lei 14.133 pode faltar')
-                self.assertTrue(rec['motivo'])
+                self.assertIn(key, nl.SOURCES, key)
+                self.assertTrue(nl.SOURCES[key].get('opcional'), key)
+                self.assertTrue(rec.get('motivo'), key)
                 continue
             self.assertEqual(hashlib.sha256(nl.read_snapshot(key)).hexdigest(), rec['sha256'], key)
 
@@ -837,6 +841,117 @@ class TestConversor(unittest.TestCase):
 class TestReprodutibilidade(unittest.TestCase):
     def test_verify_recalcula_tudo_a_partir_dos_snapshots(self):
         self.assertEqual(nl.verify(), [])
+
+    def test_baseline_lc123_autenticado_sem_git(self):
+        text, errors = nl.load_lc123_baseline()
+        self.assertEqual(errors, [])
+        self.assertIsNotNone(text)
+        self.assertEqual(hashlib.sha256(text.encode('utf-8')).hexdigest(), nl.BASELINE_SHA256[nl.LC123_PATH])
+        meta = json.loads((ROOT / nl.LC123_BASELINE_META_REL).read_text(encoding='utf-8'))
+        self.assertEqual(meta['papel'], nl.LC123_BASELINE_PAPEL)
+        self.assertIs(meta['nao_e_fonte_de_captura'], True)
+        self.assertEqual(meta['commit'], nl.BASELINE_COMMIT)
+        # não é captura: fora de fontes/
+        self.assertFalse(str(nl.LC123_BASELINE_REL).startswith('provas/nucleo-licitacoes/fontes/'))
+        proof = json.loads((nl.PROVAS / nl.LC123_PROOF_NAME).read_text(encoding='utf-8'))
+        for key in ('anterior_sha256', 'baseline_arquivo', 'baseline_commit', 'baseline_papel',
+                    'artigos_identicos_no_texto', 'artigos_com_texto_diferente',
+                    'artigos_apenas_na_nova', 'artigos_apenas_na_anterior',
+                    'artigos_com_remissao_lc238_antes', 'artigos_com_remissao_lc238_agora',
+                    'detalhe_diferentes'):
+            self.assertIn(key, proof, key)
+
+
+class TestVerifyLc123AnteriorNegativos(unittest.TestCase):
+    """Negativos do gate offline: corromper campos da prova ou o baseline deve falhar.
+
+    Restaura fixtures próprias em finally; não clona o repositório nem caches.
+    `proof_field_errors` cobre campos diversos sem N recomputes; um verify ponta a
+    ponta confirma o caminho real do gate para campo não-hash e para o baseline.
+    """
+
+    def test_proof_field_errors_detecta_campos_diversos(self):
+        expected = json.loads((nl.PROVAS / nl.LC123_PROOF_NAME).read_text(encoding='utf-8'))
+        mutations = {
+            'artigos_com_remissao_lc238_agora': [],
+            'artigos_identicos_no_texto': 0,
+            'artigos_com_texto_diferente': ['1'],
+            'artigos_apenas_na_nova': ['999'],
+            'artigos_apenas_na_anterior': ['1'],
+            'artigos_com_remissao_lc238_antes': ['18-A'],
+            'anterior_sha256': '0' * 64,
+            'baseline_commit': 'deadbeef' * 5,
+            'baseline_papel': 'fonte-captura',
+            'detalhe_diferentes': [{'artigo': '1'}],
+        }
+        for field, value in mutations.items():
+            published = dict(expected)
+            published[field] = value
+            errors = nl.proof_field_errors(nl.LC123_PROOF_NAME, published, expected)
+            self.assertTrue(any(f'campo {field}' in e for e in errors), (field, errors))
+
+    def test_proof_field_errors_recusa_chave_extra_ou_ausente_com_valor_nulo(self):
+        self.assertTrue(nl.proof_field_errors('prova', {'extra': None}, {}))
+        self.assertTrue(nl.proof_field_errors('prova', {}, {'obrigatorio': None}))
+        self.assertEqual(nl.proof_field_errors('prova', {'campo': None}, {'campo': None}), [])
+
+    def test_verify_falha_quando_campo_nao_hash_da_prova_diverge(self):
+        path = nl.PROVAS / nl.LC123_PROOF_NAME
+        original = path.read_text(encoding='utf-8')
+        try:
+            data = json.loads(original)
+            data['artigos_com_remissao_lc238_agora'] = []
+            data['artigos_identicos_no_texto'] = 0
+            path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+            errors = nl.verify()
+            self.assertTrue(any(nl.LC123_PROOF_NAME in e for e in errors), errors)
+            self.assertTrue(any('artigos_com_remissao_lc238_agora' in e for e in errors), errors)
+            self.assertTrue(any('artigos_identicos_no_texto' in e for e in errors), errors)
+        finally:
+            path.write_text(original, encoding='utf-8')
+
+    def test_negativo_remove_baseline_texto(self):
+        path = ROOT / nl.LC123_BASELINE_REL
+        original = path.read_bytes()
+        try:
+            path.unlink()
+            errors = nl.verify()
+            self.assertTrue(any('baseline' in e for e in errors), errors)
+        finally:
+            path.write_bytes(original)
+
+    def test_negativo_corrompe_baseline_texto(self):
+        path = ROOT / nl.LC123_BASELINE_REL
+        original = path.read_bytes()
+        try:
+            path.write_text(original.decode('utf-8') + '\n<!-- corrompido -->\n', encoding='utf-8')
+            errors = nl.verify()
+            self.assertTrue(any('baseline' in e and 'hash' in e for e in errors), errors)
+        finally:
+            path.write_bytes(original)
+
+    def test_negativo_corrompe_procedencia(self):
+        path = ROOT / nl.LC123_BASELINE_META_REL
+        original = path.read_text(encoding='utf-8')
+        try:
+            meta = json.loads(original)
+            meta['sha256'] = '0' * 64
+            meta['nao_e_fonte_de_captura'] = False
+            path.write_text(json.dumps(meta, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+            errors = nl.verify()
+            self.assertTrue(any('baseline' in e for e in errors), errors)
+        finally:
+            path.write_text(original, encoding='utf-8')
+
+    def test_negativo_remove_procedencia(self):
+        path = ROOT / nl.LC123_BASELINE_META_REL
+        original = path.read_text(encoding='utf-8')
+        try:
+            path.unlink()
+            errors = nl.verify()
+            self.assertTrue(any('baseline' in e for e in errors), errors)
+        finally:
+            path.write_text(original, encoding='utf-8')
 
 
 if __name__ == '__main__':
