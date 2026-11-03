@@ -40,5 +40,7 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
   não respondeu). Há uma divergência explicada: o PDF repete "§ 4º" no art. 121.
 - LC 123: o Markdown segue a edição da Câmara; a conferência com o Planalto aponta o art. 47, caput (redação anterior à
   LC 147/2014 na Câmara) e o art. 87-B (ausente na página do Planalto). O texto não foi corrigido: confira a fonte.
+  Esses conflitos jurídicos estão em `divergencias_conhecidas` do manifesto (por dispositivo). Diferenças nos arts. 63,
+  64 e 89 são editoriais/estruturais; os arts. 63-A a 63-E são marcadores de veto na Câmara.
 - Leis 8.666 e 10.520: uma só fonte oficial (Planalto). A conferência é de cobertura do texto, não contra segunda fonte.
 - A Lei 14.133 histórica não tem fonte nem data de captura registradas.

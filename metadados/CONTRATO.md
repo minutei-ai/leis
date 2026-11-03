@@ -52,3 +52,32 @@ Os demais arquivos do acervo ainda não têm esse cabeçalho. A ausência dele s
 `provas/nucleo-licitacoes/` guarda: `fontes.json` (URL, data, hashes e cabeçalhos de cada captura), os snapshots das fontes,
 a conferência artigo a artigo entre fontes oficiais (`reconciliacao-*.json`), a comparação entre a edição histórica e a
 consolidada da Lei 14.133 e entre a LC 123 anterior e a atual. Veja o `README.md` dessa pasta para reproduzir.
+
+## Divergências conhecidas (manifesto)
+
+O campo `divergencias_conhecidas` de cada documento em [`nucleo-licitacoes.json`](nucleo-licitacoes.json) propaga, por
+dispositivo, os conflitos entre fontes oficiais que o aviso editorial já descreve. Quem fragmenta a norma por artigo
+consulta esse mapa sem depender do cabeçalho editorial inteiro.
+
+Formatos admitidos:
+
+| Formato | Quando | Forma |
+| --- | --- | --- |
+| Legado (string) | Lei 14.133 consolidada, art. 121 | `"121": "descrição…"` — a string é a explicação completa; o texto publicado segue a fonte principal. |
+| Estruturado (objeto) | LC 123, arts. 47 e 87-B | chave = número do artigo; valor = objeto abaixo. |
+
+Objeto estruturado (obrigatório para divergências jurídicas da LC 123):
+
+| Campo | Significado |
+| --- | --- |
+| `dispositivo` | Identificação legível (ex.: `art. 47, caput`). |
+| `fontes` | Chaves das fontes oficiais em conflito (ex.: `camara-lc123`, `planalto-lc123`). |
+| `descricao` | O que diverge entre as fontes, sem escolher redação. |
+| `tratamento` | O que o acervo faz: qual fonte o Markdown segue e onde o alerta permanece. |
+| `natureza` | `juridica` para conflito de redação/presença normativa; diferenças só de título, seção, fecho ou marcador de veto não entram aqui. |
+
+Regras:
+
+- `divergencias_conhecidas: {}` só é válido quando não há conflito jurídico conhecido documentado no aviso editorial nem nas provas.
+- O Markdown da LC 123 segue a Câmara; o art. 47 e o art. 87-B ficam alertados no manifesto e no aviso, sem substituição silenciosa pela redação do Planalto.
+- Na prova de reconciliação da LC 123, `divergencias_editoriais` cobre os arts. 63, 64 e 89 (títulos, notas de seção, fecho/assinaturas) e `marcadores_veto` cobre os arts. 63-A a 63-E (veto anotado na Câmara, sem conteúdo normativo novo).

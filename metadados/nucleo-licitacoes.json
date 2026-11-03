@@ -431,7 +431,28 @@
           "leitura": "Literal do art. 10 da LC 238: entra em vigor na publicação e produz efeitos a partir de 1º/1/2028 (alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela."
         }
       ],
-      "divergencias_conhecidas": {},
+      "divergencias_conhecidas": {
+        "47": {
+          "dispositivo": "art. 47, caput",
+          "fontes": [
+            "camara-lc123",
+            "planalto-lc123"
+          ],
+          "descricao": "Na edição da Câmara o caput tem a redação anterior à LC 147/2014; o Planalto apresenta a nova redação.",
+          "tratamento": "O Markdown segue a fonte principal (Câmara). A divergência fica no manifesto e no aviso editorial; nenhuma redação é escolhida silenciosamente.",
+          "natureza": "juridica"
+        },
+        "87-B": {
+          "dispositivo": "art. 87-B",
+          "fontes": [
+            "camara-lc123",
+            "planalto-lc123"
+          ],
+          "descricao": "Consta da edição da Câmara (acrescido pela LC 214/2025, com nota de efeitos e revogação pela LC 227/2026) e não aparece na página do Planalto conferida.",
+          "tratamento": "O Markdown segue a fonte principal (Câmara). O alerta fica no manifesto e no aviso editorial; o acervo não afirma vigência nem escolhe a ausência do Planalto.",
+          "natureza": "juridica"
+        }
+      },
       "provas": [
         "reconciliacao-br-federal-lei-complementar-2006-12-14-123.json"
       ]
