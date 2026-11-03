@@ -59,7 +59,7 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
   (`camara-lc227`) como evidência da procedência da nota do art. 87-B da LC 123; o HTML dessa página não segmenta artigos
   em blocos adequados à conferência artigo a artigo. Os arts. 181 e 182 são registrados com datas por dispositivo; a data
   1º/1/2027 da nota do 87-B refere-se aos efeitos da inclusão pela LC 214, não a toda revogação da LC 227.
-- A Lei 14.133 histórica não tem fonte nem data de captura registradas.
+- A Lei 14.133 histórica não tem fonte nem data de captura registradas; `fonte_conferencia` é `"desconhecido"`.
 - Lei 13.303: o corpo Markdown é histórico preservado por hash; a captura original (data/hash) é desconhecida e permanece
   `desconhecido` no cabeçalho. A captura atual da Câmara (mesma URL alegada) serve só para conferir esse corpo — cobertura
   integral (títulos, notas, blocos fora de artigos, estrutura medida) — e seus hash/data estão em
@@ -67,5 +67,9 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
   Planalto (segunda fonte oficial independente), não a mesma URL da Câmara. Há quatro divergências de forma revisadas com o
   Planalto (arts. 9, 18, 24 e 88); a auditoria não encontrou divergência de conteúdo. Campos `texto_riscado`, `anexos_no_corpo`
   e `tabelas` são medidos no corpo preservado, não fixados sem prova.
+- `escopo_cobertura` e `relacoes` no manifesto declaram cobertura parcial (completo/parcial/desconhecido) de
+  efeitos e vínculos (`alteracao`, `revogacao`, `regulamento`, `atualizacao_valores`). Ausência de relação não
+  significa inexistência. O RDC (Lei 12.462) e regulamentos essenciais da 14.133 entram pelo escopo/relações com
+  prova quando houver; arquivo no acervo sem cabeçalho do núcleo não certifica edição nem integridade.
 
 A trava de efeitos confere também o SHA-256 do literal completo revisado de cada dispositivo, normalizando apenas espaços. A presença dos fragmentos isolados não basta: trocar datas entre incisos deve falhar.

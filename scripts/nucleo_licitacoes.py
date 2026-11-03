@@ -785,10 +785,13 @@ FRONTMATTER_KEYS = [
     'texto_riscado', 'anexos_no_corpo', 'tabelas', 'imagens_omitidas', 'efeitos_diferidos',
     'sha256_corpo_preservado', 'sha256_markdown', 'manifesto', 'contrato_versao',
 ]
-REQUIRED_NOT_NULL = set(FRONTMATTER_KEYS) - {'sha256_corpo_preservado', 'edicao_relacionada', 'fonte_conferencia'}
+REQUIRED_NOT_NULL = set(FRONTMATTER_KEYS) - {'sha256_corpo_preservado', 'edicao_relacionada'}
 SITUACOES = {'revogada', 'nao-informada', 'vigente-informada'}
 EDICOES = {'historica', 'consolidada'}
 SHA_RE = re.compile(r'^[0-9a-f]{64}$')
+RELACAO_TIPOS = {'alteracao', 'revogacao', 'regulamento', 'atualizacao_valores'}
+ESCOPO_ESTADOS = {'completo', 'parcial', 'desconhecido'}
+DECRETOS_ATUALIZACAO_DIR = ROOT / 'provas/decretos-atualizacao-14133'
 
 
 def render_frontmatter(meta):
@@ -814,6 +817,23 @@ def parse_frontmatter(text):
     return meta, body[1:]
 
 
+def validate_fonte_conferencia(value, name='documento'):
+    """fonte_conferencia: lista https, \"nenhuma\" ou \"desconhecido\"."""
+    if value is None:
+        return [f'{name}: campo obrigatório ausente: fonte_conferencia '
+                f'(use lista de URLs, "nenhuma" ou "{UNKNOWN}")']
+    if value in (UNKNOWN, 'nenhuma'):
+        return []
+    if not isinstance(value, list) or not value:
+        return [f'{name}: fonte_conferencia deve ser lista não vazia de URLs https, '
+                f'"nenhuma" ou "{UNKNOWN}"']
+    errors = []
+    for url in value:
+        if urlparse(str(url)).scheme != 'https':
+            errors.append(f'{name}: fonte_conferencia contém URL não-https: {url!r}')
+    return errors
+
+
 def validate_meta(meta, name='documento'):
     """Contrato de metadados. Devolve a lista de violações (vazia quando válido)."""
     errors = []
@@ -823,6 +843,7 @@ def validate_meta(meta, name='documento'):
     for key in REQUIRED_NOT_NULL:
         if key not in meta:
             errors.append(f'{name}: campo obrigatório ausente: {key} (use "{UNKNOWN}" quando não for conhecido)')
+    errors += validate_fonte_conferencia(meta.get('fonte_conferencia'), name)
     if meta.get('contrato_versao') != CONTRACT_VERSION:
         errors.append(f'{name}: contrato_versao deve ser {CONTRACT_VERSION}')
     if meta.get('edicao_tipo') not in EDICOES:
@@ -850,6 +871,13 @@ def validate_meta(meta, name='documento'):
     if isinstance(conferencia, list) and fonte_url and fonte_url != UNKNOWN:
         if fonte_url in conferencia:
             errors.append(f'{name}: fonte_conferencia não pode repetir a URL de fonte_url')
+    # Edição histórica da 14.133: sem fonte registrada → fonte_conferencia é desconhecido ou nenhuma.
+    if (meta.get('edicao_tipo') == 'historica'
+            and meta.get('norma_numero') == '14133'
+            and meta.get('fonte_conferencia') not in (None, UNKNOWN, 'nenhuma')):
+        errors.append(
+            f'{name}: edição histórica da Lei 14.133 exige fonte_conferencia '
+            f'"{UNKNOWN}" ou "nenhuma" (fonte e conferência não registradas)')
     return errors
 
 
@@ -873,6 +901,327 @@ def strip_note(markdown):
 def date_br(iso):
     year, month, day = iso.split('-')
     return f'{int(day)}/{int(month)}/{year}'
+
+
+# --------------------------------------------------------------------------
+# Escopo e relações (RDC, regulamentos, atualização de valores, alterações)
+# --------------------------------------------------------------------------
+
+NORMA_14133 = 'br-federal-lei-2021-04-01-14133'
+ARQ_14133_CONS = 'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md'
+ARQ_RDC = 'federal/br-federal-lei-2011-08-04-12462.md'
+
+# Regulamentos essenciais da 14.133 com remissão na edição consolidada (Planalto) e
+# arquivo presente no acervo. Sem cabeçalho do núcleo → status_edicao_arquivo desconhecido.
+REGULAMENTOS_14133_ESSENCIAIS = (
+    dict(
+        id='regulamento-14133-art20-d10818',
+        dispositivo_origem='art. 20',
+        norma_regulamento_id='br-federal-decreto-2021-09-27-10818',
+        arquivo='federal/br-federal-decreto-2021-09-27-10818.md',
+        fonte_url='https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/Decreto/D10818.htm',
+        ementa='Regulamenta o art. 20 da Lei 14.133 (bens de consumo comum e de luxo).',
+    ),
+    dict(
+        id='regulamento-14133-art79-d11878',
+        dispositivo_origem='art. 79',
+        norma_regulamento_id='br-federal-decreto-2024-01-09-11878',
+        arquivo='federal/br-federal-decreto-2024-01-09-11878.md',
+        fonte_url='https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Decreto/D11878.htm',
+        ementa='Regulamenta o art. 79 da Lei 14.133 (credenciamento).',
+    ),
+    dict(
+        id='regulamento-14133-art79-iv-d13106',
+        dispositivo_origem='art. 79, caput, inciso IV',
+        norma_regulamento_id='br-federal-decreto-2026-08-24-13106',
+        arquivo='federal/br-federal-decreto-2026-08-24-13106.md',
+        fonte_url='https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d13106.htm',
+        ementa='Regulamenta o art. 79, IV, da Lei 14.133 (Sistema de Compras Expressas).',
+    ),
+    dict(
+        id='regulamento-14133-d11430',
+        dispositivo_origem='art. 25, § 9º, I, e art. 60, III (remissões Vide na consolidada)',
+        norma_regulamento_id='br-federal-decreto-2023-03-08-11430',
+        arquivo='federal/br-federal-decreto-2023-03-08-11430.md',
+        fonte_url='https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2023/Decreto/D11430.htm',
+        ementa='Regulamenta exigências de mão de obra de mulheres vítimas de violência e equidade como critério de desempate.',
+    ),
+    dict(
+        id='regulamento-14133-procedimento-consultas-d10929',
+        dispositivo_origem='epígrafe da consolidada ([Regulamento] D10929)',
+        norma_regulamento_id='br-federal-decreto-2022-01-07-10929',
+        arquivo='federal/br-federal-decreto-2022-01-07-10929.md',
+        fonte_url='https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/Decreto/D10929.htm',
+        ementa='Procedimento especial para consultas públicas de decretos que regulamentam a Lei 14.133.',
+    ),
+    dict(
+        id='regulamento-14133-garantias-trabalhistas-d12174',
+        dispositivo_origem='arts. 5º, 48, II, 121 § 3º e 122 § 2º (ementa do decreto; Vide na consolidada)',
+        norma_regulamento_id='br-federal-decreto-2024-09-11-12174',
+        arquivo='federal/br-federal-decreto-2024-09-11-12174.md',
+        fonte_url='https://www.planalto.gov.br/ccivil_03/_Ato2023-2026/2024/Decreto/D12174.htm',
+        ementa='Garantias trabalhistas na execução de contratos administrativos (Lei 14.133).',
+    ),
+)
+
+
+def _plain_dispositivo_anexo(text):
+    return re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', text).strip()
+
+
+def _arquivo_status(rel):
+    path = ROOT / rel
+    if not path.is_file():
+        return dict(presente=False, status_edicao_arquivo=UNKNOWN, edicao_integral=UNKNOWN,
+                    leitura='Arquivo ausente neste checkout; a relação não certifica publicação no acervo.')
+    text = path.read_text(encoding='utf-8', errors='replace')
+    if text.startswith('---\n'):
+        return dict(presente=True, status_edicao_arquivo='com-cabecalho', edicao_integral=UNKNOWN,
+                    leitura='Arquivo com cabeçalho; integralidade e vigência seguem o contrato do cabeçalho.')
+    return dict(
+        presente=True, status_edicao_arquivo=UNKNOWN, edicao_integral=UNKNOWN,
+        leitura=('Arquivo presente sem cabeçalho do núcleo, captura nem hash de conferência: '
+                 'presença não certifica edição nem integridade.'))
+
+
+def build_relacoes(fontes):
+    """Relações resolvíveis com prova já preservada; ausência ≠ inexistência."""
+    relacoes = []
+    lc198 = fontes.get('planalto-lc198') or {}
+    plan14133 = fontes.get('planalto-14133') or {}
+    camara14133 = fontes.get('camara-14133-pdf') or {}
+
+    # Alterações estruturadas já espelhadas em efeitos_diferidos_detalhe da consolidada.
+    relacoes.append(dict(
+        id='alteracao-14133-art44a-lei15210',
+        tipo='alteracao',
+        origem=dict(norma_id=UNKNOWN, norma_citada='Lei nº 15.210, de 16/9/2025',
+                    dispositivo=UNKNOWN),
+        alvo=dict(norma_id=NORMA_14133, arquivo=ARQ_14133_CONS, dispositivos=['art. 44-A']),
+        fonte=dict(
+            url=SOURCES['camara-14133-pdf']['url'],
+            sha256=camara14133.get('sha256', UNKNOWN),
+            chave='camara-14133-pdf',
+            trecho=('(“Caput” do artigo acrescido pela Lei nº 15.210, de 16/9/2025, publicada no DOU '
+                    'de 17/9/2025, em vigor 180 dias após a publicação)'),
+        ),
+        desconhecidos=['data_de_inicio_de_vigencia_calculada', 'arquivo_da_lei_15210_no_nucleo'],
+        leitura=('Nota da Câmara na consolidada; o acervo não calcula a data de vigência nem publica '
+                 'a Lei 15.210 neste núcleo.'),
+    ))
+    relacoes.append(dict(
+        id='alteracao-14133-art193-ii-lc198',
+        tipo='alteracao',
+        origem=dict(norma_id='br-federal-lei-complementar-2023-06-28-198',
+                    dispositivo='arts. 3º e 4º', norma_citada='Lei Complementar nº 198, de 28 de junho de 2023'),
+        alvo=dict(norma_id=NORMA_14133, arquivo=ARQ_14133_CONS, dispositivos=['art. 193, II']),
+        fonte=dict(
+            url=SOURCES['planalto-lc198']['url'],
+            sha256=lc198.get('sha256', UNKNOWN),
+            chave='planalto-lc198',
+            prova='provas/nucleo-licitacoes/fontes/planalto-lcp198.htm.xz',
+        ),
+        desconhecidos=[],
+        leitura=('A LC 198 dá a redação do art. 193, II; entra em vigor na publicação. Distinto da '
+                 'produção de efeitos da revogação que a alínea descreve.'),
+    ))
+
+    # RDC: revogação dos arts. 1º a 47-A (art. 193, II, c, redação LC 198).
+    rdc_status = _arquivo_status(ARQ_RDC)
+    relacoes.append(dict(
+        id='revogacao-rdc-12462-arts1-47a-por-14133-art193-ii-c',
+        tipo='revogacao',
+        origem=dict(norma_id=NORMA_14133, dispositivo='art. 193, II, c',
+                    arquivo=ARQ_14133_CONS, fundamento_modificador='LC 198/2023, art. 3º'),
+        alvo=dict(norma_id='br-federal-lei-2011-08-04-12462', arquivo=ARQ_RDC,
+                  dispositivos=['arts. 1º a 47-A'], **rdc_status),
+        fonte=dict(
+            url=SOURCES['planalto-lc198']['url'],
+            sha256=lc198.get('sha256', UNKNOWN),
+            chave='planalto-lc198',
+            prova='provas/nucleo-licitacoes/fontes/planalto-lcp198.htm.xz',
+            trecho='c) os arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011.',
+        ),
+        desconhecidos=[
+            'edicao_e_integridade_do_arquivo_rdc_no_acervo',
+            'situacao_dos_demais_dispositivos_da_lei_12462',
+            'aplicacao_a_contratos_concretos',
+        ],
+        leitura=('Revogação literal dos arts. 1º a 47-A do RDC na redação do art. 193, II, c, da Lei '
+                 '14.133 (LC 198). O Markdown federal/br-federal-lei-2011-08-04-12462.md permanece '
+                 'fora do núcleo com metadados; presença do arquivo não certifica edição.'),
+    ))
+
+    # Atualização de valores: decretos com captura Planalto em provas/decretos-atualizacao-14133.
+    cov_path = DECRETOS_ATUALIZACAO_DIR / 'cobertura-anexos.json'
+    fontes_dec_path = DECRETOS_ATUALIZACAO_DIR / 'fontes.json'
+    if cov_path.is_file() and fontes_dec_path.is_file():
+        cobertura = json.loads(cov_path.read_text(encoding='utf-8'))
+        fontes_dec = json.loads(fontes_dec_path.read_text(encoding='utf-8'))
+        ordem = [
+            'br-federal-decreto-2021-12-30-10922',
+            'br-federal-decreto-2022-12-29-11317',
+            'br-federal-decreto-2023-12-29-11871',
+            'br-federal-decreto-2024-12-30-12343',
+            'br-federal-decreto-2025-12-29-12807',
+        ]
+        for doc_id in ordem:
+            cov = cobertura[doc_id]
+            src = fontes_dec[doc_id]
+            dispositivos = [_plain_dispositivo_anexo(row['dispositivo']) for row in cov['linhas']]
+            relacoes.append(dict(
+                id=f'atualizacao-valores-14133-{doc_id.split("-")[-1]}',
+                tipo='atualizacao_valores',
+                origem=dict(norma_id=doc_id, arquivo=cov['arquivo'], dispositivo='anexo de valores'),
+                alvo=dict(norma_id=NORMA_14133, arquivo=ARQ_14133_CONS, dispositivos=dispositivos),
+                fonte=dict(
+                    url=src['url'],
+                    sha256=src['sha256'],
+                    sha256_conteudo=src.get('sha256_conteudo', UNKNOWN),
+                    capturado_em=src.get('capturado_em', UNKNOWN),
+                    prova=src.get('snapshot', UNKNOWN),
+                    cobertura='provas/decretos-atualizacao-14133/cobertura-anexos.json',
+                ),
+                desconhecidos=[
+                    'valor_aplicavel_a_uma_data_concreta_sem_consultar_a_cadeia_de_decretos',
+                    'vigencia_certificada',
+                ],
+                leitura=('Decreto de atualização de valores com anexo recuperado do Planalto. '
+                         'Não deduzir o valor aplicável só pelo ano do decreto; não confundir com '
+                         'produção de efeitos diferidos nem com regulamento.'),
+            ))
+
+    # Regulamentos essenciais presentes no acervo (remissão na consolidada / ementa).
+    for reg in REGULAMENTOS_14133_ESSENCIAIS:
+        status = _arquivo_status(reg['arquivo'])
+        relacoes.append(dict(
+            id=reg['id'],
+            tipo='regulamento',
+            origem=dict(norma_id=reg['norma_regulamento_id'], arquivo=reg['arquivo'],
+                        ementa=reg['ementa'], **status),
+            alvo=dict(norma_id=NORMA_14133, arquivo=ARQ_14133_CONS,
+                      dispositivos=[reg['dispositivo_origem']]),
+            fonte=dict(
+                url=reg['fonte_url'],
+                sha256=UNKNOWN,
+                remissao_na_consolidada=dict(
+                    chave='planalto-14133',
+                    url=SOURCES['planalto-14133']['url'],
+                    sha256=plan14133.get('sha256', UNKNOWN),
+                ),
+            ),
+            desconhecidos=[
+                'captura_e_hash_proprios_no_nucleo',
+                'edicao_integral_do_arquivo',
+                'vigencia_certificada',
+            ],
+            leitura=('Regulamento essencial da Lei 14.133 com remissão na edição consolidada e/ou '
+                     'ementa do decreto no acervo. Sem captura própria no núcleo: não se certifica '
+                     'integridade do Markdown do decreto; relação ≠ vigência.'),
+        ))
+    return relacoes
+
+
+def build_escopo_cobertura(relacoes, documentos):
+    por_tipo = {}
+    for rel in relacoes:
+        por_tipo.setdefault(rel['tipo'], []).append(rel['id'])
+    por_documento = {
+        doc['id']: [effect.get('dispositivo') or effect.get('norma_modificadora') or UNKNOWN
+                    for effect in doc['efeitos_diferidos_detalhe']]
+        for doc in documentos if doc.get('efeitos_diferidos_detalhe')
+    }
+    return dict(
+        efeitos_diferidos=dict(
+            estado='parcial',
+            documentos=list(por_documento),
+            inclui_por_documento=por_documento,
+            inclui=[f'{dispositivo} ({doc_id})'
+                    for doc_id, dispositivos in por_documento.items() for dispositivo in dispositivos],
+            nao_cataloga=[
+                'demais notas de vigência/produção de efeitos espalhadas na consolidada da 14.133',
+                'efeitos diferidos de regulamentos e decretos de valores (ver relacoes, tipos distintos)',
+                'cronologia completa de alterações posteriores não estruturadas em efeitos_diferidos_detalhe',
+            ],
+            leitura=('efeitos_diferidos_detalhe lista só os itens estruturados acima; ausência de nota '
+                     'no manifesto não significa ausência de efeito diferido na edição oficial.'),
+        ),
+        relacoes=dict(
+            estado='parcial',
+            tipos_admitidos=sorted(RELACAO_TIPOS),
+            inclui_por_tipo={k: sorted(v) for k, v in sorted(por_tipo.items())},
+            nao_cataloga=[
+                'demais decretos/regulamentos da 14.133 sem remissão essencial listada nesta entrega',
+                'alterações artigo a artigo da consolidada além das relações de alteração explícitas',
+                'anexos de decretos ainda sem recuperação própria',
+                'relações regulatórias próprias da Lei 13.303',
+            ],
+            leitura=('Lista de relações resolvidas com prova URL/hash/captura quando disponível. '
+                     'Ausência de relação ≠ inexistência. Regulamento e atualizacao_valores são '
+                     'tipos distintos de efeitos_diferidos e de eventos_revogacao.'),
+        ),
+        expansao_rdc_e_regulamentos=dict(
+            estado='parcial',
+            rdc=dict(
+                norma_id='br-federal-lei-2011-08-04-12462',
+                arquivo=ARQ_RDC,
+                status_edicao_arquivo=UNKNOWN,
+                relacao_resolvida='revogacao-rdc-12462-arts1-47a-por-14133-art193-ii-c',
+                fora_desta_entrega=[
+                    'republicação oficial com cabeçalho do núcleo e captura Planalto',
+                    'catalogação dispositivo a dispositivo dos arts. remanescentes pós-47-A',
+                ],
+            ),
+            regulamentos_essenciais_14133_no_acervo=[r['id'] for r in REGULAMENTOS_14133_ESSENCIAIS],
+            atualizacao_valores_com_prova_planalto=[
+                r['id'] for r in relacoes if r['tipo'] == 'atualizacao_valores'
+            ],
+            leitura=('Expansão declara escopo e resolve o que a prova oficial já preservada permite. '
+                     'Não presume edição/status a partir do arquivo RDC legado; não inventa vigência.'),
+        ),
+    )
+
+
+def validate_escopo_e_relacoes(escopo, relacoes, name='manifesto'):
+    errors = []
+    if not isinstance(relacoes, list):
+        return [f'{name}: relacoes deve ser lista']
+    if not isinstance(escopo, dict):
+        return [f'{name}: escopo_cobertura deve ser objeto']
+    for key in ('efeitos_diferidos', 'relacoes', 'expansao_rdc_e_regulamentos'):
+        block = escopo.get(key)
+        if not isinstance(block, dict):
+            errors.append(f'{name}: escopo_cobertura.{key} ausente')
+            continue
+        estado = block.get('estado')
+        if estado not in ESCOPO_ESTADOS:
+            errors.append(f'{name}: escopo_cobertura.{key}.estado inválido: {estado!r}')
+        if estado == 'parcial' and not (block.get('inclui') or block.get('inclui_por_tipo')
+                                        or block.get('regulamentos_essenciais_14133_no_acervo')
+                                        or block.get('rdc')):
+            errors.append(f'{name}: escopo parcial de {key} sem recorte concreto')
+    ids = set()
+    for rel in relacoes:
+        rid = rel.get('id')
+        if not rid or rid in ids:
+            errors.append(f'{name}: relacao id ausente ou duplicado: {rid!r}')
+        ids.add(rid)
+        if rel.get('tipo') not in RELACAO_TIPOS:
+            errors.append(f'{name}: relacao {rid}: tipo inválido {rel.get("tipo")!r}')
+        for field in ('origem', 'alvo', 'fonte', 'desconhecidos', 'leitura'):
+            if field not in rel:
+                errors.append(f'{name}: relacao {rid}: campo ausente {field}')
+        fonte = rel.get('fonte') or {}
+        if not fonte.get('url'):
+            errors.append(f'{name}: relacao {rid}: fonte.url ausente')
+    # RDC e ao menos um de cada tipo prioritário devem estar resolvidos nesta entrega.
+    tipos = {r['tipo'] for r in relacoes}
+    for required in ('revogacao', 'regulamento', 'atualizacao_valores', 'alteracao'):
+        if required not in tipos:
+            errors.append(f'{name}: falta relação do tipo {required}')
+    if 'revogacao-rdc-12462-arts1-47a-por-14133-art193-ii-c' not in ids:
+        errors.append(f'{name}: relação RDC arts. 1º–47-A ausente')
+    return errors
 
 
 # --------------------------------------------------------------------------
@@ -1852,7 +2201,9 @@ def compute(sources, fontes, baseline_texts=None):
             meta.update(norma_id=slug, norma_tipo='lei', norma_numero='14133', norma_data='2021-04-01', titulo=title,
                         edicao_id=slug + '@historica-fonte-desconhecida', edicao_tipo='historica', edicao_integral=UNKNOWN,
                         edicao_relacionada='br-federal-lei-2021-04-01-14133-consolidada',
-                        fonte_orgao=UNKNOWN, fonte_url=UNKNOWN, fonte_formato=UNKNOWN, capturado_em=UNKNOWN, sha256_fonte=UNKNOWN,
+                        fonte_orgao=UNKNOWN, fonte_url=UNKNOWN, fonte_formato=UNKNOWN,
+                        fonte_conferencia=UNKNOWN,
+                        capturado_em=UNKNOWN, sha256_fonte=UNKNOWN,
                         situacao='nao-informada', situacao_fundamento=UNKNOWN, texto_riscado=False,
                         anexos_no_corpo=0, tabelas=0, imagens_omitidas=0,
                         efeitos_diferidos='nao-aplicavel-sem-notas-na-edicao',
@@ -2221,9 +2572,28 @@ def compute(sources, fontes, baseline_texts=None):
             artigos_com_remissao_lc238_antes=old_with, artigos_com_remissao_lc238_agora=new_with,
             detalhe_diferentes=cmp['divergentes'])
     proofs['fontes.json'] = {k: public_source(v, k) for k, v in fontes.items()}
+    relacoes = build_relacoes(fontes)
+    escopo_cobertura = build_escopo_cobertura(relacoes, manifest_docs)
+    escopo_errors = validate_escopo_e_relacoes(escopo_cobertura, relacoes)
+    if escopo_errors:
+        raise SystemExit('\n'.join(escopo_errors))
+    # Marca escopo parcial dos efeitos estruturados na consolidada 14.133.
+    for entry in manifest_docs:
+        if entry.get('id') == 'br-federal-lei-2021-04-01-14133-consolidada':
+            entry['escopo_efeitos_diferidos_detalhe'] = dict(
+                estado='parcial',
+                inclui=[e['dispositivo'] for e in entry.get('efeitos_diferidos_detalhe', [])],
+                nao_cataloga=escopo_cobertura['efeitos_diferidos']['nao_cataloga'],
+                leitura=escopo_cobertura['efeitos_diferidos']['leitura'],
+            )
     manifest = dict(contrato_versao=CONTRACT_VERSION, gerado_por='scripts/nucleo_licitacoes.py',
-                    nota='O acervo não certifica vigência. Valores "desconhecido" indicam informação não registrada.',
-                    baseline_commit=BASELINE_COMMIT, documentos=manifest_docs)
+                    nota=('O acervo não certifica vigência. Valores "desconhecido" indicam informação não '
+                          'registrada. Ausência de relação em relacoes/escopo_cobertura não significa '
+                          'inexistência no ordenamento.'),
+                    baseline_commit=BASELINE_COMMIT,
+                    escopo_cobertura=escopo_cobertura,
+                    relacoes=relacoes,
+                    documentos=manifest_docs)
     return docs_out, proofs, manifest
 
 

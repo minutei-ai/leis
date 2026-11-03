@@ -75,6 +75,8 @@ class TestEdicoes14133(unittest.TestCase):
     def test_historica_identificada_e_corpo_preservado(self):
         self.assertEqual(self.hmeta['edicao_tipo'], 'historica')
         self.assertEqual(self.hmeta['edicao_relacionada'], 'br-federal-lei-2021-04-01-14133-consolidada')
+        self.assertEqual(self.hmeta['fonte_conferencia'], 'desconhecido')
+        self.assertEqual(nl.validate_fonte_conferencia(self.hmeta['fonte_conferencia']), [])
         for key in ('fonte_url', 'capturado_em', 'sha256_fonte', 'fonte_orgao', 'edicao_integral'):
             self.assertEqual(self.hmeta[key], 'desconhecido', key)
         preserved = nl.strip_note(self.hbody)
@@ -1059,6 +1061,21 @@ class TestContratoDeMetadados(unittest.TestCase):
         broken = dict(meta, fonte_url='https://exemplo.gov.br/a',
                       fonte_conferencia=['https://exemplo.gov.br/a'])
         self.assertTrue(any('fonte_conferencia não pode repetir' in e for e in nl.validate_meta(broken)))
+        broken = {k: v for k, v in meta.items() if k != 'fonte_conferencia'}
+        self.assertTrue(any('fonte_conferencia' in e for e in nl.validate_meta(broken)))
+        broken = dict(meta, fonte_conferencia='http://exemplo.gov.br/x')
+        self.assertTrue(any('fonte_conferencia' in e for e in nl.validate_meta(broken)))
+        broken = dict(meta, fonte_conferencia=[])
+        self.assertTrue(any('fonte_conferencia' in e for e in nl.validate_meta(broken)))
+
+    def test_fonte_conferencia_historica_14133_so_desconhecido_ou_nenhuma(self):
+        meta, _ = load(HIST)
+        self.assertEqual(nl.validate_meta(meta, HIST), [])
+        self.assertIn(meta['fonte_conferencia'], ('desconhecido', 'nenhuma'))
+        broken = dict(meta, fonte_conferencia=['https://www.planalto.gov.br/ccivil_03/leis/l14133.htm'])
+        self.assertTrue(any('histórica' in e and 'fonte_conferencia' in e for e in nl.validate_meta(broken, HIST)))
+        for ok in ('desconhecido', 'nenhuma'):
+            self.assertEqual(nl.validate_meta(dict(meta, fonte_conferencia=ok), HIST), [])
 
     def test_hashes_das_fontes_conferem_com_os_snapshots(self):
         fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())
@@ -1127,6 +1144,81 @@ class TestConversor(unittest.TestCase):
     def test_notas_nao_contam_no_texto_vigente(self):
         text = nl.strip_notes('Texto. (Redação dada pela Lei nº 1, de 2020) Vigência (VETADO na Lei nº 2, de 2021) Fim')
         self.assertEqual(text.split(), ['Texto.', '(VETADO)', 'Fim'])
+
+
+class TestEscopoERelacoes(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.manifest = json.loads(nl.MANIFESTO.read_text())
+        cls.escopo = cls.manifest['escopo_cobertura']
+        cls.relacoes = cls.manifest['relacoes']
+        cls.by_id = {r['id']: r for r in cls.relacoes}
+
+    def test_escopo_parcial_concreto_e_validavel(self):
+        self.assertEqual(nl.validate_escopo_e_relacoes(self.escopo, self.relacoes), [])
+        self.assertEqual(self.escopo['efeitos_diferidos']['estado'], 'parcial')
+        self.assertEqual(self.escopo['relacoes']['estado'], 'parcial')
+        self.assertEqual(self.escopo['expansao_rdc_e_regulamentos']['estado'], 'parcial')
+        self.assertIn('art. 44-A', ' '.join(self.escopo['efeitos_diferidos']['inclui']))
+        self.assertTrue(self.escopo['efeitos_diferidos']['nao_cataloga'])
+        self.assertIn('ausência', self.manifest['nota'].lower())
+
+    def test_escopo_de_efeitos_cobre_os_documentos_ja_estruturados(self):
+        expected = {
+            doc['id']: [effect.get('dispositivo') or effect.get('norma_modificadora') or nl.UNKNOWN
+                        for effect in doc['efeitos_diferidos_detalhe']]
+            for doc in self.manifest['documentos'] if doc.get('efeitos_diferidos_detalhe')
+        }
+        coverage = self.escopo['efeitos_diferidos']
+        self.assertEqual(set(coverage['documentos']), set(expected))
+        self.assertEqual(coverage['inclui_por_documento'], expected)
+        self.assertIn('br-federal-lei-complementar-2026-01-13-227', expected)
+        self.assertIn('br-federal-lei-complementar-2006-12-14-123', expected)
+
+    def test_tipos_separados_com_dispositivo_fonte_e_desconhecidos(self):
+        tipos = {r['tipo'] for r in self.relacoes}
+        self.assertEqual(tipos, {'alteracao', 'revogacao', 'regulamento', 'atualizacao_valores'})
+        for rel in self.relacoes:
+            self.assertIsInstance(rel['desconhecidos'], list)
+            self.assertTrue(rel['fonte']['url'].startswith('https://'))
+            self.assertTrue(rel['leitura'])
+
+    def test_rdc_revogacao_arts1_47a_com_prova_lc198(self):
+        rel = self.by_id['revogacao-rdc-12462-arts1-47a-por-14133-art193-ii-c']
+        self.assertEqual(rel['tipo'], 'revogacao')
+        self.assertEqual(rel['alvo']['norma_id'], 'br-federal-lei-2011-08-04-12462')
+        self.assertEqual(rel['alvo']['dispositivos'], ['arts. 1º a 47-A'])
+        self.assertEqual(rel['alvo']['status_edicao_arquivo'], 'desconhecido')
+        self.assertEqual(rel['fonte']['chave'], 'planalto-lc198')
+        self.assertRegex(rel['fonte']['sha256'], r'^[0-9a-f]{64}$')
+        self.assertTrue((ROOT / 'federal/br-federal-lei-2011-08-04-12462.md').is_file())
+        # presença do arquivo RDC não vira certificação de edição no núcleo
+        self.assertNotIn('br-federal-lei-2011-08-04-12462',
+                         [d['id'] for d in self.manifest['documentos']])
+
+    def test_atualizacao_valores_usa_provas_planalto(self):
+        vals = [r for r in self.relacoes if r['tipo'] == 'atualizacao_valores']
+        self.assertEqual(len(vals), 5)
+        for rel in vals:
+            self.assertIn('provas/decretos-atualizacao-14133/', rel['fonte']['prova'])
+            self.assertRegex(rel['fonte']['sha256'], r'^[0-9a-f]{64}$')
+            self.assertTrue(rel['alvo']['dispositivos'])
+            self.assertTrue((ROOT / rel['origem']['arquivo']).is_file())
+
+    def test_regulamentos_essenciais_no_acervo_sem_certificar_edicao(self):
+        regs = [r for r in self.relacoes if r['tipo'] == 'regulamento']
+        self.assertGreaterEqual(len(regs), 6)
+        for rel in regs:
+            self.assertEqual(rel['origem']['status_edicao_arquivo'], 'desconhecido')
+            self.assertTrue((ROOT / rel['origem']['arquivo']).is_file())
+            self.assertIn('captura_e_hash_proprios_no_nucleo', rel['desconhecidos'])
+
+    def test_consolidada_declara_escopo_parcial_dos_efeitos(self):
+        entry = next(d for d in self.manifest['documentos']
+                     if d['id'] == 'br-federal-lei-2021-04-01-14133-consolidada')
+        escopo = entry['escopo_efeitos_diferidos_detalhe']
+        self.assertEqual(escopo['estado'], 'parcial')
+        self.assertEqual(escopo['inclui'], [e['dispositivo'] for e in entry['efeitos_diferidos_detalhe']])
 
 
 class TestReprodutibilidade(unittest.TestCase):
