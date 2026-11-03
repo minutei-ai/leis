@@ -110,6 +110,13 @@ DOCS = [
                     titulo='LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006',
                     ementa='Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte.'),
          edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
+    dict(slug='br-federal-lei-complementar-2006-12-14-123-planalto',
+         arquivo='federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md', modo='converter',
+         fonte='planalto-lc123', conferencia=['camara-lc123'], base_url=SOURCES['planalto-lc123']['url'],
+         norma=dict(tipo='lei-complementar', numero='123', data='2006-12-14',
+                    titulo='LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006',
+                    ementa='Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte.'),
+         edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
     dict(slug='br-federal-lei-complementar-2026-10-21-238',
          arquivo='federal/br-federal-lei-complementar-2026-10-21-238.md', modo='converter',
          fonte='planalto-lc238', conferencia=[], base_url=SOURCES['planalto-lc238']['url'],
@@ -135,8 +142,10 @@ DOCS = [
                     ementa='Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública.'),
          edicao=dict(tipo='consolidada', integral=True),
          situacao=dict(valor='revogada',
-                       fundamento='Cabeçalho da fonte: "(Revogado pela Lei nº 14.133, de 2021)"; '
-                                  'Lei 14.133, art. 193, II, a, com a redação da LC 198/2023: revogação em 30 de dezembro de 2023.',
+                       fundamento=('Cabeçalho da fonte: "(Revogado pela Lei nº 14.133, de 2021)"; '
+                                   'Lei 14.133, art. 193, I (arts. 89 a 108 na publicação da Lei 14.133) e '
+                                   'art. 193, II, a, com a redação da LC 198/2023 (revogação em 30 de dezembro de 2023). '
+                                   'Cronologia estruturada em eventos_revogacao do manifesto.'),
                        revogada_por='br-federal-lei-2021-04-01-14133', data_revogacao='2023-12-30')),
     dict(slug='br-federal-lei-2002-07-17-10520',
          arquivo='federal/br-federal-lei-2002-07-17-10520.md', modo='converter',
@@ -390,7 +399,10 @@ class Converter:
 
     def emit(self, text):
         text = re.sub(r'\s+', ' ', text).strip()
-        text = re.sub(r'~~\s*~~', '', text).strip()
+        # Une trechos riscados adjacentes preservando o espaço entre eles
+        # (`~~§ 4º~~ ~~Os…~~` → `~~§ 4º Os…~~`); sem isso o espaço some e a
+        # cobertura do texto diverge da página (ordinais + palavra seguinte).
+        text = re.sub(r'~~(\s*)~~', lambda m: m.group(1), text).strip()
         if not text:
             return
         # Evita que o início da linha seja lido como marcação Markdown.
@@ -530,6 +542,13 @@ def strip_notes(text):
     return ''.join(out)
 
 
+def _strip_html_tags_preserving_escaped_angles(text):
+    """Remove tags HTML literais sem tratar `\\<`/`\\>` do Markdown como marcação."""
+    text = text.replace('\\<', '\0LT\0').replace('\\>', '\0GT\0')
+    text = re.sub(r'<[^>]+>', ' ', text)
+    return text.replace('\0LT\0', '<').replace('\0GT\0', '>')
+
+
 def md_plain(block, keep_struck):
     """Texto simples de um bloco Markdown; opcionalmente descarta o riscado."""
     if not keep_struck:
@@ -540,8 +559,8 @@ def md_plain(block, keep_struck):
     block = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', block)
     block = block.replace('Vigência encerrada', ' ')
     block = re.sub(r'(?<=\s)(?:Vigência|Produção de efeitos?)(?=\s*(?:\(|$))', ' ', block)
-    block = re.sub(r'<[^>]+>', ' ', block)
-    block = re.sub(r'\\([\\*_\[\]<>`~|.\-+#)])', r'\1', block)
+    block = _strip_html_tags_preserving_escaped_angles(block)
+    block = re.sub(r'\\([\\*_\[\]`~|.\-+#)])', r'\1', block)
     return block
 
 
@@ -715,9 +734,9 @@ def md_text_all(markdown):
     """Todo o texto de um Markdown deste acervo (inclui riscado e rótulos), sem sintaxe."""
     text = markdown.replace('~~', '')
     text = re.sub(r'\[((?:[^\[\]\\]|\\.)*)\]\([^)]*\)', r'\1', text)
-    text = re.sub(r'<[^>]+>', ' ', text)
+    text = _strip_html_tags_preserving_escaped_angles(text)
     text = htmllib.unescape(text)
-    return re.sub(r'\\([\\*_\[\]<>`~|.\-+#)])', r'\1', text)
+    return re.sub(r'\\([\\*_\[\]`~|.\-+#)])', r'\1', text)
 
 
 # --------------------------------------------------------------------------
@@ -850,6 +869,27 @@ KNOWN_DIVERGENCES = {
             'natureza': 'juridica',
         },
     },
+    'br-federal-lei-complementar-2006-12-14-123-planalto': {
+        '47': {
+            'dispositivo': 'art. 47, caput',
+            'fontes': ['camara-lc123', 'planalto-lc123'],
+            'descricao': ('Na edição da Câmara o caput tem a redação anterior à LC 147/2014; '
+                          'o Planalto apresenta a nova redação (e conserva riscada a anterior).'),
+            'tratamento': ('O Markdown segue a fonte principal (Planalto). A divergência fica no '
+                           'manifesto e no aviso editorial; nenhuma redação é escolhida silenciosamente.'),
+            'natureza': 'juridica',
+        },
+        '87-B': {
+            'dispositivo': 'art. 87-B',
+            'fontes': ['camara-lc123', 'planalto-lc123'],
+            'descricao': ('Consta da edição da Câmara (acrescido pela LC 214/2025, com nota de efeitos '
+                          'e revogação pela LC 227/2026) e não aparece na página do Planalto conferida.'),
+            'tratamento': ('O Markdown segue a fonte principal (Planalto), onde o art. 87-B não aparece. '
+                           'O alerta fica no manifesto e no aviso editorial; o acervo não afirma vigência '
+                           'nem escolhe a presença da Câmara.'),
+            'natureza': 'juridica',
+        },
+    },
 }
 # Impressões digitais do texto vigente (strip_fold + current_text_of) da diferença revisada do art. 121.
 # Qualquer outra alteração nesse artigo invalida a exceção; não basta o número do artigo.
@@ -864,6 +904,8 @@ KNOWN_DIVERGENCE_FINGERPRINTS = {
 }
 LC123_NOTE_ARTICLES = ('47', '87-B')  # divergências entre Planalto e Câmara descritas no aviso editorial; build exige que persistam
 LC123_SLUG = 'br-federal-lei-complementar-2006-12-14-123'
+LC123_PLANALTO_SLUG = 'br-federal-lei-complementar-2006-12-14-123-planalto'
+LC123_PLANALTO_ARQUIVO = 'federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md'
 # Exceções revisadas da LC 123: vinculadas ao conteúdo exato da diferença, nunca só ao número do artigo.
 # principal/conferencia = SHA-256 do texto vigente; raw_principal = SHA-256 do texto bruto (inclui vetos/notas).
 LC123_REVIEWED_EXCEPTIONS = {
@@ -1035,12 +1077,13 @@ def article_proof(primary_blocks, secondary_blocks):
     return result, primary[0], secondary[0]
 
 
-def classify_lc123_exceptions(art):
+def classify_lc123_exceptions(art, camara_side='principal'):
     """Classifica editoriais (63/64/89) e vetos (63-A..E) sem remover a detecção bruta."""
     editorial_reg = LC123_REVIEWED_EXCEPTIONS['divergencias_editoriais']
     exclusive_reg = LC123_REVIEWED_EXCEPTIONS['dispositivos_exclusivos_principal']
+    exclusive_key = 'apenas_na_principal' if camara_side == 'principal' else 'apenas_na_conferencia'
     art['divergencias_editoriais'] = [k for k in art['divergencias_substanciais'] if k in editorial_reg]
-    art['marcadores_de_veto'] = [k for k in art['apenas_na_principal']
+    art['marcadores_de_veto'] = [k for k in art.get(exclusive_key, [])
                                  if exclusive_reg.get(k, {}).get('classe') == 'veto']
     art['divergencias_substanciais_revisadas'] = [k for k in art['divergencias_substanciais']
                                                   if k in LC123_REVIEWED_EXCEPTIONS['divergencias_substanciais']]
@@ -1056,26 +1099,34 @@ def _mismatch(label, unexpected, missing):
     return f'{label}: ' + '; '.join(parts) if parts else None
 
 
-def lock_reviewed_pair(article, spec, primary_articles, secondary_articles, label):
-    """Confere impressões digitais dos dois lados; falha se o conteúdo da diferença mudou."""
+def lock_reviewed_pair(article, spec, primary_articles, secondary_articles, label, swap=False):
+    """Confere impressões digitais dos dois lados; falha se o conteúdo da diferença mudou.
+
+    `swap=True` inverte principal/conferência: mesma trava revisada, edição com fontes trocadas.
+    """
     problems = []
     principal = current_fingerprint(primary_articles.get(article, []))
     conferencia = current_fingerprint(secondary_articles.get(article, []))
-    if principal != spec['principal_sha256'] or conferencia != spec['conferencia_sha256']:
+    expect_p = spec['conferencia_sha256'] if swap else spec['principal_sha256']
+    expect_c = spec['principal_sha256'] if swap else spec['conferencia_sha256']
+    if principal != expect_p or conferencia != expect_c:
         problems.append(f'{label} art. {article}: conteúdo da diferença diverge da revisão '
                         f'(não basta o número do artigo)')
     return problems
 
 
-def lock_lc123_exceptions(art, primary_articles, secondary_articles):
+def lock_lc123_exceptions(art, primary_articles, secondary_articles, orientation='camara-primary'):
     """Recusa qualquer divergência ou dispositivo exclusivo novo da LC 123.
 
     Exceções só valem para o trecho revisado (impressão digital do texto); alteração
-    adicional dentro de artigo já conhecido também é rejeitada.
+    adicional dentro de artigo já conhecido também é rejeitada. A whitelist e os
+    hashes de `LC123_REVIEWED_EXCEPTIONS` são os da main (Câmara como principal);
+    `orientation='planalto-primary'` só espelha a aplicação, sem aceitar diferença nova.
     """
     problems = []
     reg = LC123_REVIEWED_EXCEPTIONS
-    classify_lc123_exceptions(art)
+    swap = orientation == 'planalto-primary'
+    classify_lc123_exceptions(art, camara_side='conferencia' if swap else 'principal')
 
     expected_major = set(reg['divergencias_substanciais']) | set(reg['divergencias_editoriais'])
     actual_major = set(art['divergencias_substanciais'])
@@ -1084,7 +1135,8 @@ def lock_lc123_exceptions(art, primary_articles, secondary_articles):
     if msg:
         problems.append(msg)
     for article, spec in {**reg['divergencias_substanciais'], **reg['divergencias_editoriais']}.items():
-        problems.extend(lock_reviewed_pair(article, spec, primary_articles, secondary_articles, 'LC 123'))
+        problems.extend(lock_reviewed_pair(
+            article, spec, primary_articles, secondary_articles, 'LC 123', swap=swap))
 
     expected_form = set(reg['divergencias_de_forma'])
     actual_form = set(art['divergencias_de_forma'])
@@ -1093,28 +1145,43 @@ def lock_lc123_exceptions(art, primary_articles, secondary_articles):
     if msg:
         problems.append(msg)
     for article, spec in reg['divergencias_de_forma'].items():
-        problems.extend(lock_reviewed_pair(article, spec, primary_articles, secondary_articles, 'LC 123 forma'))
+        problems.extend(lock_reviewed_pair(
+            article, spec, primary_articles, secondary_articles, 'LC 123 forma', swap=swap))
 
-    expected_excl = set(reg['dispositivos_exclusivos_principal'])
+    # Com Câmara como principal, 63-A..E e 87-B estão só nela; com Planalto como
+    # principal, os mesmos dispositivos ficam só na conferência (Câmara).
+    if swap:
+        expected_excl_primary, expected_excl_conf = (
+            set(reg['dispositivos_exclusivos_conferencia']),
+            set(reg['dispositivos_exclusivos_principal']),
+        )
+    else:
+        expected_excl_primary, expected_excl_conf = (
+            set(reg['dispositivos_exclusivos_principal']),
+            set(reg['dispositivos_exclusivos_conferencia']),
+        )
     actual_excl = set(art['apenas_na_principal'])
     msg = _mismatch('LC 123 dispositivos exclusivos na principal',
-                    sorted(actual_excl - expected_excl), sorted(expected_excl - actual_excl))
+                    sorted(actual_excl - expected_excl_primary),
+                    sorted(expected_excl_primary - actual_excl))
     if msg:
         problems.append(msg)
+    camara_articles = secondary_articles if swap else primary_articles
     for article, spec in reg['dispositivos_exclusivos_principal'].items():
-        raw = raw_fingerprint(primary_articles.get(article, []))
-        cur = current_fingerprint(primary_articles.get(article, []))
+        raw = raw_fingerprint(camara_articles.get(article, []))
+        cur = current_fingerprint(camara_articles.get(article, []))
         if raw != spec['raw_principal_sha256'] or cur != spec['principal_sha256']:
             problems.append(f'LC 123 dispositivo exclusivo art. {article}: conteúdo diverge da revisão')
 
-    expected_conf = set(reg['dispositivos_exclusivos_conferencia'])
     actual_conf = set(art['apenas_na_conferencia'])
     msg = _mismatch('LC 123 dispositivos exclusivos na conferência',
-                    sorted(actual_conf - expected_conf), sorted(expected_conf - actual_conf))
+                    sorted(actual_conf - expected_excl_conf),
+                    sorted(expected_excl_conf - actual_conf))
     if msg:
         problems.append(msg)
 
-    if '47' not in art['divergencias_substanciais'] or '87-B' not in art['apenas_na_principal']:
+    exclusive_87b_side = art['apenas_na_conferencia'] if swap else art['apenas_na_principal']
+    if '47' not in art['divergencias_substanciais'] or '87-B' not in exclusive_87b_side:
         problems.append('as divergências LC 123 (art. 47, art. 87-B) descritas no aviso editorial não se confirmaram')
 
     art['excecoes_revisadas'] = {
@@ -1124,6 +1191,7 @@ def lock_lc123_exceptions(art, primary_articles, secondary_articles):
                                      if v.get('classe') == 'veto'),
         'dispositivo_exclusivo_conhecido': ['87-B'],
         'divergencias_de_forma': sorted(reg['divergencias_de_forma'], key=lambda x: (len(x), x)),
+        'orientacao_fontes': orientation,
     }
     return problems
 
@@ -1156,19 +1224,21 @@ def lock_known_divergence_fingerprints(slug, art, primary_articles, secondary_ar
     return problems
 
 
-def annotate_lc123_reconciliation(artigos):
+def annotate_lc123_reconciliation(artigos, camara_side='principal'):
     """Reclassifica diferenças editoriais da LC 123 e identifica marcadores de veto.
 
     O comparador trata arts. 63, 64 e 89 como substanciais pelo tamanho do diff, mas os
     trechos divergentes são títulos, notas de seção e fecho/assinaturas. Os arts. 63-A a
     63-E exclusivos da Câmara são marcadores de veto, não conteúdo normativo novo.
+    `camara_side` indica em qual lado da comparação está a edição da Câmara.
     """
     editorial = [a for a in artigos.get('divergencias_substanciais', []) if a in LC123_EDITORIAL]
     artigos['divergencias_substanciais'] = [
         a for a in artigos.get('divergencias_substanciais', []) if a not in LC123_EDITORIAL
     ]
     artigos['divergencias_editoriais'] = {a: LC123_EDITORIAL[a] for a in editorial}
-    veto = [a for a in artigos.get('apenas_na_principal', []) if a in LC123_VETO_MARKERS]
+    exclusive_key = 'apenas_na_principal' if camara_side == 'principal' else 'apenas_na_conferencia'
+    veto = [a for a in artigos.get(exclusive_key, []) if a in LC123_VETO_MARKERS]
     artigos['marcadores_veto'] = {a: LC123_VETO_MARKER_NOTE for a in veto}
     return artigos
 
@@ -1206,6 +1276,113 @@ def extract_effect_text(data, article_pattern):
         if started:
             out.append(plain)
     return out
+
+
+# Origens admitidas para data de evento de revogação (ver metadados/CONTRATO.md).
+REVOGACAO_DATA_ORIGENS = {'informada-explicitamente', 'resolvida-da-publicacao-oficial', UNKNOWN}
+ARTS_8666_193_I = [f'art. {n}' for n in range(89, 109)]
+DOU_FOOTER_RE = re.compile(
+    r'Este texto não substitui o publicado no DOU de\s+(1[ºo]|0?\d{1,2})[./](\d{1,2})[./](\d{4})'
+    r'(?:\s*[-–]\s*Edição\s+[\w\-]+)?',
+    re.I,
+)
+
+
+def dou_publication_from_planalto(data, charset='cp1252'):
+    """Data ISO e trecho do rodapé do Planalto sobre publicação no DOU; (None, None) se ausente."""
+    text = re.sub(r'\s+', ' ', source_text_chars_from_html(data, charset))
+    match = DOU_FOOTER_RE.search(text)
+    if not match:
+        return None, None
+    day_raw, month, year = match.group(1), match.group(2), match.group(3)
+    day = 1 if re.match(r'^1[ºo]$', day_raw, re.I) else int(day_raw)
+    return f'{year}-{int(month):02d}-{day:02d}', match.group(0).strip()
+
+
+def extract_art193_inciso_i(data):
+    """Texto literal do art. 193, I, da Lei 14.133 na fonte do Planalto (sem riscados)."""
+    conv = convert_html(data, SOURCES['planalto-14133']['charset'], SOURCES['planalto-14133']['url'])
+    started = False
+    for block in conv.blocks:
+        if block.startswith('~~'):
+            continue
+        plain = re.sub(r'\s+', ' ', md_plain(block, True)).strip()
+        if re.match(r'^Art\.\s*193\b', plain):
+            started = True
+            continue
+        if started and re.match(r'^Art\.\s*194\b', plain):
+            break
+        if started and re.match(r'^I\s*-', plain):
+            return plain
+    return None
+
+
+def eventos_revogacao_8666(fontes, sources, lc198_texto):
+    """Dois eventos distintos: arts. 89–108 na publicação (193, I) e 30/12/2023 (193, II, a / LC 198)."""
+    pub_iso, pub_trecho = dou_publication_from_planalto(
+        sources['planalto-14133'], SOURCES['planalto-14133']['charset'])
+    art193_i = extract_art193_inciso_i(sources['planalto-14133'])
+    if art193_i is None:
+        raise SystemExit('Lei 14.133: art. 193, I, não encontrado na fonte do Planalto')
+    if pub_iso is None:
+        data_parcial = dict(valor=UNKNOWN, origem=UNKNOWN,
+                            expressao_na_fonte='na data de publicação desta Lei')
+    else:
+        data_parcial = dict(
+            valor=pub_iso,
+            origem='resolvida-da-publicacao-oficial',
+            expressao_na_fonte='na data de publicação desta Lei',
+            prova=dict(
+                tipo='rodape-planalto-dou',
+                fonte_chave='planalto-14133',
+                fonte_url=SOURCES['planalto-14133']['url'],
+                sha256_fonte=fontes['planalto-14133']['sha256'],
+                trecho=pub_trecho,
+            ),
+        )
+    texto_ii_a = [line for line in lc198_texto if re.match(r'^(Art\.|II\b|a\)|b\)|c\))', line)]
+    return [
+        dict(
+            id='lei8666-revogacao-parcial-193-I',
+            tipo='revogacao-parcial',
+            alcance='arts. 89 a 108',
+            dispositivos=list(ARTS_8666_193_I),
+            fundamento=dict(
+                norma_id='br-federal-lei-2021-04-01-14133',
+                dispositivo='art. 193, I',
+                texto_literal=art193_i,
+                fonte_url=SOURCES['planalto-14133']['url'],
+                sha256_fonte=fontes['planalto-14133']['sha256'],
+            ),
+            data=data_parcial,
+            leitura=('O art. 193, I, da Lei 14.133 revoga os arts. 89 a 108 da Lei 8.666 na data de publicação '
+                     'da Lei 14.133. A data ISO resolve essa expressão a partir do rodapé do Planalto sobre o DOU; '
+                     'não é data de aplicação a contratos concretos. Publicação, vigência e regras de transição '
+                     '(art. 191) permanecem distintas.'),
+        ),
+        dict(
+            id='lei8666-revogacao-193-II-a',
+            tipo='revogacao',
+            alcance='Lei nº 8.666, de 21 de junho de 1993',
+            dispositivos=['Lei nº 8.666, de 21 de junho de 1993'],
+            fundamento=dict(
+                norma_id='br-federal-lei-2021-04-01-14133',
+                dispositivo='art. 193, II, a',
+                norma_modificadora='Lei Complementar nº 198, de 28 de junho de 2023',
+                texto_literal=texto_ii_a,
+                fonte_url=SOURCES['planalto-lc198']['url'],
+                sha256_fonte=fontes['planalto-lc198']['sha256'],
+            ),
+            data=dict(
+                valor='2023-12-30',
+                origem='informada-explicitamente',
+                expressao_na_fonte='em 30 de dezembro de 2023',
+            ),
+            leitura=('O art. 193, II, a, com a redação da LC 198/2023, indica a revogação da Lei 8.666 em '
+                     '30 de dezembro de 2023. Data informada explicitamente no texto; o acervo não resolve '
+                     'hipóteses de transição do art. 191 nem aplica essa data a contratos concretos.'),
+        ),
+    ]
 
 
 def compute(sources, fontes, baseline_texts=None):
@@ -1277,27 +1454,36 @@ def compute(sources, fontes, baseline_texts=None):
         if not proof['cobertura_texto']['equivalente']:
             problems.append(f'{slug}: cobertura de texto não equivalente à fonte')
     # LC 123: rejeitar qualquer diferença ou dispositivo exclusivo novo; classificar editoriais/vetos
-    lc_entry = reconciliation[LC123_SLUG]['fontes_conferencia'][0]
-    lc = lc_entry['artigos']
-    primary_lc, secondary_lc = reconciliation[LC123_SLUG]['_article_splits'][lc_entry['fonte']]
-    problems.extend(lock_lc123_exceptions(lc, primary_lc, secondary_lc))
-    lc = reconciliation[LC123_SLUG]['fontes_conferencia'][0]['artigos']
-    annotate_lc123_reconciliation(lc)
-    if '47' not in lc['divergencias_substanciais'] or '87-B' not in lc['apenas_na_principal']:
-        problems.append('as divergências LC 123 (art. 47, art. 87-B) descritas no aviso editorial não se confirmaram')
-    editorial_found = set(lc.get('divergencias_editoriais', {}))
-    if editorial_found != set(LC123_EDITORIAL):
-        problems.append(f'LC 123: divergências editoriais esperadas {sorted(LC123_EDITORIAL)}, obtidas {sorted(editorial_found)}')
-    if set(lc.get('marcadores_veto', {})) != set(LC123_VETO_MARKERS):
-        problems.append(f'LC 123: marcadores de veto 63-A..E não identificados em apenas_na_principal')
-    known_lc = KNOWN_DIVERGENCES.get(LC123_SLUG, {})
-    if set(known_lc) != set(LC123_NOTE_ARTICLES):
-        problems.append('LC 123: KNOWN_DIVERGENCES deve cobrir exatamente os arts. do aviso editorial')
-    for art, rec in known_lc.items():
-        if not isinstance(rec, dict) or any(f not in rec for f in DIVERGENCIA_FIELDS):
-            problems.append(f'LC 123 art. {art}: divergência conhecida sem dispositivo/fontes/descricao/tratamento/natureza')
-        elif rec.get('natureza') != 'juridica':
-            problems.append(f'LC 123 art. {art}: natureza deve ser juridica')
+    # Travas exactas da main (Câmara como principal); a edição Planalto reusa a mesma whitelist espelhada.
+    def _gate_lc123(slug, orientation, camara_side):
+        entry = reconciliation[slug]['fontes_conferencia'][0]
+        arts = entry['artigos']
+        primary, secondary = reconciliation[slug]['_article_splits'][entry['fonte']]
+        gate_problems = lock_lc123_exceptions(arts, primary, secondary, orientation=orientation)
+        annotate_lc123_reconciliation(arts, camara_side=camara_side)
+        exclusive_key = 'apenas_na_principal' if camara_side == 'principal' else 'apenas_na_conferencia'
+        if '47' not in arts['divergencias_substanciais'] or '87-B' not in arts[exclusive_key]:
+            gate_problems.append(
+                f'{slug}: as divergências LC 123 (art. 47, art. 87-B) descritas no aviso editorial não se confirmaram')
+        editorial_found = set(arts.get('divergencias_editoriais', {}))
+        if editorial_found != set(LC123_EDITORIAL):
+            gate_problems.append(
+                f'{slug}: divergências editoriais esperadas {sorted(LC123_EDITORIAL)}, obtidas {sorted(editorial_found)}')
+        if set(arts.get('marcadores_veto', {})) != set(LC123_VETO_MARKERS):
+            gate_problems.append(f'{slug}: marcadores de veto 63-A..E não identificados em {exclusive_key}')
+        known = KNOWN_DIVERGENCES.get(slug, {})
+        if set(known) != set(LC123_NOTE_ARTICLES):
+            gate_problems.append(f'{slug}: KNOWN_DIVERGENCES deve cobrir exatamente os arts. do aviso editorial')
+        for art_no, rec in known.items():
+            if not isinstance(rec, dict) or any(f not in rec for f in DIVERGENCIA_FIELDS):
+                gate_problems.append(
+                    f'{slug} art. {art_no}: divergência conhecida sem dispositivo/fontes/descricao/tratamento/natureza')
+            elif rec.get('natureza') != 'juridica':
+                gate_problems.append(f'{slug} art. {art_no}: natureza deve ser juridica')
+        return gate_problems
+
+    problems.extend(_gate_lc123(LC123_SLUG, 'camara-primary', 'principal'))
+    problems.extend(_gate_lc123(LC123_PLANALTO_SLUG, 'planalto-primary', 'conferencia'))
     if problems:
         raise SystemExit('Conferência falhou:\n - ' + '\n - '.join(problems))
     # limpa auxiliares internos antes de serializar provas
@@ -1319,29 +1505,39 @@ def compute(sources, fontes, baseline_texts=None):
             lc123_arts.append(k)
     lc238_slug = 'br-federal-lei-complementar-2026-10-21-238'
     lc238_arquivo = 'federal/br-federal-lei-complementar-2026-10-21-238.md'
+    lc123_effect = dict(
+        norma_modificadora='Lei Complementar nº 238, de 21 de outubro de 2026',
+        norma_id_modificadora=lc238_slug,
+        arquivo_norma_modificadora=lc238_arquivo,
+        fonte_modificadora=SOURCES['planalto-lc238']['url'], sha256_fonte_modificadora=fontes['planalto-lc238']['sha256'],
+        remissoes_na_edicao=[f'art. {k}' for k in lc123_arts],
+        dispositivos_modificados=[
+            dict(dispositivo='art. 18-A, §§ 1º e 2º', efeitos_a_partir_de='2028-01-01',
+                 fundamento='art. 10, I, da LC 238 (literal da fonte)'),
+            dict(dispositivo='art. 18-C', efeitos_a_partir_de='2027-01-01',
+                 fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
+            dict(dispositivo='art. 48', efeitos_a_partir_de='2027-01-01',
+                 fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
+            dict(dispositivo='art. 49', efeitos_a_partir_de='2027-01-01',
+                 fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
+        ],
+        marcador_no_texto='(Vide Lei Complementar nº 238, de 21/10/2026)',
+        texto_da_fonte_modificadora=lc238,
+        leitura='Literal do art. 10 da LC 238: entra em vigor na publicação e produz efeitos a partir de 1º/1/2028 '
+                '(alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). '
+                'A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela. '
+                f'O texto integral da modificadora está em `{lc238_arquivo}`.')
+    # Remissões "Vide LC 238" também aparecem na edição Planalto; mesmo vínculo, outra identidade de edição.
+    lc123_planalto_arts = []
+    lc123_planalto_conv = converted[LC123_PLANALTO_SLUG]
+    arts_p, order_p = split_articles(main_body_blocks(lc123_planalto_conv['conv'].blocks))
+    for k in order_p:
+        if any(lc238_marker in md_plain(b, True) for b in arts_p[k]):
+            lc123_planalto_arts.append(k)
+    lc123_planalto_effect = dict(lc123_effect, remissoes_na_edicao=[f'art. {k}' for k in lc123_planalto_arts])
     effects = {
-        'br-federal-lei-complementar-2006-12-14-123': [dict(
-            norma_modificadora='Lei Complementar nº 238, de 21 de outubro de 2026',
-            norma_id_modificadora=lc238_slug,
-            arquivo_norma_modificadora=lc238_arquivo,
-            fonte_modificadora=SOURCES['planalto-lc238']['url'], sha256_fonte_modificadora=fontes['planalto-lc238']['sha256'],
-            remissoes_na_edicao=[f'art. {k}' for k in lc123_arts],
-            dispositivos_modificados=[
-                dict(dispositivo='art. 18-A, §§ 1º e 2º', efeitos_a_partir_de='2028-01-01',
-                     fundamento='art. 10, I, da LC 238 (literal da fonte)'),
-                dict(dispositivo='art. 18-C', efeitos_a_partir_de='2027-01-01',
-                     fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
-                dict(dispositivo='art. 48', efeitos_a_partir_de='2027-01-01',
-                     fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
-                dict(dispositivo='art. 49', efeitos_a_partir_de='2027-01-01',
-                     fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
-            ],
-            marcador_no_texto='(Vide Lei Complementar nº 238, de 21/10/2026)',
-            texto_da_fonte_modificadora=lc238,
-            leitura='Literal do art. 10 da LC 238: entra em vigor na publicação e produz efeitos a partir de 1º/1/2028 '
-                    '(alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). '
-                    'A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela. '
-                    f'O texto integral da modificadora está em `{lc238_arquivo}`.')],
+        LC123_SLUG: [lc123_effect],
+        LC123_PLANALTO_SLUG: [lc123_planalto_effect],
         slug14: [
             dict(dispositivo='art. 44-A', norma_modificadora='Lei nº 15.210, de 2025',
                  texto_da_fonte=note44a[note44a.find('(“Caput”'):] if '(“Caput”' in note44a else note44a,
@@ -1423,9 +1619,17 @@ def compute(sources, fontes, baseline_texts=None):
             if slug == slug14:
                 extra.append('Edição histórica preservada separadamente em `../br-federal-lei-2021-04-01-14133.md`.')
             if situ['valor'] == 'revogada':
-                extra.append('A fonte apresenta esta lei como revogada pela Lei nº 14.133/2021; ela é mantida para consulta histórica '
-                             'e para as hipóteses de transição previstas na Lei 14.133, não como fundamento atual por padrão.')
-            if slug == 'br-federal-lei-complementar-2006-12-14-123':
+                if slug == 'br-federal-lei-1993-06-21-8666':
+                    extra.append(
+                        'A fonte apresenta esta lei como revogada pela Lei nº 14.133/2021: arts. 89 a 108 na publicação '
+                        '(art. 193, I) e a lei integral em 30/12/2023 (art. 193, II, a, redação da LC 198/2023). '
+                        'Mantida para consulta histórica e para as hipóteses de transição previstas na Lei 14.133; '
+                        'o acervo não aplica essas datas a contratos concretos nem as toma como fundamento atual por padrão. '
+                        'A cronologia estruturada está em `eventos_revogacao` do manifesto.')
+                else:
+                    extra.append('A fonte apresenta esta lei como revogada pela Lei nº 14.133/2021; ela é mantida para consulta histórica '
+                                 'e para as hipóteses de transição previstas na Lei 14.133, não como fundamento atual por padrão.')
+            if slug == LC123_SLUG:
                 extra.append('A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação '
                              'dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de '
                              '1º/1/2027 (demais dispositivos). O texto integral da modificadora está em '
@@ -1435,6 +1639,23 @@ def compute(sources, fontes, baseline_texts=None):
                              'tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B '
                              '(LC 214/2025) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar '
                              'esses dispositivos (ver o arquivo de provas desta conferência).')
+                extra.append('A edição integral do Planalto da mesma norma está em '
+                             f'[`{LC123_PLANALTO_ARQUIVO}`](edicoes/{LC123_PLANALTO_SLUG}.md). '
+                             'São duas identidades de edição (`edicao_id` distintos, mesmo `norma_id`); o consumidor escolhe a fonte '
+                             'sem presumir vigência. As redações não foram combinadas.')
+            if slug == LC123_PLANALTO_SLUG:
+                extra.append('Edição alternativa da LC 123 a partir da página oficial do Planalto. A edição da Câmara permanece em '
+                             f'[`federal/{LC123_SLUG}.md`](../{LC123_SLUG}.md). Mesmo `norma_id`, `edicao_id` distinto; esta pasta '
+                             '(`federal/edicoes/`) não incrementa a contagem de normas do README.')
+                extra.append('A edição remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação dessa lei: '
+                             'segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de 1º/1/2027 '
+                             '(demais dispositivos). O texto integral da modificadora está em '
+                             f'[`{lc238_arquivo}`](../{lc238_arquivo.split("/", 1)[-1]}).')
+                extra.append('Divergências conhecidas entre as fontes oficiais (as mesmas da edição da Câmara, por dispositivo): '
+                             'o art. 47, caput, nesta edição do Planalto traz a redação da LC 147/2014 e conserva riscada a anterior; '
+                             'a Câmara mantém a redação anterior à LC 147/2014. O art. 87-B (LC 214/2025) consta da Câmara e não '
+                             'aparece nesta página do Planalto. Confira a fonte antes de usar esses dispositivos '
+                             '(ver o arquivo de provas desta conferência). Nenhuma redação foi eleita silenciosamente.')
             if slug == lc238_slug:
                 extra.append('Esta lei altera a Lei Complementar nº 123/2006. A edição consultada da LC 123 no acervo '
                              '(`br-federal-lei-complementar-2006-12-14-123.md`) apenas remete a esta norma ("Vide") e '
@@ -1461,8 +1682,10 @@ def compute(sources, fontes, baseline_texts=None):
                         efeitos_diferidos='preservados-nas-notas-do-texto')
             if slug == slug14:
                 meta['edicao_relacionada'] = 'br-federal-lei-2021-04-01-14133'
-            if slug == 'br-federal-lei-complementar-2006-12-14-123':
-                meta['edicao_relacionada'] = 'nenhuma'
+            if slug == LC123_SLUG:
+                meta['edicao_relacionada'] = LC123_PLANALTO_SLUG
+            if slug == LC123_PLANALTO_SLUG:
+                meta['edicao_relacionada'] = LC123_SLUG
             if slug == lc238_slug:
                 meta['edicao_relacionada'] = 'nenhuma'
             entry['conversao'] = reconciliation[slug]['conversao']
@@ -1494,6 +1717,9 @@ def compute(sources, fontes, baseline_texts=None):
                 )]
             if doc['situacao']['valor'] == 'revogada':
                 entry['revogacao'] = {k: v for k, v in doc['situacao'].items() if k != 'valor'}
+                if slug == 'br-federal-lei-1993-06-21-8666':
+                    entry['eventos_revogacao'] = eventos_revogacao_8666(
+                        fontes, sources, lc198 + lc198_vig)
             entry['divergencias_conhecidas'] = KNOWN_DIVERGENCES.get(slug, {})
         text_body = body
         meta['sha256_markdown'] = sha256(text_body.encode('utf-8'))
@@ -1547,7 +1773,10 @@ def compute(sources, fontes, baseline_texts=None):
 
 
 def meta_norma_id(slug):
-    return slug[:-len('-consolidada')] if slug.endswith('-consolidada') else slug
+    for suffix in ('-consolidada', '-planalto'):
+        if slug.endswith(suffix):
+            return slug[:-len(suffix)]
+    return slug
 
 
 def proof_name(slug):

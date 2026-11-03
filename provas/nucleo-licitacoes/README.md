@@ -42,10 +42,13 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
 - O texto de cada edição vale pela fonte oficial citada; o acervo não certifica vigência nem substitui o diário oficial.
 - Lei 14.133: o Markdown segue o Planalto; a conferência usa o texto atualizado da Câmara em PDF (a versão HTML da Câmara
   não respondeu). Há uma divergência explicada: o PDF repete "§ 4º" no art. 121.
-- LC 123: o Markdown segue a edição da Câmara; a conferência com o Planalto aponta o art. 47, caput (redação anterior à
-  LC 147/2014 na Câmara) e o art. 87-B (ausente na página do Planalto). O texto não foi corrigido: confira a fonte.
-  Esses conflitos jurídicos estão em `divergencias_conhecidas` do manifesto (por dispositivo). Diferenças nos arts. 63,
-  64 e 89 são editoriais/estruturais; os arts. 63-A a 63-E são marcadores de veto na Câmara.
+- LC 123: há duas edições integrais (Câmara em `federal/…-123.md` e Planalto em `federal/edicoes/…-123-planalto.md`),
+  com o mesmo `norma_id` e `edicao_id` distintos; a alternativa não entra na contagem de normas. Cada Markdown segue só
+  a sua fonte; a conferência cruzada aponta o art. 47, caput (redação anterior à LC 147/2014 na Câmara; nova redação no
+  Planalto, com a anterior riscada) e o art. 87-B (presente na Câmara, ausente na página do Planalto). Nenhuma redação
+  foi combinada. Esses conflitos jurídicos estão em `divergencias_conhecidas` do manifesto (por dispositivo) nas duas
+  edições. Diferenças nos arts. 63, 64 e 89 são editoriais/estruturais; os arts. 63-A a 63-E são marcadores de veto na
+  Câmara.
 - Leis 8.666 e 10.520: uma só fonte oficial (Planalto). A conferência é de cobertura do texto, não contra segunda fonte.
 - LC 238: uma só fonte oficial (Planalto). A conferência é de cobertura do texto integral. O art. 10 (produção de efeitos) é
   transcrito literalmente; a edição consultada da LC 123 apenas remete a esta norma e não incorpora as redações futuras.
