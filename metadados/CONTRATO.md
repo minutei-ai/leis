@@ -1,7 +1,7 @@
 # Contrato de metadados do núcleo de licitações
 
 Este contrato vale para os arquivos Markdown do núcleo de legislação de licitações (Leis 14.133/2021, 13.303/2016,
-8.666/1993 e 10.520/2002 e Leis Complementares 123/2006 e 238/2026). Cada arquivo começa com um cabeçalho `---` de campos planos
+8.666/1993 e 10.520/2002 e Leis Complementares 123/2006, 227/2026 e 238/2026). Cada arquivo começa com um cabeçalho `---` de campos planos
 (`campo: valor`, valores em JSON) e o detalhamento fica em [`nucleo-licitacoes.json`](nucleo-licitacoes.json). O cabeçalho
 e o manifesto dizem de onde veio cada texto, que edição ele é e quando foi capturado, **sem** deduzir nada do texto, do ano
 da norma, da presença no repositório ou da data do commit.
@@ -82,6 +82,9 @@ Regras:
 - A LC 123 tem duas edições integrais com o mesmo `norma_id` e `edicao_id` distintos: a da Câmara em `federal/br-federal-lei-complementar-2006-12-14-123.md` e a do Planalto em `federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md` (fora da contagem de normas). Cada Markdown segue só a sua fonte principal; o art. 47 e o art. 87-B ficam alertados no manifesto e no aviso de ambas, sem substituição silenciosa nem composição de redações.
 - O consumidor escolhe a edição (`edicao_id` / `edicao_relacionada` / hashes de captura) sem presumir vigência.
 - Na prova de reconciliação de cada edição da LC 123, `divergencias_editoriais` cobre os arts. 63, 64 e 89 (títulos, notas de seção, fecho/assinaturas) e `marcadores_veto` cobre os arts. 63-A a 63-E (veto anotado na Câmara, sem conteúdo normativo novo).
+- A nota do art. 87-B (acréscimo pela LC 214/2025 com efeitos a partir de 1º/1/2027; revogação pela LC 227/2026) permanece
+  no dispositivo; a LC 227 publicada no acervo traz o art. 181 com datas próprias por alínea e o art. 182 com produção de
+  efeitos diferenciada — sem atribuir 2027 a toda revogação nem reconstruir a redação do 87-B.
 
 ## Eventos de revogação (manifesto)
 

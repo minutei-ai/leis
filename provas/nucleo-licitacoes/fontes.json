@@ -180,5 +180,35 @@
     "sha256_conteudo": "2f13b8c7d79fb0a0381735397e2c5cd5be5ba30e75db5538e73f44cdbf311085",
     "snapshot": "provas/nucleo-licitacoes/fontes/planalto-lcp198.htm.xz",
     "sha256_snapshot_armazenado": "1bac021ae2f1d78c2bb69c697a8a1d7ab0e112ca1ad02bfb0c171dd3f370f8c3"
+  },
+  "planalto-lc227": {
+    "orgao": "Presidência da República — Planalto",
+    "formato": "html",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+    "capturado_em": "2026-11-03T17:54:29Z",
+    "status_http": 200,
+    "bytes": 1334008,
+    "sha256": "4cbf5b4148ca272ed85a3f9b7335f578d4878f206cfb4983194ec0a85b370f00",
+    "sha256_conteudo": "9a6fb001c9f76d6def510dba6fff045224026361db3561a7f24fe1dfbdab1ad0",
+    "utilizavel": true,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "headers": {},
+    "snapshot": "provas/nucleo-licitacoes/fontes/planalto-lcp227.htm.xz",
+    "sha256_snapshot_armazenado": "afa24aa9b842796d34fcf5b4807b434bfd79b383be2789d545eff7ae05679afa"
+  },
+  "camara-lc227": {
+    "orgao": "Câmara dos Deputados — LegIn",
+    "formato": "html",
+    "url": "https://www2.camara.leg.br/legin/fed/leicom/2026/leicomplementar-227-13-janeiro-2026-798657-publicacaooriginal-177770-pl.html",
+    "capturado_em": "2026-11-03T17:54:29Z",
+    "status_http": 200,
+    "bytes": 851353,
+    "sha256": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
+    "sha256_conteudo": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
+    "utilizavel": true,
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "headers": {},
+    "snapshot": "provas/nucleo-licitacoes/fontes/camara-lc-227-publicacaooriginal.html.xz",
+    "sha256_snapshot_armazenado": "59526f0a98ff6c464047772713da76646267e380606841bbfde0a8e167ae9823"
   }
 }

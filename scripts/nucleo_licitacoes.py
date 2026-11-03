@@ -73,6 +73,16 @@ SOURCES = {
     'planalto-lc238': dict(
         url='https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp238.htm',
         file='planalto-lcp238.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
+    'planalto-lc227': dict(
+        url='https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm',
+        file='planalto-lcp227.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
+    # Publicação original citada na nota do art. 87-B da LC 123; capturada como evidência da
+    # procedência da nota. O HTML da Câmara desta página não segmenta artigos em blocos
+    # utilizáveis para conferência artigo a artigo; o Markdown publicado segue o Planalto.
+    'camara-lc227': dict(
+        url=('https://www2.camara.leg.br/legin/fed/leicom/2026/'
+             'leicomplementar-227-13-janeiro-2026-798657-publicacaooriginal-177770-pl.html'),
+        file='camara-lc-227-publicacaooriginal.html', orgao=CAMARA, formato='html', charset='utf-8'),
     'planalto-lc198': dict(
         url='https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp198.htm',
         file='planalto-lcp198.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
@@ -121,6 +131,26 @@ DOCS = [
                             'para atualizar o limite de receita bruta anual e o número de empregados do '
                             'Microempreendedor Individual (MEI), conceder remissão de créditos de titularidade da '
                             'União de sua responsabilidade e dispor sobre a aplicação da medida.')),
+         edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
+    dict(slug='br-federal-lei-complementar-2026-01-13-227',
+         arquivo='federal/br-federal-lei-complementar-2026-01-13-227.md', modo='converter',
+         fonte='planalto-lc227', conferencia=[], base_url=SOURCES['planalto-lc227']['url'],
+         norma=dict(tipo='lei-complementar', numero='227', data='2026-01-13',
+                    titulo='LEI COMPLEMENTAR Nº 227, DE 13 DE JANEIRO DE 2026',
+                    ementa=('Institui o Comitê Gestor do Imposto sobre Bens e Serviços (CGIBS); dispõe sobre o '
+                            'processo administrativo tributário do Imposto sobre Bens e Serviços (IBS) e sobre a '
+                            'distribuição do produto da arrecadação do IBS aos entes federativos; institui normais '
+                            'gerais relativas ao Imposto sobre Transmissão Causa mortis e Doação de Quaisquer Bens '
+                            'ou Direitos (ITCMD); altera a Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário '
+                            'Nacional), a Lei nº 1.079, de 10 de abril de 1950, a Lei nº 9.430, de 27 de dezembro de '
+                            '1996, a Lei nº 10.893, de 13 julho de 2004, a Lei nº 14.113, de 25 de dezembro de 2020, '
+                            'a Lei Complementar nº 63, de 11 de janeiro de 1990, a Lei Complementar nº 87, de 13 de '
+                            'setembro de 1996 (Lei Kandir), a Lei Complementar nº 123, de 14 de dezembro de 2006, a '
+                            'Lei Complementar nº 141, de 13 de janeiro de 2012, a Lei Complementar nº 192, de 11 de '
+                            'março de 2022, a Lei Complementar nº 214, de 16 de janeiro de 2025, o Decreto-Lei nº 37, '
+                            'de 18 de novembro de 1966, e o Decreto nº 70.235, de 6 de março de 1972; e revoga '
+                            'dispositivos da Lei nº 10.833, de 29 de dezembro de 2003, e da Medida Provisória '
+                            'nº 2.158-35, de 24 de agosto de 2001.')),
          edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
     dict(slug='br-federal-lei-2016-06-30-13303',
          arquivo='federal/br-federal-lei-2016-06-30-13303.md', modo='conferida',
@@ -435,7 +465,7 @@ class Converter:
                     '<{t}{rs}{cs}>{c}</{t}>'.format(
                         t='th' if (th or r_index == 0) else 'td',
                         rs=f' rowspan="{rs}"' if rs > 1 else '', cs=f' colspan="{cs}"' if cs > 1 else '',
-                        c=htmllib.escape(self.unescape_md(text), quote=False))
+                        c=htmllib.escape(self.unescape_md(re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', text)), quote=False))
                     for text, rs, cs, th in cells) + '</tr>')
             lines.append('</table>')
             self.blocks.append('\n'.join(lines))
@@ -857,10 +887,16 @@ KNOWN_DIVERGENCES = {
         '87-B': {
             'dispositivo': 'art. 87-B',
             'fontes': ['camara-lc123', 'planalto-lc123'],
-            'descricao': ('Consta da edição da Câmara (acrescido pela LC 214/2025, com nota de efeitos '
-                          'e revogação pela LC 227/2026) e não aparece na página do Planalto conferida.'),
-            'tratamento': ('O Markdown segue a fonte principal (Câmara). O alerta fica no manifesto e '
-                           'no aviso editorial; o acervo não afirma vigência nem escolhe a ausência do Planalto.'),
+            'descricao': ('Consta da edição da Câmara como art. 87-B com a nota literal da própria Câmara: '
+                          'acrescido pela LC 214/2025, produzindo efeitos a partir de 1º/1/2027, e revogado pela '
+                          'LC 227/2026. Não aparece na página do Planalto conferida. A data 1º/1/2027 na nota '
+                          'refere-se aos efeitos da inclusão pela LC 214; a LC 227, art. 181, IV, "a", revoga o '
+                          'art. 87-B sem atribuir essa data à revogação (outras alíneas do mesmo inciso trazem '
+                          'datas próprias: 30/11/2026 e 1º/1/2033).'),
+            'tratamento': ('O Markdown segue a fonte principal (Câmara) e preserva a nota completa do dispositivo. '
+                           'O alerta fica no manifesto e no aviso editorial; o texto integral da LC 227 está em '
+                           'federal/br-federal-lei-complementar-2026-01-13-227.md. O acervo não afirma vigência '
+                           'nem escolhe a ausência do Planalto.'),
             'natureza': 'juridica',
         },
     },
@@ -1487,19 +1523,28 @@ def compute(sources, fontes, baseline_texts=None):
 
     # --- efeitos diferidos (evidência extraída das próprias fontes) ---
     lc238 = extract_effect_text(sources['planalto-lc238'], r'^Art\. 10\.')
+    lc227_revog = extract_effect_text(sources['planalto-lc227'], r'^Art\. 181\.\s*Revogam')
+    lc227_efeitos = extract_effect_text(sources['planalto-lc227'], r'^Art\. 182\.\s*Esta Lei Complementar entra')
     lc198 = extract_effect_text(sources['planalto-lc198'], r'^Art\. 3º')
     lc198_vig = extract_effect_text(sources['planalto-lc198'], r'^Art\. 4º')
     pdf_blocks = pdf_to_blocks(sources['camara-14133-pdf'])
     note44a = next(re.sub(r'\s+', ' ', b) for b in pdf_blocks if b.startswith('Art. 44-A.'))
     lc238_marker = 'Lei Complementar nº 238, de 21/10/2026'
+    lc227_marker = 'Lei Complementar nº 227, de 13/1/2026'
     lc123_arts = []
+    lc123_arts_227 = []
     lc123_conv = converted['br-federal-lei-complementar-2006-12-14-123']
     arts, order = split_articles(main_body_blocks(lc123_conv['conv'].blocks))
     for k in order:
-        if any(lc238_marker in md_plain(b, True) for b in arts[k]):
+        plain_arts = [md_plain(b, True) for b in arts[k]]
+        if any(lc238_marker in p for p in plain_arts):
             lc123_arts.append(k)
+        if any(lc227_marker in p for p in plain_arts):
+            lc123_arts_227.append(k)
     lc238_slug = 'br-federal-lei-complementar-2026-10-21-238'
     lc238_arquivo = 'federal/br-federal-lei-complementar-2026-10-21-238.md'
+    lc227_slug = 'br-federal-lei-complementar-2026-01-13-227'
+    lc227_arquivo = 'federal/br-federal-lei-complementar-2026-01-13-227.md'
     lc123_effect = dict(
         norma_modificadora='Lei Complementar nº 238, de 21 de outubro de 2026',
         norma_id_modificadora=lc238_slug,
@@ -1530,8 +1575,62 @@ def compute(sources, fontes, baseline_texts=None):
         if any(lc238_marker in md_plain(b, True) for b in arts_p[k]):
             lc123_planalto_arts.append(k)
     lc123_planalto_effect = dict(lc123_effect, remissoes_na_edicao=[f'art. {k}' for k in lc123_planalto_arts])
+    lc227_effect = dict(
+                norma_modificadora='Lei Complementar nº 227, de 13 de janeiro de 2026',
+                norma_id_modificadora=lc227_slug,
+                arquivo_norma_modificadora=lc227_arquivo,
+                fonte_modificadora=SOURCES['planalto-lc227']['url'],
+                sha256_fonte_modificadora=fontes['planalto-lc227']['sha256'],
+                fonte_nota_camara=SOURCES['camara-lc227']['url'],
+                sha256_fonte_nota_camara=fontes['camara-lc227']['sha256'],
+                remissoes_na_edicao=[f'art. {k}' for k in lc123_arts_227],
+                dispositivos_relacionados=[
+                    dict(
+                        dispositivo='art. 87-B',
+                        evento='revogacao',
+                        norma_que_acrescentou='Lei Complementar nº 214, de 16/1/2025',
+                        efeitos_da_inclusao_a_partir_de='2027-01-01',
+                        fundamento_inclusao='nota literal da Câmara no art. 87-B da LC 123',
+                        norma_que_revogou='Lei Complementar nº 227, de 13/1/2026',
+                        fundamento_revogacao='art. 181, IV, "a", da LC 227 (literal da fonte)',
+                        data_especifica_na_revogacao=None,
+                        leitura=('A nota do art. 87-B na LC 123 (Câmara) registra acréscimo pela LC 214 com efeitos '
+                                 'a partir de 1º/1/2027 e revogação pela LC 227. O art. 181, IV, "a", da LC 227 revoga '
+                                 'o art. 87-B sem fixar 1º/1/2027 para essa revogação; as alíneas "c" e "d" do mesmo '
+                                 'inciso trazem datas próprias (30/11/2026 e 1º/1/2033) para outros dispositivos. '
+                                 'O acervo não atribui 2027 a toda revogação nem reconstrói a redação do 87-B.'),
+                    ),
+                    dict(
+                        dispositivo='art. 41, § 4º, I e II',
+                        evento='revogacao',
+                        fundamento_revogacao='art. 181, IV, "b", da LC 227 (literal da fonte)',
+                        data_especifica_na_revogacao=None,
+                    ),
+                    dict(
+                        dispositivo='art. 31, § 4º',
+                        evento='revogacao',
+                        fundamento_revogacao='art. 181, IV, "c", da LC 227 (literal da fonte)',
+                        data_especifica_na_revogacao='2026-11-30',
+                    ),
+                    dict(
+                        dispositivo='art. 18, § 4º, VI',
+                        evento='revogacao',
+                        fundamento_revogacao='art. 181, IV, "d", da LC 227 (literal da fonte)',
+                        data_especifica_na_revogacao='2033-01-01',
+                    ),
+                ],
+                marcador_no_texto='(… e revogado pela Lei Complementar nº 227, de 13/1/2026)',
+                texto_da_fonte_modificadora=lc227_revog + lc227_efeitos,
+                leitura=('A LC 227 altera e revoga dispositivos da LC 123 e da LC 214. O art. 181 lista revogações '
+                         'com datas próprias em algumas alíneas; o art. 182 produz efeitos a partir de 1º/1/2027 '
+                         'só para dispositivos ali enumerados (art. 76, II, "c"; art. 169), a partir da eleição do '
+                         'Presidente do CGIBS para os §§ 4º e 5º do art. 52, e a partir da publicação para os demais. '
+                         'A edição consultada da LC 123 preserva a nota do art. 87-B sem incorporar redação '
+                         f'suprimida. Texto integral em `{lc227_arquivo}`; publicação original da Câmara também '
+                         'capturada (`camara-lc227`).'),
+            )
     effects = {
-        LC123_SLUG: [lc123_effect],
+        LC123_SLUG: [lc123_effect, lc227_effect],
         LC123_PLANALTO_SLUG: [lc123_planalto_effect],
         slug14: [
             dict(dispositivo='art. 44-A', norma_modificadora='Lei nº 15.210, de 2025',
@@ -1630,9 +1729,16 @@ def compute(sources, fontes, baseline_texts=None):
                              '1º/1/2027 (demais dispositivos). O texto integral da modificadora está em '
                              f'[`{lc238_arquivo}`]({lc238_arquivo.split("/", 1)[-1]}); o vínculo por dispositivo está em '
                              '`metadados/nucleo-licitacoes.json`.')
+                extra.append('O art. 87-B traz a nota literal da Câmara: acrescido pela LC 214/2025, produzindo efeitos a '
+                             'partir de 1º/1/2027, e revogado pela LC 227/2026. A data 1º/1/2027 na nota refere-se aos efeitos '
+                             'da inclusão pela LC 214; a revogação pelo art. 181, IV, "a", da LC 227 não atribui essa data ao '
+                             'evento de revogação (outras alíneas do mesmo inciso têm datas próprias). O texto integral da '
+                             f'LC 227 está em [`{lc227_arquivo}`]({lc227_arquivo.split("/", 1)[-1]}); a publicação original '
+                             f'da Câmara (fundamento da nota) está capturada em `provas/nucleo-licitacoes/fontes/` '
+                             f'(`camara-lc227`). O acervo não reconstrói a redação do art. 87-B.')
                 extra.append('Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara '
                              'tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B '
-                             '(LC 214/2025) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar '
+                             '(nota LC 214/LC 227 acima) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar '
                              'esses dispositivos (ver o arquivo de provas desta conferência).')
                 extra.append('A edição integral do Planalto da mesma norma está em '
                              f'[`{LC123_PLANALTO_ARQUIVO}`](edicoes/{LC123_PLANALTO_SLUG}.md). '
@@ -1659,6 +1765,19 @@ def compute(sources, fontes, baseline_texts=None):
                              'de 1º/1/2027 quanto aos demais dispositivos; o acervo não antecipa essa aplicação.')
                 extra.append('Uma só fonte oficial (Planalto). A conferência é de cobertura do texto integral, não contra '
                              'segunda fonte.')
+            if slug == lc227_slug:
+                extra.append('Esta lei altera e revoga dispositivos da LC 123/2006 e da LC 214/2025, entre outras. A edição '
+                             'consultada da LC 123 no acervo preserva a nota do art. 87-B (acréscimo pela LC 214 com efeitos '
+                             'a partir de 1º/1/2027; revogação pela LC 227) sem reconstruir a redação do dispositivo. O '
+                             'art. 181, IV, lista as revogações na LC 123 com datas próprias nas alíneas "c" (30/11/2026) e '
+                             '"d" (1º/1/2033); a alínea "a" (art. 87-B) não traz data específica de revogação. O art. 182 '
+                             'produz efeitos a partir de 1º/1/2027 só para os dispositivos ali enumerados, a partir da '
+                             'eleição do Presidente do CGIBS para os §§ 4º e 5º do art. 52, e a partir da publicação para '
+                             'os demais; o acervo não atribui 2027 a toda revogação.')
+                extra.append('Markdown a partir do Planalto (estrutura utilizável para cobertura integral). A publicação '
+                             f'original da Câmara ({SOURCES["camara-lc227"]["url"]}) também foi capturada como evidência '
+                             'da procedência da nota do art. 87-B; o HTML dessa página não segmenta artigos em blocos '
+                             'adequados à conferência artigo a artigo.')
             note = edition_note(doc, rec, extra)
             body = item['head'] + '\n\n' + note + '\n\n' + item['rest']
             meta.update(norma_id=meta_norma_id(slug),
@@ -1683,12 +1802,17 @@ def compute(sources, fontes, baseline_texts=None):
                 meta['edicao_relacionada'] = LC123_SLUG
             if slug == lc238_slug:
                 meta['edicao_relacionada'] = 'nenhuma'
+            if slug == lc227_slug:
+                meta['edicao_relacionada'] = 'nenhuma'
             entry['conversao'] = reconciliation[slug]['conversao']
             entry['blocos_nao_textuais'] = [dict(tipo='imagem', **img) for img in conv.images] + \
                 [dict(tipo='tabela', **t) for t in conv.tables]
             entry['fontes'] = dict(principal=dict(chave=doc['fonte'], **public_source(fontes[doc['fonte']], doc['fonte'])),
                                    conferencia=[dict(chave=k, **public_source(fontes[k], k)) for k in doc['conferencia']
                                                 if sources.get(k) is not None])
+            if slug == lc227_slug:
+                entry['fontes']['evidencia_nota_camara'] = dict(
+                    chave='camara-lc227', **public_source(fontes['camara-lc227'], 'camara-lc227'))
             if slug in effects:
                 entry['efeitos_diferidos_detalhe'] = effects[slug]
             if slug == lc238_slug:
@@ -1710,6 +1834,44 @@ def compute(sources, fontes, baseline_texts=None):
                         ],
                     ),
                 )]
+            if slug == lc227_slug:
+                entry['efeitos_diferidos_detalhe'] = [
+                    dict(
+                        dispositivo='art. 181',
+                        texto_da_fonte=lc227_revog,
+                        leitura=('Literal do art. 181: lista revogações. Na LC 123 (inciso IV), a alínea "a" revoga o '
+                                 'art. 87-B sem data específica neste artigo; a alínea "c" revoga o § 4º do art. 31 em '
+                                 '30/11/2026; a alínea "d" revoga o inciso VI do § 4º do art. 18 em 1º/1/2033. O acervo '
+                                 'não atribui 2027 a toda revogação.'),
+                        altera_norma=dict(
+                            norma_id='br-federal-lei-complementar-2006-12-14-123',
+                            arquivo='federal/br-federal-lei-complementar-2006-12-14-123.md',
+                            dispositivos=[f'art. {k}' for k in lc123_arts_227 if k == '87-B'] or ['art. 87-B'],
+                            dispositivos_relacionados=[
+                                dict(dispositivo='art. 87-B', evento='revogacao',
+                                     data_especifica_na_revogacao=None,
+                                     fundamento='art. 181, IV, "a" (literal da fonte)'),
+                                dict(dispositivo='art. 41, § 4º, I e II', evento='revogacao',
+                                     data_especifica_na_revogacao=None,
+                                     fundamento='art. 181, IV, "b" (literal da fonte)'),
+                                dict(dispositivo='art. 31, § 4º', evento='revogacao',
+                                     data_especifica_na_revogacao='2026-11-30',
+                                     fundamento='art. 181, IV, "c" (literal da fonte)'),
+                                dict(dispositivo='art. 18, § 4º, VI', evento='revogacao',
+                                     data_especifica_na_revogacao='2033-01-01',
+                                     fundamento='art. 181, IV, "d" (literal da fonte)'),
+                            ],
+                        ),
+                    ),
+                    dict(
+                        dispositivo='art. 182',
+                        texto_da_fonte=lc227_efeitos,
+                        leitura=('Literal do art. 182: entra em vigor na publicação; produz efeitos a partir de '
+                                 '1º/1/2027 apenas para a alínea "c" do inciso II do art. 76 e para o art. 169; a '
+                                 'partir da eleição do Presidente do CGIBS para os §§ 4º e 5º do art. 52; e a partir '
+                                 'da publicação para os demais dispositivos.'),
+                    ),
+                ]
             if doc['situacao']['valor'] == 'revogada':
                 entry['revogacao'] = {k: v for k, v in doc['situacao'].items() if k != 'valor'}
                 if slug == 'br-federal-lei-1993-06-21-8666':

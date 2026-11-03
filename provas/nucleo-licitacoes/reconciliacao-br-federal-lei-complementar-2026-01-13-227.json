@@ -1,0 +1,75 @@
+{
+  "documento": "br-federal-lei-complementar-2026-01-13-227",
+  "fonte_principal": "planalto-lc227",
+  "sha256_fonte_principal": "4cbf5b4148ca272ed85a3f9b7335f578d4878f206cfb4983194ec0a85b370f00",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado, após normalização",
+    "equivalente": true,
+    "caracteres_normalizados": 290795
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 560,
+    "tabelas_markdown": 0,
+    "tabelas_html": 9,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 11,
+        "colunas_max": 7,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 7,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 7,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 7,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 7,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 11,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 2757
+  }
+}

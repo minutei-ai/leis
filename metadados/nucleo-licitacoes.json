@@ -222,7 +222,7 @@
       "tabelas": 10,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "d2db936dfafb0d5252607fe9ae2bccdebb1444a2b97e82650bca703767333939",
+      "sha256_markdown": "9f953d620c07681837da1927d32908e69a5d7ba88bfc31fb5989cdae77791d73",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -453,6 +453,98 @@
             "II - 1º de janeiro de 2027, quanto aos demais dispositivos."
           ],
           "leitura": "Literal do art. 10 da LC 238: entra em vigor na publicação e produz efeitos a partir de 1º/1/2028 (alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela. O texto integral da modificadora está em `federal/br-federal-lei-complementar-2026-10-21-238.md`."
+        },
+        {
+          "norma_modificadora": "Lei Complementar nº 227, de 13 de janeiro de 2026",
+          "norma_id_modificadora": "br-federal-lei-complementar-2026-01-13-227",
+          "arquivo_norma_modificadora": "federal/br-federal-lei-complementar-2026-01-13-227.md",
+          "fonte_modificadora": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+          "sha256_fonte_modificadora": "4cbf5b4148ca272ed85a3f9b7335f578d4878f206cfb4983194ec0a85b370f00",
+          "fonte_nota_camara": "https://www2.camara.leg.br/legin/fed/leicom/2026/leicomplementar-227-13-janeiro-2026-798657-publicacaooriginal-177770-pl.html",
+          "sha256_fonte_nota_camara": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
+          "remissoes_na_edicao": [
+            "art. 13",
+            "art. 18",
+            "art. 18-A",
+            "art. 21",
+            "art. 22",
+            "art. 23",
+            "art. 31",
+            "art. 33",
+            "art. 38-B",
+            "art. 39",
+            "art. 41",
+            "art. 87-B"
+          ],
+          "dispositivos_relacionados": [
+            {
+              "dispositivo": "art. 87-B",
+              "evento": "revogacao",
+              "norma_que_acrescentou": "Lei Complementar nº 214, de 16/1/2025",
+              "efeitos_da_inclusao_a_partir_de": "2027-01-01",
+              "fundamento_inclusao": "nota literal da Câmara no art. 87-B da LC 123",
+              "norma_que_revogou": "Lei Complementar nº 227, de 13/1/2026",
+              "fundamento_revogacao": "art. 181, IV, \"a\", da LC 227 (literal da fonte)",
+              "data_especifica_na_revogacao": null,
+              "leitura": "A nota do art. 87-B na LC 123 (Câmara) registra acréscimo pela LC 214 com efeitos a partir de 1º/1/2027 e revogação pela LC 227. O art. 181, IV, \"a\", da LC 227 revoga o art. 87-B sem fixar 1º/1/2027 para essa revogação; as alíneas \"c\" e \"d\" do mesmo inciso trazem datas próprias (30/11/2026 e 1º/1/2033) para outros dispositivos. O acervo não atribui 2027 a toda revogação nem reconstrói a redação do 87-B."
+            },
+            {
+              "dispositivo": "art. 41, § 4º, I e II",
+              "evento": "revogacao",
+              "fundamento_revogacao": "art. 181, IV, \"b\", da LC 227 (literal da fonte)",
+              "data_especifica_na_revogacao": null
+            },
+            {
+              "dispositivo": "art. 31, § 4º",
+              "evento": "revogacao",
+              "fundamento_revogacao": "art. 181, IV, \"c\", da LC 227 (literal da fonte)",
+              "data_especifica_na_revogacao": "2026-11-30"
+            },
+            {
+              "dispositivo": "art. 18, § 4º, VI",
+              "evento": "revogacao",
+              "fundamento_revogacao": "art. 181, IV, \"d\", da LC 227 (literal da fonte)",
+              "data_especifica_na_revogacao": "2033-01-01"
+            }
+          ],
+          "marcador_no_texto": "(… e revogado pela Lei Complementar nº 227, de 13/1/2026)",
+          "texto_da_fonte_modificadora": [
+            "Art. 181. Revogam-se:",
+            "I - os seguintes dispositivos da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional):",
+            "a) parágrafo único do art. 35; e",
+            "b) art. 39;",
+            "II - o art. 84 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001;",
+            "III - o art. 69 da Lei nº 10.833, de 29 de dezembro de 2003;",
+            "IV - os seguintes dispositivos da Lei Complementar nº 123, de 14 de dezembro de 2006:",
+            "a) o art. 87-B, na redação dada pelo art. 517 da Lei Complementar nº 214, de 16 de janeiro de 2025;",
+            "b) os incisos I e II do § 4º do art. 41;",
+            "c) em 30 de novembro de 2026, o § 4º do art. 31;",
+            "d) em 1º de janeiro de 2033, o inciso VI do § 4º do art. 18;",
+            "V - os seguintes dispositivos da Lei Complementar nº 214, de 16 de janeiro de 2025:",
+            "a) o § 8º do art. 11;",
+            "b) os §§ 8º e 9º do art. 22;",
+            "c) o § 7º do art. 26;",
+            "d) o § 5º do art. 33;",
+            "e) os §§ 4º, 6º e 7º do art. 57;",
+            "f) a alínea “b” do inciso I do § 5º e o § 7º do art. 64;",
+            "g) os §§ 2º, 3º e 6º do art. 80;",
+            "h) o § 3º do art. 149;",
+            "i) a alínea “c” do inciso II do caput do art. 201;",
+            "j) o art. 217;",
+            "k) os §§ 1º, 2º, 4º, 5º, 7º e 8º do art. 233;",
+            "l) o inciso I do § 3º do art. 350;",
+            "m) os §§ 3º e 6º a 10 do art. 481;",
+            "n) os incisos I e II do § 2º e o § 5º, ambos do art. 482;",
+            "o) a alínea “i” do inciso XXXVI do art. 542; e",
+            "p) o Anexo XIV.",
+            "Art. 182. Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos:",
+            "I - a partir de 1º de janeiro de 2027, em relação:",
+            "a) à alínea “c” do inciso II do art. 76;",
+            "b) ao art. 169;",
+            "II - a partir da data da eleição do Presidente do CGIBS, prevista no inciso III do § 1º do art. 483 da Lei Complementar nº 214, de 16 de janeiro de 2025, em relação aos §§ 4º e 5º do art. 52 desta Lei Complementar; e",
+            "III - a partir da sua publicação, em relação aos demais dispositivos."
+          ],
+          "leitura": "A LC 227 altera e revoga dispositivos da LC 123 e da LC 214. O art. 181 lista revogações com datas próprias em algumas alíneas; o art. 182 produz efeitos a partir de 1º/1/2027 só para dispositivos ali enumerados (art. 76, II, \"c\"; art. 169), a partir da eleição do Presidente do CGIBS para os §§ 4º e 5º do art. 52, e a partir da publicação para os demais. A edição consultada da LC 123 preserva a nota do art. 87-B sem incorporar redação suprimida. Texto integral em `federal/br-federal-lei-complementar-2026-01-13-227.md`; publicação original da Câmara também capturada (`camara-lc227`)."
         }
       ],
       "divergencias_conhecidas": {
@@ -472,8 +564,8 @@
             "camara-lc123",
             "planalto-lc123"
           ],
-          "descricao": "Consta da edição da Câmara (acrescido pela LC 214/2025, com nota de efeitos e revogação pela LC 227/2026) e não aparece na página do Planalto conferida.",
-          "tratamento": "O Markdown segue a fonte principal (Câmara). O alerta fica no manifesto e no aviso editorial; o acervo não afirma vigência nem escolhe a ausência do Planalto.",
+          "descricao": "Consta da edição da Câmara como art. 87-B com a nota literal da própria Câmara: acrescido pela LC 214/2025, produzindo efeitos a partir de 1º/1/2027, e revogado pela LC 227/2026. Não aparece na página do Planalto conferida. A data 1º/1/2027 na nota refere-se aos efeitos da inclusão pela LC 214; a LC 227, art. 181, IV, \"a\", revoga o art. 87-B sem atribuir essa data à revogação (outras alíneas do mesmo inciso trazem datas próprias: 30/11/2026 e 1º/1/2033).",
+          "tratamento": "O Markdown segue a fonte principal (Câmara) e preserva a nota completa do dispositivo. O alerta fica no manifesto e no aviso editorial; o texto integral da LC 227 está em federal/br-federal-lei-complementar-2026-01-13-227.md. O acervo não afirma vigência nem escolhe a ausência do Planalto.",
           "natureza": "juridica"
         }
       },
@@ -767,6 +859,286 @@
       "divergencias_conhecidas": {},
       "provas": [
         "reconciliacao-br-federal-lei-complementar-2026-10-21-238.json"
+      ]
+    },
+    {
+      "arquivo": "federal/br-federal-lei-complementar-2026-01-13-227.md",
+      "id": "br-federal-lei-complementar-2026-01-13-227",
+      "norma_id": "br-federal-lei-complementar-2026-01-13-227",
+      "norma_tipo": "lei-complementar",
+      "norma_numero": "227",
+      "norma_data": "2026-01-13",
+      "titulo": "LEI COMPLEMENTAR Nº 227, DE 13 DE JANEIRO DE 2026",
+      "esfera": "federal",
+      "edicao_id": "br-federal-lei-complementar-2026-01-13-227@consolidada-planalto",
+      "edicao_tipo": "consolidada",
+      "edicao_integral": true,
+      "edicao_relacionada": "nenhuma",
+      "fonte_orgao": "Presidência da República — Planalto",
+      "fonte_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+      "fonte_formato": "html",
+      "fonte_conferencia": "nenhuma",
+      "capturado_em": "2026-11-03T17:54:29Z",
+      "sha256_fonte": "4cbf5b4148ca272ed85a3f9b7335f578d4878f206cfb4983194ec0a85b370f00",
+      "situacao": "nao-informada",
+      "situacao_fundamento": "desconhecido",
+      "vigencia_certificada": false,
+      "texto_riscado": false,
+      "anexos_no_corpo": 2,
+      "tabelas": 9,
+      "imagens_omitidas": 1,
+      "efeitos_diferidos": "preservados-nas-notas-do-texto",
+      "sha256_markdown": "ee860b085cd3c8c86b09030984fe6687bb2ce5106b102af3457179356984b17e",
+      "manifesto": "metadados/nucleo-licitacoes.json",
+      "contrato_versao": 1,
+      "conversao": {
+        "trechos_riscados": 0,
+        "links": 560,
+        "tabelas_markdown": 0,
+        "tabelas_html": 9,
+        "imagens": [
+          {
+            "alt": "Brastra.gif (4376 bytes)",
+            "largura": "74",
+            "altura": "82",
+            "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+            "tipo_midia": "desconhecido",
+            "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+          }
+        ],
+        "tabelas": [
+          {
+            "linhas": 11,
+            "colunas_max": 7,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 7,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 7,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 7,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 7,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 6,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 6,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 6,
+            "com_mesclagem": true
+          },
+          {
+            "linhas": 11,
+            "colunas_max": 6,
+            "com_mesclagem": true
+          }
+        ],
+        "blocos": 2757
+      },
+      "blocos_nao_textuais": [
+        {
+          "tipo": "imagem",
+          "alt": "Brastra.gif (4376 bytes)",
+          "largura": "74",
+          "altura": "82",
+          "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+          "tipo_midia": "desconhecido",
+          "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 7,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 7,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 7,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 7,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 7,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 6,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 6,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 6,
+          "com_mesclagem": true
+        },
+        {
+          "tipo": "tabela",
+          "linhas": 11,
+          "colunas_max": 6,
+          "com_mesclagem": true
+        }
+      ],
+      "fontes": {
+        "principal": {
+          "chave": "planalto-lc227",
+          "orgao": "Presidência da República — Planalto",
+          "formato": "html",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp227.htm",
+          "capturado_em": "2026-11-03T17:54:29Z",
+          "status_http": 200,
+          "bytes": 1334008,
+          "sha256": "4cbf5b4148ca272ed85a3f9b7335f578d4878f206cfb4983194ec0a85b370f00",
+          "sha256_conteudo": "9a6fb001c9f76d6def510dba6fff045224026361db3561a7f24fe1dfbdab1ad0",
+          "utilizavel": true,
+          "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+          "headers": {},
+          "snapshot": "provas/nucleo-licitacoes/fontes/planalto-lcp227.htm.xz",
+          "sha256_snapshot_armazenado": "afa24aa9b842796d34fcf5b4807b434bfd79b383be2789d545eff7ae05679afa"
+        },
+        "conferencia": [],
+        "evidencia_nota_camara": {
+          "chave": "camara-lc227",
+          "orgao": "Câmara dos Deputados — LegIn",
+          "formato": "html",
+          "url": "https://www2.camara.leg.br/legin/fed/leicom/2026/leicomplementar-227-13-janeiro-2026-798657-publicacaooriginal-177770-pl.html",
+          "capturado_em": "2026-11-03T17:54:29Z",
+          "status_http": 200,
+          "bytes": 851353,
+          "sha256": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
+          "sha256_conteudo": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
+          "utilizavel": true,
+          "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+          "headers": {},
+          "snapshot": "provas/nucleo-licitacoes/fontes/camara-lc-227-publicacaooriginal.html.xz",
+          "sha256_snapshot_armazenado": "59526f0a98ff6c464047772713da76646267e380606841bbfde0a8e167ae9823"
+        }
+      },
+      "efeitos_diferidos_detalhe": [
+        {
+          "dispositivo": "art. 181",
+          "texto_da_fonte": [
+            "Art. 181. Revogam-se:",
+            "I - os seguintes dispositivos da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional):",
+            "a) parágrafo único do art. 35; e",
+            "b) art. 39;",
+            "II - o art. 84 da Medida Provisória nº 2.158-35, de 24 de agosto de 2001;",
+            "III - o art. 69 da Lei nº 10.833, de 29 de dezembro de 2003;",
+            "IV - os seguintes dispositivos da Lei Complementar nº 123, de 14 de dezembro de 2006:",
+            "a) o art. 87-B, na redação dada pelo art. 517 da Lei Complementar nº 214, de 16 de janeiro de 2025;",
+            "b) os incisos I e II do § 4º do art. 41;",
+            "c) em 30 de novembro de 2026, o § 4º do art. 31;",
+            "d) em 1º de janeiro de 2033, o inciso VI do § 4º do art. 18;",
+            "V - os seguintes dispositivos da Lei Complementar nº 214, de 16 de janeiro de 2025:",
+            "a) o § 8º do art. 11;",
+            "b) os §§ 8º e 9º do art. 22;",
+            "c) o § 7º do art. 26;",
+            "d) o § 5º do art. 33;",
+            "e) os §§ 4º, 6º e 7º do art. 57;",
+            "f) a alínea “b” do inciso I do § 5º e o § 7º do art. 64;",
+            "g) os §§ 2º, 3º e 6º do art. 80;",
+            "h) o § 3º do art. 149;",
+            "i) a alínea “c” do inciso II do caput do art. 201;",
+            "j) o art. 217;",
+            "k) os §§ 1º, 2º, 4º, 5º, 7º e 8º do art. 233;",
+            "l) o inciso I do § 3º do art. 350;",
+            "m) os §§ 3º e 6º a 10 do art. 481;",
+            "n) os incisos I e II do § 2º e o § 5º, ambos do art. 482;",
+            "o) a alínea “i” do inciso XXXVI do art. 542; e",
+            "p) o Anexo XIV."
+          ],
+          "leitura": "Literal do art. 181: lista revogações. Na LC 123 (inciso IV), a alínea \"a\" revoga o art. 87-B sem data específica neste artigo; a alínea \"c\" revoga o § 4º do art. 31 em 30/11/2026; a alínea \"d\" revoga o inciso VI do § 4º do art. 18 em 1º/1/2033. O acervo não atribui 2027 a toda revogação.",
+          "altera_norma": {
+            "norma_id": "br-federal-lei-complementar-2006-12-14-123",
+            "arquivo": "federal/br-federal-lei-complementar-2006-12-14-123.md",
+            "dispositivos": [
+              "art. 87-B"
+            ],
+            "dispositivos_relacionados": [
+              {
+                "dispositivo": "art. 87-B",
+                "evento": "revogacao",
+                "data_especifica_na_revogacao": null,
+                "fundamento": "art. 181, IV, \"a\" (literal da fonte)"
+              },
+              {
+                "dispositivo": "art. 41, § 4º, I e II",
+                "evento": "revogacao",
+                "data_especifica_na_revogacao": null,
+                "fundamento": "art. 181, IV, \"b\" (literal da fonte)"
+              },
+              {
+                "dispositivo": "art. 31, § 4º",
+                "evento": "revogacao",
+                "data_especifica_na_revogacao": "2026-11-30",
+                "fundamento": "art. 181, IV, \"c\" (literal da fonte)"
+              },
+              {
+                "dispositivo": "art. 18, § 4º, VI",
+                "evento": "revogacao",
+                "data_especifica_na_revogacao": "2033-01-01",
+                "fundamento": "art. 181, IV, \"d\" (literal da fonte)"
+              }
+            ]
+          }
+        },
+        {
+          "dispositivo": "art. 182",
+          "texto_da_fonte": [
+            "Art. 182. Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos:",
+            "I - a partir de 1º de janeiro de 2027, em relação:",
+            "a) à alínea “c” do inciso II do art. 76;",
+            "b) ao art. 169;",
+            "II - a partir da data da eleição do Presidente do CGIBS, prevista no inciso III do § 1º do art. 483 da Lei Complementar nº 214, de 16 de janeiro de 2025, em relação aos §§ 4º e 5º do art. 52 desta Lei Complementar; e",
+            "III - a partir da sua publicação, em relação aos demais dispositivos."
+          ],
+          "leitura": "Literal do art. 182: entra em vigor na publicação; produz efeitos a partir de 1º/1/2027 apenas para a alínea \"c\" do inciso II do art. 76 e para o art. 169; a partir da eleição do Presidente do CGIBS para os §§ 4º e 5º do art. 52; e a partir da publicação para os demais dispositivos."
+        }
+      ],
+      "divergencias_conhecidas": {},
+      "provas": [
+        "reconciliacao-br-federal-lei-complementar-2026-01-13-227.json"
       ]
     },
     {

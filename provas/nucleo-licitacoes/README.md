@@ -48,4 +48,8 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
 - Leis 8.666 e 10.520: uma só fonte oficial (Planalto). A conferência é de cobertura do texto, não contra segunda fonte.
 - LC 238: uma só fonte oficial (Planalto). A conferência é de cobertura do texto integral. O art. 10 (produção de efeitos) é
   transcrito literalmente; a edição consultada da LC 123 apenas remete a esta norma e não incorpora as redações futuras.
+- LC 227: Markdown a partir do Planalto (cobertura integral). A publicação original da Câmara também foi capturada
+  (`camara-lc227`) como evidência da procedência da nota do art. 87-B da LC 123; o HTML dessa página não segmenta artigos
+  em blocos adequados à conferência artigo a artigo. Os arts. 181 e 182 são registrados com datas por dispositivo; a data
+  1º/1/2027 da nota do 87-B refere-se aos efeitos da inclusão pela LC 214, não a toda revogação da LC 227.
 - A Lei 14.133 histórica não tem fonte nem data de captura registradas.
