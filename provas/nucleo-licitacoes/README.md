@@ -41,4 +41,6 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
 - LC 123: o Markdown segue a edição da Câmara; a conferência com o Planalto aponta o art. 47, caput (redação anterior à
   LC 147/2014 na Câmara) e o art. 87-B (ausente na página do Planalto). O texto não foi corrigido: confira a fonte.
 - Leis 8.666 e 10.520: uma só fonte oficial (Planalto). A conferência é de cobertura do texto, não contra segunda fonte.
+- LC 238: uma só fonte oficial (Planalto). A conferência é de cobertura do texto integral. O art. 10 (produção de efeitos) é
+  transcrito literalmente; a edição consultada da LC 123 apenas remete a esta norma e não incorpora as redações futuras.
 - A Lei 14.133 histórica não tem fonte nem data de captura registradas.
