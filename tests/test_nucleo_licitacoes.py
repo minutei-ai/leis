@@ -218,6 +218,17 @@ class TestLC123(unittest.TestCase):
         self.assertIn('art. 47', self.body)
         self.assertIn('art. 87-B', self.body)
 
+    def test_prova_classifica_editoriais_e_vetos_separadamente(self):
+        proof = json.loads((ROOT / 'provas/nucleo-licitacoes/reconciliacao-br-federal-lei-complementar-2006-12-14-123.json').read_text())
+        art = proof['fontes_conferencia'][0]['artigos']
+        self.assertEqual(set(art['divergencias_editoriais']), {'63', '64', '89'})
+        self.assertEqual(art['marcadores_de_veto'], ['63-A', '63-B', '63-C', '63-D', '63-E'])
+        self.assertEqual(art['divergencias_substanciais_revisadas'], ['47'])
+        self.assertIn('47', art['divergencias_substanciais'])
+        self.assertIn('87-B', art['apenas_na_principal'])
+        self.assertEqual(art['excecoes_revisadas']['dispositivo_exclusivo_conhecido'], ['87-B'])
+
+
     def test_divergencias_conhecidas_no_manifesto_por_dispositivo(self):
         entry = next(d for d in self.manifest['documentos'] if d['id'] == nl.LC123_SLUG)
         known = entry['divergencias_conhecidas']
@@ -326,6 +337,86 @@ class TestLC238(unittest.TestCase):
         self.assertGreaterEqual(self.meta.get('anexos_no_corpo', 0), 0)
         self.assertIn('](https://www.planalto.gov.br/', self.body)
         self.assertIn('lcp123.htm', self.body)
+
+
+class TestTravaGeracaoLC123(unittest.TestCase):
+    """A trava de compute() deve recusar diferenças novas; hashes/cobertura das fontes permanecem."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())
+        cls.base_sources = {
+            key: nl.read_snapshot(key) if cls.fontes[key].get('utilizavel') else None
+            for key in nl.SOURCES
+        }
+
+    def _compute_with(self, mutate):
+        sources = dict(self.base_sources)
+        fontes = json.loads(json.dumps(self.fontes))
+        mutate(sources, fontes)
+        return nl.compute(sources, fontes)
+
+    def test_recusa_divergencia_nova_no_art_42(self):
+        def mutate(sources, fontes):
+            key = 'camara-lc123'
+            text = sources[key].decode('utf-8')
+            self.assertEqual(text.count('Nas licitações públicas'), 1)
+            sources[key] = text.replace('Nas licitações públicas', 'Nas licitações privadas').encode('utf-8')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('42', message)
+        self.assertIn('sem revisão', message)
+
+    def test_recusa_alteracao_adicional_em_artigo_com_excecao_conhecida(self):
+        def mutate(sources, fontes):
+            key = 'camara-lc123'
+            text = sources[key].decode('utf-8')
+            # art. 47 já é exceção revisada; mudar seu texto deve invalidar a impressão digital
+            marker = 'Nas contratações públicas da União, dos Estados e dos'
+            self.assertIn(marker, text)
+            sources[key] = text.replace(marker, marker + ' Territórios e', 1).encode('utf-8')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('47', message)
+        self.assertIn('diverge da revisão', message)
+
+    def test_recusa_dispositivo_exclusivo_novo(self):
+        def mutate(sources, fontes):
+            key = 'camara-lc123'
+            text = sources[key].decode('utf-8')
+            insert = '\n<p>Art. 42-Z. (Dispositivo exclusivo fabricado para o teste)</p>\n'
+            anchor = 'Art.\n43.'
+            self.assertIn(anchor, text)
+            sources[key] = text.replace(anchor, insert + anchor, 1).encode('utf-8')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('42-Z', message)
+        self.assertIn('exclusivos', message)
+
+    def test_recusa_alteracao_adicional_no_art_121_da_lei_14133(self):
+        def mutate(sources, fontes):
+            key = 'planalto-14133'
+            text = sources[key].decode('cp1252')
+            # art. 121 é a única exceção conhecida; qualquer outra mudança no artigo deve falhar
+            marker = 'A inadimplência do contratado em relação aos encargos trabalhistas'
+            self.assertIn(marker, text)
+            sources[key] = text.replace(marker, 'A inadimplência reiterada do contratado em relação aos encargos trabalhistas', 1).encode('cp1252')
+            fontes[key]['sha256'] = nl.sha256(sources[key])
+
+        with self.assertRaises(SystemExit) as ctx:
+            self._compute_with(mutate)
+        message = str(ctx.exception)
+        self.assertIn('121', message)
+        self.assertRegex(message, r'diverge da revisão|não explicadas|não é o tipográfico')
 
 
 class TestRevogadas(unittest.TestCase):

@@ -846,8 +846,115 @@ KNOWN_DIVERGENCES = {
         },
     },
 }
+# Impressões digitais do texto vigente (strip_fold + current_text_of) da diferença revisada do art. 121.
+# Qualquer outra alteração nesse artigo invalida a exceção; não basta o número do artigo.
+KNOWN_DIVERGENCE_FINGERPRINTS = {
+    'br-federal-lei-2021-04-01-14133-consolidada': {
+        '121': dict(
+            principal_sha256='eb5e9fd12a114b6de71a92bd12c887fec154f722ddf7f69a0bf8490e6581d8fe',
+            conferencia_sha256='455a156aa97a41b6de3ec9dd48e67f6cbc79c52d35e51d8bc1086e2a0508edfc',
+            diferenca_esperada=dict(operacao='insert', principal='', conferencia='4'),
+        ),
+    },
+}
+LC123_NOTE_ARTICLES = ('47', '87-B')  # divergências entre Planalto e Câmara descritas no aviso editorial; build exige que persistam
 LC123_SLUG = 'br-federal-lei-complementar-2006-12-14-123'
-LC123_NOTE_ARTICLES = ('47', '87-B')  # divergências jurídicas entre Planalto e Câmara; build exige que persistam
+# Exceções revisadas da LC 123: vinculadas ao conteúdo exato da diferença, nunca só ao número do artigo.
+# principal/conferencia = SHA-256 do texto vigente; raw_principal = SHA-256 do texto bruto (inclui vetos/notas).
+LC123_REVIEWED_EXCEPTIONS = {
+    'divergencias_substanciais': {
+        '47': dict(
+            classe='divergencia_conhecida',
+            motivo='Art. 47, caput: Câmara com redação anterior à LC 147/2014; Planalto com a nova redação.',
+            principal_sha256='a285fcbef64f87ddd5d8c897de3764331d04194d4b55f823cb5b534cc7d4c8b1',
+            conferencia_sha256='5301aa4e86316b0becfd6bbc7f41608c73e3b392c08a909266e0608fc2230aba',
+        ),
+    },
+    'divergencias_editoriais': {
+        '63': dict(
+            classe='editorial',
+            motivo='Planalto inclui no art. 63 o rótulo "CAPÍTULO X / DO ESTÍMULO À INOVAÇÃO / Seção I / Disposições Gerais"; '
+                   'na Câmara esse rótulo aparece após o art. 63-E.',
+            principal_sha256='2d08d8f7c8dc8e14388835a2bc4f5ad31d7f912936565a100fdbca172e600e71',
+            conferencia_sha256='a07ef12db53a913e4eb3a3e1220df5e115964fb860d489b17bc75bdd811c441f',
+        ),
+        '64': dict(
+            classe='editorial',
+            motivo='Câmara traz a denominação da seção com nota de redação da LC 167/2019; Planalto não.',
+            principal_sha256='658b8957ce3a702cc2e012b743f3853221c22f7a16887f30facefaca311b1d21',
+            conferencia_sha256='b9c33eaacb7fd6e248fdf4c3b874bdd07ee00c21a6e684c0df0132a224e4f322',
+        ),
+        '89': dict(
+            classe='editorial',
+            motivo='Página do Planalto anexa ao art. 89 o bloco de assinaturas e a nota de republicação; a Câmara encerra no dispositivo.',
+            principal_sha256='6d3deda4c45fdfb942df26001a74371a2c4a52a9a7025812ac5a9c1f87663051',
+            conferencia_sha256='0e0051dea4943f17e4335f39d6f90b331a44eba820daecf48725c6aeb191dc8f',
+        ),
+    },
+    'divergencias_de_forma': {
+        '1': dict(principal_sha256='b84f18bdb56a6c33b3ef2c4dd46f012132a91c977b8df8225ed449082770a1a6',
+                  conferencia_sha256='883c85d023c190f2a7c3a231e0d48b7861c8c544f1c766a0d28bff1ab62616cb'),
+        '3': dict(principal_sha256='52e6adf21281e5576733f4918bf24eeacf64337c0f186cb99ebd738d679d818c',
+                  conferencia_sha256='567b14bfef638e66cd95a09d2121f6d9e3a884075f7cabce9b43edf6a0b89489'),
+        '9': dict(principal_sha256='7a3a511807a5ac14c71b365de1b5ba395fafd8499b3c400d8d5bb09ef471ef5b',
+                  conferencia_sha256='f8bfb410e0f3087af09a205a0db1137263c12a7cf2f2e9c3a6356ce20247956e'),
+        '13': dict(principal_sha256='9c69802cca12bed319e6bcb1bf309a9a4a256ed90d9256edff553005365bb7ac',
+                   conferencia_sha256='759f838c98a956c25f75678605f56acce543a532824bf05bfdc5d9171dc84d63'),
+        '17': dict(principal_sha256='84a56c37fa118403d6202a9d773be22d1799e5cf1fd6a92db56e478a23b2068b',
+                   conferencia_sha256='0c7931e3ec2905d328715d5dee06d7c98804c9e886e92d0f2a4617c13975c258'),
+        '18': dict(principal_sha256='20b021aaea06aa428a77f8df3c70dfe46dd3f47da6c02b6bea0e917ea07b29b0',
+                   conferencia_sha256='79a91c35d48861d815a68ec425ac9a7457475abe16b5fcbece4739d91303ee87'),
+        '18-A': dict(principal_sha256='97f449247425d065c9845c728441bebd5e40d7d94d21890dcbddb92c07a1b51f',
+                     conferencia_sha256='9a8f3380ecf748b6b01308f8a35a5cafc8d6d90681ae06e2d5d5efc0601ccfab'),
+        '25': dict(principal_sha256='35500bb6c3b293d9b99697ad93540e8b4c8b7e8d484467ac3e615dea94a4c2bb',
+                   conferencia_sha256='80d48f2f202b331d30ce19e42daa64685fc7b52d4083c69d8cef58e29e758f58'),
+        '68': dict(principal_sha256='0aab0285bf6533ff007808e4c4351f69fb72096ae8bf88d07265499389aed35d',
+                   conferencia_sha256='cef4f4cba0c8b522dcfecf8ad4d7cda3d6f96399f649855013dd53e285d4ce55'),
+        '74': dict(principal_sha256='dbbdaaa62b1e2ff6b2c5f8f074fe2ed521d49cf72b6bc26edf5176479952a0e7',
+                   conferencia_sha256='7e08fd88acc65d9f22a0ae54367464f15aea0e8fa156eba2dabb67a306872bed'),
+        '79-D': dict(principal_sha256='a41b6cd98f7ae05661830ae13f5aeb26fc576e23e07e377e2891b63828062576',
+                     conferencia_sha256='c30ff4cfc52e97695b658d7793f57c09a772b3e26bc9a774e99bd5537d9e0208'),
+    },
+    'dispositivos_exclusivos_principal': {
+        '63-A': dict(
+            classe='veto',
+            motivo='Marcador de veto da LC 155/2016 presente só na Câmara.',
+            raw_principal_sha256='bfc32c32af02cd23146483f6175c5c5d68767fba09cf851f3e2b7b23b76315a3',
+            principal_sha256='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',
+        ),
+        '63-B': dict(
+            classe='veto',
+            motivo='Marcador de veto da LC 155/2016 presente só na Câmara.',
+            raw_principal_sha256='fb59cd344a11f1d0f930b27dac68fa7fdb686f94f9b6f04f29de6b632800601e',
+            principal_sha256='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',
+        ),
+        '63-C': dict(
+            classe='veto',
+            motivo='Marcador de veto da LC 155/2016 presente só na Câmara.',
+            raw_principal_sha256='4720a7d51731e47c73c7b345527808ec48e8ad3f344a8d7128173be84ce03a00',
+            principal_sha256='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',
+        ),
+        '63-D': dict(
+            classe='veto',
+            motivo='Marcador de veto da LC 155/2016 presente só na Câmara.',
+            raw_principal_sha256='f9686788168c3243436d75d6eff6c683013056298c19ecfe7f6676f5db9e276e',
+            principal_sha256='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',
+        ),
+        '63-E': dict(
+            classe='veto',
+            motivo='Marcador de veto da LC 155/2016; na Câmara o rótulo do Capítulo X segue anexado a este dispositivo.',
+            raw_principal_sha256='14ba19689783a21e69eb6f60331a5b7356d8fea0cfa9c78253049fd57c13021a',
+            principal_sha256='4b414418e530bb4040edde91c9273bdb0f2e763ff135e025a275738d58168936',
+        ),
+        '87-B': dict(
+            classe='divergencia_conhecida',
+            motivo='Art. 87-B (LC 214/2025, revogado pela LC 227/2026) consta da Câmara e não aparece no Planalto conferido.',
+            raw_principal_sha256='33ee094d086baa864954d8bc9d20029e3a895a39a485a9cd5f2721cade63a937',
+            principal_sha256='e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855',
+        ),
+    },
+    'dispositivos_exclusivos_conferencia': {},
+}
 # Diferenças que o comparador marca como "substanciais" por tamanho, mas que são de estrutura/editorial.
 LC123_EDITORIAL = {
     '63': ('Diferença de títulos/seções e notação de veto adjacentes ao artigo entre Câmara e Planalto; '
@@ -900,15 +1007,148 @@ def classify(result):
     return minor, major
 
 
+def current_fingerprint(blocks):
+    """SHA-256 do texto vigente do artigo (sem riscados, notas e marcas soltas)."""
+    return sha256(strip_fold(''.join(current_text_of(blocks))).encode('utf-8'))
+
+
+def raw_fingerprint(blocks):
+    """SHA-256 do texto bruto do artigo (inclui marcadores de veto e notas da fonte)."""
+    return sha256(strip_fold('\n'.join(md_plain(b, True) for b in blocks)).encode('utf-8'))
+
+
 def article_proof(primary_blocks, secondary_blocks):
-    result = compare_articles(split_articles(main_body_blocks(primary_blocks)),
-                              split_articles(main_body_blocks(secondary_blocks)))
+    primary = split_articles(main_body_blocks(primary_blocks))
+    secondary = split_articles(main_body_blocks(secondary_blocks))
+    result = compare_articles(primary, secondary)
     minor, major = classify(result)
     result['divergencias_de_forma'] = minor
     result['divergencias_substanciais'] = major
     for item in result['divergentes']:
         item['diferencas'] = item['diferencas'][:3]
-    return result
+    # devolve só o dict artigo->blocos (sem a ordem) para as travas de impressão digital
+    return result, primary[0], secondary[0]
+
+
+def classify_lc123_exceptions(art):
+    """Classifica editoriais (63/64/89) e vetos (63-A..E) sem remover a detecção bruta."""
+    editorial_reg = LC123_REVIEWED_EXCEPTIONS['divergencias_editoriais']
+    exclusive_reg = LC123_REVIEWED_EXCEPTIONS['dispositivos_exclusivos_principal']
+    art['divergencias_editoriais'] = [k for k in art['divergencias_substanciais'] if k in editorial_reg]
+    art['marcadores_de_veto'] = [k for k in art['apenas_na_principal']
+                                 if exclusive_reg.get(k, {}).get('classe') == 'veto']
+    art['divergencias_substanciais_revisadas'] = [k for k in art['divergencias_substanciais']
+                                                  if k in LC123_REVIEWED_EXCEPTIONS['divergencias_substanciais']]
+    return art
+
+
+def _mismatch(label, unexpected, missing):
+    parts = []
+    if unexpected:
+        parts.append(f'novas sem revisão: {unexpected}')
+    if missing:
+        parts.append(f'revisadas ausentes: {missing}')
+    return f'{label}: ' + '; '.join(parts) if parts else None
+
+
+def lock_reviewed_pair(article, spec, primary_articles, secondary_articles, label):
+    """Confere impressões digitais dos dois lados; falha se o conteúdo da diferença mudou."""
+    problems = []
+    principal = current_fingerprint(primary_articles.get(article, []))
+    conferencia = current_fingerprint(secondary_articles.get(article, []))
+    if principal != spec['principal_sha256'] or conferencia != spec['conferencia_sha256']:
+        problems.append(f'{label} art. {article}: conteúdo da diferença diverge da revisão '
+                        f'(não basta o número do artigo)')
+    return problems
+
+
+def lock_lc123_exceptions(art, primary_articles, secondary_articles):
+    """Recusa qualquer divergência ou dispositivo exclusivo novo da LC 123.
+
+    Exceções só valem para o trecho revisado (impressão digital do texto); alteração
+    adicional dentro de artigo já conhecido também é rejeitada.
+    """
+    problems = []
+    reg = LC123_REVIEWED_EXCEPTIONS
+    classify_lc123_exceptions(art)
+
+    expected_major = set(reg['divergencias_substanciais']) | set(reg['divergencias_editoriais'])
+    actual_major = set(art['divergencias_substanciais'])
+    msg = _mismatch('LC 123 divergências substanciais',
+                    sorted(actual_major - expected_major), sorted(expected_major - actual_major))
+    if msg:
+        problems.append(msg)
+    for article, spec in {**reg['divergencias_substanciais'], **reg['divergencias_editoriais']}.items():
+        problems.extend(lock_reviewed_pair(article, spec, primary_articles, secondary_articles, 'LC 123'))
+
+    expected_form = set(reg['divergencias_de_forma'])
+    actual_form = set(art['divergencias_de_forma'])
+    msg = _mismatch('LC 123 divergências de forma',
+                    sorted(actual_form - expected_form), sorted(expected_form - actual_form))
+    if msg:
+        problems.append(msg)
+    for article, spec in reg['divergencias_de_forma'].items():
+        problems.extend(lock_reviewed_pair(article, spec, primary_articles, secondary_articles, 'LC 123 forma'))
+
+    expected_excl = set(reg['dispositivos_exclusivos_principal'])
+    actual_excl = set(art['apenas_na_principal'])
+    msg = _mismatch('LC 123 dispositivos exclusivos na principal',
+                    sorted(actual_excl - expected_excl), sorted(expected_excl - actual_excl))
+    if msg:
+        problems.append(msg)
+    for article, spec in reg['dispositivos_exclusivos_principal'].items():
+        raw = raw_fingerprint(primary_articles.get(article, []))
+        cur = current_fingerprint(primary_articles.get(article, []))
+        if raw != spec['raw_principal_sha256'] or cur != spec['principal_sha256']:
+            problems.append(f'LC 123 dispositivo exclusivo art. {article}: conteúdo diverge da revisão')
+
+    expected_conf = set(reg['dispositivos_exclusivos_conferencia'])
+    actual_conf = set(art['apenas_na_conferencia'])
+    msg = _mismatch('LC 123 dispositivos exclusivos na conferência',
+                    sorted(actual_conf - expected_conf), sorted(expected_conf - actual_conf))
+    if msg:
+        problems.append(msg)
+
+    if '47' not in art['divergencias_substanciais'] or '87-B' not in art['apenas_na_principal']:
+        problems.append('as divergências LC 123 (art. 47, art. 87-B) descritas no aviso editorial não se confirmaram')
+
+    art['excecoes_revisadas'] = {
+        'divergencias_substanciais': sorted(reg['divergencias_substanciais']),
+        'divergencias_editoriais': sorted(reg['divergencias_editoriais']),
+        'marcadores_de_veto': sorted(k for k, v in reg['dispositivos_exclusivos_principal'].items()
+                                     if v.get('classe') == 'veto'),
+        'dispositivo_exclusivo_conhecido': ['87-B'],
+        'divergencias_de_forma': sorted(reg['divergencias_de_forma'], key=lambda x: (len(x), x)),
+    }
+    return problems
+
+
+def lock_known_divergence_fingerprints(slug, art, primary_articles, secondary_articles):
+    """Exige que cada divergência conhecida preserve o conteúdo revisado (caso Lei 14.133 art. 121)."""
+    problems = []
+    known = KNOWN_DIVERGENCES.get(slug, {})
+    fingerprints = KNOWN_DIVERGENCE_FINGERPRINTS.get(slug, {})
+    actual = {d['artigo'] for d in art['divergentes']}
+    unexpected = sorted(actual - set(known))
+    missing = sorted(set(known) - actual)
+    if unexpected:
+        problems.append(f'divergências não explicadas: {unexpected}')
+    if missing:
+        problems.append(f'divergências explicadas ausentes: {missing}')
+    for article, spec in fingerprints.items():
+        problems.extend(lock_reviewed_pair(article, spec, primary_articles, secondary_articles, slug))
+        expected_diff = spec.get('diferenca_esperada')
+        if not expected_diff:
+            continue
+        item = next((d for d in art['divergentes'] if d['artigo'] == article), None)
+        if item is None:
+            continue
+        diffs = item.get('diferencas') or []
+        if len(diffs) != 1 or diffs[0].get('operacao') != expected_diff['operacao'] \
+                or diffs[0].get('principal') != expected_diff['principal'] \
+                or diffs[0].get('conferencia') != expected_diff['conferencia']:
+            problems.append(f'{slug} art. {article}: trecho divergente não é o tipográfico revisado')
+    return problems
 
 
 def annotate_lc123_reconciliation(artigos):
@@ -998,20 +1238,24 @@ def compute(sources, fontes, baseline_texts=None):
             equivalente=coverage_ok,
             caracteres_normalizados=len(strip_fold(md_text_all(item['body']))))
         proof['conversao'] = dict(conv.stats, imagens=conv.images, tabelas=conv.tables, blocos=len(conv.blocks))
+        article_splits = {}
         for ckey in doc['conferencia']:
             if sources.get(ckey) is None:
                 continue
             blocks, _ = source_blocks(ckey, sources[ckey])
+            art_result, primary_arts, secondary_arts = article_proof(conv.blocks, blocks)
             entry = dict(fonte=ckey, url=SOURCES[ckey]['url'], sha256=fontes[ckey]['sha256'],
-                         artigos=article_proof(conv.blocks, blocks))
+                         artigos=art_result)
             entry['titulos_e_capitulos'] = dict(
                 iguais=headings(main_body_blocks(conv.blocks)) == headings(main_body_blocks(blocks)),
                 principal=len(headings(main_body_blocks(conv.blocks))),
                 conferencia=len(headings(main_body_blocks(blocks))))
             proof['fontes_conferencia'].append(entry)
+            article_splits[ckey] = (primary_arts, secondary_arts)
+        proof['_article_splits'] = article_splits
         reconciliation[slug] = proof
 
-    # gates da Lei 14.133
+    # gates da Lei 14.133 — exceções vinculadas ao conteúdo revisado, não só ao número do artigo
     slug14 = 'br-federal-lei-2021-04-01-14133-consolidada'
     entry = reconciliation[slug14]['fontes_conferencia'][0]
     known = KNOWN_DIVERGENCES[slug14]
@@ -1019,15 +1263,19 @@ def compute(sources, fontes, baseline_texts=None):
     problems = []
     if art['apenas_na_principal'] or art['apenas_na_conferencia']:
         problems.append(f'artigos ausentes entre fontes: {art["apenas_na_principal"]} {art["apenas_na_conferencia"]}')
-    unexpected = [d['artigo'] for d in art['divergentes'] if d['artigo'] not in known]
-    if unexpected:
-        problems.append(f'divergências não explicadas: {unexpected}')
+    primary14, secondary14 = reconciliation[slug14]['_article_splits'][entry['fonte']]
+    problems.extend(lock_known_divergence_fingerprints(slug14, art, primary14, secondary14))
     if not entry['titulos_e_capitulos']['iguais']:
         problems.append('sequência de títulos/capítulos difere entre Planalto e Câmara')
     art['divergencias_explicadas'] = {k: v for k, v in known.items()}
     for slug, proof in reconciliation.items():
         if not proof['cobertura_texto']['equivalente']:
             problems.append(f'{slug}: cobertura de texto não equivalente à fonte')
+    # LC 123: rejeitar qualquer diferença ou dispositivo exclusivo novo; classificar editoriais/vetos
+    lc_entry = reconciliation[LC123_SLUG]['fontes_conferencia'][0]
+    lc = lc_entry['artigos']
+    primary_lc, secondary_lc = reconciliation[LC123_SLUG]['_article_splits'][lc_entry['fonte']]
+    problems.extend(lock_lc123_exceptions(lc, primary_lc, secondary_lc))
     lc = reconciliation[LC123_SLUG]['fontes_conferencia'][0]['artigos']
     annotate_lc123_reconciliation(lc)
     if '47' not in lc['divergencias_substanciais'] or '87-B' not in lc['apenas_na_principal']:
@@ -1047,6 +1295,9 @@ def compute(sources, fontes, baseline_texts=None):
             problems.append(f'LC 123 art. {art}: natureza deve ser juridica')
     if problems:
         raise SystemExit('Conferência falhou:\n - ' + '\n - '.join(problems))
+    # limpa auxiliares internos antes de serializar provas
+    for proof in reconciliation.values():
+        proof.pop('_article_splits', None)
 
     # --- efeitos diferidos (evidência extraída das próprias fontes) ---
     lc238 = extract_effect_text(sources['planalto-lc238'], r'^Art\. 10\.')
@@ -1125,8 +1376,9 @@ def compute(sources, fontes, baseline_texts=None):
             ckey = doc['fonte']
             blocks, _ = source_blocks(ckey, sources[ckey])
             old_blocks = [b for b in re.split(r'\n\s*\n', pristine) if b.strip() and not b.startswith('![](data:')]
+            art_result, _, _ = article_proof(blocks, old_blocks)
             proof = dict(documento=slug, fonte_conferencia=ckey, url=SOURCES[ckey]['url'], sha256_fonte=fontes[ckey]['sha256'],
-                         capturado_em=fontes[ckey]['capturado_em'], artigos=article_proof(blocks, old_blocks))
+                         capturado_em=fontes[ckey]['capturado_em'], artigos=art_result)
             ap = proof['artigos']
             if ap['divergentes'] or ap['apenas_na_principal'] or ap['apenas_na_conferencia']:
                 raise SystemExit(f'{slug}: o arquivo do acervo divergiu da fonte atual da Câmara: {ap}')
@@ -1253,7 +1505,7 @@ def compute(sources, fontes, baseline_texts=None):
         proofs[proof_name(slug)] = proof
     hist_blocks = [b for b in re.split(r'\n\s*\n', read_baseline(HISTORIC_14133)) if b.strip()]
     cons_blocks = converted[slug14]['conv'].blocks
-    cmp = article_proof(cons_blocks, hist_blocks)
+    cmp, _, _ = article_proof(cons_blocks, hist_blocks)
     proofs['historica-vs-consolidada-14133.json'] = dict(
         descricao='Artigos da edição consolidada (Planalto, texto em vigor segundo a fonte, sem riscados e sem notas) '
                   'contra a edição histórica preservada.',
@@ -1266,7 +1518,7 @@ def compute(sources, fontes, baseline_texts=None):
         old = baseline_texts['lc123']
         old_blocks = [b for b in re.split(r'\n\s*\n', old) if b.strip() and not b.startswith('![](data:')]
         new_blocks = converted['br-federal-lei-complementar-2006-12-14-123']['conv'].blocks
-        cmp = article_proof(new_blocks, old_blocks)
+        cmp, _, _ = article_proof(new_blocks, old_blocks)
         old_arts, _ = split_articles(main_body_blocks(old_blocks))
         new_with = lc123_arts
         old_with = [k for k, bs in old_arts.items() if any(lc238_marker in md_plain(b, True) for b in bs)]
