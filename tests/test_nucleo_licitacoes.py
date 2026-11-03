@@ -690,16 +690,23 @@ class TestEvidenciaEfeitosUnitario(unittest.TestCase):
         self.assertIn('truncada ou alterada', str(ctx.exception))
 
     def test_aceita_literal_revisado_e_devolve_o_mesmo(self):
-        for spec_id, texts in (
-            ('lc238-art-10', self.LC238_LITERAL),
-            ('lc227-art-181', self.LC227_ART181),
-            ('lc227-art-182', self.LC227_ART182),
-            ('lc198-art-3', self.LC198_ART3),
-            ('lc198-art-4', self.LC198_ART4),
-        ):
-            spec = nl.EFFECT_EVIDENCE[spec_id]
-            out = nl.require_effect_evidence(spec['label'], texts, spec['required_fragments'])
+        for spec in nl.EFFECT_EVIDENCE.values():
+            texts = nl.extract_effect_text(nl.read_snapshot(spec['source_key']), spec['article_pattern'])
+            out = nl.require_effect_evidence(spec['label'], texts, spec['required_fragments'],
+                                             spec['sha256_literal_revisado'])
             self.assertIs(out, texts)
+
+    def test_recusa_troca_das_datas_com_todos_os_fragmentos_presentes(self):
+        key = 'planalto-lc238'
+        text = nl.read_snapshot(key).decode('cp1252')
+        changed = text.replace('2028', 'SWAP_YEAR').replace('2027', '2028').replace('SWAP_YEAR', '2027')
+        source = changed.encode('cp1252')
+        spec = nl.EFFECT_EVIDENCE['lc238-art-10']
+        extracted = nl.extract_effect_text(source, spec['article_pattern'])
+        self.assertTrue(all(fragment in ' '.join(extracted) for fragment in spec['required_fragments']))
+        with self.assertRaises(SystemExit) as ctx:
+            nl.extract_required_effect_text({key: source}, 'lc238-art-10')
+        self.assertIn('literal completo diverge', str(ctx.exception))
 
 
 class TestTravaEvidenciaEfeitos(unittest.TestCase):

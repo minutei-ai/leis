@@ -1437,6 +1437,7 @@ def eventos_revogacao_8666(fontes, sources, lc198_texto):
 # mesmo gate; lista vazia nunca é sucesso.
 EFFECT_EVIDENCE = {
     'lc238-art-10': dict(
+        sha256_literal_revisado='638aea4028ecdcfe3d13d5b8490b93bdedd776be94f79d1aeb8f03f52e17b232',
         label='LC 238 art. 10',
         source_key='planalto-lc238',
         article_pattern=r'^Art\. 10\.',
@@ -1449,6 +1450,7 @@ EFFECT_EVIDENCE = {
         ),
     ),
     'lc227-art-181': dict(
+        sha256_literal_revisado='e85951b772b8135f98239162fc9da30aa401b25a76bf114515e7079ea131882c',
         label='LC 227 art. 181',
         source_key='planalto-lc227',
         article_pattern=r'^Art\. 181\.\s*Revogam',
@@ -1460,6 +1462,7 @@ EFFECT_EVIDENCE = {
         ),
     ),
     'lc227-art-182': dict(
+        sha256_literal_revisado='795a57f4275636558a6b560e88f99bbbd7844373f8104b069275cd64c2a2dae2',
         label='LC 227 art. 182',
         source_key='planalto-lc227',
         article_pattern=r'^Art\. 182\.\s*Esta Lei Complementar entra',
@@ -1470,6 +1473,7 @@ EFFECT_EVIDENCE = {
         ),
     ),
     'lc198-art-3': dict(
+        sha256_literal_revisado='5a1dbe7b5941c3e426f3fed8b8e6a16a4adf354cdc2f34e2f58793bef827a7fb',
         label='LC 198 art. 3º',
         source_key='planalto-lc198',
         article_pattern=r'^Art\. 3º',
@@ -1481,6 +1485,7 @@ EFFECT_EVIDENCE = {
         ),
     ),
     'lc198-art-4': dict(
+        sha256_literal_revisado='5bf2d006695a2d60f08543d3dc3d2826c7f2946090998c9375db4e33474d09c7',
         label='LC 198 art. 4º',
         source_key='planalto-lc198',
         article_pattern=r'^Art\. 4º',
@@ -1491,13 +1496,14 @@ EFFECT_EVIDENCE = {
 }
 
 
-def require_effect_evidence(label, texts, required_fragments):
+def require_effect_evidence(label, texts, required_fragments, reviewed_sha256=None):
     """Recusa publicação de afirmações de efeitos sem evidência literal revisada.
 
     `texts` é o retorno de `extract_effect_text` (lista vazia se o marcador falta).
     Fonte vazia, dispositivo ausente, literal em branco, truncado ou com data
     alterada falham até revisão explícita dos trechos em `required_fragments`.
-    Não inventa nem calcula vigência: só vincula a leitura ao literal revisado.
+    O hash do literal completo revisado é obrigatório para aceitar a evidência.
+    Normaliza apenas espaços; não calcula vigência nem aceita mera presença dos fragmentos.
     Devolve `texts` inalterado quando a evidência passa.
     """
     problems = []
@@ -1507,6 +1513,9 @@ def require_effect_evidence(label, texts, required_fragments):
         joined = ' '.join(texts)
         if not joined.strip():
             problems.append(f'{label}: evidência vazia após extração')
+        literal_sha256 = sha256(re.sub(r'\s+', ' ', joined).strip().encode('utf-8'))
+        if not reviewed_sha256 or literal_sha256 != reviewed_sha256:
+            problems.append(f'{label}: literal completo diverge da revisão autenticada')
         missing = [frag for frag in required_fragments if frag not in joined]
         if missing:
             problems.append(
@@ -1524,7 +1533,8 @@ def extract_required_effect_text(sources, spec_id):
         texts = []
     else:
         texts = extract_effect_text(data, spec['article_pattern'])
-    return require_effect_evidence(spec['label'], texts, spec['required_fragments'])
+    return require_effect_evidence(
+        spec['label'], texts, spec['required_fragments'], spec['sha256_literal_revisado'])
 
 
 def compute(sources, fontes, baseline_texts=None):

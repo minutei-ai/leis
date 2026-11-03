@@ -60,3 +60,5 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
   em blocos adequados à conferência artigo a artigo. Os arts. 181 e 182 são registrados com datas por dispositivo; a data
   1º/1/2027 da nota do 87-B refere-se aos efeitos da inclusão pela LC 214, não a toda revogação da LC 227.
 - A Lei 14.133 histórica não tem fonte nem data de captura registradas.
+
+A trava de efeitos confere também o SHA-256 do literal completo revisado de cada dispositivo, normalizando apenas espaços. A presença dos fragmentos isolados não basta: trocar datas entre incisos deve falhar.
