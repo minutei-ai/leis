@@ -43,4 +43,6 @@ entre capturas. Se ele mudar, o conteúdo da fonte mudou: o `build` só publica 
   Esses conflitos jurídicos estão em `divergencias_conhecidas` do manifesto (por dispositivo). Diferenças nos arts. 63,
   64 e 89 são editoriais/estruturais; os arts. 63-A a 63-E são marcadores de veto na Câmara.
 - Leis 8.666 e 10.520: uma só fonte oficial (Planalto). A conferência é de cobertura do texto, não contra segunda fonte.
+- LC 238: uma só fonte oficial (Planalto). A conferência é de cobertura do texto integral. O art. 10 (produção de efeitos) é
+  transcrito literalmente; a edição consultada da LC 123 apenas remete a esta norma e não incorpora as redações futuras.
 - A Lei 14.133 histórica não tem fonte nem data de captura registradas.

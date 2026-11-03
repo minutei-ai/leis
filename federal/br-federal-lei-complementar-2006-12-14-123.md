@@ -24,7 +24,7 @@ anexos_no_corpo: 7
 tabelas: 10
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "bb20c8c52e296548c3526108c96347d94fb26030d0e9ab8dd1d8603be239a935"
+sha256_markdown: "92a075a136135784dc3d2afeac80b09d913e7bfd1ae020a912f6cbe718080e6b"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -41,7 +41,7 @@ Centro de Documentação e Informação
 >
 > Conferida artigo a artigo com https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm (ver `reconciliacao-br-federal-lei-complementar-2006-12-14-123.json`).
 >
-> A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de 1º/1/2027 (demais dispositivos). Ver `metadados/nucleo-licitacoes.json`.
+> A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de 1º/1/2027 (demais dispositivos). O texto integral da modificadora está em [`federal/br-federal-lei-complementar-2026-10-21-238.md`](br-federal-lei-complementar-2026-10-21-238.md); o vínculo por dispositivo está em `metadados/nucleo-licitacoes.json`.
 >
 > Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B (LC 214/2025) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar esses dispositivos (ver o arquivo de provas desta conferência).
 

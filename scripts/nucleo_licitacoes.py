@@ -105,6 +105,16 @@ DOCS = [
                     titulo='LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006',
                     ementa='Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte.'),
          edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
+    dict(slug='br-federal-lei-complementar-2026-10-21-238',
+         arquivo='federal/br-federal-lei-complementar-2026-10-21-238.md', modo='converter',
+         fonte='planalto-lc238', conferencia=[], base_url=SOURCES['planalto-lc238']['url'],
+         norma=dict(tipo='lei-complementar', numero='238', data='2026-10-21',
+                    titulo='LEI COMPLEMENTAR Nº 238, DE 21 DE OUTUBRO DE 2026',
+                    ementa=('Altera a Lei Complementar nº 123, de 14 de dezembro de 2006 (Lei do Simples Nacional), '
+                            'para atualizar o limite de receita bruta anual e o número de empregados do '
+                            'Microempreendedor Individual (MEI), conceder remissão de créditos de titularidade da '
+                            'União de sua responsabilidade e dispor sobre a aplicação da medida.')),
+         edicao=dict(tipo='consolidada', integral=True), situacao=dict(valor='nao-informada')),
     dict(slug='br-federal-lei-2016-06-30-13303',
          arquivo='federal/br-federal-lei-2016-06-30-13303.md', modo='conferida',
          fonte='camara-13303', base_url=SOURCES['camara-13303']['url'],
@@ -1051,16 +1061,31 @@ def compute(sources, fontes, baseline_texts=None):
     for k in order:
         if any(lc238_marker in md_plain(b, True) for b in arts[k]):
             lc123_arts.append(k)
+    lc238_slug = 'br-federal-lei-complementar-2026-10-21-238'
+    lc238_arquivo = 'federal/br-federal-lei-complementar-2026-10-21-238.md'
     effects = {
         'br-federal-lei-complementar-2006-12-14-123': [dict(
             norma_modificadora='Lei Complementar nº 238, de 21 de outubro de 2026',
+            norma_id_modificadora=lc238_slug,
+            arquivo_norma_modificadora=lc238_arquivo,
             fonte_modificadora=SOURCES['planalto-lc238']['url'], sha256_fonte_modificadora=fontes['planalto-lc238']['sha256'],
             remissoes_na_edicao=[f'art. {k}' for k in lc123_arts],
+            dispositivos_modificados=[
+                dict(dispositivo='art. 18-A, §§ 1º e 2º', efeitos_a_partir_de='2028-01-01',
+                     fundamento='art. 10, I, da LC 238 (literal da fonte)'),
+                dict(dispositivo='art. 18-C', efeitos_a_partir_de='2027-01-01',
+                     fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
+                dict(dispositivo='art. 48', efeitos_a_partir_de='2027-01-01',
+                     fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
+                dict(dispositivo='art. 49', efeitos_a_partir_de='2027-01-01',
+                     fundamento='art. 10, II, da LC 238 (demais dispositivos; literal da fonte)'),
+            ],
             marcador_no_texto='(Vide Lei Complementar nº 238, de 21/10/2026)',
             texto_da_fonte_modificadora=lc238,
             leitura='Literal do art. 10 da LC 238: entra em vigor na publicação e produz efeitos a partir de 1º/1/2028 '
                     '(alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). '
-                    'A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela.')],
+                    'A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela. '
+                    f'O texto integral da modificadora está em `{lc238_arquivo}`.')],
         slug14: [
             dict(dispositivo='art. 44-A', norma_modificadora='Lei nº 15.210, de 2025',
                  texto_da_fonte=note44a[note44a.find('(“Caput”'):] if '(“Caput”' in note44a else note44a,
@@ -1146,11 +1171,21 @@ def compute(sources, fontes, baseline_texts=None):
             if slug == 'br-federal-lei-complementar-2006-12-14-123':
                 extra.append('A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação '
                              'dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de '
-                             '1º/1/2027 (demais dispositivos). Ver `metadados/nucleo-licitacoes.json`.')
+                             '1º/1/2027 (demais dispositivos). O texto integral da modificadora está em '
+                             f'[`{lc238_arquivo}`]({lc238_arquivo.split("/", 1)[-1]}); o vínculo por dispositivo está em '
+                             '`metadados/nucleo-licitacoes.json`.')
                 extra.append('Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara '
                              'tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B '
                              '(LC 214/2025) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar '
                              'esses dispositivos (ver o arquivo de provas desta conferência).')
+            if slug == lc238_slug:
+                extra.append('Esta lei altera a Lei Complementar nº 123/2006. A edição consultada da LC 123 no acervo '
+                             '(`br-federal-lei-complementar-2006-12-14-123.md`) apenas remete a esta norma ("Vide") e '
+                             'não incorpora as redações futuras. O art. 10 desta lei, em literal da fonte, produz efeitos '
+                             'a partir de 1º/1/2028 quanto às alterações do art. 18-A, §§ 1º e 2º, da LC 123, e a partir '
+                             'de 1º/1/2027 quanto aos demais dispositivos; o acervo não antecipa essa aplicação.')
+                extra.append('Uma só fonte oficial (Planalto). A conferência é de cobertura do texto integral, não contra '
+                             'segunda fonte.')
             note = edition_note(doc, rec, extra)
             body = item['head'] + '\n\n' + note + '\n\n' + item['rest']
             meta.update(norma_id=meta_norma_id(slug),
@@ -1171,6 +1206,8 @@ def compute(sources, fontes, baseline_texts=None):
                 meta['edicao_relacionada'] = 'br-federal-lei-2021-04-01-14133'
             if slug == 'br-federal-lei-complementar-2006-12-14-123':
                 meta['edicao_relacionada'] = 'nenhuma'
+            if slug == lc238_slug:
+                meta['edicao_relacionada'] = 'nenhuma'
             entry['conversao'] = reconciliation[slug]['conversao']
             entry['blocos_nao_textuais'] = [dict(tipo='imagem', **img) for img in conv.images] + \
                 [dict(tipo='tabela', **t) for t in conv.tables]
@@ -1179,6 +1216,25 @@ def compute(sources, fontes, baseline_texts=None):
                                                 if sources.get(k) is not None])
             if slug in effects:
                 entry['efeitos_diferidos_detalhe'] = effects[slug]
+            if slug == lc238_slug:
+                entry['efeitos_diferidos_detalhe'] = [dict(
+                    dispositivo='art. 10',
+                    texto_da_fonte=lc238,
+                    leitura=('Literal do art. 10: entra em vigor na publicação; produz efeitos a partir de 1º/1/2028 '
+                             '(alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). '
+                             'O acervo não antecipa a aplicação dessas redações.'),
+                    altera_norma=dict(
+                        norma_id='br-federal-lei-complementar-2006-12-14-123',
+                        arquivo='federal/br-federal-lei-complementar-2006-12-14-123.md',
+                        dispositivos=[f'art. {k}' for k in lc123_arts],
+                        dispositivos_modificados=[
+                            dict(dispositivo='art. 18-A, §§ 1º e 2º', efeitos_a_partir_de='2028-01-01',
+                                 fundamento='art. 10, I (literal da fonte)'),
+                            dict(dispositivo='demais dispositivos alterados nesta lei (arts. 18-C, 48 e 49, entre outros)',
+                                 efeitos_a_partir_de='2027-01-01', fundamento='art. 10, II (literal da fonte)'),
+                        ],
+                    ),
+                )]
             if doc['situacao']['valor'] == 'revogada':
                 entry['revogacao'] = {k: v for k, v in doc['situacao'].items() if k != 'valor'}
             entry['divergencias_conhecidas'] = KNOWN_DIVERGENCES.get(slug, {})
