@@ -11,6 +11,8 @@ import re
 import unittest
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 ROOT = Path(__file__).resolve().parent.parent
 PROVAS = ROOT / 'provas/decretos-atualizacao-14133'
 FONTES = json.loads((PROVAS / 'fontes.json').read_text(encoding='utf-8'))
@@ -98,6 +100,31 @@ class TestDecretosAtualizacao14133(unittest.TestCase):
                 raw = lzma.decompress(xz)
                 self.assertEqual(len(raw), meta['bytes'])
                 self.assertEqual(sha256(raw), meta['sha256'])
+
+    def test_prova_corresponde_a_todas_as_celulas_da_fonte(self):
+        """Reextrai o HTML preservado, independentemente da prova e do Markdown."""
+        def normalize(text):
+            return re.sub(r'\s+', ' ', text.replace('\xa0', ' ')).strip()
+
+        def link_label(text):
+            return normalize(re.sub(r'\[([^\]]+)\]\([^)]*\)', r'\1', text))
+
+        for doc_id in DOCS:
+            with self.subTest(doc_id=doc_id):
+                raw = lzma.decompress((ROOT / FONTES[doc_id]['snapshot']).read_bytes())
+                soup = BeautifulSoup(raw.decode('cp1252'), 'lxml')
+                tables = [table for table in soup.find_all('table')
+                          if 'DISPOSITIVO' in normalize(table.get_text())
+                          and 'VALOR ATUALIZADO' in normalize(table.get_text())]
+                self.assertEqual(len(tables), 1, 'deve existir uma única tabela de valores')
+                rows = [[normalize(cell.get_text())
+                         for cell in row.find_all(['td', 'th'], recursive=False)]
+                        for row in tables[0].find_all('tr')]
+                proof = COBERTURA[doc_id]
+                expected = [proof['cabecalho']] + [
+                    [link_label(row['dispositivo']), normalize(row['valor'])]
+                    for row in proof['linhas']]
+                self.assertEqual(rows, expected)
 
     def test_detecta_omissao_de_anexo(self):
         """Trava: se o ANEXO sumir de algum destes atos, o teste falha."""

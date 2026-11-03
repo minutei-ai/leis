@@ -14,7 +14,7 @@ Recuperação dos anexos/tabelas de valores dos Decretos 10.922/2021, 11.317/202
 python3 -m unittest tests.test_decretos_atualizacao_14133 -v
 ```
 
-Os testes leem somente o repositório (sem rede): conferem a presença do bloco `ANEXO`, a cobertura de **todas** as linhas/valores de `cobertura-anexos.json`, a integridade dos snapshots e a sequência de revogações/delegação literal do art. 3º do Decreto 12.807/2025, sem inferir atualizações futuras.
+Os testes leem somente o repositório (sem rede): conferem a presença do bloco `ANEXO`, a cobertura de **todas** as linhas/valores de `cobertura-anexos.json`, a integridade dos snapshots, a reextração de cada célula da tabela HTML oficial (normalizando apenas espaços e removendo a sintaxe dos links Markdown) e a sequência de revogações/delegação literal do art. 3º do Decreto 12.807/2025, sem inferir atualizações futuras.
 
 ## Limites
 
