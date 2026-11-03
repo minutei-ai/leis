@@ -30,7 +30,7 @@ Os demais arquivos do acervo ainda não têm esse cabeçalho. A ausência dele s
 | `norma_id`, `norma_tipo`, `norma_numero`, `norma_data`, `titulo`, `esfera` | Identidade da norma. |
 | `edicao_id`, `edicao_tipo`, `edicao_integral`, `edicao_relacionada` | Identidade da edição e a outra edição da mesma norma, quando houver. |
 | `fonte_orgao`, `fonte_url`, `fonte_formato` | Origem oficial da reprodução. |
-| `fonte_conferencia` | Fontes oficiais usadas só para conferir (lista de URLs) ou `"nenhuma"`. Não repete a URL de `fonte_url`. |
+| `fonte_conferencia` | Fontes oficiais usadas só para conferir: lista não vazia de URLs `https`, `"nenhuma"` (conferência não usada) ou `"desconhecido"` (não registrado). Campo obrigatório. Não repete a URL de `fonte_url`. |
 | `capturado_em`, `sha256_fonte` | Quando (UTC) e o que foi capturado (hash dos bytes recebidos; o hash do conteúdo sem o script de proteção do Planalto, estável entre capturas, está em `sha256_conteudo` no manifesto e em `fontes.json`). Em edição com corpo preservado e captura original desconhecida, ficam `"desconhecido"`; a captura atual usada só para conferir registra hash/data na prova, sem atribuí-los retroativamente a estes campos. |
 | `situacao`, `situacao_fundamento`, `vigencia_certificada` | Situação informada pela fonte; ver acima. |
 | `texto_riscado`, `anexos_no_corpo`, `tabelas`, `imagens_omitidas` | Tratamento de conteúdo: ver abaixo. |
@@ -119,3 +119,40 @@ Regras:
 - Publicação, vigência e aplicação/transição são campos distintos; um evento de revogação não afirma vigência residual nem aplica o art. 191 da Lei 14.133 a casos concretos.
 - Sem prova oficial preservada (ou nova captura) para resolver uma data relativa, `valor` e `origem` ficam `"desconhecido"`.
 - A Lei 8.666 traz dois eventos: arts. 89–108 no art. 193, I (publicação da Lei 14.133) e a lei integral no art. 193, II, a (30/12/2023, redação da LC 198/2023).
+
+## Escopo declarado das listas de efeitos e relações (manifesto)
+
+O manifesto traz `escopo_cobertura` (legível por máquina) e a lista `relacoes`. A ausência de uma entrada **não** significa inexistência da relação ou do efeito no ordenamento; significa apenas que aquela lista, neste acervo, não a catalogou.
+
+### `escopo_cobertura`
+
+| Campo | Significado |
+| --- | --- |
+| `efeitos_diferidos.estado` | `completo`, `parcial` ou `desconhecido` para o conjunto `efeitos_diferidos_detalhe` dos documentos do núcleo. |
+| `efeitos_diferidos.inclui` / `nao_cataloga` | Escopo concreto e rastreável do que a lista cobre e do que fica de fora. |
+| `relacoes.estado` | Idem para a lista top-level `relacoes`. |
+| `relacoes.tipos_admitidos` | `alteracao`, `revogacao`, `regulamento`, `atualizacao_valores`. |
+| `expansao_rdc_e_regulamentos` | Escopo da expansão declarada para a Lei 12.462/2011 (RDC) e regulamentos essenciais da Lei 14.133 presentes no acervo: o que foi resolvido com prova, o que só tem arquivo sem metadados do núcleo, e o que fica fora desta entrega. |
+
+Regras:
+
+- `completo` só quando a lista afirma esgotar o universo declarado em `inclui`.
+- `parcial` exige `inclui` e `nao_cataloga` (ou equivalente) com limites concretos; texto genérico “cobertura parcial” sem esse recorte não basta.
+- Arquivo Markdown no acervo **sem** cabeçalho do núcleo, captura e hash **não** certifica edição nem integridade; `status_edicao_arquivo` / `edicao_integral` ficam `"desconhecido"` até prova própria.
+- Esta seção não duplica recuperação documental de anexos ausentes nem altera a procedência da Lei 13.303, o baseline da LC 123 ou a trava de evidência de efeitos das LCs 238/198.
+
+### `relacoes` (lista top-level)
+
+Cada item:
+
+| Campo | Significado |
+| --- | --- |
+| `id` | Identificador estável. |
+| `tipo` | Um de `alteracao`, `revogacao`, `regulamento`, `atualizacao_valores`. |
+| `origem` | Norma/dispositivo que produz a relação (`norma_id`, `dispositivo`, opcionalmente `arquivo`). |
+| `alvo` | Norma/dispositivo atingido (`norma_id`, `dispositivos`, `arquivo` quando houver no acervo). |
+| `fonte` | Prova: `url` e, quando houver captura no repositório, `sha256` / `chave` / `prova`. |
+| `desconhecidos` | Lista explícita do que não foi resolvido (datas de vigência aplicável, integralidade do arquivo-alvo, etc.). |
+| `leitura` | Limite: o acervo não inventa vigência nem aplica a relação a casos concretos. |
+
+Separação obrigatória: remissão de **regulamento** e decreto de **atualização de valores** não se misturam com **produção de efeitos** diferidos nem com `eventos_revogacao` (cronologia de revogação no documento revogado).
