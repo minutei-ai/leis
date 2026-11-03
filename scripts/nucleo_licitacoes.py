@@ -1122,20 +1122,22 @@ def build_relacoes(fontes):
     return relacoes
 
 
-def build_escopo_cobertura(relacoes):
+def build_escopo_cobertura(relacoes, documentos):
     por_tipo = {}
     for rel in relacoes:
         por_tipo.setdefault(rel['tipo'], []).append(rel['id'])
+    por_documento = {
+        doc['id']: [effect.get('dispositivo') or effect.get('norma_modificadora') or UNKNOWN
+                    for effect in doc['efeitos_diferidos_detalhe']]
+        for doc in documentos if doc.get('efeitos_diferidos_detalhe')
+    }
     return dict(
         efeitos_diferidos=dict(
             estado='parcial',
-            documentos=['br-federal-lei-2021-04-01-14133-consolidada',
-                        'br-federal-lei-complementar-2026-10-21-238'],
-            inclui=[
-                'art. 44-A da Lei 14.133 (nota Câmara / Lei 15.210)',
-                'art. 193, II da Lei 14.133 (redação LC 198)',
-                'art. 10 da LC 238 (produção de efeitos literal)',
-            ],
+            documentos=list(por_documento),
+            inclui_por_documento=por_documento,
+            inclui=[f'{dispositivo} ({doc_id})'
+                    for doc_id, dispositivos in por_documento.items() for dispositivo in dispositivos],
             nao_cataloga=[
                 'demais notas de vigência/produção de efeitos espalhadas na consolidada da 14.133',
                 'efeitos diferidos de regulamentos e decretos de valores (ver relacoes, tipos distintos)',
@@ -1152,7 +1154,7 @@ def build_escopo_cobertura(relacoes):
                 'demais decretos/regulamentos da 14.133 sem remissão essencial listada nesta entrega',
                 'alterações artigo a artigo da consolidada além das relações de alteração explícitas',
                 'anexos de decretos ainda sem recuperação própria',
-                'procedência/integridade da Lei 13.303 (issue distinta)',
+                'relações regulatórias próprias da Lei 13.303',
             ],
             leitura=('Lista de relações resolvidas com prova URL/hash/captura quando disponível. '
                      'Ausência de relação ≠ inexistência. Regulamento e atualizacao_valores são '
@@ -2571,7 +2573,7 @@ def compute(sources, fontes, baseline_texts=None):
             detalhe_diferentes=cmp['divergentes'])
     proofs['fontes.json'] = {k: public_source(v, k) for k, v in fontes.items()}
     relacoes = build_relacoes(fontes)
-    escopo_cobertura = build_escopo_cobertura(relacoes)
+    escopo_cobertura = build_escopo_cobertura(relacoes, manifest_docs)
     escopo_errors = validate_escopo_e_relacoes(escopo_cobertura, relacoes)
     if escopo_errors:
         raise SystemExit('\n'.join(escopo_errors))

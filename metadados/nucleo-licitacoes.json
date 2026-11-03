@@ -8,12 +8,40 @@
       "estado": "parcial",
       "documentos": [
         "br-federal-lei-2021-04-01-14133-consolidada",
-        "br-federal-lei-complementar-2026-10-21-238"
+        "br-federal-lei-complementar-2006-12-14-123",
+        "br-federal-lei-complementar-2006-12-14-123-planalto",
+        "br-federal-lei-complementar-2026-10-21-238",
+        "br-federal-lei-complementar-2026-01-13-227"
       ],
+      "inclui_por_documento": {
+        "br-federal-lei-2021-04-01-14133-consolidada": [
+          "art. 44-A",
+          "art. 193, II"
+        ],
+        "br-federal-lei-complementar-2006-12-14-123": [
+          "Lei Complementar nº 238, de 21 de outubro de 2026",
+          "Lei Complementar nº 227, de 13 de janeiro de 2026"
+        ],
+        "br-federal-lei-complementar-2006-12-14-123-planalto": [
+          "Lei Complementar nº 238, de 21 de outubro de 2026"
+        ],
+        "br-federal-lei-complementar-2026-10-21-238": [
+          "art. 10"
+        ],
+        "br-federal-lei-complementar-2026-01-13-227": [
+          "art. 181",
+          "art. 182"
+        ]
+      },
       "inclui": [
-        "art. 44-A da Lei 14.133 (nota Câmara / Lei 15.210)",
-        "art. 193, II da Lei 14.133 (redação LC 198)",
-        "art. 10 da LC 238 (produção de efeitos literal)"
+        "art. 44-A (br-federal-lei-2021-04-01-14133-consolidada)",
+        "art. 193, II (br-federal-lei-2021-04-01-14133-consolidada)",
+        "Lei Complementar nº 238, de 21 de outubro de 2026 (br-federal-lei-complementar-2006-12-14-123)",
+        "Lei Complementar nº 227, de 13 de janeiro de 2026 (br-federal-lei-complementar-2006-12-14-123)",
+        "Lei Complementar nº 238, de 21 de outubro de 2026 (br-federal-lei-complementar-2006-12-14-123-planalto)",
+        "art. 10 (br-federal-lei-complementar-2026-10-21-238)",
+        "art. 181 (br-federal-lei-complementar-2026-01-13-227)",
+        "art. 182 (br-federal-lei-complementar-2026-01-13-227)"
       ],
       "nao_cataloga": [
         "demais notas de vigência/produção de efeitos espalhadas na consolidada da 14.133",
@@ -58,7 +86,7 @@
         "demais decretos/regulamentos da 14.133 sem remissão essencial listada nesta entrega",
         "alterações artigo a artigo da consolidada além das relações de alteração explícitas",
         "anexos de decretos ainda sem recuperação própria",
-        "procedência/integridade da Lei 13.303 (issue distinta)"
+        "relações regulatórias próprias da Lei 13.303"
       ],
       "leitura": "Lista de relações resolvidas com prova URL/hash/captura quando disponível. Ausência de relação ≠ inexistência. Regulamento e atualizacao_valores são tipos distintos de efeitos_diferidos e de eventos_revogacao."
     },

@@ -1163,6 +1163,18 @@ class TestEscopoERelacoes(unittest.TestCase):
         self.assertTrue(self.escopo['efeitos_diferidos']['nao_cataloga'])
         self.assertIn('ausência', self.manifest['nota'].lower())
 
+    def test_escopo_de_efeitos_cobre_os_documentos_ja_estruturados(self):
+        expected = {
+            doc['id']: [effect.get('dispositivo') or effect.get('norma_modificadora') or nl.UNKNOWN
+                        for effect in doc['efeitos_diferidos_detalhe']]
+            for doc in self.manifest['documentos'] if doc.get('efeitos_diferidos_detalhe')
+        }
+        coverage = self.escopo['efeitos_diferidos']
+        self.assertEqual(set(coverage['documentos']), set(expected))
+        self.assertEqual(coverage['inclui_por_documento'], expected)
+        self.assertIn('br-federal-lei-complementar-2026-01-13-227', expected)
+        self.assertIn('br-federal-lei-complementar-2006-12-14-123', expected)
+
     def test_tipos_separados_com_dispositivo_fonte_e_desconhecidos(self):
         tipos = {r['tipo'] for r in self.relacoes}
         self.assertEqual(tipos, {'alteracao', 'revogacao', 'regulamento', 'atualizacao_valores'})
