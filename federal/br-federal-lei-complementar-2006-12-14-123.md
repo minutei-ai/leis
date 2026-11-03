@@ -24,7 +24,7 @@ anexos_no_corpo: 7
 tabelas: 10
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "92a075a136135784dc3d2afeac80b09d913e7bfd1ae020a912f6cbe718080e6b"
+sha256_markdown: "7557bd38229fb8316c8457f163f27c5720ae164517c206c3f4f5a1cd05e4bc5b"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -43,7 +43,9 @@ Centro de Documentação e Informação
 >
 > A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de 1º/1/2027 (demais dispositivos). O texto integral da modificadora está em [`federal/br-federal-lei-complementar-2026-10-21-238.md`](br-federal-lei-complementar-2026-10-21-238.md); o vínculo por dispositivo está em `metadados/nucleo-licitacoes.json`.
 >
-> Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B (LC 214/2025) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar esses dispositivos (ver o arquivo de provas desta conferência).
+> O art. 87-B traz a nota literal da Câmara: acrescido pela LC 214/2025, produzindo efeitos a partir de 1º/1/2027, e revogado pela LC 227/2026. A data 1º/1/2027 na nota refere-se aos efeitos da inclusão pela LC 214; a revogação pelo art. 181, IV, "a", da LC 227 não atribui essa data ao evento de revogação (outras alíneas do mesmo inciso têm datas próprias). O texto integral da LC 227 está em [`federal/br-federal-lei-complementar-2026-01-13-227.md`](br-federal-lei-complementar-2026-01-13-227.md); a publicação original da Câmara (fundamento da nota) está capturada em `provas/nucleo-licitacoes/fontes/` (`camara-lc227`). O acervo não reconstrói a redação do art. 87-B.
+>
+> Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B (nota LC 214/LC 227 acima) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar esses dispositivos (ver o arquivo de provas desta conferência).
 
 <!-- nota-edicao:fim -->
 

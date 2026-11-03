@@ -1,4 +1,4 @@
-"""Regressões do núcleo de legislação de licitações (Leis 14.133, 13.303, 8.666, 10.520 e LCs 123 e 238).
+"""Regressões do núcleo de legislação de licitações (Leis 14.133, 13.303, 8.666, 10.520 e LCs 123, 227 e 238).
 
 Lê somente arquivos do repositório; não acessa a rede. Execute: python3 -m unittest discover -s tests
 """
@@ -17,11 +17,12 @@ import nucleo_licitacoes as nl  # noqa: E402
 HIST = 'federal/br-federal-lei-2021-04-01-14133.md'
 CONS = 'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md'
 LC123 = 'federal/br-federal-lei-complementar-2006-12-14-123.md'
+LC227 = 'federal/br-federal-lei-complementar-2026-01-13-227.md'
 LC238 = 'federal/br-federal-lei-complementar-2026-10-21-238.md'
 L13303 = 'federal/br-federal-lei-2016-06-30-13303.md'
 L8666 = 'federal/br-federal-lei-1993-06-21-8666.md'
 L10520 = 'federal/br-federal-lei-2002-07-17-10520.md'
-ALL = [HIST, CONS, LC123, LC238, L13303, L8666, L10520]
+ALL = [HIST, CONS, LC123, LC227, LC238, L13303, L8666, L10520]
 
 
 def load(rel):
@@ -195,6 +196,34 @@ class TestLC123(unittest.TestCase):
         self.assertIn(LC238, effect['leitura'])
         self.assertIn(LC238.split('/')[-1], self.body)
 
+    def test_nota_art87b_preservada_com_cronologia_lc214_lc227(self):
+        art87b_blocks = article(self.body, '87-B')
+        art87b = ' '.join(nl.md_plain(b, True) for b in art87b_blocks)
+        art87b_raw = '\n'.join(art87b_blocks)
+        self.assertIn('Lei Complementar nº 214, de 16/1/2025', art87b)
+        self.assertIn('produzindo efeitos a partir de 1º/1/2027', art87b)
+        self.assertIn('revogado pela Lei Complementar nº 227, de 13/1/2026', art87b)
+        self.assertIn('leicomplementar-227-13-janeiro-2026-798657-publicacaooriginal-177770-pl.html', art87b_raw)
+        self.assertIn('art. 87-B', self.body)  # aviso editorial
+        self.assertIn('não atribui essa data ao evento de revogação', self.body)
+        self.assertIn(LC227.split('/')[-1], self.body)
+        entry = next(d for d in self.manifest['documentos'] if d['id'] == 'br-federal-lei-complementar-2006-12-14-123')
+        effect = next(e for e in entry['efeitos_diferidos_detalhe']
+                      if e['norma_id_modificadora'] == 'br-federal-lei-complementar-2026-01-13-227')
+        self.assertEqual(effect['arquivo_norma_modificadora'], LC227)
+        self.assertTrue((ROOT / LC227).is_file())
+        self.assertEqual(effect['fonte_nota_camara'], nl.SOURCES['camara-lc227']['url'])
+        by_dev = {d['dispositivo']: d for d in effect['dispositivos_relacionados']}
+        self.assertIsNone(by_dev['art. 87-B']['data_especifica_na_revogacao'])
+        self.assertEqual(by_dev['art. 87-B']['efeitos_da_inclusao_a_partir_de'], '2027-01-01')
+        self.assertEqual(by_dev['art. 31, § 4º']['data_especifica_na_revogacao'], '2026-11-30')
+        self.assertEqual(by_dev['art. 18, § 4º, VI']['data_especifica_na_revogacao'], '2033-01-01')
+        self.assertIn('art. 87-B', effect['remissoes_na_edicao'])
+        known = entry['divergencias_conhecidas']['87-B']
+        self.assertIn('1º/1/2027', known['descricao'])
+        self.assertIn('sem atribuir essa data à revogação', known['descricao'])
+        self.assertIn(LC227, known['tratamento'])
+
     def test_edicao_consultada_registrada(self):
         self.assertEqual(self.meta['fonte_orgao'], nl.CAMARA)
         self.assertIn('normaatualizada', self.meta['fonte_url'])
@@ -337,6 +366,86 @@ class TestLC238(unittest.TestCase):
         self.assertGreaterEqual(self.meta.get('anexos_no_corpo', 0), 0)
         self.assertIn('](https://www.planalto.gov.br/', self.body)
         self.assertIn('lcp123.htm', self.body)
+
+
+class TestLC227(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.meta, cls.body = load(LC227)
+        cls.manifest = json.loads(nl.MANIFESTO.read_text())
+        cls.entry = next(d for d in cls.manifest['documentos'] if d['id'] == 'br-federal-lei-complementar-2026-01-13-227')
+        cls.proof = json.loads((ROOT / 'provas/nucleo-licitacoes/reconciliacao-br-federal-lei-complementar-2026-01-13-227.json').read_text())
+        cls.fontes = json.loads((ROOT / 'provas/nucleo-licitacoes/fontes.json').read_text())
+
+    def test_identidade_edicao_captura_e_hashes(self):
+        m = self.meta
+        self.assertEqual(m['norma_tipo'], 'lei-complementar')
+        self.assertEqual(m['norma_numero'], '227')
+        self.assertEqual(m['norma_data'], '2026-01-13')
+        self.assertEqual(m['edicao_tipo'], 'consolidada')
+        self.assertIs(m['edicao_integral'], True)
+        self.assertEqual(m['fonte_orgao'], nl.PLANALTO)
+        self.assertEqual(m['fonte_url'], nl.SOURCES['planalto-lc227']['url'])
+        self.assertEqual(m['fonte_conferencia'], 'nenhuma')
+        self.assertRegex(m['capturado_em'], r'^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\dZ$')
+        self.assertRegex(m['sha256_fonte'], r'^[0-9a-f]{64}$')
+        self.assertEqual(m['sha256_fonte'], self.entry['fontes']['principal']['sha256'])
+        self.assertEqual(m['situacao'], 'nao-informada')
+        self.assertIs(m['vigencia_certificada'], False)
+        self.assertIn('não atribui 2027 a toda revogação', self.body)
+
+    def test_texto_integral_cobertura_e_anexos_tabelas(self):
+        text = nl.md_text_all(self.body)
+        self.assertIn('Comitê Gestor do Imposto sobre Bens e Serviços', text)
+        self.assertIn('Art. 181. Revogam-se', text)
+        self.assertIn('o art. 87-B, na redação dada pelo art. 517', text)
+        self.assertIn('em 30 de novembro de 2026, o § 4º do art. 31', text)
+        self.assertIn('em 1º de janeiro de 2033, o inciso VI do § 4º do art. 18', text)
+        self.assertTrue(self.proof['cobertura_texto']['equivalente'])
+        self.assertEqual(self.proof['fontes_conferencia'], [])
+        numbers = {k.split('-')[0] for k in nl.split_articles(blocks_of(self.body))[1]}
+        self.assertTrue({'1', '181', '182'} <= numbers)
+        self.assertEqual(self.meta['imagens_omitidas'], 1)
+        self.assertNotIn('data:image', self.body)
+        self.assertEqual(self.meta['tabelas'], 9)
+        self.assertEqual(self.body.count('<table>'), 9)
+        self.assertGreaterEqual(self.meta['anexos_no_corpo'], 1)
+
+    def test_arts_181_182_literais_sem_atribuir_2027_a_toda_revogacao(self):
+        art181 = ' '.join(nl.md_plain(b, True) for b in article(self.body, '181'))
+        self.assertIn('art. 87-B', art181)
+        self.assertIn('30 de novembro de 2026', art181)
+        self.assertIn('1º de janeiro de 2033', art181)
+        art182 = ' '.join(nl.md_plain(b, True) for b in article(self.body, '182'))
+        self.assertIn('1º de janeiro de 2027', art182)
+        self.assertIn('demais dispositivos', art182)
+        self.assertIn('eleição do Presidente do CGIBS', art182)
+        revog, efeitos = self.entry['efeitos_diferidos_detalhe']
+        self.assertEqual(revog['dispositivo'], 'art. 181')
+        self.assertEqual(efeitos['dispositivo'], 'art. 182')
+        by_dev = {d['dispositivo']: d for d in revog['altera_norma']['dispositivos_relacionados']}
+        self.assertIsNone(by_dev['art. 87-B']['data_especifica_na_revogacao'])
+        self.assertEqual(by_dev['art. 31, § 4º']['data_especifica_na_revogacao'], '2026-11-30')
+        self.assertEqual(by_dev['art. 18, § 4º, VI']['data_especifica_na_revogacao'], '2033-01-01')
+        joined182 = ' '.join(efeitos['texto_da_fonte'])
+        self.assertIn('1º de janeiro de 2027', joined182)
+        self.assertIn('demais dispositivos', joined182)
+
+    def test_evidencia_camara_capturada_e_vinculo_lc123(self):
+        cam = self.fontes['camara-lc227']
+        self.assertTrue(cam['utilizavel'])
+        self.assertEqual(cam['url'], nl.SOURCES['camara-lc227']['url'])
+        self.assertRegex(cam['sha256'], r'^[0-9a-f]{64}$')
+        self.assertTrue((ROOT / 'provas/nucleo-licitacoes/fontes' / 'camara-lc-227-publicacaooriginal.html.xz').is_file())
+        evid = self.entry['fontes']['evidencia_nota_camara']
+        self.assertEqual(evid['chave'], 'camara-lc227')
+        self.assertEqual(evid['sha256'], cam['sha256'])
+        self.assertIn('publicacaooriginal', self.body)
+        _, lc123_body = load(LC123)
+        art87b = ' '.join(nl.md_plain(b, True) for b in article(lc123_body, '87-B'))
+        self.assertIn('revogado pela Lei Complementar nº 227', art87b)
+        # LC 123 não incorpora redação do 87-B além da nota
+        self.assertLess(len(art87b), 500)
 
 
 class TestTravaGeracaoLC123(unittest.TestCase):

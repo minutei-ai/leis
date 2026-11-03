@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**229.960 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**229.961 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -16,7 +16,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 97.218 |
+| Federal | [Brasil](federal/) | 97.219 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 24 |
@@ -77,7 +77,7 @@ As contagens acima distinguem as lacunas conhecidas; não certificam a integrali
 
 ## Núcleo de legislação de licitações
 
-Para consulta automatizada, sete arquivos de `federal/` (um deles em `federal/edicoes/`, pasta de edições alternativas de uma mesma norma, fora da contagem de normas) têm cabeçalho de metadados (norma, edição, fonte, captura e situação informada pela fonte; o que não se sabe aparece como `desconhecido`): a [Lei 14.133/2021 em edição consolidada](federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md) e em [edição histórica preservada](federal/br-federal-lei-2021-04-01-14133.md), a [Lei 13.303/2016](federal/br-federal-lei-2016-06-30-13303.md), a [Lei Complementar 123/2006](federal/br-federal-lei-complementar-2006-12-14-123.md), a [Lei Complementar 238/2026](federal/br-federal-lei-complementar-2026-10-21-238.md) (modificadora da LC 123, com efeitos literais do art. 10 a partir de 1º/1/2028 para o art. 18-A, §§ 1º e 2º, e de 1º/1/2027 para os demais dispositivos) e as Leis [8.666/1993](federal/br-federal-lei-1993-06-21-8666.md) e [10.520/2002](federal/br-federal-lei-2002-07-17-10520.md), que a fonte apresenta como revogadas e que ficam para consulta histórica e hipóteses de transição, não como fundamento atual. O [contrato de metadados](metadados/CONTRATO.md), o [manifesto](metadados/nucleo-licitacoes.json) e as [provas de conversão e conferência](provas/nucleo-licitacoes/README.md) descrevem fontes, hashes e o tratamento de anexos, imagens e texto riscado. A edição histórica da Lei 14.133 não tem fonte registrada e não incorpora alterações posteriores; para o texto atualizado use a consolidada. A edição consultada da LC 123 remete à LC 238 sem incorporar as redações futuras. Nenhum desses arquivos certifica vigência.
+Para consulta automatizada, oito arquivos de `federal/` (um deles em `federal/edicoes/`, pasta de edições alternativas de uma mesma norma, fora da contagem de normas) têm cabeçalho de metadados (norma, edição, fonte, captura e situação informada pela fonte; o que não se sabe aparece como `desconhecido`): a [Lei 14.133/2021 em edição consolidada](federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md) e em [edição histórica preservada](federal/br-federal-lei-2021-04-01-14133.md), a [Lei 13.303/2016](federal/br-federal-lei-2016-06-30-13303.md), a [Lei Complementar 123/2006](federal/br-federal-lei-complementar-2006-12-14-123.md), a [Lei Complementar 227/2026](federal/br-federal-lei-complementar-2026-01-13-227.md) (altera/revoga dispositivos da LC 123 e da LC 214; arts. 181–182 com datas por dispositivo, sem atribuir 2027 a toda revogação; a nota do art. 87-B da LC 123 permanece), a [Lei Complementar 238/2026](federal/br-federal-lei-complementar-2026-10-21-238.md) (modificadora da LC 123, com efeitos literais do art. 10 a partir de 1º/1/2028 para o art. 18-A, §§ 1º e 2º, e de 1º/1/2027 para os demais dispositivos) e as Leis [8.666/1993](federal/br-federal-lei-1993-06-21-8666.md) e [10.520/2002](federal/br-federal-lei-2002-07-17-10520.md), que a fonte apresenta como revogadas e que ficam para consulta histórica e hipóteses de transição, não como fundamento atual. O [contrato de metadados](metadados/CONTRATO.md), o [manifesto](metadados/nucleo-licitacoes.json) e as [provas de conversão e conferência](provas/nucleo-licitacoes/README.md) descrevem fontes, hashes e o tratamento de anexos, imagens e texto riscado. A edição histórica da Lei 14.133 não tem fonte registrada e não incorpora alterações posteriores; para o texto atualizado use a consolidada. A edição consultada da LC 123 remete à LC 238 sem incorporar as redações futuras e preserva a nota do art. 87-B (LC 214/LC 227). Nenhum desses arquivos certifica vigência.
 
 ## Fontes e cobertura
 
