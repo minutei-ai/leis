@@ -30,8 +30,8 @@ Os demais arquivos do acervo ainda não têm esse cabeçalho. A ausência dele s
 | `norma_id`, `norma_tipo`, `norma_numero`, `norma_data`, `titulo`, `esfera` | Identidade da norma. |
 | `edicao_id`, `edicao_tipo`, `edicao_integral`, `edicao_relacionada` | Identidade da edição e a outra edição da mesma norma, quando houver. |
 | `fonte_orgao`, `fonte_url`, `fonte_formato` | Origem oficial da reprodução. |
-| `fonte_conferencia` | Fontes oficiais usadas só para conferir (lista de URLs) ou `"nenhuma"`. |
-| `capturado_em`, `sha256_fonte` | Quando (UTC) e o que foi capturado (hash dos bytes recebidos; o hash do conteúdo sem o script de proteção do Planalto, estável entre capturas, está em `sha256_conteudo` no manifesto e em `fontes.json`). |
+| `fonte_conferencia` | Fontes oficiais usadas só para conferir (lista de URLs) ou `"nenhuma"`. Não repete a URL de `fonte_url`. |
+| `capturado_em`, `sha256_fonte` | Quando (UTC) e o que foi capturado (hash dos bytes recebidos; o hash do conteúdo sem o script de proteção do Planalto, estável entre capturas, está em `sha256_conteudo` no manifesto e em `fontes.json`). Em edição com corpo preservado e captura original desconhecida, ficam `"desconhecido"`; a captura atual usada só para conferir registra hash/data na prova, sem atribuí-los retroativamente a estes campos. |
 | `situacao`, `situacao_fundamento`, `vigencia_certificada` | Situação informada pela fonte; ver acima. |
 | `texto_riscado`, `anexos_no_corpo`, `tabelas`, `imagens_omitidas` | Tratamento de conteúdo: ver abaixo. |
 | `efeitos_diferidos` | Como os efeitos diferidos aparecem; o detalhe estruturado está no manifesto. Datas e leituras só saem após o gerador exigir o literal revisado do dispositivo (lista vazia / fonte vazia / data alterada interrompem a geração; o acervo não calcula vigência). |

@@ -886,14 +886,130 @@ class TestRevogadas(unittest.TestCase):
 
 
 class TestLei13303(unittest.TestCase):
-    def test_corpo_preservado_e_conferido(self):
-        meta, body = load(L13303)
-        self.assertEqual(hashlib.sha256(body.encode()).hexdigest(), nl.BASELINE_SHA256[L13303])
-        self.assertEqual(meta['sha256_corpo_preservado'], nl.BASELINE_SHA256[L13303])
-        self.assertEqual(meta['capturado_em'], 'desconhecido')
-        proof = json.loads((ROOT / 'provas/nucleo-licitacoes/reconciliacao-br-federal-lei-2016-06-30-13303.json').read_text())
-        self.assertEqual(proof['artigos']['divergentes'], [])
-        self.assertEqual(proof['artigos']['identicos'], proof['artigos']['artigos_fonte_principal'])
+    def test_diferencas_de_forma_exigem_conteudo_exato_revisado(self):
+        from copy import deepcopy
+        pristine = nl.read_baseline(L13303)
+        source, _ = nl.source_blocks('planalto-13303', nl.read_snapshot('planalto-13303'))
+        _, primary, secondary = nl.article_proof(nl.preserved_blocks(pristine), source)
+        for article, spec in nl.L13303_FORM_FINGERPRINTS.items():
+            self.assertEqual(nl.lock_reviewed_pair(article, spec, primary, secondary, '13303'), [])
+            changed = deepcopy(secondary)
+            # Um caractere adicional em artigo já excepcional não pode herdar a revisão anterior.
+            changed[article][0] += ' x'
+            self.assertTrue(nl.lock_reviewed_pair(article, spec, primary, changed, '13303'))
+
+    @classmethod
+    def setUpClass(cls):
+        cls.meta, cls.body = load(L13303)
+        cls.proof = json.loads(
+            (ROOT / 'provas/nucleo-licitacoes/reconciliacao-br-federal-lei-2016-06-30-13303.json').read_text())
+        cls.manifest = json.loads(nl.MANIFESTO.read_text())
+        cls.entry = next(d for d in cls.manifest['documentos'] if d['id'] == nl.L13303_SLUG)
+        cls.fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())
+
+    def test_corpo_preservado_por_hash(self):
+        self.assertEqual(hashlib.sha256(self.body.encode()).hexdigest(), nl.BASELINE_SHA256[L13303])
+        self.assertEqual(self.meta['sha256_corpo_preservado'], nl.BASELINE_SHA256[L13303])
+        self.assertEqual(self.meta['sha256_markdown'], nl.BASELINE_SHA256[L13303])
+        self.assertEqual(self.meta['capturado_em'], 'desconhecido')
+        self.assertEqual(self.meta['sha256_fonte'], 'desconhecido')
+
+    def test_procedencia_original_separada_da_captura_atual(self):
+        orig = self.proof['procedencia_original']
+        atual = self.proof['captura_atual_para_conferir']
+        self.assertEqual(orig['capturado_em'], 'desconhecido')
+        self.assertEqual(orig['sha256_fonte'], 'desconhecido')
+        self.assertEqual(orig['sha256_corpo_preservado'], nl.BASELINE_SHA256[L13303])
+        self.assertEqual(orig['fonte_url_alegada'], self.meta['fonte_url'])
+        # captura atual tem hash/data próprios; não contaminam o cabeçalho
+        self.assertRegex(atual['capturado_em'], r'^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\dZ$')
+        self.assertRegex(atual['sha256'], r'^[0-9a-f]{64}$')
+        self.assertEqual(atual['sha256'], self.fontes['camara-13303']['sha256'])
+        self.assertNotEqual(atual['sha256'], self.meta['sha256_fonte'])
+        self.assertNotEqual(atual['capturado_em'], self.meta['capturado_em'])
+        self.assertEqual(atual['url'], self.meta['fonte_url'])
+
+    def test_fonte_conferencia_independente_nao_repete_url(self):
+        self.assertIsInstance(self.meta['fonte_conferencia'], list)
+        self.assertEqual(len(self.meta['fonte_conferencia']), 1)
+        conf_url = self.meta['fonte_conferencia'][0]
+        self.assertNotEqual(conf_url, self.meta['fonte_url'])
+        self.assertTrue(conf_url.startswith('https://www.planalto.gov.br/'))
+        self.assertEqual(conf_url, nl.SOURCES['planalto-13303']['url'])
+        self.assertIn('planalto-13303', self.fontes)
+        self.assertTrue(self.fontes['planalto-13303']['utilizavel'])
+        self.assertTrue((ROOT / self.fontes['planalto-13303']['snapshot']).is_file())
+
+    def test_cobertura_integral_titulos_e_estrutura_medida(self):
+        self.assertTrue(self.proof['cobertura_texto']['equivalente'])
+        self.assertTrue(self.proof['titulos_e_capitulos']['iguais'])
+        self.assertGreater(self.proof['titulos_e_capitulos']['preservado'], 0)
+        self.assertTrue(self.proof['blocos_fora_de_artigos']['iguais'])
+        art = self.proof['artigos_vs_captura_atual']
+        self.assertEqual(art['divergentes'], [])
+        self.assertEqual(art['identicos'], art['artigos_fonte_principal'])
+        measured = self.proof['estrutura_medida']
+        self.assertEqual(self.meta['texto_riscado'], measured['texto_riscado'])
+        self.assertEqual(self.meta['anexos_no_corpo'], measured['anexos_no_corpo'])
+        self.assertEqual(self.meta['tabelas'], measured['tabelas'])
+        self.assertEqual(measured, nl.measure_preserved_structure(self.body))
+        self.assertEqual(self.entry['estrutura_medida'], measured)
+
+    def test_planalto_conferencia_com_formas_revisadas(self):
+        conf = self.proof['fontes_conferencia']
+        self.assertEqual(len(conf), 1)
+        self.assertEqual(conf[0]['fonte'], 'planalto-13303')
+        arts = conf[0]['artigos']
+        self.assertEqual(set(arts['divergencias_de_forma']), set(nl.L13303_FORM_DIVERGENCES))
+        self.assertEqual(arts['divergencias_substanciais'], [])
+        self.assertEqual(arts['apenas_na_principal'], [])
+        self.assertEqual(arts['apenas_na_conferencia'], [])
+        self.assertTrue(conf[0]['titulos_e_capitulos']['iguais'])
+        for art in nl.L13303_FORM_DIVERGENCES:
+            self.assertIn(art, arts['divergencias_explicadas'])
+        # divergencias_conhecidas vazio: não há conflito jurídico de conteúdo
+        self.assertEqual(self.entry.get('divergencias_conhecidas', {}), {})
+
+    def test_gate_rejeita_omissao_ou_alteracao_fora_de_artigos(self):
+        """Alteração/omissão de título ou bloco fora de artigo deve quebrar a cobertura/títulos."""
+        camara = nl.read_snapshot('camara-13303')
+        blocks, _ = nl.source_blocks('camara-13303', camara)
+        # omite o primeiro título do corpo principal
+        body_blocks = nl.main_body_blocks(blocks)
+        heads = [i for i, b in enumerate(body_blocks) if nl.HEADING_RE.match(nl.md_plain(b, True))]
+        self.assertTrue(heads, 'precisa haver títulos na captura da Câmara')
+        tampered = list(blocks)
+        # localiza o bloco de título correspondente na lista completa
+        target = body_blocks[heads[0]]
+        idx = next(i for i, b in enumerate(tampered) if b == target)
+        omitted = tampered[:idx] + tampered[idx + 1:]
+        cov = nl.full_body_coverage(self.body, omitted)
+        self.assertFalse(cov['equivalente'])
+        self.assertFalse(
+            nl.headings(nl.main_body_blocks(nl.preserved_blocks(self.body)))
+            == nl.headings(nl.main_body_blocks(omitted)))
+        # alteração de um bloco não-artigo
+        altered = list(blocks)
+        altered[idx] = 'TÍTULO ZZZ INEXISTENTE'
+        self.assertFalse(nl.full_body_coverage(self.body, altered)['equivalente'])
+        self.assertNotEqual(
+            nl.non_article_blocks(nl.preserved_blocks(self.body)),
+            nl.non_article_blocks(altered))
+
+    def test_gate_rejeita_divergencia_nova_no_planalto(self):
+        """Forma revisada muda → gate falha; substancial nova → gate falha."""
+        fake = dict(
+            divergencias_de_forma=['9', '18', '24'],  # falta 88
+            divergencias_substanciais=[],
+            apenas_na_principal=[], apenas_na_conferencia=[],
+        )
+        self.assertNotEqual(set(fake['divergencias_de_forma']), set(nl.L13303_FORM_DIVERGENCES))
+        fake_major = dict(
+            divergencias_de_forma=list(nl.L13303_FORM_DIVERGENCES),
+            divergencias_substanciais=['1'],
+            apenas_na_principal=[], apenas_na_conferencia=[],
+        )
+        self.assertTrue(fake_major['divergencias_substanciais'])
 
 
 class TestContratoDeMetadados(unittest.TestCase):
@@ -940,6 +1056,9 @@ class TestContratoDeMetadados(unittest.TestCase):
         self.assertTrue(any('situacao_fundamento' in e for e in nl.validate_meta(broken)))
         broken = dict(meta, edicao_tipo='historica', edicao_integral=True)
         self.assertTrue(any('histórica' in e for e in nl.validate_meta(broken)))
+        broken = dict(meta, fonte_url='https://exemplo.gov.br/a',
+                      fonte_conferencia=['https://exemplo.gov.br/a'])
+        self.assertTrue(any('fonte_conferencia não pode repetir' in e for e in nl.validate_meta(broken)))
 
     def test_hashes_das_fontes_conferem_com_os_snapshots(self):
         fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())

@@ -1030,10 +1030,10 @@
           "status_http": 200,
           "bytes": 1334008,
           "sha256": "4cbf5b4148ca272ed85a3f9b7335f578d4878f206cfb4983194ec0a85b370f00",
-          "sha256_conteudo": "9a6fb001c9f76d6def510dba6fff045224026361db3561a7f24fe1dfbdab1ad0",
           "utilizavel": true,
           "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
           "headers": {},
+          "sha256_conteudo": "9a6fb001c9f76d6def510dba6fff045224026361db3561a7f24fe1dfbdab1ad0",
           "snapshot": "provas/nucleo-licitacoes/fontes/planalto-lcp227.htm.xz",
           "sha256_snapshot_armazenado": "afa24aa9b842796d34fcf5b4807b434bfd79b383be2789d545eff7ae05679afa"
         },
@@ -1047,10 +1047,10 @@
           "status_http": 200,
           "bytes": 851353,
           "sha256": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
-          "sha256_conteudo": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
           "utilizavel": true,
           "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
           "headers": {},
+          "sha256_conteudo": "78b197b1fc22b9ec7bbb1e378cfea6f695595c45144a120a546adea99757176f",
           "snapshot": "provas/nucleo-licitacoes/fontes/camara-lc-227-publicacaooriginal.html.xz",
           "sha256_snapshot_armazenado": "59526f0a98ff6c464047772713da76646267e380606841bbfde0a8e167ae9823"
         }
@@ -1157,7 +1157,7 @@
       "fonte_url": "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html",
       "fonte_formato": "html",
       "fonte_conferencia": [
-        "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html"
+        "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm"
       ],
       "capturado_em": "desconhecido",
       "sha256_fonte": "desconhecido",
@@ -1173,7 +1173,15 @@
       "sha256_markdown": "8dfe72c14107eed49d27ed6ace922ec19b63879bb2e133147c1155eeac845875",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
-      "proveniencia": "Corpo preservado byte a byte do commit auditado; a data e o hash da captura original não foram registrados. A conferência artigo a artigo contra a edição atual da Câmara está em reconciliacao-br-federal-lei-2016-06-30-13303.json.",
+      "proveniencia": "Corpo preservado byte a byte do commit auditado; a data e o hash da captura original não foram registrados (capturado_em/sha256_fonte = desconhecido). A captura atual da Câmara usada para conferir o corpo está em `reconciliacao-br-federal-lei-2016-06-30-13303.json` (campo captura_atual_para_conferir), com hash e data próprios — não atribuídos retroativamente à procedência original. Conferência independente com o Planalto no mesmo arquivo de provas.",
+      "estrutura_medida": {
+        "texto_riscado": false,
+        "anexos_no_corpo": 0,
+        "tabelas": 0,
+        "imagens_embutidas": 1,
+        "titulos_e_capitulos": 27,
+        "blocos": 681
+      },
       "blocos_nao_textuais": [
         {
           "tipo": "imagem-embutida",
@@ -1181,6 +1189,49 @@
           "tratamento": "mantida no corpo preservado (brasão/logotipo institucional)"
         }
       ],
+      "fontes": {
+        "captura_atual_camara": {
+          "chave": "camara-13303",
+          "orgao": "Câmara dos Deputados — LegIn",
+          "formato": "html",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html",
+          "capturado_em": "2026-11-03T16:31:15Z",
+          "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+          "http_status": 200,
+          "url_final": "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html",
+          "bytes": 228029,
+          "sha256": "20ce9846d05220bdb1896f41399dcc78e68573a8fde4c5a09f9b1861a6db3c09",
+          "cabecalho_date": "Tue, 03 Nov 2026 16:31:15 GMT",
+          "cabecalho_content_type": "text/html; charset=UTF-8",
+          "utilizavel": true,
+          "sha256_conteudo": "20ce9846d05220bdb1896f41399dcc78e68573a8fde4c5a09f9b1861a6db3c09",
+          "snapshot": "provas/nucleo-licitacoes/fontes/camara-lei-13303-normaatualizada.html.xz",
+          "sha256_snapshot_armazenado": "4b875f2e9bafa9a003e527584f7ea114d8e23a2828b59166c413a9d0b9819edd"
+        },
+        "conferencia": [
+          {
+            "chave": "planalto-13303",
+            "orgao": "Presidência da República — Planalto",
+            "formato": "html",
+            "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+            "capturado_em": "2026-11-03T18:26:14Z",
+            "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+            "http_status": 200,
+            "url_final": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13303.htm",
+            "bytes": 248652,
+            "sha256": "2c1f85d46fb0a4e6efe6b62987971fc229c21f39db8723d37e155fcd2283acf4",
+            "cabecalho_date": "Tue, 03 Nov 2026 18:26:14 GMT",
+            "cabecalho_last_modified": "Thu, 23 Apr 2026 23:33:04 GMT",
+            "cabecalho_etag": "\"3c535-6502911e87e28\"",
+            "cabecalho_content_type": "text/html",
+            "utilizavel": true,
+            "sha256_conteudo": "b738377d827f0b7c9dd6f4b2955816c219b24841a87c209859efab5b5a6f5734",
+            "snapshot": "provas/nucleo-licitacoes/fontes/planalto-l13303.htm.xz",
+            "sha256_snapshot_armazenado": "3093917a8205687cd572a7ca159d18fd852524f4c8ab63c070e615497da89bf0"
+          }
+        ]
+      },
+      "divergencias_conhecidas": {},
       "provas": [
         "reconciliacao-br-federal-lei-2016-06-30-13303.json"
       ]
