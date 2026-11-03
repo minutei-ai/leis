@@ -832,14 +832,14 @@
       "capturado_em": "2026-11-03T16:31:16Z",
       "sha256_fonte": "9a15afdaaa6c4f0d986c43baf75b46736e76e427c1f997bd03af68446f3687b2",
       "situacao": "revogada",
-      "situacao_fundamento": "Cabeçalho da fonte: \"(Revogado pela Lei nº 14.133, de 2021)\"; Lei 14.133, art. 193, II, a, com a redação da LC 198/2023: revogação em 30 de dezembro de 2023.",
+      "situacao_fundamento": "Cabeçalho da fonte: \"(Revogado pela Lei nº 14.133, de 2021)\"; Lei 14.133, art. 193, I (arts. 89 a 108 na publicação da Lei 14.133) e art. 193, II, a, com a redação da LC 198/2023 (revogação em 30 de dezembro de 2023). Cronologia estruturada em eventos_revogacao do manifesto.",
       "vigencia_certificada": false,
       "texto_riscado": true,
       "anexos_no_corpo": 0,
       "tabelas": 0,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "f7c04d907450ee2a4efe46884add9e19201c3ba505b0d5fded051b76994f8374",
+      "sha256_markdown": "16f4717e1c485d9bb202b7adfb77bb1935651cc2818a5b37b97b5eac4bb824e0",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -895,10 +895,88 @@
         "conferencia": []
       },
       "revogacao": {
-        "fundamento": "Cabeçalho da fonte: \"(Revogado pela Lei nº 14.133, de 2021)\"; Lei 14.133, art. 193, II, a, com a redação da LC 198/2023: revogação em 30 de dezembro de 2023.",
+        "fundamento": "Cabeçalho da fonte: \"(Revogado pela Lei nº 14.133, de 2021)\"; Lei 14.133, art. 193, I (arts. 89 a 108 na publicação da Lei 14.133) e art. 193, II, a, com a redação da LC 198/2023 (revogação em 30 de dezembro de 2023). Cronologia estruturada em eventos_revogacao do manifesto.",
         "revogada_por": "br-federal-lei-2021-04-01-14133",
         "data_revogacao": "2023-12-30"
       },
+      "eventos_revogacao": [
+        {
+          "id": "lei8666-revogacao-parcial-193-I",
+          "tipo": "revogacao-parcial",
+          "alcance": "arts. 89 a 108",
+          "dispositivos": [
+            "art. 89",
+            "art. 90",
+            "art. 91",
+            "art. 92",
+            "art. 93",
+            "art. 94",
+            "art. 95",
+            "art. 96",
+            "art. 97",
+            "art. 98",
+            "art. 99",
+            "art. 100",
+            "art. 101",
+            "art. 102",
+            "art. 103",
+            "art. 104",
+            "art. 105",
+            "art. 106",
+            "art. 107",
+            "art. 108"
+          ],
+          "fundamento": {
+            "norma_id": "br-federal-lei-2021-04-01-14133",
+            "dispositivo": "art. 193, I",
+            "texto_literal": "I - os arts. 89 a 108 da Lei nº 8.666, de 21 de junho de 1993, na data de publicação desta Lei;",
+            "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+            "sha256_fonte": "b7a60649459d1a071721be782cbae7dc65842e791bbc0ba39f46ff0aa2cead50"
+          },
+          "data": {
+            "valor": "2021-04-01",
+            "origem": "resolvida-da-publicacao-oficial",
+            "expressao_na_fonte": "na data de publicação desta Lei",
+            "prova": {
+              "tipo": "rodape-planalto-dou",
+              "fonte_chave": "planalto-14133",
+              "fonte_url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/l14133.htm",
+              "sha256_fonte": "b7a60649459d1a071721be782cbae7dc65842e791bbc0ba39f46ff0aa2cead50",
+              "trecho": "Este texto não substitui o publicado no DOU de 1º.4.2021 - Edição extra-F"
+            }
+          },
+          "leitura": "O art. 193, I, da Lei 14.133 revoga os arts. 89 a 108 da Lei 8.666 na data de publicação da Lei 14.133. A data ISO resolve essa expressão a partir do rodapé do Planalto sobre o DOU; não é data de aplicação a contratos concretos. Publicação, vigência e regras de transição (art. 191) permanecem distintas."
+        },
+        {
+          "id": "lei8666-revogacao-193-II-a",
+          "tipo": "revogacao",
+          "alcance": "Lei nº 8.666, de 21 de junho de 1993",
+          "dispositivos": [
+            "Lei nº 8.666, de 21 de junho de 1993"
+          ],
+          "fundamento": {
+            "norma_id": "br-federal-lei-2021-04-01-14133",
+            "dispositivo": "art. 193, II, a",
+            "norma_modificadora": "Lei Complementar nº 198, de 28 de junho de 2023",
+            "texto_literal": [
+              "Art. 3º O inciso II do caput do art. 193 da Lei nº 14.133, de 1º de abril de 2021 (Lei de Licitações e Contratos Administrativos), passa a vigorar com a seguinte redação:",
+              "II - em 30 de dezembro de 2023:",
+              "a) a Lei nº 8.666, de 21 de junho de 1993;",
+              "b) a Lei nº 10.520, de 17 de julho de 2002; e",
+              "c) os arts. 1º a 47-A da Lei nº 12.462, de 4 de agosto de 2011.” (NR)",
+              "Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação."
+            ],
+            "fonte_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp198.htm",
+            "sha256_fonte": "d21980c5884a8257adae242309c0784b45a41b63b20ca71050c07fef23d11dae"
+          },
+          "data": {
+            "valor": "2023-12-30",
+            "origem": "informada-explicitamente",
+            "expressao_na_fonte": "em 30 de dezembro de 2023"
+          },
+          "leitura": "O art. 193, II, a, com a redação da LC 198/2023, indica a revogação da Lei 8.666 em 30 de dezembro de 2023. Data informada explicitamente no texto; o acervo não resolve hipóteses de transição do art. 191 nem aplica essa data a contratos concretos."
+        }
+      ],
       "divergencias_conhecidas": {},
       "provas": [
         "reconciliacao-br-federal-lei-1993-06-21-8666.json"
