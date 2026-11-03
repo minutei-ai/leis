@@ -240,16 +240,13 @@
           "79-D"
         ],
         "divergencias_substanciais": [
-          "47",
-          "63",
-          "64",
-          "89"
+          "47"
         ],
-        "divergencias_editoriais": [
-          "63",
-          "64",
-          "89"
-        ],
+        "divergencias_editoriais": {
+          "63": "Diferença de títulos/seções e notação de veto adjacentes ao artigo entre Câmara e Planalto; o dispositivo normativo do art. 63 coincide.",
+          "64": "Nota de denominação de seção presente numa fonte e ausente ou distinta na outra; o dispositivo normativo do art. 64 coincide.",
+          "89": "Fecho, assinaturas e cabeçalhos de anexos absorvidos no artigo na página do Planalto; o dispositivo normativo do art. 89 coincide."
+        },
         "marcadores_de_veto": [
           "63-A",
           "63-B",
@@ -292,6 +289,13 @@
             "18-A",
             "79-D"
           ]
+        },
+        "marcadores_veto": {
+          "63-A": "Marcador de veto na edição da Câmara (Lei Complementar nº 155, de 27/10/2016); não é conteúdo normativo novo. Ausente na página do Planalto conferida.",
+          "63-B": "Marcador de veto na edição da Câmara (Lei Complementar nº 155, de 27/10/2016); não é conteúdo normativo novo. Ausente na página do Planalto conferida.",
+          "63-C": "Marcador de veto na edição da Câmara (Lei Complementar nº 155, de 27/10/2016); não é conteúdo normativo novo. Ausente na página do Planalto conferida.",
+          "63-D": "Marcador de veto na edição da Câmara (Lei Complementar nº 155, de 27/10/2016); não é conteúdo normativo novo. Ausente na página do Planalto conferida.",
+          "63-E": "Marcador de veto na edição da Câmara (Lei Complementar nº 155, de 27/10/2016); não é conteúdo normativo novo. Ausente na página do Planalto conferida."
         }
       },
       "titulos_e_capitulos": {

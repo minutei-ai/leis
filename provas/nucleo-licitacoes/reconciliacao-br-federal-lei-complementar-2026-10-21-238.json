@@ -1,0 +1,29 @@
+{
+  "documento": "br-federal-lei-complementar-2026-10-21-238",
+  "fonte_principal": "planalto-lc238",
+  "sha256_fonte_principal": "f823445ce2dcb5a0c2ce20d683f8b452ef2e8c060da6235d045c5d895fd880dd",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado, após normalização",
+    "equivalente": true,
+    "caracteres_normalizados": 7661
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 20,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 53
+  }
+}
