@@ -1,6 +1,9 @@
 {
-  "descricao": "Edição anterior do acervo (commit auditado) contra a edição atual da Câmara capturada nesta entrega.",
+  "descricao": "Edição anterior auditada (baseline vendido, autenticado por SHA-256 e commit de procedência; não é fonte de captura) contra a edição atual da Câmara capturada nesta entrega. A comparação não depende da quantidade de normas do núcleo.",
   "anterior_sha256": "b31d0e6a2e50918a661db65da1c79886d8a40d848aa7e3c8ff6698bfa7ea8fb7",
+  "baseline_arquivo": "provas/nucleo-licitacoes/baselines/lc123-edicao-auditada.md",
+  "baseline_commit": "0638c91461ea0a3f8bbae9cb88ddfdebe38a67e9",
+  "baseline_papel": "baseline-texto-auditado",
   "artigos_identicos_no_texto": 140,
   "artigos_com_texto_diferente": [],
   "artigos_apenas_na_nova": [],

@@ -51,7 +51,10 @@ Os demais arquivos do acervo ainda não têm esse cabeçalho. A ausência dele s
 
 `provas/nucleo-licitacoes/` guarda: `fontes.json` (URL, data, hashes e cabeçalhos de cada captura), os snapshots das fontes,
 a conferência artigo a artigo entre fontes oficiais (`reconciliacao-*.json`), a comparação entre a edição histórica e a
-consolidada da Lei 14.133 e entre a LC 123 anterior e a atual. Veja o `README.md` dessa pasta para reproduzir.
+consolidada da Lei 14.133 e entre a LC 123 anterior e a atual. O baseline imutável da LC 123 (`baselines/lc123-edicao-auditada.md`,
+com procedência em `baselines/lc123-edicao-auditada.json`) autentica a edição anterior por SHA-256 e commit; não é fonte de
+captura e não depende de `git show` em checkout raso. O `verify` recalcula **todos** os campos de `lc123-anterior-vs-nova.json`
+a partir desse baseline e dos snapshots. Veja o `README.md` dessa pasta para reproduzir.
 
 ## Divergências conhecidas (manifesto)
 
