@@ -34,7 +34,7 @@ Os demais arquivos do acervo ainda não têm esse cabeçalho. A ausência dele s
 | `capturado_em`, `sha256_fonte` | Quando (UTC) e o que foi capturado (hash dos bytes recebidos; o hash do conteúdo sem o script de proteção do Planalto, estável entre capturas, está em `sha256_conteudo` no manifesto e em `fontes.json`). |
 | `situacao`, `situacao_fundamento`, `vigencia_certificada` | Situação informada pela fonte; ver acima. |
 | `texto_riscado`, `anexos_no_corpo`, `tabelas`, `imagens_omitidas` | Tratamento de conteúdo: ver abaixo. |
-| `efeitos_diferidos` | Como os efeitos diferidos aparecem; o detalhe estruturado está no manifesto. |
+| `efeitos_diferidos` | Como os efeitos diferidos aparecem; o detalhe estruturado está no manifesto. Datas e leituras só saem após o gerador exigir o literal revisado do dispositivo (lista vazia / fonte vazia / data alterada interrompem a geração; o acervo não calcula vigência). |
 | `sha256_corpo_preservado` | Só nos arquivos que preservam texto anterior: hash do corpo original. |
 | `sha256_markdown` | Hash do que vem depois do cabeçalho (inclui a nota de edição). |
 | `manifesto`, `contrato_versao` | Ligação com o manifesto e versão deste contrato. |

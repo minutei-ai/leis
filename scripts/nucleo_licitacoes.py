@@ -1301,6 +1301,12 @@ def source_blocks(key, data):
 
 
 def extract_effect_text(data, article_pattern):
+    """Extrai blocos do artigo cujo início casa com `article_pattern`.
+
+    Retorna lista vazia se o marcador estiver ausente. Consumidores que publicam
+    afirmações de efeitos devem passar o resultado por `require_effect_evidence`
+    (ou `extract_required_effect_text`); lista vazia nunca é sucesso.
+    """
     conv = convert_html(data, 'cp1252', 'https://www.planalto.gov.br/')
     out, started = [], False
     for block in conv.blocks:
@@ -1355,6 +1361,10 @@ def extract_art193_inciso_i(data):
 
 def eventos_revogacao_8666(fontes, sources, lc198_texto):
     """Dois eventos distintos: arts. 89–108 na publicação (193, I) e 30/12/2023 (193, II, a / LC 198)."""
+    if not lc198_texto:
+        raise SystemExit(
+            'LC 198: evidência de efeitos ausente para eventos_revogacao da Lei 8.666 '
+            '(lista vazia não é sucesso)')
     pub_iso, pub_trecho = dou_publication_from_planalto(
         sources['planalto-14133'], SOURCES['planalto-14133']['charset'])
     art193_i = extract_art193_inciso_i(sources['planalto-14133'])
@@ -1419,6 +1429,102 @@ def eventos_revogacao_8666(fontes, sources, lc198_texto):
                      'hipóteses de transição do art. 191 nem aplica essa data a contratos concretos.'),
         ),
     ]
+
+
+# Trechos literais revisados que devem aparecer na evidência antes de publicar
+# datas/leituras estruturadas. Não calcula vigência: só recusa afirmação sem
+# correspondência no literal. Specs extras (LC 227 arts. 181/182) reusam o
+# mesmo gate; lista vazia nunca é sucesso.
+EFFECT_EVIDENCE = {
+    'lc238-art-10': dict(
+        label='LC 238 art. 10',
+        source_key='planalto-lc238',
+        article_pattern=r'^Art\. 10\.',
+        required_fragments=(
+            'entra em vigor na data de sua publicação',
+            '1º de janeiro de 2028',
+            'art. 18-A, §§ 1º e 2º',
+            '1º de janeiro de 2027',
+            'demais dispositivos',
+        ),
+    ),
+    'lc227-art-181': dict(
+        label='LC 227 art. 181',
+        source_key='planalto-lc227',
+        article_pattern=r'^Art\. 181\.\s*Revogam',
+        required_fragments=(
+            'Revogam-se',
+            'art. 87-B',
+            'Lei Complementar nº 123',
+            'Lei Complementar nº 214',
+        ),
+    ),
+    'lc227-art-182': dict(
+        label='LC 227 art. 182',
+        source_key='planalto-lc227',
+        article_pattern=r'^Art\. 182\.\s*Esta Lei Complementar entra',
+        required_fragments=(
+            'entra em vigor na data de sua publicação',
+            '1º de janeiro de 2027',
+            'demais dispositivos',
+        ),
+    ),
+    'lc198-art-3': dict(
+        label='LC 198 art. 3º',
+        source_key='planalto-lc198',
+        article_pattern=r'^Art\. 3º',
+        required_fragments=(
+            'art. 193',
+            '30 de dezembro de 2023',
+            'Lei nº 8.666',
+            'Lei nº 10.520',
+        ),
+    ),
+    'lc198-art-4': dict(
+        label='LC 198 art. 4º',
+        source_key='planalto-lc198',
+        article_pattern=r'^Art\. 4º',
+        required_fragments=(
+            'entra em vigor na data de sua publicação',
+        ),
+    ),
+}
+
+
+def require_effect_evidence(label, texts, required_fragments):
+    """Recusa publicação de afirmações de efeitos sem evidência literal revisada.
+
+    `texts` é o retorno de `extract_effect_text` (lista vazia se o marcador falta).
+    Fonte vazia, dispositivo ausente, literal em branco, truncado ou com data
+    alterada falham até revisão explícita dos trechos em `required_fragments`.
+    Não inventa nem calcula vigência: só vincula a leitura ao literal revisado.
+    Devolve `texts` inalterado quando a evidência passa.
+    """
+    problems = []
+    if not texts:
+        problems.append(f'{label}: evidência ausente (marcador do dispositivo não encontrado na fonte)')
+    else:
+        joined = ' '.join(texts)
+        if not joined.strip():
+            problems.append(f'{label}: evidência vazia após extração')
+        missing = [frag for frag in required_fragments if frag not in joined]
+        if missing:
+            problems.append(
+                f'{label}: evidência truncada ou alterada; faltam trechos revisados: {missing}')
+    if problems:
+        raise SystemExit('Evidência de efeitos insuficiente:\n - ' + '\n - '.join(problems))
+    return texts
+
+
+def extract_required_effect_text(sources, spec_id):
+    """Extrai o dispositivo e exige os trechos revisados de `EFFECT_EVIDENCE[spec_id]`."""
+    spec = EFFECT_EVIDENCE[spec_id]
+    data = sources.get(spec['source_key'])
+    if not data:
+        texts = []
+    else:
+        texts = extract_effect_text(data, spec['article_pattern'])
+    return require_effect_evidence(spec['label'], texts, spec['required_fragments'])
 
 
 def compute(sources, fontes, baseline_texts=None):
@@ -1526,12 +1632,12 @@ def compute(sources, fontes, baseline_texts=None):
     for proof in reconciliation.values():
         proof.pop('_article_splits', None)
 
-    # --- efeitos diferidos (evidência extraída das próprias fontes) ---
-    lc238 = extract_effect_text(sources['planalto-lc238'], r'^Art\. 10\.')
-    lc227_revog = extract_effect_text(sources['planalto-lc227'], r'^Art\. 181\.\s*Revogam')
-    lc227_efeitos = extract_effect_text(sources['planalto-lc227'], r'^Art\. 182\.\s*Esta Lei Complementar entra')
-    lc198 = extract_effect_text(sources['planalto-lc198'], r'^Art\. 3º')
-    lc198_vig = extract_effect_text(sources['planalto-lc198'], r'^Art\. 4º')
+    # --- efeitos diferidos (evidência literal revisada; [] nunca publica afirmação) ---
+    lc238 = extract_required_effect_text(sources, 'lc238-art-10')
+    lc227_revog = extract_required_effect_text(sources, 'lc227-art-181')
+    lc227_efeitos = extract_required_effect_text(sources, 'lc227-art-182')
+    lc198 = extract_required_effect_text(sources, 'lc198-art-3')
+    lc198_vig = extract_required_effect_text(sources, 'lc198-art-4')
     pdf_blocks = pdf_to_blocks(sources['camara-14133-pdf'])
     note44a = next(re.sub(r'\s+', ' ', b) for b in pdf_blocks if b.startswith('Art. 44-A.'))
     lc238_marker = 'Lei Complementar nº 238, de 21/10/2026'
