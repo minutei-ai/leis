@@ -9,7 +9,7 @@ esfera: "federal"
 edicao_id: "br-federal-lei-complementar-2006-12-14-123@consolidada-camara"
 edicao_tipo: "consolidada"
 edicao_integral: true
-edicao_relacionada: "nenhuma"
+edicao_relacionada: "br-federal-lei-complementar-2006-12-14-123-planalto"
 fonte_orgao: "Câmara dos Deputados — LegIn"
 fonte_url: "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html"
 fonte_formato: "html"
@@ -24,7 +24,7 @@ anexos_no_corpo: 7
 tabelas: 10
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "7557bd38229fb8316c8457f163f27c5720ae164517c206c3f4f5a1cd05e4bc5b"
+sha256_markdown: "9f953d620c07681837da1927d32908e69a5d7ba88bfc31fb5989cdae77791d73"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -46,6 +46,8 @@ Centro de Documentação e Informação
 > O art. 87-B traz a nota literal da Câmara: acrescido pela LC 214/2025, produzindo efeitos a partir de 1º/1/2027, e revogado pela LC 227/2026. A data 1º/1/2027 na nota refere-se aos efeitos da inclusão pela LC 214; a revogação pelo art. 181, IV, "a", da LC 227 não atribui essa data ao evento de revogação (outras alíneas do mesmo inciso têm datas próprias). O texto integral da LC 227 está em [`federal/br-federal-lei-complementar-2026-01-13-227.md`](br-federal-lei-complementar-2026-01-13-227.md); a publicação original da Câmara (fundamento da nota) está capturada em `provas/nucleo-licitacoes/fontes/` (`camara-lc227`). O acervo não reconstrói a redação do art. 87-B.
 >
 > Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B (nota LC 214/LC 227 acima) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar esses dispositivos (ver o arquivo de provas desta conferência).
+>
+> A edição integral do Planalto da mesma norma está em [`federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md`](edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md). São duas identidades de edição (`edicao_id` distintos, mesmo `norma_id`); o consumidor escolhe a fonte sem presumir vigência. As redações não foram combinadas.
 
 <!-- nota-edicao:fim -->
 

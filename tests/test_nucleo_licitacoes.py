@@ -18,11 +18,12 @@ HIST = 'federal/br-federal-lei-2021-04-01-14133.md'
 CONS = 'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md'
 LC123 = 'federal/br-federal-lei-complementar-2006-12-14-123.md'
 LC227 = 'federal/br-federal-lei-complementar-2026-01-13-227.md'
+LC123_PLANALTO = 'federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md'
 LC238 = 'federal/br-federal-lei-complementar-2026-10-21-238.md'
 L13303 = 'federal/br-federal-lei-2016-06-30-13303.md'
 L8666 = 'federal/br-federal-lei-1993-06-21-8666.md'
 L10520 = 'federal/br-federal-lei-2002-07-17-10520.md'
-ALL = [HIST, CONS, LC123, LC227, LC238, L13303, L8666, L10520]
+ALL = [HIST, CONS, LC123, LC123_PLANALTO, LC227, LC238, L13303, L8666, L10520]
 
 
 def load(rel):
@@ -275,6 +276,8 @@ class TestLC123(unittest.TestCase):
             # tratamento registra a fonte seguida sem eleger outra redação
             self.assertIn('Câmara', rec['tratamento'])
             self.assertNotIn('substitui', rec['tratamento'].lower())
+        self.assertEqual(self.meta['edicao_relacionada'], nl.LC123_PLANALTO_SLUG)
+        self.assertIn('edicoes/' + nl.LC123_PLANALTO_SLUG, self.body)
 
     def test_aviso_provas_e_manifesto_coerentes_nas_divergencias(self):
         entry = next(d for d in self.manifest['documentos'] if d['id'] == nl.LC123_SLUG)
@@ -299,6 +302,90 @@ class TestLC123(unittest.TestCase):
         # mapa vazio no manifesto é incompatível com conflito jurídico documentado
         self.assertTrue(known)
         self.assertEqual(set(known), {'47', '87-B'})
+
+
+class TestLC123Planalto(unittest.TestCase):
+    """Edição integral alternativa do Planalto: identidade distinta, mesmos conflitos 47/87-B."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.meta, cls.body = load(LC123_PLANALTO)
+        cls.camara_meta, cls.camara_body = load(LC123)
+        cls.manifest = json.loads(nl.MANIFESTO.read_text())
+        cls.entry = next(d for d in cls.manifest['documentos'] if d['id'] == nl.LC123_PLANALTO_SLUG)
+        cls.proof = json.loads((ROOT / 'provas/nucleo-licitacoes' /
+                                f'reconciliacao-{nl.LC123_PLANALTO_SLUG}.json').read_text())
+        cls.camara_proof = json.loads((ROOT / 'provas/nucleo-licitacoes' /
+                                       f'reconciliacao-{nl.LC123_SLUG}.json').read_text())
+
+    def test_identidade_distinta_mesmo_norma_id(self):
+        self.assertEqual(self.meta['norma_id'], self.camara_meta['norma_id'])
+        self.assertEqual(self.meta['norma_id'], nl.LC123_SLUG)
+        self.assertNotEqual(self.meta['edicao_id'], self.camara_meta['edicao_id'])
+        self.assertTrue(self.meta['edicao_id'].endswith('@consolidada-planalto'))
+        self.assertTrue(self.camara_meta['edicao_id'].endswith('@consolidada-camara'))
+        self.assertEqual(self.meta['edicao_relacionada'], nl.LC123_SLUG)
+        self.assertEqual(self.camara_meta['edicao_relacionada'], nl.LC123_PLANALTO_SLUG)
+        self.assertEqual(self.meta['fonte_orgao'], nl.PLANALTO)
+        self.assertEqual(self.meta['fonte_url'], nl.SOURCES['planalto-lc123']['url'])
+        self.assertIs(self.meta['edicao_integral'], True)
+        self.assertIs(self.meta['vigencia_certificada'], False)
+        self.assertRegex(self.meta['capturado_em'], r'^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\dZ$')
+        self.assertRegex(self.meta['sha256_fonte'], r'^[0-9a-f]{64}$')
+        self.assertEqual(self.meta['sha256_fonte'], self.entry['fontes']['principal']['sha256'])
+
+    def test_cobertura_integral_anexos_riscados_e_nao_textuais(self):
+        self.assertTrue(self.proof['cobertura_texto']['equivalente'])
+        self.assertGreater(self.meta['anexos_no_corpo'], 0)
+        self.assertTrue(self.meta['texto_riscado'])
+        self.assertGreater(self.entry['conversao']['trechos_riscados'], 0)
+        self.assertGreaterEqual(self.meta['imagens_omitidas'], 1)
+        self.assertNotIn('data:image', self.body)
+        # Anexos e faixas/alíquotas presentes no corpo (Planalto serializa tabelas como parágrafos)
+        self.assertRegex(self.body, r'(?m)^ANEXO I\b')
+        self.assertIn('4,00%', self.body)
+        self.assertIn('Receita Bruta em 12 meses', nl.md_text_all(self.body))
+        # Intervalos (r) da Tabela V-A e legenda com < > preservados na cobertura
+        self.assertIn('(r)<0,10', nl.md_text_all(self.body))
+        self.assertIn('significa menor que', nl.md_text_all(self.body))
+
+    def test_art47_segue_planalto_com_riscado_e_divergencia_explicita(self):
+        art47 = '\n'.join(article(self.body, '47'))
+        self.assertIn('administração direta e indireta', nl.md_plain(art47, True))
+        self.assertTrue(any(b.startswith('~~') for b in article(self.body, '47')))
+        camara47 = nl.md_plain('\n'.join(article(self.camara_body, '47')), True)
+        self.assertNotEqual(nl.strip_fold(nl.md_plain(art47, False)), nl.strip_fold(camara47))
+        self.assertIn('art. 47', self.body)
+        self.assertIn('art. 87-B', self.body)
+        self.assertEqual(article(self.body, '87-B'), [])
+
+    def test_divergencias_47_87b_nas_duas_edicoes(self):
+        known = self.entry['divergencias_conhecidas']
+        self.assertEqual(set(known), set(nl.LC123_NOTE_ARTICLES))
+        for art in nl.LC123_NOTE_ARTICLES:
+            rec = known[art]
+            for field in nl.DIVERGENCIA_FIELDS:
+                self.assertIn(field, rec)
+            self.assertEqual(rec['natureza'], 'juridica')
+            self.assertIn('Planalto', rec['tratamento'])
+            self.assertNotIn('substitui', rec['tratamento'].lower())
+        arts = self.proof['fontes_conferencia'][0]['artigos']
+        self.assertIn('47', arts['divergencias_substanciais'])
+        self.assertIn('87-B', arts['apenas_na_conferencia'])
+        self.assertEqual(set(arts['divergencias_editoriais']), set(nl.LC123_EDITORIAL))
+        self.assertEqual(set(arts['marcadores_veto']), set(nl.LC123_VETO_MARKERS))
+        self.assertEqual(arts['excecoes_revisadas']['orientacao_fontes'], 'planalto-primary')
+        # Câmara continua com a orientação original da trava
+        camara_arts = self.camara_proof['fontes_conferencia'][0]['artigos']
+        self.assertIn('87-B', camara_arts['apenas_na_principal'])
+        self.assertEqual(camara_arts['excecoes_revisadas']['orientacao_fontes'], 'camara-primary')
+
+    def test_nao_incrementa_contagem_de_normas_do_readme(self):
+        readme = (ROOT / 'README.md').read_text(encoding='utf-8')
+        # a pasta edicoes é citada como fora da contagem; o arquivo planalto existe
+        self.assertIn('edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md', readme)
+        self.assertIn('fora da contagem de normas', readme)
+        self.assertTrue(LC123_PLANALTO.startswith('federal/edicoes/'))
 
 
 class TestLC238(unittest.TestCase):
@@ -628,6 +715,22 @@ class TestConversor(unittest.TestCase):
                             '<a href="../Lei2.htm#art1">(Redação dada pela Lei nº 2)</a></p></body></html>')
         self.assertEqual(conv.blocks, ['Art. 1º Texto ~~antigo~~ e ~~velho~~ '
                                        '[(Redação dada pela Lei nº 2)](https://exemplo.gov.br/Lei2.htm#art1)'])
+
+    def test_espaco_entre_riscados_adjacentes_e_angulos_escapados_na_cobertura(self):
+        html = ('<html><body><p><s>§ 4º </s>'
+                '<span style="text-decoration:line-through">Os Comitês elaborarão.</span></p>'
+                '<p><span style="text-decoration:line-through">'
+                'onde “&lt;” significa menor que, “&gt;” significa maior que'
+                '</span></p></body></html>')
+        conv = self.convert(html)
+        self.assertEqual(conv.blocks[0], '~~§ 4º Os Comitês elaborarão.~~')
+        body = '\n\n'.join(conv.blocks)
+        plain = nl.md_text_all(body)
+        self.assertIn('§ 4º Os Comitês', plain)
+        self.assertIn('“<” significa menor que', plain)
+        self.assertIn('“>” significa maior que', plain)
+        src = nl.strip_fold(nl.source_text_chars_from_html(html.encode('utf-8'), 'utf-8'))
+        self.assertEqual(src, nl.strip_fold(plain))
 
     def test_tabela_simples_vira_markdown_e_com_mesclagem_vira_html(self):
         conv = self.convert('<table><tr><td>A</td><td>B</td></tr><tr><td>1</td><td>2|3</td></tr></table>'
