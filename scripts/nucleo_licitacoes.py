@@ -940,6 +940,16 @@ KNOWN_DIVERGENCES = {
 # encontrou divergência de conteúdo. Qualquer divergência nova ou substancial bloqueia.
 L13303_SLUG = 'br-federal-lei-2016-06-30-13303'
 L13303_FORM_DIVERGENCES = ('9', '18', '24', '88')
+L13303_FORM_FINGERPRINTS = {
+    '9': dict(principal_sha256='bd98d974ddf7b155bf01eec4d75c4e7c5b9c781014b46626fd2dc2273728c072',
+                   conferencia_sha256='2030f8b713583cf2f63228bd1901d590c7aa9d67237ae1efdcbef90e3fac98cb'),
+    '18': dict(principal_sha256='196c3dc8fcc871205f702d0df4082fb1e026c9d78381bb29a53494885bd2220a',
+                   conferencia_sha256='7666fe7ec4cf1f5047f0d10b0f0eb0f422a9e6225c629850da3dea2ff767b7c1'),
+    '24': dict(principal_sha256='96a6e3aa7ce9d750fd835005c5c5a65097b22223de88db2fb3116a191922caff',
+                   conferencia_sha256='c611062beec58512ff135bc190fe5b1e29dcf35de0704238e18780a0251b4118'),
+    '88': dict(principal_sha256='a2cd823b9661ae3898dc9c55a02aba91967b6e589f24d7fb4a42e87f700c6445',
+                   conferencia_sha256='7360500f64e351d3433a407254da586b8d7238bbebb27d2246005111ae900eae'),
+}
 
 # Impressões digitais do texto vigente (strip_fold + current_text_of) da diferença revisada do art. 121.
 # Qualquer outra alteração nesse artigo invalida a exceção; não basta o número do artigo.
@@ -1897,7 +1907,7 @@ def compute(sources, fontes, baseline_texts=None):
             if slug == L13303_SLUG:
                 if 'planalto-13303' not in article_splits:
                     raise SystemExit(f'{slug}: captura do Planalto ausente para conferência independente')
-                _, _, art_pl, entry_pl = article_splits['planalto-13303']
+                primary_13303, secondary_13303, art_pl, entry_pl = article_splits['planalto-13303']
                 form_set = set(art_pl.get('divergencias_de_forma') or [])
                 major = art_pl.get('divergencias_substanciais') or []
                 expected_form = set(L13303_FORM_DIVERGENCES)
@@ -1914,6 +1924,10 @@ def compute(sources, fontes, baseline_texts=None):
                         f'{art_pl["apenas_na_principal"]} / {art_pl["apenas_na_conferencia"]}')
                 if not entry_pl['titulos_e_capitulos']['iguais']:
                     raise SystemExit(f'{slug}: sequência de títulos/capítulos difere do Planalto')
+                for article, spec in L13303_FORM_FINGERPRINTS.items():
+                    mismatch = lock_reviewed_pair(article, spec, primary_13303, secondary_13303, slug)
+                    if mismatch:
+                        raise SystemExit('\n'.join(mismatch))
                 art_pl['divergencias_explicadas'] = {
                     k: ('Diferença tipográfica/editorial de forma após normalização entre a edição '
                         'preservada da Câmara e a página do Planalto; a auditoria não encontrou '

@@ -886,6 +886,18 @@ class TestRevogadas(unittest.TestCase):
 
 
 class TestLei13303(unittest.TestCase):
+    def test_diferencas_de_forma_exigem_conteudo_exato_revisado(self):
+        from copy import deepcopy
+        pristine = nl.read_baseline(L13303)
+        source, _ = nl.source_blocks('planalto-13303', nl.read_snapshot('planalto-13303'))
+        _, primary, secondary = nl.article_proof(nl.preserved_blocks(pristine), source)
+        for article, spec in nl.L13303_FORM_FINGERPRINTS.items():
+            self.assertEqual(nl.lock_reviewed_pair(article, spec, primary, secondary, '13303'), [])
+            changed = deepcopy(secondary)
+            # Um caractere adicional em artigo já excepcional não pode herdar a revisão anterior.
+            changed[article][0] += ' x'
+            self.assertTrue(nl.lock_reviewed_pair(article, spec, primary, changed, '13303'))
+
     @classmethod
     def setUpClass(cls):
         cls.meta, cls.body = load(L13303)
