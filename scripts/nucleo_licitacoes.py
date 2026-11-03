@@ -130,8 +130,10 @@ DOCS = [
                     ementa='Regulamenta o art. 37, inciso XXI, da Constituição Federal, institui normas para licitações e contratos da Administração Pública.'),
          edicao=dict(tipo='consolidada', integral=True),
          situacao=dict(valor='revogada',
-                       fundamento='Cabeçalho da fonte: "(Revogado pela Lei nº 14.133, de 2021)"; '
-                                  'Lei 14.133, art. 193, II, a, com a redação da LC 198/2023: revogação em 30 de dezembro de 2023.',
+                       fundamento=('Cabeçalho da fonte: "(Revogado pela Lei nº 14.133, de 2021)"; '
+                                   'Lei 14.133, art. 193, I (arts. 89 a 108 na publicação da Lei 14.133) e '
+                                   'art. 193, II, a, com a redação da LC 198/2023 (revogação em 30 de dezembro de 2023). '
+                                   'Cronologia estruturada em eventos_revogacao do manifesto.'),
                        revogada_por='br-federal-lei-2021-04-01-14133', data_revogacao='2023-12-30')),
     dict(slug='br-federal-lei-2002-07-17-10520',
          arquivo='federal/br-federal-lei-2002-07-17-10520.md', modo='converter',
@@ -1203,6 +1205,113 @@ def extract_effect_text(data, article_pattern):
     return out
 
 
+# Origens admitidas para data de evento de revogação (ver metadados/CONTRATO.md).
+REVOGACAO_DATA_ORIGENS = {'informada-explicitamente', 'resolvida-da-publicacao-oficial', UNKNOWN}
+ARTS_8666_193_I = [f'art. {n}' for n in range(89, 109)]
+DOU_FOOTER_RE = re.compile(
+    r'Este texto não substitui o publicado no DOU de\s+(1[ºo]|0?\d{1,2})[./](\d{1,2})[./](\d{4})'
+    r'(?:\s*[-–]\s*Edição\s+[\w\-]+)?',
+    re.I,
+)
+
+
+def dou_publication_from_planalto(data, charset='cp1252'):
+    """Data ISO e trecho do rodapé do Planalto sobre publicação no DOU; (None, None) se ausente."""
+    text = re.sub(r'\s+', ' ', source_text_chars_from_html(data, charset))
+    match = DOU_FOOTER_RE.search(text)
+    if not match:
+        return None, None
+    day_raw, month, year = match.group(1), match.group(2), match.group(3)
+    day = 1 if re.match(r'^1[ºo]$', day_raw, re.I) else int(day_raw)
+    return f'{year}-{int(month):02d}-{day:02d}', match.group(0).strip()
+
+
+def extract_art193_inciso_i(data):
+    """Texto literal do art. 193, I, da Lei 14.133 na fonte do Planalto (sem riscados)."""
+    conv = convert_html(data, SOURCES['planalto-14133']['charset'], SOURCES['planalto-14133']['url'])
+    started = False
+    for block in conv.blocks:
+        if block.startswith('~~'):
+            continue
+        plain = re.sub(r'\s+', ' ', md_plain(block, True)).strip()
+        if re.match(r'^Art\.\s*193\b', plain):
+            started = True
+            continue
+        if started and re.match(r'^Art\.\s*194\b', plain):
+            break
+        if started and re.match(r'^I\s*-', plain):
+            return plain
+    return None
+
+
+def eventos_revogacao_8666(fontes, sources, lc198_texto):
+    """Dois eventos distintos: arts. 89–108 na publicação (193, I) e 30/12/2023 (193, II, a / LC 198)."""
+    pub_iso, pub_trecho = dou_publication_from_planalto(
+        sources['planalto-14133'], SOURCES['planalto-14133']['charset'])
+    art193_i = extract_art193_inciso_i(sources['planalto-14133'])
+    if art193_i is None:
+        raise SystemExit('Lei 14.133: art. 193, I, não encontrado na fonte do Planalto')
+    if pub_iso is None:
+        data_parcial = dict(valor=UNKNOWN, origem=UNKNOWN,
+                            expressao_na_fonte='na data de publicação desta Lei')
+    else:
+        data_parcial = dict(
+            valor=pub_iso,
+            origem='resolvida-da-publicacao-oficial',
+            expressao_na_fonte='na data de publicação desta Lei',
+            prova=dict(
+                tipo='rodape-planalto-dou',
+                fonte_chave='planalto-14133',
+                fonte_url=SOURCES['planalto-14133']['url'],
+                sha256_fonte=fontes['planalto-14133']['sha256'],
+                trecho=pub_trecho,
+            ),
+        )
+    texto_ii_a = [line for line in lc198_texto if re.match(r'^(Art\.|II\b|a\)|b\)|c\))', line)]
+    return [
+        dict(
+            id='lei8666-revogacao-parcial-193-I',
+            tipo='revogacao-parcial',
+            alcance='arts. 89 a 108',
+            dispositivos=list(ARTS_8666_193_I),
+            fundamento=dict(
+                norma_id='br-federal-lei-2021-04-01-14133',
+                dispositivo='art. 193, I',
+                texto_literal=art193_i,
+                fonte_url=SOURCES['planalto-14133']['url'],
+                sha256_fonte=fontes['planalto-14133']['sha256'],
+            ),
+            data=data_parcial,
+            leitura=('O art. 193, I, da Lei 14.133 revoga os arts. 89 a 108 da Lei 8.666 na data de publicação '
+                     'da Lei 14.133. A data ISO resolve essa expressão a partir do rodapé do Planalto sobre o DOU; '
+                     'não é data de aplicação a contratos concretos. Publicação, vigência e regras de transição '
+                     '(art. 191) permanecem distintas.'),
+        ),
+        dict(
+            id='lei8666-revogacao-193-II-a',
+            tipo='revogacao',
+            alcance='Lei nº 8.666, de 21 de junho de 1993',
+            dispositivos=['Lei nº 8.666, de 21 de junho de 1993'],
+            fundamento=dict(
+                norma_id='br-federal-lei-2021-04-01-14133',
+                dispositivo='art. 193, II, a',
+                norma_modificadora='Lei Complementar nº 198, de 28 de junho de 2023',
+                texto_literal=texto_ii_a,
+                fonte_url=SOURCES['planalto-lc198']['url'],
+                sha256_fonte=fontes['planalto-lc198']['sha256'],
+            ),
+            data=dict(
+                valor='2023-12-30',
+                origem='informada-explicitamente',
+                expressao_na_fonte='em 30 de dezembro de 2023',
+            ),
+            leitura=('O art. 193, II, a, com a redação da LC 198/2023, indica a revogação da Lei 8.666 em '
+                     '30 de dezembro de 2023. Data informada explicitamente no texto; o acervo não resolve '
+                     'hipóteses de transição do art. 191 nem aplica essa data a contratos concretos.'),
+        ),
+    ]
+
+
 def compute(sources, fontes, baseline_texts=None):
     """sources: chave -> bytes (None se indisponível); fontes: chave -> registro de captura."""
     docs_out, proofs = {}, {}
@@ -1418,8 +1527,16 @@ def compute(sources, fontes, baseline_texts=None):
             if slug == slug14:
                 extra.append('Edição histórica preservada separadamente em `../br-federal-lei-2021-04-01-14133.md`.')
             if situ['valor'] == 'revogada':
-                extra.append('A fonte apresenta esta lei como revogada pela Lei nº 14.133/2021; ela é mantida para consulta histórica '
-                             'e para as hipóteses de transição previstas na Lei 14.133, não como fundamento atual por padrão.')
+                if slug == 'br-federal-lei-1993-06-21-8666':
+                    extra.append(
+                        'A fonte apresenta esta lei como revogada pela Lei nº 14.133/2021: arts. 89 a 108 na publicação '
+                        '(art. 193, I) e a lei integral em 30/12/2023 (art. 193, II, a, redação da LC 198/2023). '
+                        'Mantida para consulta histórica e para as hipóteses de transição previstas na Lei 14.133; '
+                        'o acervo não aplica essas datas a contratos concretos nem as toma como fundamento atual por padrão. '
+                        'A cronologia estruturada está em `eventos_revogacao` do manifesto.')
+                else:
+                    extra.append('A fonte apresenta esta lei como revogada pela Lei nº 14.133/2021; ela é mantida para consulta histórica '
+                                 'e para as hipóteses de transição previstas na Lei 14.133, não como fundamento atual por padrão.')
             if slug == 'br-federal-lei-complementar-2006-12-14-123':
                 extra.append('A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação '
                              'dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de '
@@ -1489,6 +1606,9 @@ def compute(sources, fontes, baseline_texts=None):
                 )]
             if doc['situacao']['valor'] == 'revogada':
                 entry['revogacao'] = {k: v for k, v in doc['situacao'].items() if k != 'valor'}
+                if slug == 'br-federal-lei-1993-06-21-8666':
+                    entry['eventos_revogacao'] = eventos_revogacao_8666(
+                        fontes, sources, lc198 + lc198_vig)
             entry['divergencias_conhecidas'] = KNOWN_DIVERGENCES.get(slug, {})
         text_body = body
         meta['sha256_markdown'] = sha256(text_body.encode('utf-8'))

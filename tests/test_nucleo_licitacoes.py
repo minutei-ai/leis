@@ -431,7 +431,7 @@ class TestRevogadas(unittest.TestCase):
             self.assertEqual(meta['edicao_tipo'], 'consolidada')
             self.assertRegex(meta['sha256_fonte'], r'^[0-9a-f]{64}$')
             self.assertIn('Revogado pela Lei nº 14.133, de 2021', nl.md_text_all(body))
-            self.assertIn('não como fundamento atual', body)
+            self.assertIn('fundamento atual', body)
             self.assertIs(meta['vigencia_certificada'], False)
 
     def test_8666_integral_com_126_artigos(self):
@@ -440,10 +440,81 @@ class TestRevogadas(unittest.TestCase):
         numbers = {k.split('-')[0] for k in keys}
         self.assertTrue({str(n) for n in range(1, 127)} <= numbers)
 
+    def test_8666_eventos_revogacao_por_dispositivo_fundamento_e_data(self):
+        """Recupera os dois eventos distintos (193, I em 2021 e 193, II, a em 2023)."""
+        manifest = json.loads(nl.MANIFESTO.read_text())
+        entry = next(d for d in manifest['documentos'] if d['arquivo'] == L8666)
+        eventos = entry['eventos_revogacao']
+        self.assertEqual([e['id'] for e in eventos],
+                         ['lei8666-revogacao-parcial-193-I', 'lei8666-revogacao-193-II-a'])
+
+        parcial = eventos[0]
+        self.assertEqual(parcial['tipo'], 'revogacao-parcial')
+        self.assertEqual(parcial['alcance'], 'arts. 89 a 108')
+        self.assertEqual(parcial['dispositivos'], nl.ARTS_8666_193_I)
+        self.assertEqual(parcial['dispositivos'], [f'art. {n}' for n in range(89, 109)])
+        self.assertEqual(parcial['fundamento']['norma_id'], 'br-federal-lei-2021-04-01-14133')
+        self.assertEqual(parcial['fundamento']['dispositivo'], 'art. 193, I')
+        self.assertIn('na data de publicação desta Lei', parcial['fundamento']['texto_literal'])
+        self.assertEqual(parcial['data']['valor'], '2021-04-01')
+        self.assertEqual(parcial['data']['origem'], 'resolvida-da-publicacao-oficial')
+        self.assertEqual(parcial['data']['expressao_na_fonte'], 'na data de publicação desta Lei')
+        prova = parcial['data']['prova']
+        fontes = json.loads((nl.PROVAS / 'fontes.json').read_text())
+        self.assertEqual(prova['fonte_chave'], 'planalto-14133')
+        self.assertEqual(prova['sha256_fonte'], fontes['planalto-14133']['sha256'])
+        self.assertEqual(parcial['fundamento']['sha256_fonte'], fontes['planalto-14133']['sha256'])
+        self.assertRegex(prova['trecho'], r'DOU de 1[ºo]\.4\.2021')
+        self.assertIn('não é data de aplicação a contratos concretos', parcial['leitura'])
+        self.assertIn('art. 191', parcial['leitura'])
+
+        integral = eventos[1]
+        self.assertEqual(integral['tipo'], 'revogacao')
+        self.assertEqual(integral['fundamento']['dispositivo'], 'art. 193, II, a')
+        self.assertIn('198', integral['fundamento']['norma_modificadora'])
+        self.assertEqual(integral['data']['valor'], '2023-12-30')
+        self.assertEqual(integral['data']['origem'], 'informada-explicitamente')
+        self.assertEqual(integral['data']['expressao_na_fonte'], 'em 30 de dezembro de 2023')
+        self.assertNotIn('prova', integral['data'])
+        self.assertIn('nem aplica essa data a contratos concretos', integral['leitura'])
+        self.assertEqual(entry['revogacao']['data_revogacao'], '2023-12-30')
+        self.assertIn('art. 193, I', entry['situacao_fundamento'])
+        self.assertIn('eventos_revogacao', entry['situacao_fundamento'])
+        for origem in (parcial['data']['origem'], integral['data']['origem']):
+            self.assertIn(origem, nl.REVOGACAO_DATA_ORIGENS)
+
+    def test_8666_arts_89_a_108_permanecem_riscados_no_corpo(self):
+        _, body = load(L8666)
+        for number in range(89, 109):
+            blocks = article(body, str(number))
+            self.assertTrue(blocks, f'art. {number} ausente')
+            self.assertTrue(all(b.startswith('~~') for b in blocks if b.strip()),
+                            f'art. {number} deve permanecer riscado (redação histórica preservada)')
+
+    def test_8666_aviso_diferencia_publicacao_vigencia_e_transicao(self):
+        meta, body = load(L8666)
+        self.assertIn('arts. 89 a 108 na publicação', body)
+        self.assertIn('30/12/2023', body)
+        self.assertIn('não aplica essas datas a contratos concretos', body)
+        self.assertIn('hipóteses de transição', body)
+        self.assertIs(meta['vigencia_certificada'], False)
+        self.assertIn('193, I', meta['situacao_fundamento'])
+        self.assertIn('193, II, a', meta['situacao_fundamento'])
+
     def test_10520_integral_com_13_artigos(self):
         _, body = load(L10520)
         numbers = {k.split('-')[0] for k in nl.split_articles(blocks_of(body))[1]}
         self.assertTrue({str(n) for n in range(1, 14)} <= numbers)
+
+    def test_dou_publication_from_planalto_resolve_data_sem_inventar(self):
+        data = nl.read_snapshot('planalto-14133')
+        iso, trecho = nl.dou_publication_from_planalto(data, nl.SOURCES['planalto-14133']['charset'])
+        self.assertEqual(iso, '2021-04-01')
+        self.assertIn('DOU de 1º.4.2021', trecho)
+        self.assertLess(len(trecho), 120)
+        # sem rodapé reconhecível → desconhecido (não inventa)
+        fake = b'<html><body><p>Sem rodape de DOU</p></body></html>'
+        self.assertEqual(nl.dou_publication_from_planalto(fake, 'utf-8'), (None, None))
 
 
 class TestLei13303(unittest.TestCase):

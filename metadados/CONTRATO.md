@@ -81,3 +81,34 @@ Regras:
 - `divergencias_conhecidas: {}` só é válido quando não há conflito jurídico conhecido documentado no aviso editorial nem nas provas.
 - O Markdown da LC 123 segue a Câmara; o art. 47 e o art. 87-B ficam alertados no manifesto e no aviso, sem substituição silenciosa pela redação do Planalto.
 - Na prova de reconciliação da LC 123, `divergencias_editoriais` cobre os arts. 63, 64 e 89 (títulos, notas de seção, fecho/assinaturas) e `marcadores_veto` cobre os arts. 63-A a 63-E (veto anotado na Câmara, sem conteúdo normativo novo).
+
+## Eventos de revogação (manifesto)
+
+O campo opcional `eventos_revogacao` de um documento em [`nucleo-licitacoes.json`](nucleo-licitacoes.json) registra a cronologia estruturada de revogações com dispositivo, fundamento e data. Ele complementa o campo legado `revogacao` (situação final informada pela fonte) e **não** substitui o corpo normativo.
+
+Cada evento:
+
+| Campo | Significado |
+| --- | --- |
+| `id` | Identificador estável do evento. |
+| `tipo` | `revogacao-parcial` ou `revogacao`. |
+| `alcance` | Descrição legível do que o evento atinge. |
+| `dispositivos` | Lista recuperável (`art. N` ou a lei integral citada no fundamento). |
+| `fundamento` | Norma e dispositivo que ordenam o evento (`norma_id`, `dispositivo`, `texto_literal`, `fonte_url`, `sha256_fonte`; `norma_modificadora` quando houver). |
+| `data` | Ver tabela abaixo. |
+| `leitura` | Limite explícito: o acervo não aplica a data a contratos concretos nem resolve transição. |
+
+Campo `data`:
+
+| Campo | Significado |
+| --- | --- |
+| `valor` | ISO `AAAA-MM-DD` ou `"desconhecido"`. |
+| `origem` | `informada-explicitamente` (data literal no texto), `resolvida-da-publicacao-oficial` (expressão relativa resolvida com prova de publicação) ou `"desconhecido"`. |
+| `expressao_na_fonte` | Trecho temporal literal (ex.: `na data de publicação desta Lei`, `em 30 de dezembro de 2023`). |
+| `prova` | Obrigatória quando `origem` é `resolvida-da-publicacao-oficial`: chave/URL/hash da fonte e `trecho` que prova a publicação. |
+
+Regras:
+
+- Publicação, vigência e aplicação/transição são campos distintos; um evento de revogação não afirma vigência residual nem aplica o art. 191 da Lei 14.133 a casos concretos.
+- Sem prova oficial preservada (ou nova captura) para resolver uma data relativa, `valor` e `origem` ficam `"desconhecido"`.
+- A Lei 8.666 traz dois eventos: arts. 89–108 no art. 193, I (publicação da Lei 14.133) e a lei integral no art. 193, II, a (30/12/2023, redação da LC 198/2023).
