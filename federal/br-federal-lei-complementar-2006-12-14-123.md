@@ -9,7 +9,7 @@ esfera: "federal"
 edicao_id: "br-federal-lei-complementar-2006-12-14-123@consolidada-camara"
 edicao_tipo: "consolidada"
 edicao_integral: true
-edicao_relacionada: "nenhuma"
+edicao_relacionada: "br-federal-lei-complementar-2006-12-14-123-planalto"
 fonte_orgao: "Câmara dos Deputados — LegIn"
 fonte_url: "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html"
 fonte_formato: "html"
@@ -24,7 +24,7 @@ anexos_no_corpo: 7
 tabelas: 10
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "92a075a136135784dc3d2afeac80b09d913e7bfd1ae020a912f6cbe718080e6b"
+sha256_markdown: "d2db936dfafb0d5252607fe9ae2bccdebb1444a2b97e82650bca703767333939"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -44,6 +44,8 @@ Centro de Documentação e Informação
 > A edição consultada remete à Lei Complementar nº 238, de 21/10/2026 ("Vide"), sem incorporar a redação dessa lei: segundo seu art. 10, ela produz efeitos a partir de 1º/1/2028 (art. 18-A, §§ 1º e 2º) e de 1º/1/2027 (demais dispositivos). O texto integral da modificadora está em [`federal/br-federal-lei-complementar-2026-10-21-238.md`](br-federal-lei-complementar-2026-10-21-238.md); o vínculo por dispositivo está em `metadados/nucleo-licitacoes.json`.
 >
 > Divergências conhecidas entre as fontes oficiais: o art. 47, caput, na edição da Câmara tem a redação anterior à LC 147/2014, enquanto o Planalto a apresenta com a nova redação; o art. 87-B (LC 214/2025) consta da Câmara e não aparece na página do Planalto conferida. Confira a fonte antes de usar esses dispositivos (ver o arquivo de provas desta conferência).
+>
+> A edição integral do Planalto da mesma norma está em [`federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md`](edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md). São duas identidades de edição (`edicao_id` distintos, mesmo `norma_id`); o consumidor escolhe a fonte sem presumir vigência. As redações não foram combinadas.
 
 <!-- nota-edicao:fim -->
 

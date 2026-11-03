@@ -79,8 +79,9 @@ Objeto estruturado (obrigatório para divergências jurídicas da LC 123):
 Regras:
 
 - `divergencias_conhecidas: {}` só é válido quando não há conflito jurídico conhecido documentado no aviso editorial nem nas provas.
-- O Markdown da LC 123 segue a Câmara; o art. 47 e o art. 87-B ficam alertados no manifesto e no aviso, sem substituição silenciosa pela redação do Planalto.
-- Na prova de reconciliação da LC 123, `divergencias_editoriais` cobre os arts. 63, 64 e 89 (títulos, notas de seção, fecho/assinaturas) e `marcadores_veto` cobre os arts. 63-A a 63-E (veto anotado na Câmara, sem conteúdo normativo novo).
+- A LC 123 tem duas edições integrais com o mesmo `norma_id` e `edicao_id` distintos: a da Câmara em `federal/br-federal-lei-complementar-2006-12-14-123.md` e a do Planalto em `federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md` (fora da contagem de normas). Cada Markdown segue só a sua fonte principal; o art. 47 e o art. 87-B ficam alertados no manifesto e no aviso de ambas, sem substituição silenciosa nem composição de redações.
+- O consumidor escolhe a edição (`edicao_id` / `edicao_relacionada` / hashes de captura) sem presumir vigência.
+- Na prova de reconciliação de cada edição da LC 123, `divergencias_editoriais` cobre os arts. 63, 64 e 89 (títulos, notas de seção, fecho/assinaturas) e `marcadores_veto` cobre os arts. 63-A a 63-E (veto anotado na Câmara, sem conteúdo normativo novo).
 
 ## Eventos de revogação (manifesto)
 

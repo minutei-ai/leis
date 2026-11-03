@@ -66,7 +66,7 @@
       "tabelas": 0,
       "imagens_omitidas": 2,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "da95fcccd1b6b30b4372b48d9550f8cab13d5eb78e7c85d90d0f2f12496eeedb",
+      "sha256_markdown": "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -205,7 +205,7 @@
       "edicao_id": "br-federal-lei-complementar-2006-12-14-123@consolidada-camara",
       "edicao_tipo": "consolidada",
       "edicao_integral": true,
-      "edicao_relacionada": "nenhuma",
+      "edicao_relacionada": "br-federal-lei-complementar-2006-12-14-123-planalto",
       "fonte_orgao": "Câmara dos Deputados — LegIn",
       "fonte_url": "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html",
       "fonte_formato": "html",
@@ -222,7 +222,7 @@
       "tabelas": 10,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "92a075a136135784dc3d2afeac80b09d913e7bfd1ae020a912f6cbe718080e6b",
+      "sha256_markdown": "d2db936dfafb0d5252607fe9ae2bccdebb1444a2b97e82650bca703767333939",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
@@ -482,6 +482,174 @@
       ]
     },
     {
+      "arquivo": "federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md",
+      "id": "br-federal-lei-complementar-2006-12-14-123-planalto",
+      "norma_id": "br-federal-lei-complementar-2006-12-14-123",
+      "norma_tipo": "lei-complementar",
+      "norma_numero": "123",
+      "norma_data": "2006-12-14",
+      "titulo": "LEI COMPLEMENTAR Nº 123, DE 14 DE DEZEMBRO DE 2006",
+      "esfera": "federal",
+      "edicao_id": "br-federal-lei-complementar-2006-12-14-123@consolidada-planalto",
+      "edicao_tipo": "consolidada",
+      "edicao_integral": true,
+      "edicao_relacionada": "br-federal-lei-complementar-2006-12-14-123",
+      "fonte_orgao": "Presidência da República — Planalto",
+      "fonte_url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+      "fonte_formato": "html",
+      "fonte_conferencia": [
+        "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html"
+      ],
+      "capturado_em": "2026-11-03T16:31:11Z",
+      "sha256_fonte": "bf4ea8eab36f32af74835fa3603e3804397a43d215a32e6dcd7e9ec492566792",
+      "situacao": "nao-informada",
+      "situacao_fundamento": "desconhecido",
+      "vigencia_certificada": false,
+      "texto_riscado": true,
+      "anexos_no_corpo": 12,
+      "tabelas": 0,
+      "imagens_omitidas": 1,
+      "efeitos_diferidos": "preservados-nas-notas-do-texto",
+      "sha256_markdown": "e51e5134662760e169cc5655f14e7852d277c8de08baa5034c8c044043435314",
+      "manifesto": "metadados/nucleo-licitacoes.json",
+      "contrato_versao": 1,
+      "conversao": {
+        "trechos_riscados": 1528,
+        "links": 911,
+        "tabelas_markdown": 0,
+        "tabelas_html": 0,
+        "imagens": [
+          {
+            "alt": "Brasão da República",
+            "largura": "74",
+            "altura": "82",
+            "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+            "tipo_midia": "desconhecido",
+            "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+          }
+        ],
+        "tabelas": [],
+        "blocos": 2907
+      },
+      "blocos_nao_textuais": [
+        {
+          "tipo": "imagem",
+          "alt": "Brasão da República",
+          "largura": "74",
+          "altura": "82",
+          "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+          "tipo_midia": "desconhecido",
+          "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+        }
+      ],
+      "fontes": {
+        "principal": {
+          "chave": "planalto-lc123",
+          "orgao": "Presidência da República — Planalto",
+          "formato": "html",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "capturado_em": "2026-11-03T16:31:11Z",
+          "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+          "http_status": 200,
+          "url_final": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm",
+          "bytes": 1644422,
+          "sha256": "bf4ea8eab36f32af74835fa3603e3804397a43d215a32e6dcd7e9ec492566792",
+          "cabecalho_date": "Tue, 03 Nov 2026 16:31:03 GMT",
+          "cabecalho_last_modified": "Thu, 22 Oct 2026 13:16:55 GMT",
+          "cabecalho_etag": "\"19116f-65e6dad77eb51\"",
+          "cabecalho_content_type": "text/html",
+          "utilizavel": true,
+          "sha256_conteudo": "3c49467485e7ff072dab7a3947f6c958f5efe1682f0860f1560d9eee42749cec",
+          "snapshot": "provas/nucleo-licitacoes/fontes/planalto-lcp123.htm.xz",
+          "sha256_snapshot_armazenado": "419a6f5a65fe06239208830246591202f0bea49601104544eb6633e432e6120f"
+        },
+        "conferencia": [
+          {
+            "chave": "camara-lc123",
+            "orgao": "Câmara dos Deputados — LegIn",
+            "formato": "html",
+            "url": "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html",
+            "capturado_em": "2026-11-03T16:31:10Z",
+            "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+            "http_status": 200,
+            "url_final": "https://www2.camara.leg.br/legin/fed/leicom/2006/leicomplementar-123-14-dezembro-2006-548099-normaatualizada-pl.html",
+            "bytes": 796759,
+            "sha256": "ad9b586fdf7864ba47dcdeabb20af2cdc9882c8a7511e75461b4321c2e59e459",
+            "cabecalho_date": "Tue, 03 Nov 2026 16:31:11 GMT",
+            "cabecalho_content_type": "text/html; charset=UTF-8",
+            "utilizavel": true,
+            "sha256_conteudo": "ad9b586fdf7864ba47dcdeabb20af2cdc9882c8a7511e75461b4321c2e59e459",
+            "snapshot": "provas/nucleo-licitacoes/fontes/camara-lc-123-normaatualizada.html.xz",
+            "sha256_snapshot_armazenado": "2cc49c68a00939014db0eec16f286cceedb7faa626b668bddbbaed7403c1ac71"
+          }
+        ]
+      },
+      "efeitos_diferidos_detalhe": [
+        {
+          "norma_modificadora": "Lei Complementar nº 238, de 21 de outubro de 2026",
+          "norma_id_modificadora": "br-federal-lei-complementar-2026-10-21-238",
+          "arquivo_norma_modificadora": "federal/br-federal-lei-complementar-2026-10-21-238.md",
+          "fonte_modificadora": "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp238.htm",
+          "sha256_fonte_modificadora": "f823445ce2dcb5a0c2ce20d683f8b452ef2e8c060da6235d045c5d895fd880dd",
+          "remissoes_na_edicao": [],
+          "dispositivos_modificados": [
+            {
+              "dispositivo": "art. 18-A, §§ 1º e 2º",
+              "efeitos_a_partir_de": "2028-01-01",
+              "fundamento": "art. 10, I, da LC 238 (literal da fonte)"
+            },
+            {
+              "dispositivo": "art. 18-C",
+              "efeitos_a_partir_de": "2027-01-01",
+              "fundamento": "art. 10, II, da LC 238 (demais dispositivos; literal da fonte)"
+            },
+            {
+              "dispositivo": "art. 48",
+              "efeitos_a_partir_de": "2027-01-01",
+              "fundamento": "art. 10, II, da LC 238 (demais dispositivos; literal da fonte)"
+            },
+            {
+              "dispositivo": "art. 49",
+              "efeitos_a_partir_de": "2027-01-01",
+              "fundamento": "art. 10, II, da LC 238 (demais dispositivos; literal da fonte)"
+            }
+          ],
+          "marcador_no_texto": "(Vide Lei Complementar nº 238, de 21/10/2026)",
+          "texto_da_fonte_modificadora": [
+            "Art. 10. Esta Lei Complementar entra em vigor na data de sua publicação e produz efeitos a partir de:",
+            "I - 1º de janeiro de 2028, quanto às alterações promovidas no art. 18-A, §§ 1º e 2º, da Lei Complementar nº 123, de 14 de dezembro de 2006 (Lei do Simples Nacional); e",
+            "II - 1º de janeiro de 2027, quanto aos demais dispositivos."
+          ],
+          "leitura": "Literal do art. 10 da LC 238: entra em vigor na publicação e produz efeitos a partir de 1º/1/2028 (alterações do art. 18-A, §§ 1º e 2º, da LC 123) e de 1º/1/2027 (demais dispositivos). A edição consultada da LC 123 não incorpora a redação da LC 238: apenas remete a ela. O texto integral da modificadora está em `federal/br-federal-lei-complementar-2026-10-21-238.md`."
+        }
+      ],
+      "divergencias_conhecidas": {
+        "47": {
+          "dispositivo": "art. 47, caput",
+          "fontes": [
+            "camara-lc123",
+            "planalto-lc123"
+          ],
+          "descricao": "Na edição da Câmara o caput tem a redação anterior à LC 147/2014; o Planalto apresenta a nova redação (e conserva riscada a anterior).",
+          "tratamento": "O Markdown segue a fonte principal (Planalto). A divergência fica no manifesto e no aviso editorial; nenhuma redação é escolhida silenciosamente.",
+          "natureza": "juridica"
+        },
+        "87-B": {
+          "dispositivo": "art. 87-B",
+          "fontes": [
+            "camara-lc123",
+            "planalto-lc123"
+          ],
+          "descricao": "Consta da edição da Câmara (acrescido pela LC 214/2025, com nota de efeitos e revogação pela LC 227/2026) e não aparece na página do Planalto conferida.",
+          "tratamento": "O Markdown segue a fonte principal (Planalto), onde o art. 87-B não aparece. O alerta fica no manifesto e no aviso editorial; o acervo não afirma vigência nem escolhe a presença da Câmara.",
+          "natureza": "juridica"
+        }
+      },
+      "provas": [
+        "reconciliacao-br-federal-lei-complementar-2006-12-14-123-planalto.json"
+      ]
+    },
+    {
       "arquivo": "federal/br-federal-lei-complementar-2026-10-21-238.md",
       "id": "br-federal-lei-complementar-2026-10-21-238",
       "norma_id": "br-federal-lei-complementar-2026-10-21-238",
@@ -671,7 +839,7 @@
       "tabelas": 0,
       "imagens_omitidas": 1,
       "efeitos_diferidos": "preservados-nas-notas-do-texto",
-      "sha256_markdown": "8cdbd8e608a906615b6a66b8656cf0d4eaea4391edea3b35d0cf915758306f55",
+      "sha256_markdown": "16f4717e1c485d9bb202b7adfb77bb1935651cc2818a5b37b97b5eac4bb824e0",
       "manifesto": "metadados/nucleo-licitacoes.json",
       "contrato_versao": 1,
       "conversao": {
