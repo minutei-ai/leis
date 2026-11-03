@@ -85,3 +85,34 @@ Regras:
 - A nota do art. 87-B (acréscimo pela LC 214/2025 com efeitos a partir de 1º/1/2027; revogação pela LC 227/2026) permanece
   no dispositivo; a LC 227 publicada no acervo traz o art. 181 com datas próprias por alínea e o art. 182 com produção de
   efeitos diferenciada — sem atribuir 2027 a toda revogação nem reconstruir a redação do 87-B.
+
+## Eventos de revogação (manifesto)
+
+O campo opcional `eventos_revogacao` de um documento em [`nucleo-licitacoes.json`](nucleo-licitacoes.json) registra a cronologia estruturada de revogações com dispositivo, fundamento e data. Ele complementa o campo legado `revogacao` (situação final informada pela fonte) e **não** substitui o corpo normativo.
+
+Cada evento:
+
+| Campo | Significado |
+| --- | --- |
+| `id` | Identificador estável do evento. |
+| `tipo` | `revogacao-parcial` ou `revogacao`. |
+| `alcance` | Descrição legível do que o evento atinge. |
+| `dispositivos` | Lista recuperável (`art. N` ou a lei integral citada no fundamento). |
+| `fundamento` | Norma e dispositivo que ordenam o evento (`norma_id`, `dispositivo`, `texto_literal`, `fonte_url`, `sha256_fonte`; `norma_modificadora` quando houver). |
+| `data` | Ver tabela abaixo. |
+| `leitura` | Limite explícito: o acervo não aplica a data a contratos concretos nem resolve transição. |
+
+Campo `data`:
+
+| Campo | Significado |
+| --- | --- |
+| `valor` | ISO `AAAA-MM-DD` ou `"desconhecido"`. |
+| `origem` | `informada-explicitamente` (data literal no texto), `resolvida-da-publicacao-oficial` (expressão relativa resolvida com prova de publicação) ou `"desconhecido"`. |
+| `expressao_na_fonte` | Trecho temporal literal (ex.: `na data de publicação desta Lei`, `em 30 de dezembro de 2023`). |
+| `prova` | Obrigatória quando `origem` é `resolvida-da-publicacao-oficial`: chave/URL/hash da fonte e `trecho` que prova a publicação. |
+
+Regras:
+
+- Publicação, vigência e aplicação/transição são campos distintos; um evento de revogação não afirma vigência residual nem aplica o art. 191 da Lei 14.133 a casos concretos.
+- Sem prova oficial preservada (ou nova captura) para resolver uma data relativa, `valor` e `origem` ficam `"desconhecido"`.
+- A Lei 8.666 traz dois eventos: arts. 89–108 no art. 193, I (publicação da Lei 14.133) e a lei integral no art. 193, II, a (30/12/2023, redação da LC 198/2023).
