@@ -218,6 +218,48 @@ class TestLC123(unittest.TestCase):
         self.assertIn('art. 47', self.body)
         self.assertIn('art. 87-B', self.body)
 
+    def test_divergencias_conhecidas_no_manifesto_por_dispositivo(self):
+        entry = next(d for d in self.manifest['documentos'] if d['id'] == nl.LC123_SLUG)
+        known = entry['divergencias_conhecidas']
+        self.assertEqual(set(known), set(nl.LC123_NOTE_ARTICLES))
+        self.assertNotEqual(known, {}, 'conflito documentado não pode coexistir com mapa vazio')
+        for art in nl.LC123_NOTE_ARTICLES:
+            rec = known[art]
+            for field in nl.DIVERGENCIA_FIELDS:
+                self.assertIn(field, rec, field)
+                self.assertTrue(rec[field], field)
+            self.assertEqual(rec['natureza'], 'juridica')
+            self.assertIn('camara-lc123', rec['fontes'])
+            self.assertIn('planalto-lc123', rec['fontes'])
+            self.assertIn(art, rec['dispositivo'])
+            # tratamento registra a fonte seguida sem eleger outra redação
+            self.assertIn('Câmara', rec['tratamento'])
+            self.assertNotIn('substitui', rec['tratamento'].lower())
+
+    def test_aviso_provas_e_manifesto_coerentes_nas_divergencias(self):
+        entry = next(d for d in self.manifest['documentos'] if d['id'] == nl.LC123_SLUG)
+        known = entry['divergencias_conhecidas']
+        note = self.body
+        for art in nl.LC123_NOTE_ARTICLES:
+            self.assertIn(f'art. {art}', note)
+            self.assertIn(art, known)
+        proof = json.loads((ROOT / 'provas/nucleo-licitacoes' /
+                            f'reconciliacao-{nl.LC123_SLUG}.json').read_text())
+        arts = proof['fontes_conferencia'][0]['artigos']
+        self.assertIn('47', arts['divergencias_substanciais'])
+        self.assertIn('87-B', arts['apenas_na_principal'])
+        self.assertEqual(set(arts['divergencias_editoriais']), set(nl.LC123_EDITORIAL))
+        for art in ('63', '64', '89'):
+            self.assertNotIn(art, arts['divergencias_substanciais'])
+            self.assertIn(art, arts['divergencias_editoriais'])
+        self.assertEqual(set(arts['marcadores_veto']), set(nl.LC123_VETO_MARKERS))
+        for art in nl.LC123_VETO_MARKERS:
+            self.assertIn(art, arts['apenas_na_principal'])
+            self.assertIn('veto', arts['marcadores_veto'][art].lower())
+        # mapa vazio no manifesto é incompatível com conflito jurídico documentado
+        self.assertTrue(known)
+        self.assertEqual(set(known), {'47', '87-B'})
+
 
 class TestLC238(unittest.TestCase):
     @classmethod

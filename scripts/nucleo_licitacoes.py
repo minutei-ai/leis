@@ -817,13 +817,52 @@ def date_br(iso):
 # Cálculo de todos os artefatos (usado por build e por verify: mesma lógica, mesmos bytes)
 # --------------------------------------------------------------------------
 
+# Divergências conhecidas por documento. A Lei 14.133 usa o formato legado (string por
+# artigo). A LC 123 usa o formato estruturado por dispositivo: {dispositivo, fontes,
+# descricao, tratamento, natureza}. Ver metadados/CONTRATO.md.
 KNOWN_DIVERGENCES = {
     'br-federal-lei-2021-04-01-14133-consolidada': {
         '121': 'O PDF da Câmara repete "§ 4º § 4º" (erro tipográfico na fonte de conferência); o Planalto traz um único § 4º. '
                'O texto publicado segue o Planalto.',
     },
+    'br-federal-lei-complementar-2006-12-14-123': {
+        '47': {
+            'dispositivo': 'art. 47, caput',
+            'fontes': ['camara-lc123', 'planalto-lc123'],
+            'descricao': ('Na edição da Câmara o caput tem a redação anterior à LC 147/2014; '
+                          'o Planalto apresenta a nova redação.'),
+            'tratamento': ('O Markdown segue a fonte principal (Câmara). A divergência fica no '
+                           'manifesto e no aviso editorial; nenhuma redação é escolhida silenciosamente.'),
+            'natureza': 'juridica',
+        },
+        '87-B': {
+            'dispositivo': 'art. 87-B',
+            'fontes': ['camara-lc123', 'planalto-lc123'],
+            'descricao': ('Consta da edição da Câmara (acrescido pela LC 214/2025, com nota de efeitos '
+                          'e revogação pela LC 227/2026) e não aparece na página do Planalto conferida.'),
+            'tratamento': ('O Markdown segue a fonte principal (Câmara). O alerta fica no manifesto e '
+                           'no aviso editorial; o acervo não afirma vigência nem escolhe a ausência do Planalto.'),
+            'natureza': 'juridica',
+        },
+    },
 }
-LC123_NOTE_ARTICLES = ('47', '87-B')  # divergências entre Planalto e Câmara descritas no aviso editorial; build exige que persistam
+LC123_SLUG = 'br-federal-lei-complementar-2006-12-14-123'
+LC123_NOTE_ARTICLES = ('47', '87-B')  # divergências jurídicas entre Planalto e Câmara; build exige que persistam
+# Diferenças que o comparador marca como "substanciais" por tamanho, mas que são de estrutura/editorial.
+LC123_EDITORIAL = {
+    '63': ('Diferença de títulos/seções e notação de veto adjacentes ao artigo entre Câmara e Planalto; '
+           'o dispositivo normativo do art. 63 coincide.'),
+    '64': ('Nota de denominação de seção presente numa fonte e ausente ou distinta na outra; '
+           'o dispositivo normativo do art. 64 coincide.'),
+    '89': ('Fecho, assinaturas e cabeçalhos de anexos absorvidos no artigo na página do Planalto; '
+           'o dispositivo normativo do art. 89 coincide.'),
+}
+LC123_VETO_MARKERS = ('63-A', '63-B', '63-C', '63-D', '63-E')
+LC123_VETO_MARKER_NOTE = (
+    'Marcador de veto na edição da Câmara (Lei Complementar nº 155, de 27/10/2016); '
+    'não é conteúdo normativo novo. Ausente na página do Planalto conferida.'
+)
+DIVERGENCIA_FIELDS = ('dispositivo', 'fontes', 'descricao', 'tratamento', 'natureza')
 
 HISTORIC_NOTE = [
     '**Edição histórica — não é a edição consolidada.** Este arquivo preserva, sem alterações, a redação da Lei nº 14.133/2021 '
@@ -870,6 +909,23 @@ def article_proof(primary_blocks, secondary_blocks):
     for item in result['divergentes']:
         item['diferencas'] = item['diferencas'][:3]
     return result
+
+
+def annotate_lc123_reconciliation(artigos):
+    """Reclassifica diferenças editoriais da LC 123 e identifica marcadores de veto.
+
+    O comparador trata arts. 63, 64 e 89 como substanciais pelo tamanho do diff, mas os
+    trechos divergentes são títulos, notas de seção e fecho/assinaturas. Os arts. 63-A a
+    63-E exclusivos da Câmara são marcadores de veto, não conteúdo normativo novo.
+    """
+    editorial = [a for a in artigos.get('divergencias_substanciais', []) if a in LC123_EDITORIAL]
+    artigos['divergencias_substanciais'] = [
+        a for a in artigos.get('divergencias_substanciais', []) if a not in LC123_EDITORIAL
+    ]
+    artigos['divergencias_editoriais'] = {a: LC123_EDITORIAL[a] for a in editorial}
+    veto = [a for a in artigos.get('apenas_na_principal', []) if a in LC123_VETO_MARKERS]
+    artigos['marcadores_veto'] = {a: LC123_VETO_MARKER_NOTE for a in veto}
+    return artigos
 
 
 def pdf_to_blocks(data):
@@ -972,9 +1028,23 @@ def compute(sources, fontes, baseline_texts=None):
     for slug, proof in reconciliation.items():
         if not proof['cobertura_texto']['equivalente']:
             problems.append(f'{slug}: cobertura de texto não equivalente à fonte')
-    lc = reconciliation['br-federal-lei-complementar-2006-12-14-123']['fontes_conferencia'][0]['artigos']
+    lc = reconciliation[LC123_SLUG]['fontes_conferencia'][0]['artigos']
+    annotate_lc123_reconciliation(lc)
     if '47' not in lc['divergencias_substanciais'] or '87-B' not in lc['apenas_na_principal']:
         problems.append('as divergências LC 123 (art. 47, art. 87-B) descritas no aviso editorial não se confirmaram')
+    editorial_found = set(lc.get('divergencias_editoriais', {}))
+    if editorial_found != set(LC123_EDITORIAL):
+        problems.append(f'LC 123: divergências editoriais esperadas {sorted(LC123_EDITORIAL)}, obtidas {sorted(editorial_found)}')
+    if set(lc.get('marcadores_veto', {})) != set(LC123_VETO_MARKERS):
+        problems.append(f'LC 123: marcadores de veto 63-A..E não identificados em apenas_na_principal')
+    known_lc = KNOWN_DIVERGENCES.get(LC123_SLUG, {})
+    if set(known_lc) != set(LC123_NOTE_ARTICLES):
+        problems.append('LC 123: KNOWN_DIVERGENCES deve cobrir exatamente os arts. do aviso editorial')
+    for art, rec in known_lc.items():
+        if not isinstance(rec, dict) or any(f not in rec for f in DIVERGENCIA_FIELDS):
+            problems.append(f'LC 123 art. {art}: divergência conhecida sem dispositivo/fontes/descricao/tratamento/natureza')
+        elif rec.get('natureza') != 'juridica':
+            problems.append(f'LC 123 art. {art}: natureza deve ser juridica')
     if problems:
         raise SystemExit('Conferência falhou:\n - ' + '\n - '.join(problems))
 
