@@ -1,0 +1,29 @@
+{
+  "documento": "br-federal-lei-1993-06-21-8666",
+  "fonte_principal": "planalto-8666",
+  "sha256_fonte_principal": "9a15afdaaa6c4f0d986c43baf75b46736e76e427c1f997bd03af68446f3687b2",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado, após normalização",
+    "equivalente": true,
+    "caracteres_normalizados": 159768
+  },
+  "conversao": {
+    "trechos_riscados": 1091,
+    "links": 459,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 1031
+  }
+}

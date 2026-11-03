@@ -1,0 +1,16 @@
+{
+  "descricao": "Edição anterior do acervo (commit auditado) contra a edição atual da Câmara capturada nesta entrega.",
+  "anterior_sha256": "b31d0e6a2e50918a661db65da1c79886d8a40d848aa7e3c8ff6698bfa7ea8fb7",
+  "artigos_identicos_no_texto": 140,
+  "artigos_com_texto_diferente": [],
+  "artigos_apenas_na_nova": [],
+  "artigos_apenas_na_anterior": [],
+  "artigos_com_remissao_lc238_antes": [],
+  "artigos_com_remissao_lc238_agora": [
+    "18-A",
+    "18-C",
+    "48",
+    "49"
+  ],
+  "detalhe_diferentes": []
+}

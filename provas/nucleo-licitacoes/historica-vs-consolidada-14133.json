@@ -1,0 +1,304 @@
+{
+  "descricao": "Artigos da edição consolidada (Planalto, texto em vigor segundo a fonte, sem riscados e sem notas) contra a edição histórica preservada.",
+  "historica": "federal/br-federal-lei-2021-04-01-14133.md",
+  "historica_sha256": "a8549ba1e3d54fd562afb29cb102bb97f1fb61c8bb4283e3eb4aab629fc193e1",
+  "consolidada": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
+  "sha256_fonte_consolidada": "b7a60649459d1a071721be782cbae7dc65842e791bbc0ba39f46ff0aa2cead50",
+  "artigos_apenas_na_consolidada": [
+    "44-A",
+    "184-A"
+  ],
+  "artigos_apenas_na_historica": [],
+  "artigos_identicos": 177,
+  "artigos_alterados": [
+    "37",
+    "44",
+    "54",
+    "75",
+    "79",
+    "86",
+    "87",
+    "90",
+    "92",
+    "96",
+    "105",
+    "115",
+    "121",
+    "174",
+    "175",
+    "184",
+    "193"
+  ],
+  "detalhe_alterados": [
+    {
+      "artigo": "37",
+      "similaridade": 0.8514,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "2ressalvadososcasosdeinexigibilidadedelicitacaonalicitacaoparacontratacaodosservicostecnicosespecializadosdenaturezapredominantementeintelectualprevistosnasalin",
+          "conferencia": "",
+          "contexto": "esignadosconformeodispostonoart7destalei|"
+        }
+      ]
+    },
+    {
+      "artigo": "44",
+      "similaridade": 0.8949,
+      "diferencas": [
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "subsecaoiidasobraseservicosdeengenharia",
+          "contexto": "aocomindicacaodaalternativamaisvantajosa|"
+        }
+      ]
+    },
+    {
+      "artigo": "54",
+      "similaridade": 0.8752,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "1semprejuizododispostonocaputeobrigatoriaapublicacaodeextratodoeditalnodiariooficialdauniaodoestadododistritofederaloudomunicipioounocasodeconsorciopublicodoent",
+          "conferencia": "",
+          "contexto": "portalnacionaldecontratacoespublicaspncp|2efacultadaadivulgacaoadicionaleamanuten"
+        }
+      ]
+    },
+    {
+      "artigo": "75",
+      "similaridade": 0.9584,
+      "diferencas": [
+        {
+          "operacao": "replace",
+          "principal": "prod",
+          "conferencia": "ins",
+          "contexto": "rpessoajuridicadedireitopublicointernode|utosestrategicosparaasaudefornecidosporp"
+        },
+        {
+          "operacao": "replace",
+          "principal": "t",
+          "conferencia": "m",
+          "contexto": "oajuridicadedireitopublicointernodeprodu|osestrategicosparaasaudefornecidosporpro"
+        },
+        {
+          "operacao": "replace",
+          "principal": "f",
+          "conferencia": "pr",
+          "contexto": "ointernodeprodutosestrategicosparaasaude|ornecidosporprodutorespublicosporinterme"
+        }
+      ]
+    },
+    {
+      "artigo": "79",
+      "similaridade": 0.762,
+      "diferencas": [
+        {
+          "operacao": "replace",
+          "principal": "ivc",
+          "conferencia": "paragraf",
+          "contexto": "ecaodeagentepormeiodeprocessodelicitacao|omercioeletronicocasoemqueaadministracao"
+        },
+        {
+          "operacao": "replace",
+          "principal": "mercioeletro",
+          "conferencia": "u",
+          "contexto": "deagentepormeiodeprocessodelicitacaoivco|nicocasoemqueaadministracaovisaacontrata"
+        },
+        {
+          "operacao": "delete",
+          "principal": "casoemqueaadministracaovisaacontratarbenseservicoscomunspadronizadosofertadosnosistemadecomprasexpressassicx1",
+          "conferencia": "",
+          "contexto": "eprocessodelicitacaoivcomercioeletronico|osprocedimentosdecredenciamentoseraodefi"
+        }
+      ]
+    },
+    {
+      "artigo": "86",
+      "similaridade": 0.9384,
+      "diferencas": [
+        {
+          "operacao": "replace",
+          "principal": "dead",
+          "conferencia": "conf",
+          "contexto": "dadegerenciadoraedofornecedor3afaculdade|eriraataderegistrodeprecosnacondicaodena"
+        },
+        {
+          "operacao": "replace",
+          "principal": "r",
+          "conferencia": "d",
+          "contexto": "enciadoraedofornecedor3afaculdadedeaderi|aataderegistrodeprecosnacondicaodenaopar"
+        },
+        {
+          "operacao": "replace",
+          "principal": "ata",
+          "conferencia": "pelo2",
+          "contexto": "ciadoraedofornecedor3afaculdadedeaderira|deregistrodeprecosnacondicaodenaopartici"
+        }
+      ]
+    },
+    {
+      "artigo": "87",
+      "similaridade": 0.9732,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "edecontratados",
+          "conferencia": "",
+          "contexto": "araefeitodecadastrounificadodelicitantes|naformaestabelecidaemregulamentodopodere"
+        },
+        {
+          "operacao": "replace",
+          "principal": "e",
+          "conferencia": "dispo",
+          "contexto": "ificadodelicitantesedecontratadosnaforma|stabelecidaemregulamentodopoderexecutivo"
+        },
+        {
+          "operacao": "delete",
+          "principal": "abelecid",
+          "conferencia": "",
+          "contexto": "cadodelicitantesedecontratadosnaformaest|aemregulamentodopoderexecutivofederal1os"
+        }
+      ]
+    },
+    {
+      "artigo": "90",
+      "similaridade": 0.9112,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "8nasituacaodequetratao7desteartigoeautorizadooaproveitamentoemfavordanovacontratadadeeventualsaldoaliquidarinscritoemdespesasempenhadasouemrestosapagarnaoproces",
+          "conferencia": "",
+          "contexto": "scriteriosestabelecidosnos2e4desteartigo|"
+        }
+      ]
+    },
+    {
+      "artigo": "92",
+      "similaridade": 0.97,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "7paraefeitododispostonestaleiconsideramsecomoadimplementodaobrigacaocontratualaprestacaodoservicoarealizacaodaobraouaentregadobemouparceladestesbemcomoqualquero",
+          "conferencia": "",
+          "contexto": "adocumentacaoprevistano6doart135destalei|"
+        }
+      ]
+    },
+    {
+      "artigo": "96",
+      "similaridade": 0.9646,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "ivtitulodecapitalizacaocusteadoporpagamentounicocomresgatepelovalortotal",
+          "conferencia": "",
+          "contexto": "adaaoperarnopaispelobancocentraldobrasil|2nahipotesedesuspensaodocontratoporordem"
+        }
+      ]
+    },
+    {
+      "artigo": "105",
+      "similaridade": 0.7013,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "paragrafouniconaoseraoobjetodecancelamentoautomaticoosrestosapagarvinculadosacontratosdeduracaoplurianualsenaodepoisdeencerradaavigenciadestesnemosvinculadosaco",
+          "conferencia": "",
+          "contexto": "lquandoultrapassar1umexerciciofinanceiro|"
+        }
+      ]
+    },
+    {
+      "artigo": "115",
+      "similaridade": 0.9034,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "4nascontratacoesdeobraseservicosdeengenhariasemprequearesponsabilidadepelolicenciamentoambientalfordaadministracaoamanifestacaopreviaoulicencapreviaquandocabive",
+          "conferencia": "",
+          "contexto": "enovotitularnoorgaoouentidadecontratante|5emcasodeimpedimentoordemdeparalisacaoou"
+        }
+      ]
+    },
+    {
+      "artigo": "121",
+      "similaridade": 0.9997,
+      "diferencas": [
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "4",
+          "contexto": "tratadosomentenaocorrenciadofatogerador4|osvaloresdepositadosnacontavinculadaaque"
+        }
+      ]
+    },
+    {
+      "artigo": "174",
+      "similaridade": 0.9753,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "viiosicx3aasfuncionalidadesaqueserefereo3desteartigoseraoossistemasadotadoseoferecidospelopoderexecutivofederal",
+          "conferencia": "",
+          "contexto": "primoramentodasatividadesdaadministracao|4opncpadotaraoformatodedadosabertoseobse"
+        }
+      ]
+    },
+    {
+      "artigo": "175",
+      "similaridade": 0.7577,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "ublicooup",
+          "conferencia": "",
+          "contexto": "nicofornecidoporpessoajuridicadedireitop|rivadonaformaderegulamentodopoderexecuti"
+        },
+        {
+          "operacao": "delete",
+          "principal": "dopoderexecutivofederal2ate31dedezembrode2023osmunicipiosdeveraorealizardivulgacaocomplementardesuascontratacoesmediantepublicacaodeextratodeeditaldelicitacaoem",
+          "conferencia": "",
+          "contexto": "eitopublicoouprivadonaformaderegulamento|"
+        }
+      ]
+    },
+    {
+      "artigo": "184",
+      "similaridade": 0.3109,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "2quandoverificadaqualquerdashipotesesdaalineaddoincisoiidocaputdoart124destaleiovalorglobalinicialmentepactuadodemonstrarseinsuficienteparaaexecucaodoobjetopode",
+          "conferencia": "",
+          "contexto": "cidaemregulamentodopoderexecutivofederal|"
+        }
+      ]
+    },
+    {
+      "artigo": "193",
+      "similaridade": 0.8314,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "em30dedezembrode2023a",
+          "conferencia": "",
+          "contexto": "ejunhode1993nadatadepublicacaodestaleiii|aleino8666de21dejunhode1993baleino10520d"
+        },
+        {
+          "operacao": "delete",
+          "principal": "b",
+          "conferencia": "",
+          "contexto": "zembrode2023aaleino8666de21dejunhode1993|aleino10520de17dejulhode2002ecosarts1a47"
+        },
+        {
+          "operacao": "delete",
+          "principal": "c",
+          "conferencia": "",
+          "contexto": "unhode1993baleino10520de17dejulhode2002e|osarts1a47adaleino12462de4deagostode2011"
+        }
+      ]
+    }
+  ]
+}

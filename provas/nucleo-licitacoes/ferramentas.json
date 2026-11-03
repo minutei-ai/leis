@@ -1,0 +1,8 @@
+{
+  "nota": "Versões usadas na geração. A conversão é determinística para estas versões; outras versões do analisador HTML (libxml2) ou do pdftotext podem alterar o resultado byte a byte.",
+  "python": "3.14.9",
+  "beautifulsoup4": "4.15.0",
+  "lxml": "6.1.3.0",
+  "libxml2": "2.15.4",
+  "pdftotext": "pdftotext version 26.10.0"
+}
