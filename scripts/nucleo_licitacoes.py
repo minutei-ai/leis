@@ -453,7 +453,7 @@ class Converter:
                     '<{t}{rs}{cs}>{c}</{t}>'.format(
                         t='th' if (th or r_index == 0) else 'td',
                         rs=f' rowspan="{rs}"' if rs > 1 else '', cs=f' colspan="{cs}"' if cs > 1 else '',
-                        c=htmllib.escape(self.unescape_md(text), quote=False))
+                        c=htmllib.escape(self.unescape_md(re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', text)), quote=False))
                     for text, rs, cs, th in cells) + '</tr>')
             lines.append('</table>')
             self.blocks.append('\n'.join(lines))

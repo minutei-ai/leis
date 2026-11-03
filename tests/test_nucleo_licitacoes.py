@@ -635,6 +635,14 @@ class TestConversor(unittest.TestCase):
         self.assertEqual(conv.blocks[0], '| A | B |\n| --- | --- |\n| 1 | 2\\|3 |')
         self.assertTrue(conv.blocks[1].startswith('<table>') and 'colspan="2"' in conv.blocks[1])
 
+    def test_tabela_html_preserva_rotulo_sem_sintaxe_de_link_markdown(self):
+        conv = self.convert('<table><tr><td colspan="2"><a href="lei.htm#faixas">Faixas</a></td></tr>'
+                            '<tr><td>1</td><td>2</td></tr></table>')
+        from bs4 import BeautifulSoup
+        cell = BeautifulSoup(conv.blocks[0], 'lxml').find('th')
+        self.assertEqual(cell.get_text(), 'Faixas')
+        self.assertNotIn('[Faixas]', conv.blocks[0])
+
     def test_imagem_e_registrada_com_hash_e_omitida(self):
         import base64
         raw = b'\x89PNG\r\n\x1a\nxx'

@@ -24,7 +24,7 @@ anexos_no_corpo: 2
 tabelas: 9
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "dad85edb990fc481a462f3bb64f956c895103a27f50fcd9087a97712f6aeae99"
+sha256_markdown: "ee860b085cd3c8c86b09030984fe6687bb2ce5106b102af3457179356984b17e"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
@@ -5334,7 +5334,7 @@ Para os anos-calendário 2027 e 2028
 .............................................................................................................................................................
 
 <table>
-<tr><th>[Faixas](https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp214.htm#anexo20-anexo3-2027-2028-faixas)</th><th colspan="6">Percentual de Repartição dos Tributos</th></tr>
+<tr><th>Faixas</th><th colspan="6">Percentual de Repartição dos Tributos</th></tr>
 <tr><td></td><td>IRPJ</td><td>CSLL</td><td>CBS</td><td>CPP</td><td>ISS (*)</td><td>IBS</td></tr>
 <tr><td>1ª Faixa</td><td>4,00%</td><td>3,50%</td><td>15,43%</td><td>43,40%</td><td>33,50%</td><td>0,17%</td></tr>
 <tr><td>2ª Faixa</td><td>4,00%</td><td>3,50%</td><td>16,91%</td><td>43,40%</td><td>32,00%</td><td>0,19%</td></tr>
