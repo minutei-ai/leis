@@ -1,4 +1,4 @@
-"""Regressões do núcleo de legislação de licitações (Leis 14.133, 13.303, 8.666, 10.520 e LC 123).
+"""Regressões do núcleo de legislação de licitações (Leis 14.133, 13.303, 8.666, 10.520 e LCs 123 e 238).
 
 Lê somente arquivos do repositório; não acessa a rede. Execute: python3 -m unittest discover -s tests
 """
@@ -17,10 +17,11 @@ import nucleo_licitacoes as nl  # noqa: E402
 HIST = 'federal/br-federal-lei-2021-04-01-14133.md'
 CONS = 'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md'
 LC123 = 'federal/br-federal-lei-complementar-2006-12-14-123.md'
+LC238 = 'federal/br-federal-lei-complementar-2026-10-21-238.md'
 L13303 = 'federal/br-federal-lei-2016-06-30-13303.md'
 L8666 = 'federal/br-federal-lei-1993-06-21-8666.md'
 L10520 = 'federal/br-federal-lei-2002-07-17-10520.md'
-ALL = [HIST, CONS, LC123, L13303, L8666, L10520]
+ALL = [HIST, CONS, LC123, LC238, L13303, L8666, L10520]
 
 
 def load(rel):
@@ -179,10 +180,20 @@ class TestLC123(unittest.TestCase):
         entry = next(d for d in self.manifest['documentos'] if d['id'] == 'br-federal-lei-complementar-2006-12-14-123')
         effect = entry['efeitos_diferidos_detalhe'][0]
         self.assertEqual(effect['remissoes_na_edicao'], ['art. 18-A', 'art. 18-C', 'art. 48', 'art. 49'])
+        self.assertEqual(effect['norma_id_modificadora'], 'br-federal-lei-complementar-2026-10-21-238')
+        self.assertEqual(effect['arquivo_norma_modificadora'], LC238)
+        self.assertTrue((ROOT / effect['arquivo_norma_modificadora']).is_file())
+        by_device = {d['dispositivo']: d['efeitos_a_partir_de'] for d in effect['dispositivos_modificados']}
+        self.assertEqual(by_device['art. 18-A, §§ 1º e 2º'], '2028-01-01')
+        self.assertEqual(by_device['art. 18-C'], '2027-01-01')
+        self.assertEqual(by_device['art. 48'], '2027-01-01')
+        self.assertEqual(by_device['art. 49'], '2027-01-01')
         joined = ' '.join(effect['texto_da_fonte_modificadora'])
         self.assertIn('1º de janeiro de 2028', joined)
         self.assertIn('1º de janeiro de 2027', joined)
         self.assertIn('não incorpora', effect['leitura'])
+        self.assertIn(LC238, effect['leitura'])
+        self.assertIn(LC238.split('/')[-1], self.body)
 
     def test_edicao_consultada_registrada(self):
         self.assertEqual(self.meta['fonte_orgao'], nl.CAMARA)
@@ -206,6 +217,73 @@ class TestLC123(unittest.TestCase):
     def test_divergencia_entre_fontes_sinalizada_no_arquivo(self):
         self.assertIn('art. 47', self.body)
         self.assertIn('art. 87-B', self.body)
+
+
+class TestLC238(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.meta, cls.body = load(LC238)
+        cls.manifest = json.loads(nl.MANIFESTO.read_text())
+        cls.entry = next(d for d in cls.manifest['documentos'] if d['id'] == 'br-federal-lei-complementar-2026-10-21-238')
+        cls.proof = json.loads((ROOT / 'provas/nucleo-licitacoes/reconciliacao-br-federal-lei-complementar-2026-10-21-238.json').read_text())
+
+    def test_identidade_edicao_captura_e_hashes(self):
+        m = self.meta
+        self.assertEqual(m['norma_tipo'], 'lei-complementar')
+        self.assertEqual(m['norma_numero'], '238')
+        self.assertEqual(m['norma_data'], '2026-10-21')
+        self.assertEqual(m['edicao_tipo'], 'consolidada')
+        self.assertIs(m['edicao_integral'], True)
+        self.assertEqual(m['fonte_orgao'], nl.PLANALTO)
+        self.assertEqual(m['fonte_url'], nl.SOURCES['planalto-lc238']['url'])
+        self.assertEqual(m['fonte_conferencia'], 'nenhuma')
+        self.assertRegex(m['capturado_em'], r'^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\dZ$')
+        self.assertRegex(m['sha256_fonte'], r'^[0-9a-f]{64}$')
+        self.assertEqual(m['sha256_fonte'], self.entry['fontes']['principal']['sha256'])
+        self.assertEqual(m['situacao'], 'nao-informada')
+        self.assertIs(m['vigencia_certificada'], False)
+        self.assertIn('não antecipa', self.body)
+
+    def test_texto_integral_e_cobertura(self):
+        text = nl.md_text_all(self.body)
+        self.assertIn('R$ 140.000,00', text)
+        self.assertIn('R$ 11.666,67', text)
+        self.assertIn('art. 75', text)  # alteração do art. 48
+        self.assertIn('microempreendedores individuais', text)
+        self.assertIn('DOU de 21.10.2026', text)
+        self.assertTrue(self.proof['cobertura_texto']['equivalente'])
+        self.assertEqual(self.proof['fontes_conferencia'], [])
+        numbers = {k.split('-')[0] for k in nl.split_articles(blocks_of(self.body))[1]}
+        self.assertTrue({str(n) for n in range(1, 11)} <= numbers)
+
+    def test_art10_literal_sem_antecipar_aplicacao(self):
+        art10 = ' '.join(nl.md_plain(b, True) for b in article(self.body, '10'))
+        self.assertIn('1º de janeiro de 2028', art10)
+        self.assertIn('1º de janeiro de 2027', art10)
+        self.assertIn('art. 18-A, §§ 1º e 2º', art10)
+        self.assertIn('demais dispositivos', art10)
+        effect = self.entry['efeitos_diferidos_detalhe'][0]
+        joined = ' '.join(effect['texto_da_fonte'])
+        self.assertIn('1º de janeiro de 2028', joined)
+        self.assertIn('1º de janeiro de 2027', joined)
+        altera = effect['altera_norma']
+        self.assertEqual(altera['norma_id'], 'br-federal-lei-complementar-2006-12-14-123')
+        self.assertEqual(altera['arquivo'], LC123)
+        self.assertEqual(altera['dispositivos'], ['art. 18-A', 'art. 18-C', 'art. 48', 'art. 49'])
+        by_device = {d['dispositivo']: d['efeitos_a_partir_de'] for d in altera['dispositivos_modificados']}
+        self.assertEqual(by_device['art. 18-A, §§ 1º e 2º'], '2028-01-01')
+        self.assertTrue(any(d['efeitos_a_partir_de'] == '2027-01-01' for d in altera['dispositivos_modificados']))
+        # a LC 123 consultada permanece com o limite antigo
+        _, lc123_body = load(LC123)
+        self.assertIn('R$ 81.000,00', nl.md_plain(device(lc123_body, '18-A', '§ 1º'), True))
+        self.assertNotIn('R$ 140.000,00', nl.md_text_all(lc123_body))
+
+    def test_imagem_institucional_omitida_e_links_resolviveis(self):
+        self.assertEqual(self.meta['imagens_omitidas'], 1)
+        self.assertNotIn('data:image', self.body)
+        self.assertGreaterEqual(self.meta.get('anexos_no_corpo', 0), 0)
+        self.assertIn('](https://www.planalto.gov.br/', self.body)
+        self.assertIn('lcp123.htm', self.body)
 
 
 class TestRevogadas(unittest.TestCase):

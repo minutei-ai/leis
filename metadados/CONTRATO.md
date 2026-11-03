@@ -1,7 +1,7 @@
 # Contrato de metadados do núcleo de licitações
 
 Este contrato vale para os arquivos Markdown do núcleo de legislação de licitações (Leis 14.133/2021, 13.303/2016,
-8.666/1993 e 10.520/2002 e Lei Complementar 123/2006). Cada arquivo começa com um cabeçalho `---` de campos planos
+8.666/1993 e 10.520/2002 e Leis Complementares 123/2006 e 238/2026). Cada arquivo começa com um cabeçalho `---` de campos planos
 (`campo: valor`, valores em JSON) e o detalhamento fica em [`nucleo-licitacoes.json`](nucleo-licitacoes.json). O cabeçalho
 e o manifesto dizem de onde veio cada texto, que edição ele é e quando foi capturado, **sem** deduzir nada do texto, do ano
 da norma, da presença no repositório ou da data do commit.
