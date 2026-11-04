@@ -1,0 +1,97 @@
+{
+  "catalogo_portal": {
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas",
+    "descricao": "Índice de Instruções Normativas vigentes do Portal de Compras"
+  },
+  "especie_e_nome": {
+    "padrao_id": "br-federal-in-<orgao>-<AAAA-MM-DD>-<numero>",
+    "norma_tipo": "in",
+    "orgaos_neste_lote": [
+      "seges-me",
+      "seges",
+      "seges-mgi",
+      "seges-mpdg"
+    ],
+    "nota": "Órgão emissor entra no identificador. Resolução CMN, RDC ANVISA e IN RFB usam espécies/órgãos distintos (issue #75)."
+  },
+  "in-seges-me-65-2021": {
+    "chave": "in-seges-me-65-2021",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-65-de-7-de-julho-de-2021",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T19:28:30Z",
+    "sha256": "a58c0d3feb419f0630535e77640ff948f0261029d0f1042217d66e0a4bbdde29",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-me-2021-07-07-65.html.xz",
+    "sha256_snapshot_armazenado": "3c20a282856f6dcc7b95eddba66cbe2e8d290393652e51578c838dd3d97459fe",
+    "http_status": 200
+  },
+  "in-seges-me-67-2021": {
+    "chave": "in-seges-me-67-2021",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-67-de-8-de-julho-de-2021",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T19:28:30Z",
+    "sha256": "7b378f71188c94fdbf2295ec6c3e2040d923b244a40957b97b5d02934f17bb63",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-me-2021-07-08-67.html.xz",
+    "sha256_snapshot_armazenado": "837e4ed2bd7104c57d2bffacfbee82e9ebd914beacc858bafbf3bade10acef20",
+    "http_status": 200
+  },
+  "in-seges-me-73-2022": {
+    "chave": "in-seges-me-73-2022",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-73-de-30-de-setembro-de-2022",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T19:28:30Z",
+    "sha256": "1984fae64c75eaef4bf43fd5ae9f966268e811e0a8725670b7f3c883aba77fac",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-me-2022-09-30-73.html.xz",
+    "sha256_snapshot_armazenado": "db9f82b4f411f3bf5d978a261f9dd7f5c46b6f62e7856e2fa326ff4e54b98028",
+    "http_status": 200
+  },
+  "in-seges-58-2022": {
+    "chave": "in-seges-58-2022",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-no-58-de-8-de-agosto-de-2022",
+    "orgao": "SEGES",
+    "formato": "html",
+    "capturado_em": "2026-11-04T19:28:30Z",
+    "sha256": "3aaa6b73f421b3b2403a80e257bd50fafbde8bfa3b98c6bc702f00245dc22bbe",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-2022-08-08-58.html.xz",
+    "sha256_snapshot_armazenado": "53e2753cc5c1080b2cd2e6d553d5cfaa7bff2de8d3413d23a95873c2200a1b65",
+    "http_status": 200
+  },
+  "in-seges-me-81-2022": {
+    "chave": "in-seges-me-81-2022",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-81-de-25-de-novembro-de-2022",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T19:28:30Z",
+    "sha256": "5930b99e0e0b98cac236a6a94d53418b6e3c63ff7ad1605aa7d0fdd0f726f5d5",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-me-2022-11-25-81.html.xz",
+    "sha256_snapshot_armazenado": "37ef0257101ffcbfaf4a283d27687374e22fa0f10f38a79def05c9302820f9f2",
+    "http_status": 200
+  },
+  "in-seges-mgi-2-2023": {
+    "chave": "in-seges-mgi-2-2023",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-2-de-7-de-fevereiro-de-2023",
+    "orgao": "SEGES/MGI",
+    "formato": "html",
+    "capturado_em": "2026-11-04T19:28:30Z",
+    "sha256": "35c7aea14aaac6347fcff57de2f51f5a66b033d08979d07f37a328768fe8832d",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-mgi-2023-02-07-2.html.xz",
+    "sha256_snapshot_armazenado": "d5f54f0462c7bc849a125a6be48336694fa86e8576f65d0887705491447f3eb1",
+    "http_status": 200
+  },
+  "index-instrucoes": {
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas",
+    "formato": "html",
+    "sha256": "7d676e0a9f706d16e9a4caf51f12106ce33d70df318f9a34d65d31a82804dfdf",
+    "snapshot": "provas/atos-infralegais-seges/fontes/index-instrucoes.html.xz",
+    "papel": "catalogo"
+  },
+  "index-revogadas": {
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas-revogadas",
+    "formato": "html",
+    "sha256": "94ec623831b2852872507e8407ac8ced3ea4db330dcb33dfa4e4f8d852866a91",
+    "snapshot": "provas/atos-infralegais-seges/fontes/index-revogadas.html.xz",
+    "papel": "catalogo"
+  }
+}

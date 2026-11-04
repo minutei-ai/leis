@@ -1,0 +1,28 @@
+{
+  "id": "br-federal-in-seges-2022-08-08-58",
+  "fonte": "in-seges-58-2022",
+  "sha256_fonte": "3aaa6b73f421b3b2403a80e257bd50fafbde8bfa3b98c6bc702f00245dc22bbe",
+  "sha256_markdown": "eb9344847a6c038618c218d96cb0a592b338b33909e51e465c9339582d36c93f",
+  "titulo_encontrado": "INSTRUÇÃO NORMATIVA SEGES Nº 58, DE 8 DE AGOSTO DE 2022",
+  "artigos_detectados": 19,
+  "anexos_no_corpo": 0,
+  "tabelas": 0,
+  "conversao": {
+    "blocos": 76,
+    "stats": {
+      "trechos_riscados": 0,
+      "links": 1,
+      "tabelas_markdown": 0,
+      "tabelas_html": 0
+    }
+  },
+  "cobertura_marcadores": {
+    "tem_instrucao_normativa": true,
+    "tem_art_1": true,
+    "tem_aviso_dou": true
+  },
+  "lei_regulamentada": [
+    "br-federal-lei-2021-04-01-14133"
+  ],
+  "vigencia_certificada": false
+}
