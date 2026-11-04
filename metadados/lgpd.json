@@ -1,0 +1,220 @@
+{
+  "contrato": "metadados/CONTRATO-lgpd.md",
+  "contrato_versao": 1,
+  "descricao": "Catálogo temático da LGPD (Lei 13.709/2018) e vínculos com a MP 1.317/2025 e a Lei 15.352/2026. Separado do núcleo de licitações.",
+  "vigencia_certificada": false,
+  "documentos": {
+    "br-federal-lei-2018-08-14-13709": {
+      "arquivo": "federal/br-federal-lei-2018-08-14-13709.md",
+      "edicao_tipo": "historica",
+      "meta": {
+        "id": "br-federal-lei-2018-08-14-13709",
+        "norma_id": "br-federal-lei-2018-08-14-13709",
+        "norma_tipo": "lei",
+        "norma_numero": "13709",
+        "norma_data": "2018-08-14",
+        "titulo": "LEI Nº 13.709, DE 14 DE AGOSTO DE 2018",
+        "esfera": "federal",
+        "edicao_id": "br-federal-lei-2018-08-14-13709@historica-fonte-desconhecida",
+        "edicao_tipo": "historica",
+        "edicao_integral": "desconhecido",
+        "edicao_relacionada": "br-federal-lei-2018-08-14-13709-consolidada",
+        "fonte_orgao": "desconhecido",
+        "fonte_url": "desconhecido",
+        "fonte_formato": "desconhecido",
+        "fonte_conferencia": "desconhecido",
+        "capturado_em": "desconhecido",
+        "sha256_fonte": "desconhecido",
+        "situacao": "nao-informada",
+        "situacao_fundamento": "desconhecido",
+        "vigencia_certificada": false,
+        "texto_riscado": false,
+        "anexos_no_corpo": 0,
+        "tabelas": 0,
+        "imagens_omitidas": 0,
+        "efeitos_diferidos": "nao-aplicavel-sem-notas-na-edicao",
+        "sha256_corpo_preservado": "d6f046095c0c80db5fd0069b8103b489f98a4b83648ac2d114e23c05ffe68422",
+        "sha256_markdown": "22b19c86595db7b3154de04949192c5a6cd2ce6cefc8848de898f9685770a7a8",
+        "manifesto": "metadados/lgpd.json",
+        "contrato_versao": 1
+      },
+      "alerta_por_dispositivo": {
+        "art. 5º, VIII": "redação anterior à Lei 15.352/2026 (Autoridade Nacional…)",
+        "art. 5º, XIX": "redação anterior (órgão…); consolidada: entidade…",
+        "Capítulo IX (título)": "redação anterior (Autoridade Nacional…)",
+        "Capítulo IX, Seção I": "redação anterior (Da Autoridade Nacional…)",
+        "art. 55-A": "redação anterior à Lei 15.352/2026",
+        "art. 55-C, V-B": "ausente nesta edição; consolidada inclui Auditoria"
+      }
+    },
+    "br-federal-lei-2018-08-14-13709-consolidada": {
+      "arquivo": "federal/edicoes/br-federal-lei-2018-08-14-13709-consolidada.md",
+      "edicao_tipo": "consolidada",
+      "meta": {
+        "id": "br-federal-lei-2018-08-14-13709-consolidada",
+        "norma_id": "br-federal-lei-2018-08-14-13709",
+        "norma_tipo": "lei",
+        "norma_numero": "13709",
+        "norma_data": "2018-08-14",
+        "titulo": "LEI Nº 13.709, DE 14 DE AGOSTO DE 2018",
+        "esfera": "federal",
+        "edicao_id": "br-federal-lei-2018-08-14-13709@consolidada-camara",
+        "edicao_tipo": "consolidada",
+        "edicao_integral": true,
+        "edicao_relacionada": "br-federal-lei-2018-08-14-13709",
+        "fonte_orgao": "Câmara dos Deputados",
+        "fonte_url": "https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-787077-normaatualizada-pl.html",
+        "fonte_formato": "html",
+        "fonte_conferencia": [
+          "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+        ],
+        "capturado_em": "2026-11-04T12:01:14Z",
+        "sha256_fonte": "5ade20f12d206504f3beb13a0595d144efc891229ad0e6badcebfa97a8a83596",
+        "situacao": "nao-informada",
+        "situacao_fundamento": "desconhecido",
+        "vigencia_certificada": false,
+        "texto_riscado": false,
+        "anexos_no_corpo": 0,
+        "tabelas": 0,
+        "imagens_omitidas": 0,
+        "efeitos_diferidos": "preservados-nas-notas-do-texto",
+        "sha256_markdown": "89970f6a38747b06ac7496da2b6ff30425ef8a5139e927484f9c2f15f813eb7b",
+        "manifesto": "metadados/lgpd.json",
+        "contrato_versao": 1
+      },
+      "dispositivos_conferidos": {
+        "art5_VIII": "VIII - encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Agência Nacional de Proteção de Dados (ANPD);",
+        "art5_XIX": "XIX - autoridade nacional: entidade da administração pública responsável por zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território nacional.",
+        "cap_ix_titulo": "CAPÍTULO IX DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE",
+        "secao_i_titulo": "Seção I Da Agência Nacional de Proteção de Dados",
+        "art55A": "Art. 55-A. Fica criada a Agência Nacional de Proteção de Dados (ANPD), autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, dotada de autonomia funcional, técnica, decisória, administrativa e financeira, com patrimônio próprio e com sede e foro no Distrito Federal, nos termos da Lei nº 13.848, de 25 de junho de 2019.",
+        "art55C": "Art. 55-C. A ANPD é composta de: [(“Caput” do artigo acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) I - Conselho Diretor, órgão máximo de direção; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) II - Conselho Nacional de Proteção de Dados Pessoais e da Privacidade; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) III - Corregedoria; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) IV - Ouvidoria; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) V - [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) e [revogado pela Lei nº 14.460, de 25/10/2022)](https://www2.camara.leg.br/legin/fed/lei/2022/lei-14460-25-outubro-2022-793355-publicacaooriginal-166348-pl.html) V-A - Procuradoria; [(Inciso acrescido pela Lei nº 14.460, de 25/10/2022](https://www2.camara.leg.br/legin/fed/lei/2022/lei-14460-25-outubro-2022-793355-publicacaooriginal-166348-pl.html), [e com redação dada pela Medida Provisória nº 1.317, de 17/9/2025](https://www2.camara.leg.br/legin/fed/medpro/2025/medidaprovisoria-1317-17-setembro-2025-797987-publicacaooriginal-176485-pe.html), [convertida na Lei nº 15.352, de 25/2/2026)](https://www2.camara.leg.br/legin/fed/lei/2026/lei-15352-25-fevereiro-2026-798731-publicacaooriginal-178208-pl.html) V-B - Auditoria; e [(Inciso acrescido pela Medida Provisória nº 1.317, de 17/9/2025](https://www2.camara.leg.br/legin/fed/medpro/2025/medidaprovisoria-1317-17-setembro-2025-797987-publicacaooriginal-176485-pe.html), [convertida na Lei nº 15.352, de 25/2/2026)](https://www2.camara.leg.br/legin/fed/lei/2026/lei-15352-25-fevereiro-2026-798731-publicacaooriginal-178208-pl.html) VI - unidades administrativas e unidades especializadas.",
+        "nota_art5_VIII": true,
+        "nota_cap_ix": true,
+        "nota_secao_i": true,
+        "nota_art55A": true,
+        "nota_art55C_VB": true
+      },
+      "reconciliacao": "provas/lgpd/reconciliacao-br-federal-lei-2018-08-14-13709-consolidada.json"
+    },
+    "br-federal-lei-2026-02-25-15352": {
+      "arquivo": "federal/br-federal-lei-2026-02-25-15352.md",
+      "papel": "modificadora",
+      "republicada_neste_catalogo": false,
+      "validacao": {
+        "arquivo": "federal/br-federal-lei-2026-02-25-15352.md",
+        "sha256_markdown_publicado": "21fcca780b75a385b46a8842facee60664fb0cc9676c12489a2fbed48965ec4c",
+        "contem_art55A_agencia": true,
+        "contem_art5_VIII_agencia": true,
+        "contem_cap_ix_agencia": true,
+        "contem_secao_i_agencia": true,
+        "contem_VB_auditoria": true,
+        "preserva_autoridade_em_transicao": true,
+        "anexos_tabulares_no_markdown_publicado": false,
+        "anexos_tabulares_no_snapshot_planalto": true,
+        "limite": "O Markdown publicado de br-federal-lei-2026-02-25-15352.md não reproduz as tabelas dos Anexos I–III; os bytes oficiais estão em provas/lgpd/fontes/planalto-l15352.htm.xz para reconversão offline. A norma não foi republicada neste PR.",
+        "camara_original_contem_art55A": true,
+        "fontes": {
+          "camara-lei-15352-original": "151eb7a3b02d4f812fe5a5f962e93ba10a1533f3bdbb74611bcfc519ec5241a9",
+          "planalto-lei-15352": "cb426cc787842d616434b5b547a270952272b679493f2e8f209431b7c0ffa074"
+        }
+      }
+    },
+    "br-federal-medida-provisoria-2025-09-17-1317": {
+      "arquivo": "federal/br-federal-medida-provisoria-2025-09-17-1317.md",
+      "papel": "medida-provisoria-convertida",
+      "snapshot_camara": "provas/lgpd/fontes/camara-mp-1317-publicacaooriginal.html.xz",
+      "snapshot_planalto": "provas/lgpd/fontes/planalto-mpv1317.htm.xz"
+    }
+  },
+  "relacoes": [
+    {
+      "tipo": "alteracao",
+      "origem": "br-federal-lei-2026-02-25-15352",
+      "destino": "br-federal-lei-2018-08-14-13709",
+      "edicao_destino": "br-federal-lei-2018-08-14-13709-consolidada",
+      "dispositivos": [
+        "art. 5º, VIII",
+        "art. 5º, XIX",
+        "Capítulo IX (título)",
+        "Capítulo IX, Seção I (título)",
+        "art. 55-A, caput",
+        "art. 55-C, V-A",
+        "art. 55-C, V-B",
+        "art. 55-C, VI"
+      ],
+      "fundamento": "art. 1º da Lei nº 15.352/2026 (conversão da MP nº 1.317/2025)",
+      "prova_fontes": [
+        "camara-lgpd-atualizada",
+        "camara-lei-15352-original",
+        "planalto-lei-15352"
+      ]
+    },
+    {
+      "tipo": "alteracao",
+      "origem": "br-federal-medida-provisoria-2025-09-17-1317",
+      "destino": "br-federal-lei-2018-08-14-13709",
+      "edicao_destino": "br-federal-lei-2018-08-14-13709-consolidada",
+      "dispositivos": [
+        "art. 5º, VIII",
+        "art. 5º, XIX",
+        "Capítulo IX (título)",
+        "Capítulo IX, Seção I (título)",
+        "art. 55-A, caput",
+        "art. 55-C, V-A",
+        "art. 55-C, V-B",
+        "art. 55-C, VI"
+      ],
+      "fundamento": "MP nº 1.317/2025, convertida na Lei nº 15.352/2026 (notas da Câmara)",
+      "prova_fontes": [
+        "camara-lgpd-atualizada",
+        "camara-mp-1317",
+        "planalto-mp-1317"
+      ]
+    }
+  ],
+  "escopo_cobertura": {
+    "estado": "parcial",
+    "descricao": "LGPD consolidada integral (Câmara) com conferência Planalto; edição histórica preservada; Lei 15.352 reutilizada sem republicação (anexos tabulares só no snapshot Planalto). Não cobre todo o direito de proteção de dados."
+  },
+  "desconhecidos": [
+    "fonte/captura originais da edição histórica da LGPD",
+    "vigência/eficácia residual de dispositivos não alterados — não certificada",
+    "anexos tabulares da Lei 15.352 no Markdown já publicado da modificadora"
+  ],
+  "historica_vs_consolidada": "provas/lgpd/historica-vs-consolidada-13709.json",
+  "fontes": "provas/lgpd/fontes.json",
+  "reconciliacao_resumo": {
+    "identicos": 75,
+    "divergentes": 4,
+    "divergencias_de_forma": [],
+    "divergencias_substanciais": [
+      "5",
+      "14",
+      "55-F",
+      "65"
+    ],
+    "apenas_na_principal": [
+      "14-A",
+      "57"
+    ],
+    "apenas_na_conferencia": []
+  },
+  "hist_vs_cons_foco": {
+    "5": {
+      "identicos": false,
+      "historica_tem_autoridade_nacional_de_protecao": true,
+      "consolidada_tem_agencia_nacional_de_protecao": true
+    },
+    "55-A": {
+      "identicos": false,
+      "historica_tem_autoridade_nacional_de_protecao": true,
+      "consolidada_tem_agencia_nacional_de_protecao": true
+    },
+    "55-C": {
+      "identicos": false,
+      "historica_tem_autoridade_nacional_de_protecao": false,
+      "consolidada_tem_agencia_nacional_de_protecao": false
+    }
+  }
+}
