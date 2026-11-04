@@ -14,7 +14,16 @@
       "sha256_markdown": "258f1463c2efdf4c830994123faec489df22826077ca09ca78a46ef8e872da6d",
       "sha256_corpo_markdown": "3a8b9897f226841824e2a3428f1e2018c7e81bae3910a1ecdda864d8568430f0",
       "formato": "pdf",
-      "estrategia": "pdf-text"
+      "estrategia": "pdf-text",
+      "arquivo_plain": "provas/constituicoes-estaduais/PB/fontes/alpb-constituicao-1989.plain.txt.xz",
+      "sha256_plain": "3a8b9897f226841824e2a3428f1e2018c7e81bae3910a1ecdda864d8568430f0",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }

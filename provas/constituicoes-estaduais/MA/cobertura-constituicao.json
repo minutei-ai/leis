@@ -8,5 +8,13 @@
     "mencao_disposicoes_transitorias": true
   },
   "chars_corpo": 292448,
-  "verificado_em": "2026-11-04T20:21:14Z"
+  "verificado_em": "2026-11-04T21:23:35Z",
+  "ferramentas": {
+    "python": "3.14.9",
+    "beautifulsoup4": "4.15.0",
+    "lxml": "6.1.3.0",
+    "libxml2": "2.15.4",
+    "pdftotext": "pdftotext version 26.10.0"
+  },
+  "prova_plain": "provas/constituicoes-estaduais/MA/fontes/alema-constituicao-1989.plain.txt.xz"
 }

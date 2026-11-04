@@ -1,0 +1,13 @@
+{
+  "uf": "PI",
+  "chave": "alepi-sapl-ta-42-constituicao-1989",
+  "url": "https://sapl.al.pi.leg.br/ta/42/text",
+  "url_final": "https://sapl.al.pi.leg.br/ta/42/text",
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 1795560,
+  "sha256_conteudo": "3546bb25dd6bd25fd0422381c98b505ca65fbbf2e15c6b6ebe78d69f91605d42",
+  "sha256_arquivo_xz": "472670866f0b33c43c695718643d13617b802e9503afceb3d585171c46c5ab5d",
+  "capturado_em": "2026-11-04T21:24:56Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/PI/fontes/alepi-sapl-ta-42-constituicao-1989.html.xz"
+}

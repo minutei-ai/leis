@@ -45,7 +45,9 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
 
     def test_catalog_shape(self) -> None:
         self.assertEqual(self.catalog["tema"], "constituicoes-estaduais")
-        self.assertEqual(self.catalog["cobertura"], "parcial")
+        self.assertIn(self.catalog["cobertura"], {"parcial", "completa-arquivos"})
+        if not self.catalog.get("ausentes"):
+            self.assertEqual(self.catalog["cobertura"], "completa-arquivos")
         ids = {d["norma_id"] for d in self.catalog["documentos"]}
         self.assertIn("br-df-lei-organica-1993-06-08", ids)
         self.assertIn("br-sc-constituicao-1989", ids)
@@ -67,11 +69,19 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
             "br-ce-constituicao-1989",
             "br-al-constituicao-1989",
             "br-ms-constituicao-1989",
+            "br-pa-constituicao-1989",
+            "br-pi-constituicao-1989",
+            "br-am-constituicao-1989",
+            "br-ap-constituicao-1991",
+            "br-rr-constituicao-1991",
+            "br-rj-constituicao-1989",
         ]:
             self.assertIn(nid, ids)
         self.assertNotIn("PE", self.catalog["ausentes"])
         self.assertNotIn("GO", self.catalog["ausentes"])
         self.assertNotIn("RS", self.catalog["ausentes"])
+        self.assertNotIn("PA", self.catalog["ausentes"])
+        self.assertNotIn("RJ", self.catalog["ausentes"])
         for d in self.catalog["documentos"]:
             path = ROOT / d["arquivo"]
             self.assertTrue(path.is_file(), d["arquivo"])
@@ -190,6 +200,7 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
         """Hashes e fold_ok das UFs publicadas/recapturadas neste lote #86."""
         ufs = [
             "GO", "SE", "RS", "ES", "SP", "PR", "MT", "TO", "PB", "MA", "RO", "RN", "CE", "AL", "MS",
+            "PA", "PI", "AM", "AP", "RR", "RJ",
         ]
         for uf in ufs:
             fontes = json.loads(
@@ -210,6 +221,12 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
                 )
             )
             self.assertTrue(cob["fold_ok"], uf)
+            plain_rel = entry.get("arquivo_plain")
+            self.assertTrue(plain_rel, uf)
+            plain_path = ROOT / plain_rel
+            self.assertTrue(plain_path.is_file(), plain_rel)
+            plain = lzma.open(plain_path).read()
+            self.assertEqual(sha256_bytes(plain), entry["sha256_plain"], uf)
             # ADCT / disposições transitórias: ao menos um marcador literal no corpo
             low = md.lower()
             self.assertTrue(
@@ -217,7 +234,9 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
                 or ("disposicoes constitucionais transit" in low)
                 or ("disposições transitórias" in low)
                 or ("disposicoes transitorias" in low)
-                or ("adct" in low),
+                or ("adct" in low)
+                or ("ato das disposições" in low)
+                or ("ato das disposicoes" in low),
                 f"{uf} sem menção literal a disposições transitórias/ADCT",
             )
 

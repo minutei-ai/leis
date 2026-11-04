@@ -21,6 +21,7 @@ import lzma
 import re
 import subprocess
 import sys
+import tempfile
 import time
 import urllib.error
 import urllib.request
@@ -252,6 +253,95 @@ SOURCES: dict[str, dict] = {
         "marcadores_fold": ["constituicaodoestadodealagoas", "preambulo"],
         "nota_fonte": "PDF SAPL norma/2 (até emenda 52); detalhe https://sapl.al.al.leg.br/norma/2?display",
     },
+    "PA": {
+        "uf": "PA",
+        "norma_id": "br-pa-constituicao-1989",
+        "arquivo": "estaduais/PA/br-pa-constituicao-1989.md",
+        "titulo": "Constituição do Estado do Pará",
+        "orgao": "ALEPA — Downloads oficiais",
+        "url": "https://alepa.pa.gov.br/Servicos/Download?Id=33",
+        "chave": "alepa-constituicao-1989-simples",
+        "ext": "pdf",
+        "estrategia": "pdf-text",
+        "edicao_tipo": "compilada-informada-pela-fonte",
+        "marcadores_fold": ["constituicaodoestadodopara", "preambulo"],
+        "nota_fonte": "PDF «Constituição do Pará - SIMPLES - Atualizada até OUTUBRO de 2026 - OFICIAL» (Download Id=33). Alternativa a bancodeleis (timeouts HTTP ≠ ausência).",
+    },
+    "PI": {
+        "uf": "PI",
+        "norma_id": "br-pi-constituicao-1989",
+        "arquivo": "estaduais/PI/br-pi-constituicao-1989.md",
+        "titulo": "Constituição do Estado do Piauí",
+        "orgao": "ALEPI — SAPL",
+        "url": "https://sapl.al.pi.leg.br/ta/42/text",
+        "chave": "alepi-sapl-ta-42-constituicao-1989",
+        "ext": "html",
+        "estrategia": "body-html",
+        "edicao_tipo": "compilada-informada-pela-fonte",
+        "marcadores_fold": ["constituicaodoestadodopiaui", "preambulo", "tituloi"],
+        "nota_fonte": "HTML compilado SAPL ta/42 (norma/6763). PDF original ~46 MiB permanece capturável via collect retomável; esta edição usa o texto atual HTML da Assembleia.",
+    },
+    "AM": {
+        "uf": "AM",
+        "norma_id": "br-am-constituicao-1989",
+        "arquivo": "estaduais/AM/br-am-constituicao-1989.md",
+        "titulo": "Constituição do Estado do Amazonas",
+        "orgao": "ALEAM — SAPL",
+        "url": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2018/10048/constituicao_atualizada_-_compilada_ate_a_ec_137.pdf",
+        "chave": "aleam-sapl-constituicao-1989",
+        "ext": "pdf",
+        "estrategia": "pdf-text",
+        "edicao_tipo": "compilada-informada-pela-fonte",
+        "marcadores_fold": ["constituicaodoestadodoamazonas", "preambulo"],
+        "nota_fonte": "PDF SAPL norma/10048 compilada até EC nº 137/2024; detalhe https://sapl.al.am.leg.br/norma/10048?display=",
+    },
+    "AP": {
+        "uf": "AP",
+        "norma_id": "br-ap-constituicao-1991",
+        "arquivo": "estaduais/AP/br-ap-constituicao-1991.md",
+        "titulo": "Constituição do Estado do Amapá",
+        "orgao": "ALEAP (espelho MDA / repositório federal de marcos estaduais)",
+        "url": "https://www.gov.br/mda/pt-br/assuntos/povos-e-comunidades-tradicionais/repositorio-de-marcos-regulatorios-de-regularizacao-fundiaria-de-povos-e-comunidades-tradicionais/estaduais/amapa/amapa-1991_constituicao-estadual-ap.pdf",
+        "chave": "alap-mda-constituicao-1991",
+        "ext": "pdf",
+        "estrategia": "pdf-text",
+        "edicao_tipo": "compilada-informada-pela-fonte",
+        "marcadores_fold": ["constituicaodoestadodoamapa", "preambulo"],
+        "nota_fonte": "PDF consolidado da Assembleia (promulgação 20/12/1991) hospedado no repositório oficial MDA; texto não substitui o DOE. Portal ALEAP HTML consolidado ainda sob descoberta.",
+    },
+    "RR": {
+        "uf": "RR",
+        "norma_id": "br-rr-constituicao-1991",
+        "arquivo": "estaduais/RR/br-rr-constituicao-1991.md",
+        "titulo": "Constituição do Estado de Roraima",
+        "orgao": "ALE-RR (espelho MDA / repositório federal de marcos estaduais)",
+        "url": "https://www.gov.br/mda/pt-br/assuntos/povos-e-comunidades-tradicionais/repositorio-de-marcos-regulatorios-de-regularizacao-fundiaria-de-povos-e-comunidades-tradicionais/estaduais/roraima/roraima-1989_constituicao-estadual-rr.pdf",
+        "chave": "alerr-mda-constituicao-1991",
+        "ext": "pdf",
+        "estrategia": "pdf-text",
+        "edicao_tipo": "compilada-informada-pela-fonte",
+        "marcadores_fold": ["constituicaodoestadoderoraima", "preambulo"],
+        "nota_fonte": "PDF consolidado ALE-RR hospedado no repositório oficial MDA (arquivo roraima-1989_…; promulgação estadual 31/12/1991). Edição comemorativa al.rr.leg.br (~15 MiB) e SAPL ta/564 são alternativas; texto não substitui o DOE.",
+    },
+    "RJ": {
+        "uf": "RJ",
+        "norma_id": "br-rj-constituicao-1989",
+        "arquivo": "estaduais/RJ/br-rj-constituicao-1989.md",
+        "titulo": "Constituição do Estado do Rio de Janeiro",
+        "orgao": "ALERJ — Biblioteca",
+        "url": "https://www2.alerj.rj.gov.br/biblioteca/assets/documentos/pdf/constituicoes/rio_de_janeiro/constituicao_1989/Constituicao_1989.pdf",
+        "chave": "alerj-biblioteca-constituicao-1989",
+        "ext": "pdf",
+        "estrategia": "pdf-text",
+        "edicao_tipo": "compilada-informada-pela-fonte",
+        "marcadores_fold": ["constituicaoestadual", "preambulo", "constituicaodoestadodoriodejaneiro"],
+        "nota_fonte": (
+            "PDF integral da Biblioteca ALERJ (atualizado até EC nº 71/2017), com títulos I–IX, "
+            "Ato das Disposições Constitucionais Transitórias e elenco de emendas. "
+            "Substitui a montagem parcial do Lotus Notes constest.nsf (até ~art. 129), "
+            "conservada só como evidência de descoberta em provas/…/RJ/fontes/alerj-constest-compilada.*."
+        ),
+    },
 }
 
 
@@ -271,9 +361,37 @@ def snapshot_path(src: dict) -> Path:
     return uf_dir(src["uf"]) / "fontes" / f"{src['chave']}.{src['ext']}.xz"
 
 
+def plain_snapshot_path(src: dict) -> Path:
+    """Texto plano congelado na conversão (prova PDF→texto independente da versão do poppler)."""
+    return uf_dir(src["uf"]) / "fontes" / f"{src['chave']}.plain.txt.xz"
+
+
 def write_json(path: Path, value) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
+def pdftotext_version() -> str:
+    proc = subprocess.run(["pdftotext", "-v"], capture_output=True, text=True)
+    first = (proc.stderr or proc.stdout).splitlines()
+    return first[0].strip() if first else "pdftotext unknown"
+
+
+def fold_match(md_fold: str, src_fold: str, markers: list[str] | None) -> bool:
+    ok = md_fold == src_fold or md_fold in src_fold or src_fold in md_fold
+    if ok:
+        return True
+    for m in markers or []:
+        mf = nl.strip_fold(m)
+        a = md_fold.find(mf)
+        b = src_fold.find(mf)
+        if a >= 0 and b >= 0 and (
+            md_fold[a:] == src_fold[b:]
+            or md_fold[a:] in src_fold[b:]
+            or src_fold[b:] in md_fold[a:]
+        ):
+            return True
+    return False
 
 
 def http_get(url: str, timeout: int = 120) -> tuple[bytes, str, str]:
@@ -291,6 +409,60 @@ def http_get(url: str, timeout: int = 120) -> tuple[bytes, str, str]:
         return data, ctype, resp.geturl()
 
 
+def http_get_resumable(
+    url: str,
+    dest: Path,
+    timeout: int = 120,
+    chunk: int = 1 << 20,
+    retries: int = 12,
+) -> tuple[int, str, str]:
+    """Download retomável para arquivos grandes (ex.: PDF PI ~46 MiB).
+
+    Escreve bytes brutos em `dest` (não xz). Não trata falha HTTP como ausência.
+    """
+    dest.parent.mkdir(parents=True, exist_ok=True)
+    partial = dest.with_suffix(dest.suffix + ".partial")
+    downloaded = partial.stat().st_size if partial.is_file() else 0
+    ctype = ""
+    final = url
+    attempt = 0
+    while attempt < retries:
+        attempt += 1
+        headers = {
+            "User-Agent": USER_AGENT,
+            "Accept": "*/*",
+            "Accept-Language": "pt-BR,pt;q=0.9",
+        }
+        if downloaded > 0:
+            headers["Range"] = f"bytes={downloaded}-"
+        req = urllib.request.Request(url, headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                ctype = resp.headers.get("Content-Type", "")
+                final = resp.geturl()
+                status = getattr(resp, "status", None) or resp.getcode()
+                mode = "ab" if downloaded > 0 and status == 206 else "wb"
+                if mode == "wb":
+                    downloaded = 0
+                with partial.open(mode) as out:
+                    while True:
+                        buf = resp.read(chunk)
+                        if not buf:
+                            break
+                        out.write(buf)
+                        downloaded += len(buf)
+                        if downloaded and downloaded % (5 << 20) < chunk:
+                            print(f"[get-resume] {downloaded} bytes…")
+            break
+        except Exception as e:
+            print(f"[get-resume] tentativa {attempt}/{retries} em {downloaded} bytes: {e}")
+            if attempt >= retries:
+                raise
+            time.sleep(min(30, 2 * attempt))
+    partial.replace(dest)
+    return downloaded, ctype, final
+
+
 def collect_one(key: str, force: bool = False) -> dict:
     src = SOURCES[key]
     path = snapshot_path(src)
@@ -300,8 +472,17 @@ def collect_one(key: str, force: bool = False) -> dict:
         print(f"[skip] {key} já coletado ({meta.get('bytes')} bytes)")
         return meta
     print(f"[get] {key} {src['url']}")
+    raw_path = uf_dir(src["uf"]) / "fontes" / f"{src['chave']}.{src['ext']}.raw"
+    raw_path.parent.mkdir(parents=True, exist_ok=True)
     try:
-        data, ctype, final = http_get(src["url"])
+        # PDF/HTML grandes: streaming retomável; demais: GET único.
+        if src.get("download") == "resumable" or (src["ext"] == "pdf" and src.get("bytes_estimados", 0) >= 8_000_000):
+            nbytes, ctype, final = http_get_resumable(src["url"], raw_path, timeout=180)
+            data = raw_path.read_bytes()
+            assert len(data) == nbytes
+        else:
+            data, ctype, final = http_get(src["url"], timeout=180)
+            raw_path.write_bytes(data)
     except urllib.error.HTTPError as e:
         # HTTP erro ≠ ausência jurídica; registrar tentativa.
         err = {
@@ -335,6 +516,8 @@ def collect_one(key: str, force: bool = False) -> dict:
 
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(lzma.compress(data, preset=6))
+    if raw_path.is_file():
+        raw_path.unlink()
     meta = {
         "uf": src["uf"],
         "chave": src["chave"],
@@ -419,12 +602,19 @@ def trim_from_markers(text: str, markers: list[str]) -> str:
 
 
 def pdf_to_text(data: bytes) -> str:
-    proc = subprocess.run(
-        ["pdftotext", "-layout", "-enc", "UTF-8", "-", "-"],
-        input=data,
-        capture_output=True,
-        check=False,
-    )
+    # Arquivo temporário: poppler via stdin (`-`) diverge entre versões/ambientes;
+    # caminho em disco é o contrato estável usado na prova congelada.
+    with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
+        tmp.write(data)
+        tmp_path = tmp.name
+    try:
+        proc = subprocess.run(
+            ["pdftotext", "-layout", "-enc", "UTF-8", tmp_path, "-"],
+            capture_output=True,
+            check=False,
+        )
+    finally:
+        Path(tmp_path).unlink(missing_ok=True)
     if proc.returncode != 0:
         raise RuntimeError(f"pdftotext failed: {proc.stderr[:300]!r}")
     text = proc.stdout.decode("utf-8", errors="replace")
@@ -531,26 +721,37 @@ def convert_one(key: str) -> dict:
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(md_full, encoding="utf-8")
 
+    # Congela o texto plano usado na conversão. Em PDF, pdftotext muda entre
+    # versões do poppler (ex.: Arch 26.x vs Ubuntu 24.04); a prova de fold do
+    # verify usa este artefato, e o recheck ao vivo só é obrigatório quando a
+    # versão do pdftotext coincide com a registrada.
+    plain_path = plain_snapshot_path(src)
+    plain_path.parent.mkdir(parents=True, exist_ok=True)
+    plain_path.write_bytes(lzma.compress(md_body.encode("utf-8"), preset=6))
+    tools = nl.tool_versions()
+
     corpo = NOTE_RE.sub("", md_full, count=1)
+    fontes_entry = {
+        "chave": src["chave"],
+        "url": src["url"],
+        "url_final": meta.get("url_final"),
+        "arquivo": meta["arquivo"],
+        "sha256_conteudo": meta["sha256_conteudo"],
+        "sha256_arquivo_xz": meta["sha256_arquivo_xz"],
+        "bytes_fonte": meta["bytes"],
+        "capturado_em": meta["capturado_em"],
+        "sha256_markdown": sha256_bytes(md_full.encode("utf-8")),
+        "sha256_corpo_markdown": sha256_bytes(corpo.encode("utf-8")),
+        "arquivo_plain": str(plain_path.relative_to(ROOT)),
+        "sha256_plain": sha256_bytes(md_body.encode("utf-8")),
+        "formato": src["ext"],
+        "estrategia": src["estrategia"],
+        "ferramentas": tools,
+    }
     fontes = {
         "capturado_em": meta["capturado_em"],
         "nota": f"Captura oficial {src['orgao']} da Constituição/LO ({src['uf']}).",
-        "fontes": [
-            {
-                "chave": src["chave"],
-                "url": src["url"],
-                "url_final": meta.get("url_final"),
-                "arquivo": meta["arquivo"],
-                "sha256_conteudo": meta["sha256_conteudo"],
-                "sha256_arquivo_xz": meta["sha256_arquivo_xz"],
-                "bytes_fonte": meta["bytes"],
-                "capturado_em": meta["capturado_em"],
-                "sha256_markdown": sha256_bytes(md_full.encode("utf-8")),
-                "sha256_corpo_markdown": sha256_bytes(corpo.encode("utf-8")),
-                "formato": src["ext"],
-                "estrategia": src["estrategia"],
-            }
-        ],
+        "fontes": [fontes_entry],
     }
     write_json(uf_dir(src["uf"]) / "fontes.json", fontes)
 
@@ -561,24 +762,15 @@ def convert_one(key: str) -> dict:
         "adct": adct,
         "chars_corpo": len(corpo),
         "verificado_em": now_utc(),
+        "ferramentas": tools,
+        "prova_plain": str(plain_path.relative_to(ROOT)),
     }
     # prova de fold
     # md_text_all nos dois lados: ~~ do HTML vira marcador MD e o strip_fold
     # de ordinais (28 + o) precisa ver o mesmo texto normalizado.
     md_fold = nl.strip_fold(nl.md_text_all(corpo))
     src_fold = nl.strip_fold(nl.md_text_all(plain))
-    # alinhar a partir do primeiro marcador comum
-    ok = md_fold == src_fold or md_fold in src_fold or src_fold in md_fold
-    if not ok:
-        # tolerância: diferença só em cabeçalhos de portal antes do título
-        for m in src.get("marcadores_fold") or []:
-            mf = nl.strip_fold(m)
-            a = md_fold.find(mf)
-            b = src_fold.find(mf)
-            if a >= 0 and b >= 0:
-                ok = md_fold[a:] == src_fold[b:] or md_fold[a:] in src_fold[b:] or src_fold[b:] in md_fold[a:]
-                if ok:
-                    break
+    ok = fold_match(md_fold, src_fold, src.get("marcadores_fold") or [])
     cobertura["fold_ok"] = bool(ok)
     if not ok:
         cobertura["fold_md_len"] = len(md_fold)
@@ -614,28 +806,50 @@ def verify_one(key: str) -> None:
     assert "Não certifica vigência" in md_full or "não certifica vigência" in md_full.lower()
     cob = json.loads((uf_dir(src["uf"]) / "cobertura-constituicao.json").read_text(encoding="utf-8"))
     assert cob["fold_ok"] is True
-    # reconferência fold
+
+    plain_rel = entry.get("arquivo_plain") or str(plain_snapshot_path(src).relative_to(ROOT))
+    plain_path = ROOT / plain_rel
+    assert plain_path.is_file(), f"{key} plain snapshot ausente ({plain_rel})"
+    plain_frozen = lzma.open(plain_path).read().decode("utf-8")
+    if entry.get("sha256_plain"):
+        assert sha256_bytes(plain_frozen.encode("utf-8")) == entry["sha256_plain"], key
+
+    # Prova primária: Markdown ↔ texto plano congelado na conversão.
+    md_fold = nl.strip_fold(nl.md_text_all(corpo))
+    frozen_fold = nl.strip_fold(nl.md_text_all(plain_frozen))
+    ok = fold_match(md_fold, frozen_fold, src.get("marcadores_fold") or [])
+    assert ok, f"{key} fold recheck failed (markdown↔plain congelado)"
+
+    # Rechecagem ao vivo da fonte. HTML (bs4/lxml pinados no CI) é obrigatória.
+    # PDF: pdftotext varia entre poppler 24.x (Ubuntu CI) e 26.x (hosts Arch);
+    # só exige igualdade ao vivo quando a versão coincide com a da conversão.
+    recorded_pdf = (entry.get("ferramentas") or cob.get("ferramentas") or {}).get("pdftotext")
     if src["estrategia"] == "body-html":
         charset = "utf-8"
         try:
             raw.decode("utf-8")
         except UnicodeDecodeError:
             charset = "latin-1"
-        plain = trim_from_markers(html_plain_blocks(raw, charset), src.get("marcadores_fold") or [])
-    else:
-        plain = trim_from_markers(pdf_to_text(raw), src.get("marcadores_fold") or [])
-    md_fold = nl.strip_fold(nl.md_text_all(corpo))
-    src_fold = nl.strip_fold(nl.md_text_all(plain))
-    ok = md_fold == src_fold or md_fold in src_fold or src_fold in md_fold
-    if not ok:
-        for m in src.get("marcadores_fold") or []:
-            mf = nl.strip_fold(m)
-            a = md_fold.find(mf)
-            b = src_fold.find(mf)
-            if a >= 0 and b >= 0 and (md_fold[a:] == src_fold[b:] or md_fold[a:] in src_fold[b:] or src_fold[b:] in md_fold[a:]):
-                ok = True
-                break
-    assert ok, f"{key} fold recheck failed"
+        live = trim_from_markers(html_plain_blocks(raw, charset), src.get("marcadores_fold") or [])
+        live_fold = nl.strip_fold(nl.md_text_all(live))
+        assert fold_match(md_fold, live_fold, src.get("marcadores_fold") or []), (
+            f"{key} fold recheck failed (markdown↔HTML ao vivo)"
+        )
+    elif src["estrategia"] == "pdf-text":
+        live_ver = pdftotext_version()
+        live = trim_from_markers(pdf_to_text(raw), src.get("marcadores_fold") or [])
+        live_fold = nl.strip_fold(nl.md_text_all(live))
+        live_ok = fold_match(md_fold, live_fold, src.get("marcadores_fold") or [])
+        if recorded_pdf and live_ver == recorded_pdf:
+            assert live_ok, (
+                f"{key} fold recheck failed (markdown↔pdftotext ao vivo; versão={live_ver})"
+            )
+        elif not live_ok:
+            print(
+                f"[verify] {key} aviso: pdftotext ao vivo diverge do plain congelado "
+                f"(conversão={recorded_pdf!r} ambiente={live_ver!r}); "
+                f"prova markdown↔plain e hash do PDF permanecem ok"
+            )
     print(f"[verify] {key} ok")
 
 
@@ -775,8 +989,17 @@ def rebuild_catalog() -> None:
     cat["pendencias"] = [
         "Inventariar emendas constitucionais estaduais aplicadas às cartas publicadas.",
         "UFs ainda sem captura/publicação nesta entrega: " + (", ".join(ausentes) if ausentes else "(nenhuma)"),
-        "RJ (ALERJ Lotus Notes fragmentado), AM/AP/MS/RR/PI: fonte HTML consolidada ou PDF oficial ainda em descoberta/captura.",
+        (
+            "RJ: edição integral via Biblioteca ALERJ PDF; montagem Lotus constest.nsf "
+            "conservada só como evidência de descoberta."
+            if "RJ" not in ausentes
+            else "RJ: harvest ALERJ Lotus Notes ainda parcial (não publicar como integral)."
+        ),
         "Não inferir vigência de presença no acervo nem de HTTP.",
+        (
+            "Fold PDF↔MD: plain congelado + versão pdftotext; recheck ao vivo só quando "
+            "a versão do poppler coincide com a da conversão."
+        ),
     ]
     write_json(CATALOG, cat)
 
@@ -794,6 +1017,29 @@ def rebuild_catalog() -> None:
         encoding="utf-8",
     )
 
+    discovery = []
+    if "RJ" not in ausentes:
+        discovery.append(
+            "- **RJ**: edição publicada via PDF integral da Biblioteca ALERJ "
+            "(títulos I–X + ADCT + emendas até EC 71/2017). "
+            "Montagem parcial Lotus `constest.nsf` permanece em "
+            "`provas/constituicoes-estaduais/RJ/fontes/alerj-constest-compilada.*` "
+            "apenas como evidência de descoberta — não usar como edição integral."
+        )
+    else:
+        discovery.append(
+            "- **RJ**: harvest Lotus parcial (até ~art. 129) — não publicar como integral."
+        )
+    pi_pdf = PROVAS / "PI" / "fontes" / "alepi-sapl-norma-6763-original.collect.json"
+    if pi_pdf.is_file():
+        discovery.append(
+            "- **PI**: PDF SAPL original (~46 MiB) capturado com download retomável em "
+            "`provas/constituicoes-estaduais/PI/fontes/alepi-sapl-norma-6763-original.pdf.xz`; "
+            "edição publicada usa HTML compilado `ta/42`."
+        )
+    discovery.append(
+        "- Erro HTTP/timeout em portais (ex.: bancodeleis ALEPA) ≠ ausência da norma."
+    )
     PENDENCIAS.write_text(
         "# Pendências setoriais — Constituições estaduais (#86)\n\n"
         "Arquivo setorial (não substitui `PENDENCIAS.md` agregado).\n\n"
@@ -803,7 +1049,12 @@ def rebuild_catalog() -> None:
         "- Inventário autônomo de emendas constitucionais estaduais aplicadas.\n"
         "- Mapear anexos/notas editoriais das fontes que não entram no corpo.\n"
         "- Recapturas periódicas quando o portal atualizar a consolidação.\n"
-        "- Não usar erro HTTP como prova de ausência da norma.\n",
+        "- Não usar erro HTTP como prova de ausência da norma.\n"
+        "- Prova de fold PDF: plain congelado + versão pdftotext; recheck ao vivo "
+        "só obrigatório quando a versão do poppler coincide (CI Ubuntu ≠ host Arch).\n"
+        "\n## Descoberta / captura\n\n"
+        + "\n".join(discovery)
+        + "\n",
         encoding="utf-8",
     )
     print(f"[catalog] docs={len(docs)} ausentes={ausentes}")

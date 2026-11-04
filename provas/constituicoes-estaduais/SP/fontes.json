@@ -14,7 +14,16 @@
       "sha256_markdown": "2de6ca55cfe3ead75c4a780186b094bd4f5d36da977f516086370118c98b9c9a",
       "sha256_corpo_markdown": "8b193326e7cff904a4f9b1daefb829d00438862863a1559b33e8b10a36b05ba7",
       "formato": "html",
-      "estrategia": "body-html"
+      "estrategia": "body-html",
+      "arquivo_plain": "provas/constituicoes-estaduais/SP/fontes/alesp-constituicao-1989-compilacao.plain.txt.xz",
+      "sha256_plain": "8b193326e7cff904a4f9b1daefb829d00438862863a1559b33e8b10a36b05ba7",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }

@@ -14,7 +14,16 @@
       "sha256_markdown": "634e5e512c9067fda7e2c63df1e19426d25e967c5aac902ff8de5040ed9ce3f7",
       "sha256_corpo_markdown": "5b2f58363ca27e5a2df3436d9f321dc19456e7ead5214821521e36ce92e20ff0",
       "formato": "html",
-      "estrategia": "body-html"
+      "estrategia": "body-html",
+      "arquivo_plain": "provas/constituicoes-estaduais/SE/fontes/alese-constituicao-1989.plain.txt.xz",
+      "sha256_plain": "5b2f58363ca27e5a2df3436d9f321dc19456e7ead5214821521e36ce92e20ff0",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }

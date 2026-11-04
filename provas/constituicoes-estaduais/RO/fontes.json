@@ -14,7 +14,16 @@
       "sha256_markdown": "8327054cb65e0806676ca9ec17a85a7961c19dbf453c6c3bc63cb457b6d88420",
       "sha256_corpo_markdown": "bfaf9aa8ae1064d2146467fde07934c8322f6c75a537bfcb9d060fe0c0c49682",
       "formato": "pdf",
-      "estrategia": "pdf-text"
+      "estrategia": "pdf-text",
+      "arquivo_plain": "provas/constituicoes-estaduais/RO/fontes/alero-constituicao-1989.plain.txt.xz",
+      "sha256_plain": "bfaf9aa8ae1064d2146467fde07934c8322f6c75a537bfcb9d060fe0c0c49682",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }

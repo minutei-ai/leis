@@ -14,7 +14,16 @@
       "sha256_markdown": "bfd4a29b2e6b05c85dc93735963e600d36b15855ec22a8ea3b494b96348427ae",
       "sha256_corpo_markdown": "75a76fe0b9084efa904fc58b5712956cc73f311e6ff3c9c99cdf95acc6cc40a4",
       "formato": "pdf",
-      "estrategia": "pdf-text"
+      "estrategia": "pdf-text",
+      "arquivo_plain": "provas/constituicoes-estaduais/RN/fontes/alrn-constituicao-1989.plain.txt.xz",
+      "sha256_plain": "75a76fe0b9084efa904fc58b5712956cc73f311e6ff3c9c99cdf95acc6cc40a4",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }

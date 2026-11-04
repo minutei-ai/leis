@@ -1,10 +1,7 @@
-# RJ — captura parcial (não publicada como integral)
+# Constituição do Estado do Rio de Janeiro
 
-Índice ALERJ `constest.nsf` (`OpenView&ExpandView`) devolveu 12 documentos de título.
-Snapshot: `fontes/alerj-constest-compilada.html.xz` (montagem dos OpenDocument do índice).
-
-Conteúdo observado até ~art. 129; faltam títulos posteriores, ADCT completo e emendas
-como documentos aninhados. **Não** entra em `estaduais/RJ/` nesta entrega
-(`edicao_integral` exigiria a carta completa com prova de conversão).
-
-HTTP/timeout em outras URLs não é tratado como ausência.
+- Fonte: https://www2.alerj.rj.gov.br/biblioteca/assets/documentos/pdf/constituicoes/rio_de_janeiro/constituicao_1989/Constituicao_1989.pdf
+- Órgão: ALERJ — Biblioteca
+- Snapshot: `fontes/alerj-biblioteca-constituicao-1989.pdf.xz`
+- Markdown: `estaduais/RJ/br-rj-constituicao-1989.md`
+- Vigência: não certificada

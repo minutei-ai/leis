@@ -1,6 +1,6 @@
 {
   "tema": "constituicoes-estaduais",
-  "cobertura": "parcial",
+  "cobertura": "completa-arquivos",
   "contrato_versao": 1,
   "nota": "Catálogo parcial das Constituições estaduais e da Lei Orgânica do DF (issue #86). A reprodução por grep no nome do arquivo subconta: várias cartas estão publicadas sob IDs da fonte (ES, PR, SP). Presença no acervo não certifica vigência nem consolidação completa de emendas.",
   "criterio_deteccao_issue": "ls estaduais/<UF> | grep -ci constituic — insuficiente para IDs br-*-norma-* / br-*-ato-*",
@@ -48,6 +48,72 @@
       "provas": [
         "provas/constituicoes-estaduais/AL/fontes.json",
         "provas/constituicoes-estaduais/AL/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "AM",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-am-constituicao-1989",
+      "arquivo": "estaduais/AM/br-am-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Amazonas",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEAM — SAPL",
+        "url": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2018/10048/constituicao_atualizada_-_compilada_ate_a_ec_137.pdf",
+        "sha256_fonte": "3e2b4133dafe8e1f01b4259e0daf28363cf1bbf640ae7a34081fc6951aa4f76c",
+        "capturado_em": "2026-11-04T21:24:59Z",
+        "formato": "pdf",
+        "nota": "PDF SAPL norma/10048 compilada até EC nº 137/2024; detalhe https://sapl.al.am.leg.br/norma/10048?display="
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/AM/fontes.json",
+        "provas/constituicoes-estaduais/AM/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "AP",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ap-constituicao-1991",
+      "arquivo": "estaduais/AP/br-ap-constituicao-1991.md",
+      "titulo": "Constituição do Estado do Amapá",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEAP (espelho MDA / repositório federal de marcos estaduais)",
+        "url": "https://www.gov.br/mda/pt-br/assuntos/povos-e-comunidades-tradicionais/repositorio-de-marcos-regulatorios-de-regularizacao-fundiaria-de-povos-e-comunidades-tradicionais/estaduais/amapa/amapa-1991_constituicao-estadual-ap.pdf",
+        "sha256_fonte": "223c9cf144e52c9159effda797bd5810bfd38b16cfc69be8aaf5fa970376d784",
+        "capturado_em": "2026-11-04T21:25:02Z",
+        "formato": "pdf",
+        "nota": "PDF consolidado da Assembleia (promulgação 20/12/1991) hospedado no repositório oficial MDA; texto não substitui o DOE. Portal ALEAP HTML consolidado ainda sob descoberta."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/AP/fontes.json",
+        "provas/constituicoes-estaduais/AP/cobertura-constituicao.json"
       ],
       "emendas_listadas": "pendente-inventario",
       "adct": {
@@ -336,6 +402,39 @@
       "acao": "publicar"
     },
     {
+      "uf": "PA",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-pa-constituicao-1989",
+      "arquivo": "estaduais/PA/br-pa-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Pará",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEPA — Downloads oficiais",
+        "url": "https://alepa.pa.gov.br/Servicos/Download?Id=33",
+        "sha256_fonte": "c21f1e8d0eadd52e64ddf8bc8bc344fa0bea17f16e2718bbb86446a6dfe80923",
+        "capturado_em": "2026-11-04T21:24:51Z",
+        "formato": "pdf",
+        "nota": "PDF «Constituição do Pará - SIMPLES - Atualizada até OUTUBRO de 2026 - OFICIAL» (Download Id=33). Alternativa a bancodeleis (timeouts HTTP ≠ ausência)."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/PA/fontes.json",
+        "provas/constituicoes-estaduais/PA/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
       "uf": "PB",
       "status": "publicado-nesta-entrega",
       "papel": "constituicao-estadual",
@@ -395,6 +494,39 @@
       }
     },
     {
+      "uf": "PI",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-pi-constituicao-1989",
+      "arquivo": "estaduais/PI/br-pi-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Piauí",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEPI — SAPL",
+        "url": "https://sapl.al.pi.leg.br/ta/42/text",
+        "sha256_fonte": "3546bb25dd6bd25fd0422381c98b505ca65fbbf2e15c6b6ebe78d69f91605d42",
+        "capturado_em": "2026-11-04T21:24:56Z",
+        "formato": "html",
+        "nota": "HTML compilado SAPL ta/42 (norma/6763). PDF original ~46 MiB permanece capturável via collect retomável; esta edição usa o texto atual HTML da Assembleia."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/PI/fontes.json",
+        "provas/constituicoes-estaduais/PI/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
       "uf": "PR",
       "status": "recapturado-nesta-entrega",
       "papel": "constituicao-estadual",
@@ -425,6 +557,39 @@
         "mencao_disposicoes_transitorias": true
       },
       "acao": "recapturar"
+    },
+    {
+      "uf": "RJ",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-rj-constituicao-1989",
+      "arquivo": "estaduais/RJ/br-rj-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Rio de Janeiro",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALERJ — Biblioteca",
+        "url": "https://www2.alerj.rj.gov.br/biblioteca/assets/documentos/pdf/constituicoes/rio_de_janeiro/constituicao_1989/Constituicao_1989.pdf",
+        "sha256_fonte": "56f30909f5401c662c0691dc81dc613e9e7d6c915b2f5c01b237ae41a156b686",
+        "capturado_em": "2026-11-04T21:28:13Z",
+        "formato": "pdf",
+        "nota": "PDF integral da Biblioteca ALERJ (atualizado até EC nº 71/2017), com títulos I–IX, Ato das Disposições Constitucionais Transitórias e elenco de emendas. Substitui a montagem parcial do Lotus Notes constest.nsf (até ~art. 129), conservada só como evidência de descoberta em provas/…/RJ/fontes/alerj-constest-compilada.*."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/RJ/fontes.json",
+        "provas/constituicoes-estaduais/RJ/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
     },
     {
       "uf": "RN",
@@ -487,6 +652,39 @@
       "adct": {
         "mencao_adct_sigla": false,
         "mencao_ato_disposicoes": false,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "RR",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-rr-constituicao-1991",
+      "arquivo": "estaduais/RR/br-rr-constituicao-1991.md",
+      "titulo": "Constituição do Estado de Roraima",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALE-RR (espelho MDA / repositório federal de marcos estaduais)",
+        "url": "https://www.gov.br/mda/pt-br/assuntos/povos-e-comunidades-tradicionais/repositorio-de-marcos-regulatorios-de-regularizacao-fundiaria-de-povos-e-comunidades-tradicionais/estaduais/roraima/roraima-1989_constituicao-estadual-rr.pdf",
+        "sha256_fonte": "3be9689b39f3d9210d66077c74cf9aa12cbe728267e7f0357358362346aeaa32",
+        "capturado_em": "2026-11-04T21:25:05Z",
+        "formato": "pdf",
+        "nota": "PDF consolidado ALE-RR hospedado no repositório oficial MDA (arquivo roraima-1989_…; promulgação estadual 31/12/1991). Edição comemorativa al.rr.leg.br (~15 MiB) e SAPL ta/564 são alternativas; texto não substitui o DOE."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/RR/fontes.json",
+        "provas/constituicoes-estaduais/RR/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
         "mencao_disposicoes_transitorias": true
       },
       "acao": "publicar"
@@ -647,18 +845,12 @@
       "acao": "publicar"
     }
   ],
-  "ausentes": [
-    "AM",
-    "AP",
-    "PA",
-    "PI",
-    "RJ",
-    "RR"
-  ],
+  "ausentes": [],
   "pendencias": [
     "Inventariar emendas constitucionais estaduais aplicadas às cartas publicadas.",
-    "UFs ainda sem captura/publicação nesta entrega: AM, AP, PA, PI, RJ, RR",
-    "RJ (ALERJ Lotus Notes fragmentado), AM/AP/MS/RR/PI: fonte HTML consolidada ou PDF oficial ainda em descoberta/captura.",
-    "Não inferir vigência de presença no acervo nem de HTTP."
+    "UFs ainda sem captura/publicação nesta entrega: (nenhuma)",
+    "RJ: edição integral via Biblioteca ALERJ PDF; montagem Lotus constest.nsf conservada só como evidência de descoberta.",
+    "Não inferir vigência de presença no acervo nem de HTTP.",
+    "Fold PDF↔MD: plain congelado + versão pdftotext; recheck ao vivo só quando a versão do poppler coincide com a da conversão."
   ]
 }

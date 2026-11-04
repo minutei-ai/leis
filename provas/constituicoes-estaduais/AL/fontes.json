@@ -14,7 +14,16 @@
       "sha256_markdown": "5ee060a3ebdc6d51b108394a4b64d3eb11c17cce80ddbadc0241b8924046c4d7",
       "sha256_corpo_markdown": "7a86cc8087a14a67e274eb4f288dae80a9ac05eb0db023bbc6a9f2bba5c4aaeb",
       "formato": "pdf",
-      "estrategia": "pdf-text"
+      "estrategia": "pdf-text",
+      "arquivo_plain": "provas/constituicoes-estaduais/AL/fontes/aleal-sapl-constituicao-1989.plain.txt.xz",
+      "sha256_plain": "7a86cc8087a14a67e274eb4f288dae80a9ac05eb0db023bbc6a9f2bba5c4aaeb",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }

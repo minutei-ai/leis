@@ -14,7 +14,16 @@
       "sha256_markdown": "530121943ec594b4894ba6c02e49cb20ce013829bbfd5b8472f46f3afbf37a83",
       "sha256_corpo_markdown": "eb71bbb87b305b8c5b171d6ab72c3bebc4868fceaaa464a55db78fea5f42be49",
       "formato": "html",
-      "estrategia": "body-html"
+      "estrategia": "body-html",
+      "arquivo_plain": "provas/constituicoes-estaduais/PR/fontes/legislacao-pr-ato-9779.plain.txt.xz",
+      "sha256_plain": "eb71bbb87b305b8c5b171d6ab72c3bebc4868fceaaa464a55db78fea5f42be49",
+      "ferramentas": {
+        "python": "3.14.9",
+        "beautifulsoup4": "4.15.0",
+        "lxml": "6.1.3.0",
+        "libxml2": "2.15.4",
+        "pdftotext": "pdftotext version 26.10.0"
+      }
     }
   ]
 }
