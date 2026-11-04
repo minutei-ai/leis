@@ -1,0 +1,50 @@
+{
+  "issue": 68,
+  "gerado_em": "2026-11-04T19:13:33Z",
+  "catalogo_senado_lista": {
+    "url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LCP",
+    "capturado_em": "2026-11-04T15:52:00Z",
+    "sha256": "1b5719edf50cc67a3e74547896d25e5f6b6362c5e55469272161ea74aa6b5d08",
+    "snapshot": "provas/lc-complementares-68/fontes/senado-lista-lcp.json.xz",
+    "nota": "Hash diverge do SHA citado na issue (catálogo vivo). O valor desta captura é a evidência desta entrega; não se infere completude histórica só pela lista."
+  },
+  "identidades": [
+    {
+      "norma": "LC 147/2014",
+      "senadoId": "572902",
+      "id": "br-federal-lei-complementar-2014-08-07-147",
+      "url": "https://legis.senado.leg.br/norma/572902",
+      "estado": "publicado",
+      "caminho": "federal/br-federal-lei-complementar-2014-08-07-147.md",
+      "fonte": "Senado/normas.leg.br publicação original"
+    },
+    {
+      "norma": "LC 115/2002",
+      "senadoId": "572870",
+      "id": "br-federal-lei-complementar-2002-12-26-115",
+      "url": "https://legis.senado.leg.br/norma/572870",
+      "estado": "publicado",
+      "caminho": "federal/br-federal-lei-complementar-2002-12-26-115.md",
+      "fonte": "Senado/normas.leg.br publicação original"
+    },
+    {
+      "norma": "LC 1/1962",
+      "senadoId": "30812083",
+      "id": "br-federal-lei-complementar-1962-07-17-1",
+      "url": "https://legis.senado.leg.br/norma/30812083",
+      "estado": "publicado",
+      "caminho": "federal/br-federal-lei-complementar-1962-07-17-1.md",
+      "fonte": "Planalto Lcp01-62.htm"
+    },
+    {
+      "norma": "LC 1/1967",
+      "senadoId": "540705",
+      "id": "br-federal-lei-complementar-1967-11-09-1",
+      "url": "https://legis.senado.leg.br/norma/540705",
+      "estado": "ja-publicado-antes",
+      "caminho": "federal/br-federal-lei-complementar-1967-11-09-1.md",
+      "fonte": "já no acervo; identidade distinta da LC 1/1962; não fundir pelo número"
+    }
+  ],
+  "regra": "LC 1/1962 e LC 1/1967 são identidades distintas (data+número+URN). Número igual com data diferente não autoriza fusão nem alteração da data já publicada."
+}
