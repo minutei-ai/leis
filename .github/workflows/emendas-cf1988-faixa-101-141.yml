@@ -1,0 +1,59 @@
+name: Emendas CF/1988 faixa 101–141
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/emendas-cf1988-faixa-101-141.yml'
+      - 'scripts/emendas_cf1988_faixa_101_141.py'
+      - 'scripts/nucleo_licitacoes.py'
+      - 'tests/test_emendas_cf1988_faixa_101_141.py'
+      - 'provas/emendas-cf1988/faixa-101-141/**'
+      - 'federal/br-federal-emenda-constitucional-*-102.md'
+      - 'federal/br-federal-emenda-constitucional-*-107.md'
+      - 'federal/br-federal-emenda-constitucional-*-109.md'
+      - 'federal/br-federal-emenda-constitucional-*-111.md'
+      - 'federal/br-federal-emenda-constitucional-*-112.md'
+      - 'federal/br-federal-emenda-constitucional-*-113.md'
+      - 'federal/br-federal-emenda-constitucional-*-114.md'
+      - 'federal/br-federal-emenda-constitucional-*-115.md'
+      - 'federal/br-federal-emenda-constitucional-*-116.md'
+      - 'federal/br-federal-emenda-constitucional-*-117.md'
+      - 'federal/br-federal-emenda-constitucional-*-118.md'
+      - 'federal/br-federal-emenda-constitucional-*-120.md'
+      - 'federal/br-federal-emenda-constitucional-*-121.md'
+      - 'federal/br-federal-emenda-constitucional-*-122.md'
+      - 'federal/br-federal-emenda-constitucional-*-123.md'
+      - 'federal/br-federal-emenda-constitucional-*-124.md'
+      - 'federal/br-federal-emenda-constitucional-*-125.md'
+      - 'federal/br-federal-emenda-constitucional-*-126.md'
+      - 'federal/br-federal-emenda-constitucional-*-127.md'
+      - 'federal/br-federal-emenda-constitucional-*-128.md'
+      - 'federal/br-federal-emenda-constitucional-*-129.md'
+      - 'federal/br-federal-emenda-constitucional-*-130.md'
+      - 'federal/br-federal-emenda-constitucional-*-131.md'
+      - 'federal/br-federal-emenda-constitucional-*-132.md'
+      - 'federal/br-federal-emenda-constitucional-*-133.md'
+      - 'federal/br-federal-emenda-constitucional-*-134.md'
+      - 'federal/br-federal-emenda-constitucional-*-135.md'
+      - 'federal/br-federal-emenda-constitucional-*-136.md'
+      - 'federal/br-federal-emenda-constitucional-*-137.md'
+      - 'federal/br-federal-emenda-constitucional-*-138.md'
+      - 'federal/br-federal-emenda-constitucional-*-139.md'
+      - 'federal/br-federal-emenda-constitucional-*-140.md'
+      - 'federal/br-federal-emenda-constitucional-*-141.md'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends python3-venv
+      - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3
+      - name: Reconverter snapshots e conferir Markdown/provas
+        run: $RUNNER_TEMP/venv/bin/python scripts/emendas_cf1988_faixa_101_141.py verify
+      - name: Cobertura fonte→Markdown e identidade
+        run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_emendas_cf1988_faixa_101_141 -v

@@ -1,0 +1,80 @@
+{
+  "documento": "br-federal-emenda-constitucional-2026-10-16-140",
+  "fonte_principal": "planalto-emc140",
+  "sha256_fonte_principal": "62b7447dbec19010be57667059b75570b90b54851a186e1c8d902ae58311366a",
+  "sha256_conteudo": "7fd7fb242fcc1d07d814d06dc27d679623d02cab1b5711d65e3b3697f7711c1f",
+  "capturado_em": "2026-11-04T12:54:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc140.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc140.htm.xz",
+  "sha256_snapshot_armazenado": "cfa491e4eb793ee9a24dfc83ef84e45e9b74142b945d0ba27afb0dbf9300f4a9",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 13418,
+    "caracteres_normalizados_markdown": 13418,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 19,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 15,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 80,
+    "artigos": 14,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2026-10-16-140",
+    "numero": "140",
+    "data": "2026-10-16",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 140, DE 16 DE OUTUBRO DE 2026",
+    "ementa": "Altera os arts. 40, 198 e 201 da Constituição Federal, para estabelecer o direito à aposentadoria diferenciada aos agentes comunitários de saúde e aos agentes de combate às endemias, bem como para determinar a regularização do vínculo funcional desses agentes; e dá outras providências.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2026-10-16;140",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
