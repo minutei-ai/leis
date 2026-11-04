@@ -15,6 +15,16 @@
     "sha256": "0f677ce214577d6122c447fe5e935c035c7d8e6c4fd48072663e69fd48322802"
   },
   {
+    "arquivo": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-camara-crop.png",
+    "bytes": 113400,
+    "sha256": "04f626908083f293a84983690bd69a993d3eeb1063a8d4767b0856ec2efde0be"
+  },
+  {
+    "arquivo": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-planalto-crop.png",
+    "bytes": 45900,
+    "sha256": "7d6346f31725c1a6006d62a5d81dcab3f6add9a9ddb0dadba2d49be1ef2d36bf"
+  },
+  {
     "arquivo": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1984-04-04-2111-anexo-camara.png",
     "bytes": 339970,
     "sha256": "5e8630c1eb1885c22ea9aa7f8d65bde0ab802a4f0db07e761b951c5dffc0834e"

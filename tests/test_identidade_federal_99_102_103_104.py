@@ -108,12 +108,21 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
         self.assertIn('40%', text)
         self.assertIn('NS-901', text)
         self.assertIn('Odontólogo', text)
+        # Célula CLASSE A (jornada 4 h) recuperada por colação visual Câmara + Planalto
+        self.assertIn('CLASSE A — NS-4 a 6', text)
+        self.assertNotIn('parcialmente ilegível', text)
         self.assertIn('anexo-i-planalto.png', text)
         self.assertIn('anexo-ii-camara.png', text)
+        self.assertIn('classe-a-4h-planalto-crop.png', text)
+        self.assertIn('classe-a-4h-camara-crop.png', text)
         fac_i = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-planalto.png'
         fac_ii = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-camara.png'
+        crop_p = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-planalto-crop.png'
+        crop_c = PROVAS / 'anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-camara-crop.png'
         self.assertTrue(fac_i.is_file() and fac_i.stat().st_size > 10_000)
         self.assertTrue(fac_ii.is_file() and fac_ii.stat().st_size > 10_000)
+        self.assertTrue(crop_p.is_file() and crop_p.stat().st_size > 1_000)
+        self.assertTrue(crop_c.is_file() and crop_c.stat().st_size > 1_000)
 
     def test_anexo_2111_transcrito_e_pesquisavel(self):
         text = (ROOT / 'federal/br-federal-decreto-lei-1984-04-04-2111.md').read_text(encoding='utf-8')
@@ -135,6 +144,21 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
         md = (ROOT / 'federal/br-federal-decreto-lei-1942-01-13-4014-a.md').read_text(encoding='utf-8')
         self.assertIn('4.014-A', md)
         self.assertNotIn('1.014-A', md)
+        lote = (PROVAS / 'divergencias-cabecalho-lote.md').read_text(encoding='utf-8')
+        self.assertIn('45171', lote)
+        self.assertIn('45353', lote)
+        self.assertIn('46934', lote)
+
+    def test_busca_12985_viaduto_e_12988_nabuco(self):
+        lei_985 = (ROOT / 'federal/br-federal-lei-2014-06-02-12985.md').read_text(encoding='utf-8')
+        lei_988 = (ROOT / 'federal/br-federal-lei-2014-06-02-12988.md').read_text(encoding='utf-8')
+        self.assertIn('Viaduto Deputado José Fernandes de Lima', lei_985)
+        self.assertIn('BR-101', lei_985)
+        self.assertIn('Mamanguape', lei_985)
+        self.assertIn('Joaquim Aurélio Barreto Nabuco', lei_988)
+        self.assertIn('Livro dos Heróis da Pátria', lei_988)
+        self.assertNotIn('Nabuco', lei_985)
+        self.assertNotIn('Viaduto', lei_988)
 
     def test_sha1_duplicatas_somente_nas_excecoes(self):
         allowed = {g['sha1'] for g in EXCECOES['grupos']}
@@ -155,11 +179,26 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
             {},
             msg=f'Novos grupos SHA-1 idênticos fora de duplicatas-excecoes.json: {unexpected}',
         )
-        # Toda exceção ainda deve existir como grupo real
+        generica = (
+            'Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo '
+            'estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte'
+        )
+        tipos = set()
         for group in EXCECOES['grupos']:
             with self.subTest(group['sha1'][:12]):
                 actual = sorted(groups.get(group['sha1'], []))
                 self.assertEqual(actual, sorted(group['arquivos']))
+                self.assertIn(group.get('tipo'), {
+                    'alias_catalogo',
+                    'pendencia_identidade',
+                    'mesmo_texto_fonte_com_ressalva',
+                })
+                self.assertTrue(group.get('justificativa'))
+                self.assertNotIn(generica, group['justificativa'])
+                tipos.add(group['tipo'])
+        self.assertIn('pendencia_identidade', tipos)
+        self.assertIn('alias_catalogo', tipos)
+        self.assertTrue((PROVAS / 'duplicatas-auditoria.md').is_file())
 
 
 if __name__ == '__main__':

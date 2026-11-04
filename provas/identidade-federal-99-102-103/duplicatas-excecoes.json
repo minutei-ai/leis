@@ -1,7 +1,13 @@
 {
   "gerado_em": "2026-11-04",
   "issue": 99,
-  "politica": "Exceções documentam pares/grupos com SHA-1 idêntico após as correções de identidade federal. Novos grupos fora desta lista falham no teste.",
+  "politica": "Cada grupo tem tipo/status e justificativa documental. alias_catalogo=mesma norma sob duas chaves. pendencia_identidade=texto atribuído errado (ementa ALMG diverge); NÃO resolvido. mesmo_texto_fonte_com_ressalva=fonte/ALMG também mostra mesmo texto/ementa; ressalva. Novos SHA-1 fora da lista falham no teste. Hash sem identidade não basta.",
+  "resumo": {
+    "total": 34,
+    "alias_catalogo": 13,
+    "pendencia_identidade": 12,
+    "mesmo_texto_fonte_com_ressalva": 9
+  },
   "grupos": [
     {
       "sha1": "6d2055549a0defedaafcddfa44c7acb6b03895fe",
@@ -9,7 +15,10 @@
         "estaduais/BA/br-ba-norma-112696.md",
         "estaduais/BA/br-ba-norma-42978.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 11.451 DE 24 DE MARÇO DE 2009",
+      "justificativa": "Mesma LEI Nº 11.451 DE 24 DE MARÇO DE 2009 sob dois IDs de catálogo BA (br-ba-norma-112696 / br-ba-norma-42978). Epígrafe idêntica; alias de catálogo, não troca de norma."
     },
     {
       "sha1": "db1a7ab36165f4ed048dcb41603b8bd523d1e41e",
@@ -17,7 +26,10 @@
         "estaduais/BA/br-ba-norma-126457.md",
         "estaduais/BA/br-ba-norma-33648.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 12.813 DE 21 DE MAIO DE 2013",
+      "justificativa": "Mesma LEI Nº 12.813 DE 21 DE MAIO DE 2013 sob dois IDs de catálogo BA (br-ba-norma-126457 / br-ba-norma-33648). Epígrafe idêntica; alias de catálogo, não troca de norma."
     },
     {
       "sha1": "246e3ee320a8aa1c5cf3cdb80260bfc6700c2da5",
@@ -25,7 +37,10 @@
         "estaduais/BA/br-ba-norma-127611.md",
         "estaduais/BA/br-ba-norma-45202.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 13.031 DE 20 DE MARÇO DE 2014",
+      "justificativa": "Mesma LEI Nº 13.031 DE 20 DE MARÇO DE 2014 sob dois IDs de catálogo BA (br-ba-norma-127611 / br-ba-norma-45202). Epígrafe idêntica; alias de catálogo, não troca de norma."
     },
     {
       "sha1": "205a3c05d190b79ebaaf376599b546d7d8884bbf",
@@ -33,7 +48,10 @@
         "estaduais/BA/br-ba-norma-135667.md",
         "estaduais/BA/br-ba-norma-144995.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 14.018 DE 29 DE OUTUBRO DE 2018",
+      "justificativa": "Mesma LEI Nº 14.018 DE 29 DE OUTUBRO DE 2018 sob dois IDs de catálogo BA (br-ba-norma-135667 / br-ba-norma-144995). Epígrafe idêntica; alias de catálogo, não troca de norma."
     },
     {
       "sha1": "8f9376f6c2c3dd50b6ca36ba7803427a5cdd53ac",
@@ -41,7 +59,10 @@
         "estaduais/GO/br-go-norma-107588.md",
         "estaduais/GO/br-go-norma-107589.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "Portaria Orçamentária nº 372/2023 - Economia",
+      "justificativa": "Mesma Portaria Orçamentária nº 372/2023 - Economia sob IDs GO br-go-norma-107588/br-go-norma-107589. Alias de catálogo."
     },
     {
       "sha1": "9f75f70ff0778816e270d1edee4d9b69f34377d5",
@@ -49,7 +70,14 @@
         "estaduais/MG/br-mg-decreto-1937-04-08-803.md",
         "estaduais/MG/br-mg-decreto-1937-04-08-804.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Decreto MG 804/1937 — 4.ª/5.ª escolas Presidente Soares/Manhumirim",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1937-04-08-803.md": "ALMG DEC/803/1937: CRIA UMA ESCOLA DISTRITAL NO MUNICÍPIO DE JEQUITINHONHA",
+        "estaduais/MG/br-mg-decreto-1937-04-08-804.md": "ALMG DEC/804/1937: CRIA 4.ª E 5.ª ESCOLAS … MANHUMIRIM"
+      },
+      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Decreto MG 804/1937 — 4.ª/5.ª escolas Presidente Soares/Manhumirim» aos dois caminhos. Corpo de 803 (Jequitinhonha) ausente; ambos os arquivos trazem Manhumirim. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
     },
     {
       "sha1": "373d9740100ea7fad848896072f09f3bdcb40ee3",
@@ -57,7 +85,14 @@
         "estaduais/MG/br-mg-decreto-1945-06-14-2159.md",
         "estaduais/MG/br-mg-decreto-1945-06-26-2160.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Decreto MG 2.159/1945-06-14 — Sete Lagoas",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1945-06-14-2159.md": "ALMG DEC/2159/1945: CRIA UM SEGUNDO GRUPO ESCOLAR NA CIDADE DE SETE LAGOAS",
+        "estaduais/MG/br-mg-decreto-1945-06-26-2160.md": "ALMG DEC/2160/1945: CRIA O SEGUNDO GRUPO ESCOLAR NA CIDADE DE POUSO ALEGRE"
+      },
+      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Decreto MG 2.159/1945-06-14 — Sete Lagoas» aos dois caminhos. Corpo de 2160 (Pouso Alegre) ausente; arquivo 2160 reproduz Sete Lagoas de 14/06. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
     },
     {
       "sha1": "0507cab60d41365a2bb07c5726e9278dd11ae362",
@@ -65,7 +100,14 @@
         "estaduais/MG/br-mg-decreto-1953-04-28-3996.md",
         "estaduais/MG/br-mg-decreto-1953-04-28-3997.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Lei nº 408, de 14 de setembro de 1949, decreta:",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1953-04-28-3996.md": "28/04/1953 TRANSFORMA EM GRUPO ESCOLAR AS ESCOLAS REUNIDAS PROFESSOR JOSÉ DONATO DA FONSECA DO QUADRO A DA CAPITAL.",
+        "estaduais/MG/br-mg-decreto-1953-04-28-3997.md": "28/04/1953 TRANSFORMA EM GRUPO ESCOLAR, AS ESCOLAS REUNIDAS PROFESSOR MAGALHÃES DRUMONT, DO QUADRO A DA CAPITAL."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='28/04/1953 TRANSFORMA EM GRUPO ESCOLAR AS ESCOLAS REUNIDAS PROFESSOR JOSÉ DONATO DA FONSECA DO QUADRO A DA CAPITAL.'; B='28/04/1953 TRANSFORMA EM GRUPO ESCOLAR, AS ESCOLAS REUNIDAS PROFESSOR MAGALHÃES DRUMONT, DO QUADRO A DA CAPITAL.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "796a78469d347e79369aa0f190dbebd490fc3958",
@@ -73,7 +115,14 @@
         "estaduais/MG/br-mg-decreto-1956-09-03-5082.md",
         "estaduais/MG/br-mg-decreto-1956-09-10-5085.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Lei n. 858, de 29 de dezembro de 1951, decreta:",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1956-09-03-5082.md": "03/09/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA.",
+        "estaduais/MG/br-mg-decreto-1956-09-10-5085.md": "10/09/1956 EXTINGUE FUNÇÃO ISOLADA."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='03/09/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA.'; B='10/09/1956 EXTINGUE FUNÇÃO ISOLADA.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "dbd81e0ec53f5d8991d85cfcc95a2364df67ccdb",
@@ -81,7 +130,14 @@
         "estaduais/MG/br-mg-decreto-1956-10-09-5120.md",
         "estaduais/MG/br-mg-decreto-1956-10-10-5121.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Decreto n. 3.689, de 31 de janeiro de 1952, uma função d",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1956-10-09-5120.md": "09/10/1956 EXTINGUE E TRANSFORMA FUNÇÕES DE EXTRANUMERÁRIOS MENSALISTAS.",
+        "estaduais/MG/br-mg-decreto-1956-10-10-5121.md": "10/10/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='09/10/1956 EXTINGUE E TRANSFORMA FUNÇÕES DE EXTRANUMERÁRIOS MENSALISTAS.'; B='10/10/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "558fba391a3d5e1375b31b27bbab07fe6ddcb4c5",
@@ -89,7 +145,10 @@
         "estaduais/MG/br-mg-decreto-1964-07-15-7720.md",
         "estaduais/MG/br-mg-decreto-1964-07-15-7721.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Lei n. 858, de 29 de dezembro de 1951,",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Lei n. 858, de 29 de dezembro de 1951,). ALMG ementa idêntica para ambos: '15/07/1964 FAZ LOTAÇÃO DE CARGO.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "aaf76ce8c2078566fe3b8953c1f2c2a534b8664e",
@@ -97,7 +156,10 @@
         "estaduais/MG/br-mg-decreto-1966-08-17-9983.md",
         "estaduais/MG/br-mg-decreto-1966-08-17-9985.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Lei n. 858, de 29 de dezembro de 1951, decreta:",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Lei n. 858, de 29 de dezembro de 1951, decreta:). ALMG ementa idêntica para ambos: '17/08/1966 FAZ LOTAÇÃO DE CARGO.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "bce3e55a6c216d9fc4aee9e6175f226f961c32d8",
@@ -105,7 +167,14 @@
         "estaduais/MG/br-mg-decreto-1970-04-29-12612.md",
         "estaduais/MG/br-mg-decreto-1970-05-27-12704.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Lei nº 858, de 29 de dezembro de 1951,",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1970-04-29-12612.md": "29/04/1970 FAZ LOTAÇÃO DE CARGO.",
+        "estaduais/MG/br-mg-decreto-1970-05-27-12704.md": "27/05/1970 FAZ LOTAÇÃO DE CARGO."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='29/04/1970 FAZ LOTAÇÃO DE CARGO.'; B='27/05/1970 FAZ LOTAÇÃO DE CARGO.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "e51abb9bc82e3778bbd0c5967186eb70791eb594",
@@ -113,7 +182,14 @@
         "estaduais/MG/br-mg-decreto-1975-12-23-17645.md",
         "estaduais/MG/br-mg-decreto-1976-01-16-17720.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Prorroga a disposição do servidor do DER|MG José Paulo Darowish, junto à Superintendência Nacional do Abastecimento do M",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1975-12-23-17645.md": "23/12/1975 PRORROGA A DISPOSIÇÃO DO SERVIDOR DO DER/MG JOSE PAULO DAROWISH, JUNTO A SUPERINTENDENCIA NACIONAL DO ABASTECIMENTO DO MINISTERIO DA AGRICULTURA.",
+        "estaduais/MG/br-mg-decreto-1976-01-16-17720.md": "16/01/1976 FAZ LOTAÇÃO DE CARGO."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='23/12/1975 PRORROGA A DISPOSIÇÃO DO SERVIDOR DO DER/MG JOSE PAULO DAROWISH, JUNTO A SUPERINTENDENCIA NACIONAL DO ABASTECIMENTO DO MINISTERIO DA AGRICULTURA.'; B='16/01/1976 FAZ LOTAÇÃO DE CARGO.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "a7f8900b7277410cff7d9ec1b7a5e767f35702e7",
@@ -121,7 +197,14 @@
         "estaduais/MG/br-mg-decreto-1977-08-16-18653.md",
         "estaduais/MG/br-mg-decreto-1977-09-06-18693.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Lei nº 5.378/69, de 03 de dezembro de 1969 e no pará",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1977-08-16-18653.md": "16/08/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL.",
+        "estaduais/MG/br-mg-decreto-1977-09-06-18693.md": "06/09/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='16/08/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL.'; B='06/09/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "e75079249b143732b5e77567ad1ba0e644471578",
@@ -129,7 +212,14 @@
         "estaduais/MG/br-mg-decreto-1982-09-16-22346.md",
         "estaduais/MG/br-mg-lei-2016-11-18-22346.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Lei MG 22.346/2016 — utilidade pública Limeira do Oeste",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1982-09-16-22346.md": "ALMG DEC/22346/1982: crédito suplementar FJP CR$ 63.417.500,00",
+        "estaduais/MG/br-mg-lei-2016-11-18-22346.md": "ALMG LEI/22346/2016: utilidade pública Limeira do Oeste"
+      },
+      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Lei MG 22.346/2016 — utilidade pública Limeira do Oeste» aos dois caminhos. Caminho decreto-1982 contém a Lei 2016; crédito 1982 pendente. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
     },
     {
       "sha1": "f5915b3d2f77f3147044235938e4ffe536dfbaf9",
@@ -137,7 +227,10 @@
         "estaduais/MG/br-mg-decreto-1994-08-05-35816.md",
         "estaduais/MG/br-mg-decreto-1994-08-05-35817.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e o Parecer n",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e o Parecer n). ALMG ementa idêntica para ambos: '05/08/1994 CRIA UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "2cb6e64052b848d746bab72f88ee7d7c2f33c267",
@@ -145,7 +238,10 @@
         "estaduais/MG/br-mg-decreto-1994-10-05-36127.md",
         "estaduais/MG/br-mg-decreto-1994-10-05-36128.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1994 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "4e8697f1a7751c69eeccc1dbf2df1cf030c1c40d",
@@ -153,7 +249,14 @@
         "estaduais/MG/br-mg-decreto-1994-12-26-36566.md",
         "estaduais/MG/br-mg-decreto-1994-12-27-36574.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Lei nº 11.356, de 28 de dezembro de 1993 e no artigo",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1994-12-26-36566.md": "26/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG.",
+        "estaduais/MG/br-mg-decreto-1994-12-27-36574.md": "27/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='26/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG.'; B='27/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "dabb4415036294bff3350d6f5ba4ba324591321b",
@@ -161,7 +264,10 @@
         "estaduais/MG/br-mg-decreto-1995-10-05-37343.md",
         "estaduais/MG/br-mg-decreto-1995-10-05-37344.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "253e02ce51f2a80cc759efa8431796618c8c36dc",
@@ -169,7 +275,10 @@
         "estaduais/MG/br-mg-decreto-1995-10-05-37349.md",
         "estaduais/MG/br-mg-decreto-1995-10-05-37351.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "0bae94564556496182db2d1725ea08c351256a7d",
@@ -177,7 +286,10 @@
         "estaduais/MG/br-mg-decreto-1995-10-05-37352.md",
         "estaduais/MG/br-mg-decreto-1995-10-05-37353.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "1ed0557eeb09f7d6c00f8c028c9308152635693a",
@@ -185,7 +297,10 @@
         "estaduais/MG/br-mg-decreto-1995-10-05-37365.md",
         "estaduais/MG/br-mg-decreto-1995-10-05-37367.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "5e13a58f052b584f997ded5d9932a4d9369c9e17",
@@ -193,7 +308,10 @@
         "estaduais/MG/br-mg-decreto-1995-10-05-37373.md",
         "estaduais/MG/br-mg-decreto-1995-10-05-37374.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
+      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
     },
     {
       "sha1": "7c71d7325f77e85a5f566da13b588b7d45ba7ff4",
@@ -201,7 +319,14 @@
         "estaduais/MG/br-mg-decreto-2000-03-08-40951.md",
         "estaduais/MG/br-mg-decreto-2000-03-21-40955.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Corpo atual: Lei nº 13.471, de 18 de janeiro de 2000,",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-2000-03-08-40951.md": "08/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 200.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DA FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE - FEAM.",
+        "estaduais/MG/br-mg-decreto-2000-03-21-40955.md": "21/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 327.713,81 A DOTAÇÕES ORÇAMENTÁRIAS DO FUNDO PARA A INFÂNCIA E A ADOLESCÊNCIA - FIA."
+      },
+      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='08/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 200.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DA FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE - FEAM.'; B='21/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 327.713,81 A DOTAÇÕES ORÇAMENTÁRIAS DO FUNDO PARA A INFÂNCIA E A ADOLESCÊNCIA - FIA.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
     },
     {
       "sha1": "f162cfda1214d8f780039494c8d8ea23873b3407",
@@ -209,7 +334,14 @@
         "estaduais/MG/br-mg-lei-1991-01-22-10454.md",
         "estaduais/MG/br-mg-lei-1991-11-22-10523.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "pendencia_identidade",
+      "status": "pendente_recoleta",
+      "identidade_do_corpo": "Lei MG 10.454/1991-01-22 — doação Bias Fortes",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-lei-1991-01-22-10454.md": "ALMG LEI/10454/1991: doação Bias Fortes",
+        "estaduais/MG/br-mg-lei-1991-11-22-10523.md": "ALMG LEI/10523/1991: permuta Sapucaí-Mirim"
+      },
+      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Lei MG 10.454/1991-01-22 — doação Bias Fortes» aos dois caminhos. Arquivo 10523 carrega corpo de 10454; permuta Sapucaí-Mirim pendente. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
     },
     {
       "sha1": "e2aeadfc2d138f7870403647a7d382f32c9a171a",
@@ -217,7 +349,10 @@
         "estaduais/MS/br-ms-conleg-govato-40675c6be194c96f042588230075d695.md",
         "estaduais/MS/br-ms-conleg-govato-cfb560b2f763c12c042588230076ed49.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 5.851, DE 12 DE ABRIL DE 2022.",
+      "justificativa": "Mesma LEI Nº 5.851, DE 12 DE ABRIL DE 2022. sob dois UUIDs Conleg/MS. Alias de catálogo."
     },
     {
       "sha1": "667d7a61513d8bcdb0247a6b1374704a429b83d5",
@@ -225,7 +360,10 @@
         "estaduais/MS/br-ms-conleg-govato-9917eeae5147c2eb0425834d003cdfbf.md",
         "estaduais/MS/br-ms-conleg-govato-a6cc860829d6f3670425834d003d584d.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018.",
+      "justificativa": "Mesma LEI Nº 5.269, DE 20 DE NOVEMBRO DE 2018. sob dois UUIDs Conleg/MS. Alias de catálogo."
     },
     {
       "sha1": "bf0ed24af787108cd074a67fd32db33af957cf29",
@@ -233,7 +371,10 @@
         "estaduais/RJ/br-rj-contlei-nsf-227bfa4990d7458503258a3f0005445b.md",
         "estaduais/RJ/br-rj-contlei-nsf-976b6f531939a8de03258a3f00054494.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br>",
+      "justificativa": "Mesma LEI Nº 10.122 DE 02 DE OUTUBRO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
     },
     {
       "sha1": "6f4e94a75d66fe2b7122fadf51f7f7a7c82413e7",
@@ -241,7 +382,10 @@
         "estaduais/RJ/br-rj-contlei-nsf-32ecec8da0373f9603258bf5006ca7d2.md",
         "estaduais/RJ/br-rj-contlei-nsf-7f358953f8357f6103258bf5006ba494.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br>",
+      "justificativa": "Mesma LEI Nº 10.604 DE 04 DE DEZEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
     },
     {
       "sha1": "6eb4bd07f35dfecec65b8f89fd845481dbc9b7f7",
@@ -249,7 +393,10 @@
         "estaduais/RJ/br-rj-contlei-nsf-3c6da8382899725c03258868006441a3.md",
         "estaduais/RJ/br-rj-contlei-nsf-cd7714b690b1698f03258868006137a2.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br>",
+      "justificativa": "Mesma LEI Nº 9718, DE 15 DE JUNHO DE 2022.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
     },
     {
       "sha1": "0fec250ed07860a16427d0a2a51896debf50db20",
@@ -257,7 +404,10 @@
         "estaduais/RJ/br-rj-contlei-nsf-4f3dd9688269d2d003258ba9006c5ee0.md",
         "estaduais/RJ/br-rj-contlei-nsf-50ad23f80f24c78b03258ba9006c5ef0.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br>",
+      "justificativa": "Mesma LEI Nº 10.520 DE 26 DE SETEMBRO DE 2024.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
     },
     {
       "sha1": "63eab22926bcee1fd21ce75f82839a0c7d972ce7",
@@ -265,7 +415,10 @@
         "estaduais/RJ/br-rj-contlei-nsf-589238c5ed89434a03258a150069a96a.md",
         "estaduais/RJ/br-rj-contlei-nsf-c3fbbad04e7b3c8203258a150062ccec.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br>",
+      "justificativa": "Mesma LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br> sob dois hashes NSF/RJ. Alias de captura/catálogo."
     },
     {
       "sha1": "5d34648f3341f76ba473b8a07727bde139b59006",
@@ -273,7 +426,10 @@
         "municipais/5218805/br-municipal-5218805-norma-114481.md",
         "municipais/5218805/br-municipal-5218805-norma-114499.md"
       ],
-      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+      "tipo": "alias_catalogo",
+      "status": "justificado",
+      "identidade_do_corpo": "LEI Nº 7.635, DE 14 DE ABRIL DE 2025.",
+      "justificativa": "Mesma LEI Nº 7.635, DE 14 DE ABRIL DE 2025. (Rio Verde/GO IBGE 5218805) sob dois IDs municipais. Alias de catálogo."
     }
   ]
 }

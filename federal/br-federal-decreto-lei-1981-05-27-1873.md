@@ -67,7 +67,7 @@ Fac-símile oficial (Planalto): `provas/identidade-federal-99-102-103/anexos/br-
 
 Fac-símile oficial (Câmara): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-camara.png` (PDF https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoi-pe.pdf).
 
-Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça, o início do Anexo II. O numeral romano do item (XXIV) foi conferido no fac-símile; OCR automático alternou XXIV/XXII.
+Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça, o início do Anexo II. O numeral romano do item (**XXIV**) foi conferido visualmente nos fac-símiles da Câmara e do Planalto.
 
 ## ANEXO II
 
@@ -78,25 +78,31 @@ Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça,
 
 Grupo: OUTRAS ATIVIDADES DE NÍVEL SUPERIOR (NS-900 ou LT-NS-900)
 
-Jornada de 4 horas — referências de vencimento ou salário por classe (compartilhadas pelas categorias a–c e Médico Veterinário 4 h): CLASSE ESPECIAL — NS-16 a 19; CLASSE C — NS-12 a 15; CLASSE B — NS-7 a 11; CLASSE A — NS-4 a … (limite superior parcialmente ilegível no fac-símile; conferir PNG).
+Colação visual do fac-símile: as referências de vencimento/salário por classe formam uma célula compartilhada pelas categorias da respectiva jornada (não uma linha por categoria).
 
-| CATEGORIAS FUNCIONAIS | CÓDIGO |
-| --- | --- |
-| a) Médico | NS-901 ou LT-NS-901 |
-| b) Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 |
-| c) Médico do Trabalho | NS-903 ou LT-NS-903 |
-| Médico Veterinário (jornada de 4 horas) | NS-910 ou LT-NS-910 |
+### Jornada de 4 horas
 
-Jornada de 6 horas — referências: CLASSE ESPECIAL — NS-22 a 25; CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14.
+| CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
+| --- | --- | --- |
+| a) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-16 a 19; CLASSE C — NS-12 a 15; CLASSE B — NS-7 a 11; CLASSE A — NS-4 a 6 |
+| b) Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(mesmas referências da jornada de 4 horas)* |
+| c) Médico do Trabalho | NS-903 ou LT-NS-903 | *(mesmas referências da jornada de 4 horas)* |
+| Médico Veterinário (jornada de 4 horas) | NS-910 ou LT-NS-910 | *(mesmas referências da jornada de 4 horas)* |
 
-| CATEGORIAS FUNCIONAIS | CÓDIGO |
-| --- | --- |
-| d) Médico | NS-901 ou LT-NS-901 |
-| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 |
-| Médico do Trabalho | NS-903 ou LT-NS-903 |
-| Médico Veterinário (jornada de 6 horas) | NS-910 ou LT-NS-910 |
-| f) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 |
+### Jornada de 6 horas
+
+| CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
+| --- | --- | --- |
+| d) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-22 a 25; CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14 |
+| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(mesmas referências da jornada de 6 horas)* |
+| Médico do Trabalho | NS-903 ou LT-NS-903 | *(mesmas referências da jornada de 6 horas)* |
+| Médico Veterinário (jornada de 6 horas) | NS-910 ou LT-NS-910 | *(mesmas referências da jornada de 6 horas)* |
+| f) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 | *(mesmas referências da jornada de 6 horas)* |
 
 Fac-símile oficial (Câmara): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-camara.png` (PDF https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoii-pe.pdf).
 
-Nota de edição: o Decreto-Lei nº 1.874, de 8 de julho de 1981, reposiciona servidores mantendo a estrutura das categorias constantes deste Anexo II; alterações posteriores (inclusive Lei nº 9.527/1997 citada na Câmara) não substituem silenciosamente esta edição de 27/5/1981. A peça da Câmara é o recorte oficial da alteração ao Anexo IV do Decreto-Lei nº 1.820/1980 relativo a estas categorias; não é o Anexo IV completo daquele diploma.
+Recorte da célula CLASSE A (jornada 4 h) no fac-símile da Câmara: `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-camara-crop.png`.
+
+A mesma célula no PDF do Planalto `andel1873-81.pdf` (início do Anexo II na mesma peça do Anexo I): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-classe-a-4h-planalto-crop.png`. Em ambas as publicações oficiais a leitura visual é **CLASSE A — NS-4 a 6**.
+
+Nota de edição: o Decreto-Lei nº 1.874, de 8 de julho de 1981, reposiciona servidores mantendo a estrutura das categorias constantes deste Anexo II; alterações posteriores (inclusive Lei nº 9.527/1997 citada na Câmara) não substituem silenciosamente esta edição de 27/5/1981. A peça da Câmara é o recorte oficial da alteração ao Anexo IV do Decreto-Lei nº 1.820/1980 relativo a estas categorias; não é o Anexo IV completo daquele diploma. A letra "e)" não aparece no fac-símile entre o Médico Veterinário de 6 h e o Odontólogo "f)".
